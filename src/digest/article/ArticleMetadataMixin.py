@@ -25,9 +25,16 @@ class ArticleMetadataMixin:
 
     @classmethod
     def get_metadata_d_list(cls, force=True):
-        if not os.path.exists(cls.LOCAL_METADATA_PATH) or force:
+        www = WWW(cls.URL_METADATA)
+        if force:
+            if os.path.exists(cls.LOCAL_METADATA_PATH):
+                os.remove(cls.LOCAL_METADATA_PATH)
+            if os.path.exists(www.temp_local_path):
+                os.remove(www.temp_local_path)
+
+        if not os.path.exists(cls.LOCAL_METADATA_PATH):
             os.makedirs("data", exist_ok=True)
-            content = WWW(cls.URL_METADATA).read()
+            content = www.read()
             File(cls.LOCAL_METADATA_PATH).write(content)
         d_list = TSVFile(cls.LOCAL_METADATA_PATH).read()
         en_d_list = [item for item in d_list if item.get("lang") == "en"]
