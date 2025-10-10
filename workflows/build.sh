@@ -1,4 +1,4 @@
-python workflows/build.py
+python3 workflows/build.py
 git add README.md
 git commit -m "[build] Updated README.md"
 
