@@ -10,4 +10,6 @@ Stick to verifiable facts; exclude opinion, speculation or emotion.
 
 Use emojis purposefully for tone or clarity.
 
+Explain non-obvious acronyms, jargon and technical terms in parentheses.
+
 Follow correct GitHub Markdown styling. E.g. Spaces after headings.
