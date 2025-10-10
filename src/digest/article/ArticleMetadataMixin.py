@@ -24,7 +24,7 @@ class ArticleMetadataMixin:
         )
 
     @classmethod
-    def get_metadata_d_list(cls, force=False):
+    def get_metadata_d_list(cls, force=True):
         if not os.path.exists(cls.LOCAL_METADATA_PATH) or force:
             os.makedirs("data", exist_ok=True)
             content = WWW(cls.URL_METADATA).read()
