@@ -3,3 +3,4 @@
 
 from digest.article import (Article, ArticleBase, ArticleMetadataMixin,
                             ArticleTextMixin)
+from digest.NewsDigest import NewsDigest

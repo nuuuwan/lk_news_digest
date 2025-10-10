@@ -1,10 +1,14 @@
 import os
 from functools import cached_property
 
-from utils import WWW, File
+from utils import WWW, File, Log
+
+log = Log("ArticleTextMixin")
 
 
 class ArticleTextMixin:
+    DIR_DATA_ARTICLES = os.path.join("data", "articles")
+
     @property
     def text_url(self) -> str:
         return (
@@ -18,16 +22,19 @@ class ArticleTextMixin:
 
     @property
     def text_path(self) -> str:
-        return os.path.join("data", f"article-{self.doc_id}.txt")
+        return os.path.join(
+            self.DIR_DATA_ARTICLES, f"article-{self.doc_id}.txt"
+        )
 
     @cached_property
     def text(self) -> str:
         text_file = File(self.text_path)
         if not text_file.exists:
-            os.makedirs("data", exist_ok=True)
+            os.makedirs(self.DIR_DATA_ARTICLES, exist_ok=True)
             www = WWW(self.text_url)
             content = www.read()
             text_file.write(content)
+            log.info(f"Wrote {text_file}")
         else:
             content = text_file.read()
         return content

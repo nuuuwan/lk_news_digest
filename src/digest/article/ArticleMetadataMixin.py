@@ -14,6 +14,7 @@ class ArticleMetadataMixin:
     @classmethod
     def from_dict(cls, d):
         return cls(
+            newspaper_id=d["newspaper_id"],
             doc_id=d["doc_id"],
             date_str=d["date_str"],
             description=d["description"],

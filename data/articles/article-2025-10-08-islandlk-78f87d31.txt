@@ -1,0 +1,15 @@
+Slack expands platform to power secure, context-aware AI apps and agents built on conversational data
+
+Slack, a Salesforce company, announced the next evolution of its platform, enabling developers and partners to build secure, context-aware AI apps and agents powered by customer-owned conversational data. New capabilities — a real-time search (RTS) API and Model Context Protocol (MCP) server — provide flexible, permission-aware access to the latest messages, files, and channels in Slack so AI can act with precise context while meeting enterprise governance and control requirements.
+
+Thousands of companies are racing to deploy agents, but real usefulness depends on context. Slack unlocks the richest context in the enterprise — conversations — so AI can move beyond generic responses to deliver accurate, user-specific assistance directly in the flow of work. Leading innovators including Anthropic, Google, Perplexity, Writer, Dropbox, Notion, Cognition Labs, Vercel, and Cursor are already building on these capabilities, with new AI apps and agents available in the Slack Marketplace.
+
+“The future of work is undeniably agentic, and the success of AI depends on its seamless integration into human workflows,” said Denise Dresser, CEO, Slack. “Our latest Slack platform innovations create the secure, data-rich environment necessary for AI agents to become trusted companions so work is more connected, intelligent, and productive than ever.”
+
+Omega Line triumphs at CPM Sri Lanka Management Leadership Excellence Awards 2025
+
+The Colombo Academy of Hospitality Management celebrates World Tourism Day 2025, empowering youth for sustainable tourism
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

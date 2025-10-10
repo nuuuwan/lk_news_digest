@@ -1,0 +1,81 @@
+Two AI Oracles, two contradictory prophecies
+
+The Colombo Stock Exchange (CSE) operates in a world where information travels at the speed of light, where fortunes are made and lost in milliseconds, and where the traditional gatekeepers of financial integrity—regulators, auditors, and human oversight—struggle to keep pace. Now, add artificial intelligence (AI) to this volatile mix, and we face an unprecedented threat that demands our immediate attention.
+
+A recent academic article, by Professor Tom C.W. Lin from Temple University’s law school, presents a sobering analysis of how AI-driven misinformation and market manipulation pose existential risks to financial markets, globally.
+
+On a Monday morning in May 2023, AI-generated images showed an explosion near the Pentagon in Washington, D.C. Within nine minutes, before authorities could debunk the fake images, the US stock market lost $500 billion in value. Nine minutes. Half a trillion dollars. Based on completely fabricated content created by artificial intelligence.
+
+If this can happen in the highly sophisticated, heavily regulated American market, with billions spent on surveillance and enforcement, what chance does the CSE have?
+
+The reality is stark: everything that can be manipulated by AI will be manipulated by AI. The technology is accessible, increasingly cheap, and advancing at exponential rates. Meanwhile, our regulatory frameworks, designed for an analog age of human traders and paper trails, are woefully inadequate for this new reality.
+
+When Artificial Intelligence Can’t Even Agree with Itself, Why Should You Trust it with Your Money?
+
+I just conducted an experiment that should terrify every investor in the Colombo Stock Exchange. I asked two different AI systems to analyze the same market and recommend stocks. The results weren’t just different; they were diametrically opposed. And that contradiction reveals something far more dangerous than any single market manipulation scheme. Let me show you exactly what happened.
+
+AI Assistant #1’s Stock Picks (Based on a descriptive prompt; fundamentals and technical) – See Table 1
+
+AI Assistant #2’s Stock Picks (Based on a prompt basically on technical analysis) – See Table 2
+
+Commercial Bank appears in both lists—but AI #1 says buy at Rs. 193.75 for conservative long-term holding, while AI #2 says wait for a breakout above Rs. 198 for aggressive momentum trading. One AI warns against speculative momentum plays with high RSI readings. The other AI actively recommends buying stocks on breakouts—the very definition of momentum trading.
+
+They’re using the same market data. They’re both “intelligent” systems. Yet they’ve reached completely opposite investment philosophies. But here’s the twist that should concern Sri Lankan investors even more: the same AI technology that created those deepfakes is now being used to generate the stock recommendations you’re reading, including the two contradictory analyses above.
+
+Let’s ground this in brutal reality. Professor Lin reveals that AI-driven trading algorithms now account for over 60% of US equity transactions. These systems can execute thousands of trades per second, engaging in “spoofing” and “pinging” strategies—placing and cancelling orders in milliseconds to manipulate prices.
+
+Meanwhile, AI recommendation engines are proliferating across investment platforms, each trained on different data sets, using different algorithms, reaching different conclusions. Some tell you to buy. Others tell you to sell. Same stock. Same moment. Contradictory advice. Which one is right? Here’s the terrifying answer: potentially neither.
+
+: The contradiction between my two AI analyses isn’t a bug, it’s a feature of how these systems work. AI #1 was prompted on both fundamentals and technical tools on market manipulation risks and behavioural finance showing that retail investors destroy wealth through active trading. AI #2 was prompted just on technical analysis patterns and momentum signals. Both are “correct” within their exploring parameters and both are potentially dangerous if followed blindly. Now multiply this by thousands of AI systems making millions of recommendations daily, and you begin to understand the chaos.
+
+Layer 2: AI Can Manipulate Markets Faster Than Humans Can Think
+
+: Consider the stocks in AI #2’s recommendation list. Several show “no recent quote found” meaning there’s insufficient liquidity for reliable trading. Yet these appear on a recommendation table alongside liquid stocks.
+
+An AI system doesn’t care about liquidity constraints the way a human analyst should. It sees patterns in historical data and extrapolates—often disastrously. High-frequency trading algorithms can exploit these gaps, creating fake liquidity that disappears the moment retail investors try to trade. The CSE’s relatively small size means this problem magnifies exponentially. A coordinated AI-driven manipulation of a mid-cap stock could create cascading failures across the entire index.
+
+: Sri Lanka’s strategic location and economic vulnerabilities make us an attractive target for economic warfare disguised as market manipulation. Nation-states like Russia, China, and Iran have already employed AI-driven disinformation campaigns, as documented in recent intelligence reports.
+
+The “dual use” nature of AI means the same technology powering your stock recommendations could be weaponised to destabilise our markets. And because these attacks occur through global networks at algorithmic speeds, attribution proves nearly impossible even when damage is obvious.
+
+Professor Lin introduces two concepts that explain why this gets worse over time:
+
+As AI-generated misinformation proliferates, liars benefit because their denials become more believable. “That video of our CEO announcing losses? Obviously a deepfake.” Even when it’s real.
+
+Legitimate companies must spend increasing resources proving authenticity—audits, verification systems, blockchain certificates. Honest actors bear costs that dishonest actors avoid.
+
+This erosion of trust doesn’t just create volatility. It fundamentally undermines the information infrastructure that allows markets to function.
+
+Online speculation about a hypothetical bank run, amplified by social media, helped trigger an actual bank run on America’s 16th-largest bank. AI-generated misinformation could replicate this scenario against any Sri Lankan financial institution tomorrow, regardless of underlying soundness. Both my AI analyses recommend Commercial Bank, citing strong fundamentals. But fundamentals become irrelevant when an AI-generated deepfake of the CEO discussing liquidity problems goes viral on WhatsApp before anyone can debunk it.
+
+1. Recognise that all AI recommendations, including this analysis, are probabilistic guesses. Neither AI system “knows” what Commercial Bank will do. Their pattern-matching machines make educated guesses based on historical correlations that may no longer hold in an AI-dominated market.
+
+2. Embrace radical skepticism toward technical indicators. AI #2’s recommendation table shows precise support/resistance levels and breakout triggers. But when algorithms can place and cancel thousands of orders per millisecond, these levels become meaningless. That Rs. 575 “breakout” on LOLC? An AI system could blast through it in seconds if programmed to do so.
+
+3. Default to passive long-term strategies. Warren Buffett’s advice becomes even more relevant. low-cost index funds held for extended periods. This inherently protects against manipulation of individual stocks and reduces vulnerability to AI-induced volatility. The data overwhelmingly shows that active trading by retail investors destroys wealth—they buy high and sell low, reacting to noise rather than fundamentals. In an AI-driven market, this tendency becomes catastrophic.
+
+4. Demand transparency and human accountability. If your broker uses AI for recommendations, demand to know: What data trained the system? How often are recommendations wrong? Who takes responsibility when AI advice loses money?
+
+Most importantly: Always verify through multiple independent sources before trading.
+
+The Securities and Exchange Commission faces an impossible task: Regulating AI systems that evolve faster than rules can be written. But within existing authority, they can.
+
+: Any listed company using AI for trading must disclose it publicly, including safeguards against manipulation.
+
+: Require financial institutions to simulate AI-driven bank runs, flash crashes, and coordinated attacks.
+
+: The SEC using outdated tools to oversee AI-driven markets is like bringing typewriters to combat machine guns.
+
+The contradiction between my two AI analyses reveals something profound: we’ve created systems we don’t fully understand, deployed them in markets that govern our collective prosperity, and hoped for the best. The intelligence behind AI may be artificial, but its capacity for damage is very real. We’ve been warned.
+
+For investors contemplating entry into any CSE stock based on AI recommendations, whether it’s the conservative approach of AI #1 or the aggressive technical triggers of AI #2, should be aware that:
+
+You’re not just trading against other humans anymore. You’re competing against algorithms that can process information, execute trades, and manipulate markets at speeds beyond human comprehension. And those algorithms can’t even agree with each other.
+
+The playing field isn’t just uneven, it’s fundamentally broken. Adapt your strategy accordingly, or risk collateral damage in a technological revolution that shows no signs of slowing.
+
+(The writer, a senior Chartered Accountant and professional banker, is Professor at SLIIT, Malabe. The views and opinions expressed in this article are personal.)
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

@@ -3,6 +3,7 @@ from dataclasses import dataclass
 
 @dataclass
 class ArticleBase:
+    newspaper_id: str
     doc_id: str
     date_str: str
     description: str

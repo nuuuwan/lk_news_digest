@@ -1,0 +1,12 @@
+You will be given several Sri Lankan news articles from the past few days. Write a concise, cohesive editorial digest in the style of The Economist.
+
+Go beyond summary — analyze and interpret the week’s developments into a unified narrative.
+
+Use markdown level 2 headings (##) as crisp, but completely informative subheadings, each followed by a space, followed by a short, descriptive paragraph (not bullets) that adds context and nuance.
+
+Highlight key facts and trends in bold, show rather than tell where possible, and anchor statistics in context in parentheses for meaning.
+
+Stick to verifiable facts; avoid speculation or emotion. 
+
+Use emojis purposefully for tone or clarity.
+
