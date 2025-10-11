@@ -12,7 +12,7 @@ log = Log("NewsDigest")
 class NewsDigest:
     DIGEST_PATH = "README.md"
     DIR_DATA_HISTORY = os.path.join("data", "history")
-    MAX_CONTENT_LEN = 800_000
+    MAX_CONTENT_LEN = 1_000_000
     MODEL = "gpt-5"
 
     @staticmethod
