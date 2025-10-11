@@ -41,6 +41,7 @@ class NewsDigest:
 
     @property
     def lines_digest(self) -> list[str]:
+        log.info(f"Generating digest with {self.MODEL}...")
         client = OpenAI()
         response = client.responses.create(
             model=self.MODEL,
@@ -56,8 +57,9 @@ class NewsDigest:
                 },
             ],
         )
-
-        return [response.output_text, "", "---", ""]
+        digest = response.output_text
+        log.info(f"Generated digest ({len(digest):,}B).")
+        return [digest, "", "---", ""]
 
     @property
     def lines_used_articles(self) -> list[str]:
@@ -87,7 +89,7 @@ class NewsDigest:
     @property
     def lines_model_details(self) -> list[str]:
         return [
-            "## Model Prompt",
+            f"## Model Prompt (for {self.MODEL})",
             "",
             "```",
             self.system_prompt,
