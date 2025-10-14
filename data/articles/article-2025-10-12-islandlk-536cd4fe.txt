@@ -1,0 +1,41 @@
+Ceylon Agro Food Technologies: Cultivating solutions for Sri Lanka’s agri-crisis
+
+At a facility in Hokandara, a powerful vision for Sri Lanka’s agricultural future is taking shape. Here, veteran engineer – businessman Susantha Gunawardene presides over a team of energetic young mechatronics – software engineers and scientists at Ceylon Agro Food Technologies (CAFT). They are developing tools to solve a crisis crippling the nation’s most vital crops: a severe labour shortage and dwindling productivity.
+
+The scene is a compelling blend of experience and innovation. Drones used for precision spraying on tea estates are being calibrated next to mechanized coconut climbers and automated paddy seeders. This is the frontline of a quiet revolution aimed at securing the future of Sri Lanka’s tea, coconut, and paddy sectors.
+
+“I set up this company in 2020 to address the two critical issues facing our agriculture: the lack of labour and the lack of productivity,” explains Gunawardene. He paints a stark picture of a generational shift. The younger generation from estate areas is increasingly opting for less physically demanding jobs in cities, leaving behind an aging workforce.
+
+This exodus has dire consequences. In the tea sector, industry sources suggest some Nuwara Eliya estates have only two workers for every ten needed.
+
+Autonomous foliar spraying (fertilizer) under the high shade canopy and above the tea canopy
+
+“About 15-20% of green leaf isn’t plucked on time,” Gunawardene notes. This delay harms the quality of Ceylon Tea and could reduce export value. Similarly, a shortage of skilled climbers means coconuts go unharvested and pest control, like tackling the white fly menace, is neglected. Paddy cultivation faces a similar challenge, with younger generations hesitant to take up traditional farming.
+
+CAFT is tackling these challenges head-on with targeted, home-grown technology. The company’s young, passionate team sees this not just as a business, but a national imperative. “We believe that for major crops like paddy, tea, and coconut, there is no way forward without deploying automated methods,” the team stated collectively. “The nation must facilitate food security and increase yields to ensure economic stability,” they said.
+
+Tea Cultivation: CAFT uses drones for the foliar application of fertilizer. “Manually, it takes two workers five to six hours to spray one hectare. With our drones, we cover the same area in just 30 minutes,” says Shashimal Mudalige, Head of Commercial Business Operations.
+
+Manula Pramuditha , Tea Automation Engineer said, “Our tea estates especially in the up-country areas have shade trees to maintain a conducive climate for tea. Flying a drone amidst these shade trees and in the mountainous terrain is a challenge. We need to apply foliar spray at the level of the tea canopy. Since we cannot move behind the drone, we had to develop an autonomous drone that will fly itself”.
+
+The team is also fine-tuning a mechanical tea harvester, poised for commercial use next year.
+
+Paddy Farming: Instead of manual broadcasting, CAFT employs automated drone-based seeding. Drones deposit patented water-soluble capsules containing paddy seeds directly into the soil in a uniform pattern. This method not only facilitates mechanical weeding but has shown the potential to increase productivity by 30-40% “said Dulanji Karunaratna” Manager – Agriculturist.
+
+Coconut Production: “Coconut tree climbing needs skill and carries a risk” says Robotics Engineer Thisaru Guruge. This has resulted in a shortage of tree climbers, therefore CAFT is developing a patented robotic solution. A ground-operated machine with a robotic arm can safely access the tree crown to harvest nuts, pollinate, apply pesticides, and perform essential cleaning, boosting tree health and yield.
+
+A major milestone for CAFT was its 2023 joint venture with Elpitiya Plantations PLC, which is part of Aitken Spence. Elpitiya acquired a 50% stake, providing powerful synergy. “It’s great to have a partner who is also a customer,” says Gunawardene.
+
+CAFT is currently conducting extensive R&D trials, including drone spraying and harvesting, on an Elpitiya estate in Pussallawa. Using remote sensing technology (NDVI) to monitor crop health and they are meticulously comparing drone-managed fields with manually managed ones. “We have to prove the case that these technologies are financially beneficial and sustainable,” Gunawardene asserts.
+
+This partnership provides a real-world testing ground and a direct path to commercialization. With a current fleet of 11 drones for tea and paddy, CAFT plans to add more than 20 drones to the operation by next year, marking its transition from an R&D firm to a fully commercialized agro-tech service provider.
+
+Driven by the ingenuity and enthusiasm of its young talent, Ceylon Agro Food Technologies is not just building machines; it’s cultivating a sustainable and prosperous future for Sri Lankan agriculture.Please log on to www.agrofoodtech.lk for more information. The company can be reached via its hotline: 077 688 6607.
+
+WindForce acquires 51 percent stake in Safe Power International to develop 10 MW wind power project
+
+No-IMF path would have been ‘twice as painful’ for Sri Lanka, says Dr. Ahluwalia
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

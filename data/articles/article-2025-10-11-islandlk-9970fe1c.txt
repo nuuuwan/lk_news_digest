@@ -1,0 +1,49 @@
+Environmental toxicants contribute to the alarming increase in the  frequency of Parkinson’s Disease and dementia
+
+Since my retirement after working as a neurologist in the USA for over five decades, I have been spending a significant portion of time in Sri Lanka over the past few years.
+
+A casual observation, without detailed research, is that there seems to be a significant increase in Parkinson’s Disease (PD) and dementia among the urban population, where air pollution is the highest. Such increase serves to confirm recent international studies that have indicated that the incidence of the frequency of these diseases is increasing worldwide at an alarming rate.
+
+In Asia, both China and India have the highest incidence of PD and it is estimated that by 2050, PD will become a public health issue. Many of these studies conclude that the primary factor responsible for this increase is the heightened exposure to toxicants in the environment.
+
+PD is a neurodegenerative disease that is due to loss of dopaminergic neurons in an area of the brain called the substantia nigra, responsible for using dopamine as a neurotransmitter. Dopamine not only acts on the areas of the brain which produce feelings of pleasure, stimulation and satisfaction, it also plays a role in controlling memory mood, sleep, learning, movement and other bodily functions. The damage to this subset of dopaminergic neurons is due to accumulation of the protein alpha synuclein (Lewy bodies) that damages the neurons that stops the dopamine, contributing to the onset of PD.
+
+Symptoms of PD related to motor functioning include a resting tremor, paucity of movement, limb stiffness and gait and balance problems. However, there are additional non-motor symptoms that include dementia, autonomic nervous system dysfunction such as blood pressure control. Although there are therapies to lessen the severity of motor symptoms, this disease runs a progressive course.
+
+There are many factors that cause of PD and about two percent of all cases is due to specific genetic mutations. Some of the genetic abnormalities that have been identified are cases where they are inherited as autosomal dominant diseases (SCNA, LRKK2, VPS35 genes are implicated). Others are inherited as autosomal recessive conditions (Parkin, PINK1, Dj1, ATP13A2 genes are implicated). Interestingly, in about 20% of PD patients, mutations in one allele of the glucocerebrosidase gene (GBA gene) is a risk factor.
+
+PD is currently is the fastest growing neurological disease, worldwide. However, this increase can neither be explained by our improved ability to diagnose PD nor can it be attributed to an increasing life span. Furthermore, the increase of PD is unlikely to be due to increased frequency of gene mutations in relevant genes.
+
+A colleague at the Johns Hopkins School of Medicine, Dr Ray Dorsey, published several papers including a book implicating environmental factors as the primary cause for this increasing frequency of PD. Dr. Dorsey concluded that the interplay between genetics with environmental factors is the most likely cause for this increased incidence. The environmental factors he has mentioned include airborne pollution, herbicides and pesticides (paraquat, DDT, agent orange), solvents (trichloroethylene) and heavy metals (manganese).
+
+Manganese, a transition metal, is essential for steel production, the raw material for which is mined in countries such as Australia and South Africa. It has been known for some time that these miners, as well as welders, who are also subject to manganese exposure, have greater potential of being afflicted with PD. Other sources of manganese exposure develop when ground water is contaminated, and when exhaust emissions from vehicles pollute the air (since manganese is used in some fuel additives). Manganese causes oxidative damages to dopaminergic neurons in the substantia nigra, contributing to the onset of PD.
+
+There are several environmental and other factors besides manganese exposure which play a role in the worldwide increase of the incidence of PD. In 1983, a research paper was published that a powder containing MPTP (synthetic heroin) administered intravenously or inhaled, resulted in some users in Northern California being afflicted with early onset of PD. Intensive research over the past six years has proved that MPTP is structurally similar to the pesticide Paraquat, a risk factor in the development of PD.
+
+Investigators have brought attention to other toxicants such as solvents, pesticides and air pollution being responsible for the increased incidence of PD. The pesticides implicated in PD are Paraquat (similar structure to MPTP+) and Rotenone. Although the pesticides Paraquat, Rotenone, DDT and Heptachlor have been banned in the USA, Paraquat is still being used in countries such as Australia, Japan, India and Argentina.
+
+I have had no access to the details of the use of different pesticides in Sri Lanka. However, it would be advisable for local authorities to monitor the use of pesticides and determine the incidence of these neurogenerative diseases amongst urban versus rural populations. A caveat to such studies is a lag time between exposure and the development of PD can be between 10 to 40 years.
+
+A solvent that has also been implicated is Trichloroethylene (TCE). This solvent is widely used in the dry-cleaning industry, but also used for degreasing, decaffeinating coffee, for carpet cleaning, and for removal of paint. In the USA, the Environmental Protection Authority (EPA) has identified several sites where ground water has been contaminated with TCE. Since TCE is commonly used as a dry-cleaning agent, I am not certain whether such sites exist in Sri Lanka. The fact that exposure to TCE causes PD is similar to the way that pesticides cause damage to the nigrostriatal dopaminergic neurons, necessitates immediate investigation into this matter.
+
+Finally, air pollution, where solid and liquid particulate matter (PM2.5) from fires, coal burning and vehicular traffic enter the brain through our nasal passage. PM2.5 are particulate matters of 2.5 diameter micrometers or less (like an aerosol) is associated with the greatest proportion of adverse health effects. Interestingly, since these toxicants enter via the nasal passages, decrease in the sense of smell may antedate the onset of PD. In Sri Lanka, by and large, air quality is poor and is primarily due to vehicular traffic. This was evident during the COVID lockdown period, when there was a remarkable improvement in the air quality throughout the island.
+
+All of these toxicants affect an intracellular organelle called mitochondria, responsible for oxygen utilization and energy production. The functioning of the brain is highly dependent on energy; and although the brain is only three percent of our total body mass, it is responsible for over 20% of the oxygen utilized. Within the brain, the dopaminergic neurons are most energy dependent, so it stands to reason that toxicants that cause mitochondrial dysfunction and energy disruption in the brain will cause damage to dopaminergic neurons.
+
+Turning to dementia, there are many forms that include Alzheimer’s disease, vascular dementia, frontotemporal dementia (FTD) and Lewy body dementia (LBD). I do not know which form of dementia is most prevalent in Sri Lanka, though I have seen cases of FTD and LBD. Lewy body accumulation in neurons is due to misfolding and accumulation of the protein alpha-synuclein. In a recent published manuscript, investigators demonstrated that particulate matter (PM2.5) may be responsible for LBD. Their conclusions were based on worldwide epidemiological research and supported by experimental studies.
+
+When mice were exposed to fine airborne particles, PM2.5 obtained from different regions such as the USA, Europe and China, these particles from the different regions, all produced alpha-synuclein accumulation in neurons. The investigators concluded that these airborne particles entered the brain and caused misfolding of alpha-synuclein protein resulting in damage to the neuron. Finally, there is a considerable amount of research being conducted aimed at understanding the role of air pollution in the pathogenesis of Alzheimer’s disease.
+
+Given the overwhelming evidence, it behooves the Sri Lankan government to take immediate and drastic measures to tackle increasing air pollution, a national problem which impacts the quality of life, decreases the incidence of heart, lung and brain diseases. Moreover, measures taken to decrease such health-related problems would alleviate the exigencies of the nation’s already overburdened healthcare system and would, in the long term, be cost-effective.,
+
+An old Thomian, Gihan Tennekoon obtained his medical degree from Guy’s Hospital, London. Post graduation, he transferred to the Johns Hopkins School of University School of Medicine, in Maryland, USA, for training and research in the field of neurology. He served as an Associate Professor at John Hopkins from 1969 to 1991, when he moved to the University of Pennsylvania as the Grace Loeb Professor, responsible for the direction of the Child Neurology Program.
+
+Tennekoon is currently Professor Emeritus at the University of Pennsylvania.
+
+Blessed Are the Peacemakers: Middle East Peace Plan and Prospects
+
+Sri Lanka’s Battle Against Tobacco: Progress, Setbacks, and the Road Ahead
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

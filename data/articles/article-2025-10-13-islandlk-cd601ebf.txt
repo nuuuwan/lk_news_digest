@@ -1,0 +1,21 @@
+Salesforce unveils the foundation for building trusted AI
+
+As enterprises accelerate into the age of intelligent automation, Salesforce has drawn a clear line between innovation and integrity. The company has unveiled the Trusted AI Foundation for the Agentic Enterprise, an expansion of its platform architecture designed to ensure that every AI output is grounded in accuracy, context, and control.
+
+More than 80% of global AI projects still fail to deliver value, most falling victim to poor data quality, governance gaps, and fragmented systems. Salesforce’s latest evolution aims to change that equation, transforming the way enterprises operationalize AI. At its core lies a new metadata layer that connects structured and unstructured data across the enterprise, creating a unified, explainable ecosystem where every AI agent speaks the same business language.
+
+The foundation introduces three principles to make enterprise AI truly trustworthy: context and accuracy, built-in security and compliance, and open, unified integration. These pillars ensure that every workflow, decision, and interaction across the Salesforce Platform is consistent, governed, and transparent.
+
+Among the key innovations are Data Cloud Context Indexing, which helps AI agents interpret complex documents through a business-aware lens, and Data Cloud Clean Rooms, which allow companies to securely share and analyze data without duplication or exposure. Tableau Semantics now brings raw data to life with AI-powered business context, while MuleSoft Agent Fabric enables enterprises to orchestrate, govern, and harmonize AI agents across departments.
+
+“AI is the most powerful enabler of transformation today, but only if it is built on trust,” said Rahul Auradkar, EVP & GM, Unified Data Services at Salesforce. “With this foundation, we’re helping enterprises scale AI responsibly, ensuring every insight is explainable and every action accountable.”
+
+The Trusted AI Foundation is the next step in Salesforce’s vision for the Agentic Enterprise, a world where human intelligence and machine intelligence work in unison, grounded in transparency and governed by trust.
+
+National Chamber hosts one-day workshop on “Corporate Governance for SMEs”
+
+GABV Asia-Pacific Chapter meeting 2025 to be held in Colombo
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
