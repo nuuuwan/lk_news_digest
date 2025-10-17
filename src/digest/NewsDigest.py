@@ -81,7 +81,7 @@ class NewsDigest:
 
     @property
     def lines_summary(self) -> list[str]:
-        time_str = TimeFormat("%I:%M %p (%B %d, %Y)").format(Time.now())
+        time_str = TimeFormat.TIME.format(Time.now())
         n = len(self.used_articles)
         date_strs = [a.date_str for a in self.used_articles]
         min_date_str = min(date_strs)
