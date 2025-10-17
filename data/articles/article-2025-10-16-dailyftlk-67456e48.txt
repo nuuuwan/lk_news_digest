@@ -1,0 +1,37 @@
+Salesforce and OpenAI partner across enterprise work and commerce
+
+Salesforce Chair and CEO Marc Benioff (left) and OpenAI Co-Founder and CEO Sam Altman
+
+New integrations bring OpenAI frontier models and Salesforce into unified experiences across both platforms
+
+Salesforce and OpenAI yesterday announced an expanded strategic partnership, establishing a new generation of employee and consumer experiences powered by Salesforce’s Agentforce 360 and OpenAI frontier models.
+
+This first of its kind partnership, announced during the ongoing Dreamforce 2025 in San Francisco, will let companies access Salesforce’s Agentforce 360 platform in ChatGPT — querying sales records, reviewing customer conversations, or building Tableau visualisations, simply by typing a query into ChatGPT. They can also use OpenAI’s latest frontier models, including GPT-5, to build AI agents and prompts within the Salesforce Platform. And a new commerce experience will give shared customers the ability to sell to hundreds of millions of potential US users in ChatGPT while keeping full control of their processes, data, and customer relationships.
+
+The SaaS landscape is changing — with dedicated point-and-click applications evolving to include multi-surface, agent-driven conversations. This partnership advances that shift by combining OpenAI’s frontier models and capabilities and Salesforce’s data-grounded enterprise workflows across ChatGPT and Slack, which together support over 800 million weekly users and 5.2 billion weekly messages, respectively. As a result, this makes it easy for Salesforce and OpenAI customers to tap into powerful, enterprise-grade AI, right in their preferred surface environment.
+
+OpenAI co-founder and CEO Sam Altman said: “Our partnership with Salesforce is about making the tools people use every day work better together, so work feels more natural and connected. It’s an important step in how AI can improve daily workflows under our efforts together.”
+
+Salesforce Chair and CEO Marc Benioff said: “As consumers, we already get instant recommendations or insights from ChatGPT. Now enterprises can deliver that same intelligence and immediacy. By uniting the world’s leading frontier AI with the world’s No. 1 AI CRM, we’re creating the trusted foundation for companies to become Agentic Enterprises.”
+
+Agentforce 360 apps in ChatGPT: Salesforce’s apps will be accessible through the Apps in ChatGPT program, bringing enterprise intelligence, CRM data, and Tableau visualisations right into ChatGPT conversations.
+
+Instant Checkout and Agentforce Commerce: Agentforce Commerce will integrate with the Agentic Commerce Protocol, the standard that powers Instant Checkout in ChatGPT, designed to give merchants a new way to reach hundreds of millions of potential customers while keeping full control of their orders, payments, fulfilment, and customer relationships.
+
+ChatGPT in Slack: The ChatGPT app for Slack now brings ChatGPT directly into Slack, enabling teams to quickly and seamlessly surface insights, draft content, and summarise complex conversations in the flow of work. The integration also improves Slack search results by incorporating internal knowledge from ChatGPT-connected tools.
+
+Codex in Slack: Codex, an OpenAI agent that writes and edits code based on natural language instructions, can now be tagged inside a Slack channel or thread — letting it grab relevant context, pick the right environment, and respond with a link to the completed task in Codex Cloud.
+
+OpenAI in Agentforce 360 Platform: Salesforce will bring OpenAI’s reasoning, voice, and multimodal capabilities into Agentforce 360 Platform, making agentic enterprise experiences more intelligent and powerful. OpenAI will also be featured as a preferred model, giving Agentforce 360 customers the option to select it as their default LLM for the Atlas Reasoning Engine and Prompt Builder. Apps like Agentforce Sales can also incorporate OpenAI frontier models for richer context and faster analysis.
+
+This partnership fundamentally changes the employee experience, ensuring intelligent, data-driven work happens in the flow of conversation by granting secure, seamless access to the full enterprise stack right where teams already collaborate. It also builds on an existing partner foundation: OpenAI chose Slack as the first enterprise platform to deploy a third-party ChatGPT app.
+
+Starting with Agentforce Sales, Salesforce’s apps will give authorised employees instant, natural-language access to their Salesforce CRM data and Tableau visualisations, while tapping into the vast, generative intelligence of OpenAI models for richer context and rapid analysis.
+
+Bringing ChatGPT into Slack gives teams the power to summarise complex conversations, or quickly draft posts and replies, right in the flow of work. Slack is where developers discuss ideas, make decisions, and manage key workflows. With Codex in Slack, teams can just tag @Codex in a channel or thread to delegate programming tasks, like they would with a co-worker.
+
+This partnership also helps businesses meet customers where they spend time, with commerce seamlessly integrated into the conversational channels and AI-powered experiences they use with intent every day.
+
+End-to-end commerce experiences, powered by Instant Checkout in ChatGPT and the Agentic Commerce Protocol, lets Agentforce Commerce merchants capture demand quickly and facilitate purchases when shoppers search for products in ChatGPT.
+
+By integrating Agentforce Commerce with Instant Checkout in ChatGPT, merchants can offer seamless, secure transactions at the moment of purchase intent while reducing integration costs and time to market. Product catalogs from Agentforce Commerce will appear in ChatGPT, while embedded checkout with Agentic Commerce Protocol (ACP) and Stripe enable tokenised, privacy-compliant transactions. Together, these capabilities deliver the end-to-end architecture for agentic commerce, turning intent into conversion in a single, trusted interaction.

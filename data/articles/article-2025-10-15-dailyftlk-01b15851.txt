@@ -1,0 +1,17 @@
+LGC outage disrupts Govt. online services
+
+Capacity, operational constraints will be released with ongoing phase of LGC expansion
+
+The ICT Agency of Sri Lanka (ICTA) yesterday said that due to a disruption in the Lanka Government Cloud (LGC), several online services managed by various Government organisations have been temporarily affected.
+
+These include the Birth, Marriage, and Death (BMD) Certificate System of the Registrar General’s Department, the e-Revenue License System (eRL 2.0) of the Provincial Departments of Motor Traffic (except the Western Province), and the Police Clearance System of the Department of Police.
+
+Also affected were the Country of Origin Certificate Issuance Online System of Department of Commerce, Pension system of the Department of Pensions, e Local Government System and some of the websites including those of the Department of Meteorology, Registrar of Companies, and Sri Lanka Accounting and Auditing Standards Board.
+
+ICTA said its engineers and the service provider were actively working to restore the cloud services as quickly as possible.
+
+The Registrar General’s Department has announced that certificate copies could be obtained manually from the Divisional Secretariat that issued the original certificate. All stakeholder organisations including Department of Police have been duly notified of the progress of rectification.
+
+“While restoration of LGC services are being given highest priority, existing capacity and operational constraints are expected to be released through the ongoing execution of the next phase of LGC expansion which commenced in October 2025,” ICTA said.
+
+ICTA expressed its regrets over the inconvenience caused to the public and to institutions hosted on the LGC, and said that all efforts were being expended to restore online services to their full capacity as soon as feasible.
