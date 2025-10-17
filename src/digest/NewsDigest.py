@@ -15,6 +15,7 @@ class NewsDigest:
     MAX_CONTENT_LEN = 1_000_000
     MAX_DAYS_OLD = 7
     MODEL = "gpt-5"
+    MODEL_URL = "https://platform.openai.com/docs/models/gpt-5"
 
     @staticmethod
     def get_news_article_content() -> str:
@@ -87,9 +88,9 @@ class NewsDigest:
         min_date_str = min(date_strs)
         max_date_str = max(date_strs)
         return [
-            f"## {max_date_str} Edition",
+            f"**{max_date_str} Edition.**",
             "",
-            f"Generated at **{time_str}** by **{self.MODEL}**"
+            f"Generated at **{time_str}** by [{self.MODEL}]({self.MODEL_URL})"
             + f" from **{n:,}** English News Articles"
             + f" published between **{min_date_str}** and **{max_date_str}**.",
             "",
@@ -98,7 +99,7 @@ class NewsDigest:
     @property
     def lines_model_details(self) -> list[str]:
         return [
-            f"## Model Prompt (for {self.MODEL})",
+            f"## Model Prompt (for [{self.MODEL}]({self.MODEL_URL}))",
             "",
             "```",
             self.system_prompt,
