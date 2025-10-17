@@ -101,7 +101,7 @@ class NewsDigest:
     def lines(self) -> list[str]:
 
         return (
-            ["# News Digest"]
+            ["# 🇱🇰 Sri Lanka This Week"]
             + self.lines_summary
             + self.lines_digest
             + self.lines_used_articles
