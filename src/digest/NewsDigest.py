@@ -89,7 +89,7 @@ class NewsDigest:
         return [
             f"*Generated at {time_str} by {self.MODEL}"
             + f" from {n:,} English News Articles"
-            + f" published between {min_date_str} and {max_date_str}.*",
+            + f" published between **{min_date_str}** and **{max_date_str}**.",
             "",
         ]
 
