@@ -2,7 +2,7 @@ import os
 import random
 
 from openai import OpenAI
-from utils import File, Log, Time, TimeFormat
+from utils import File, Log, Time, TimeFormat, TimeUnit
 
 from digest.article import Article
 
@@ -13,15 +13,22 @@ class NewsDigest:
     DIGEST_PATH = "README.md"
     DIR_DATA_HISTORY = os.path.join("data", "history")
     MAX_CONTENT_LEN = 1_000_000
+    MAX_DAYS_OLD = 7
     MODEL = "gpt-5"
 
     @staticmethod
     def get_news_article_content() -> str:
         articles = Article.list_all()
+        min_time_ut = (
+            Time.now().ut - NewsDigest.MAX_DAYS_OLD * TimeUnit.SECONDS_IN.DAY
+        )
+        articles_in_time_window = [
+            a for a in articles if a.time_ut >= min_time_ut
+        ]
         content = ""
         used_articles = []
         total_len = 0
-        for article in articles:
+        for article in articles_in_time_window:
             total_len += len(article.all_text) + 3
             used_articles.append(article)
             if total_len > NewsDigest.MAX_CONTENT_LEN:
