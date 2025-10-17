@@ -120,6 +120,18 @@ class NewsDigest:
         ]
 
     @property
+    def lines_footer(self) -> list[str]:
+        return [
+            "![Maintainer]"
+            + "(https://img.shields.io/badge/maintainer-nuuuwan-red)",
+            "![MadeWith](https://img.shields.io/badge/made_with-python-blue)",
+            "[![License: MIT]"
+            + "(https://img.shields.io/badge/License-MIT-yellow.svg)]"
+            + "(https://opensource.org/licenses/MIT)",
+            "",
+        ]
+
+    @property
     def lines(self) -> list[str]:
 
         return (
@@ -128,6 +140,7 @@ class NewsDigest:
             + self.lines_digest
             + self.lines_used_articles
             + self.lines_model_details
+            + self.lines_footer
         )
 
     def build(self):
