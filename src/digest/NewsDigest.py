@@ -2,7 +2,7 @@ import os
 import random
 
 from openai import OpenAI
-from utils import File, Log, Time, TimeFormat, TimeUnit
+from utils import File, Format, Log, Time, TimeFormat, TimeUnit
 
 from digest.article import Article
 
@@ -99,9 +99,7 @@ class NewsDigest:
         date_strs = [a.date_str for a in self.used_articles]
         min_date_str = min(date_strs)
         max_date_str = max(date_strs)
-        time_updated_for_badge = time_updated.replace(" ", "_").replace(
-            ":", "-"
-        )
+        time_updated_for_badge = Format.badge(time_updated)
 
         return [
             "![LastUpdated](https://img.shields.io/badge"
