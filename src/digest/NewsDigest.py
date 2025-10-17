@@ -19,7 +19,7 @@ class NewsDigest:
     URL_HISTORY = (
         "https://github.com"
         + "/nuuuwan/lk_news_digest"
-        + "/tree/maincdata/history"
+        + "/tree/main/data/history"
     )
 
     @staticmethod
