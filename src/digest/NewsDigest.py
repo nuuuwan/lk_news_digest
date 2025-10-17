@@ -90,9 +90,9 @@ class NewsDigest:
         return [
             f"**{max_date_str} Edition.**",
             "",
-            f"Generated at **{time_str}** by [{self.MODEL}]({self.MODEL_URL})"
-            + f" from **{n:,}** English News Articles"
-            + f" published between **{min_date_str}** and **{max_date_str}**.",
+            f"*Generated at **{time_str}** by [{self.MODEL}]({self.MODEL_URL})"
+            + f" from **{n:,}** English News Articles published"
+            + f" between **{min_date_str}** & **{max_date_str}**.*",
             "",
         ]
 
