@@ -16,6 +16,11 @@ class NewsDigest:
     MAX_DAYS_OLD = 7
     MODEL = "gpt-5"
     MODEL_URL = "https://platform.openai.com/docs/models/gpt-5"
+    URL_HISTORY = (
+        "https://github.com"
+        + "/nuuuwan/lk_news_digest"
+        + "/tree/maincdata/history"
+    )
 
     @staticmethod
     def get_news_article_content() -> str:
@@ -67,7 +72,14 @@ class NewsDigest:
         )
         digest = response.output_text
         log.info(f"Generated digest ({len(digest):,}B).")
-        return [digest, "", "---", ""]
+        return [
+            digest,
+            "",
+            "---",
+            "",
+            f"[Previous Editions]({self.URL_HISTORY})",
+            "",
+        ]
 
     @property
     def lines_used_articles(self) -> list[str]:
