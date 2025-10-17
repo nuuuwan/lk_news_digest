@@ -87,6 +87,8 @@ class NewsDigest:
         min_date_str = min(date_strs)
         max_date_str = max(date_strs)
         return [
+            f"## {max_date_str} Edition",
+            "",
             f"Generated at **{time_str}** by **{self.MODEL}**"
             + f" from **{n:,}** English News Articles"
             + f" published between **{min_date_str}** and **{max_date_str}**.",
@@ -108,7 +110,7 @@ class NewsDigest:
     def lines(self) -> list[str]:
 
         return (
-            ["# 🇱🇰 Sri Lanka This Week"]
+            ["# 🇱🇰 Sri Lanka This Week", ""]
             + self.lines_summary
             + self.lines_digest
             + self.lines_used_articles
