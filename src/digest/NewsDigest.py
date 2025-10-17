@@ -87,7 +87,7 @@ class NewsDigest:
         min_date_str = min(date_strs)
         max_date_str = max(date_strs)
         return [
-            f"*Generated at {time_str} by **{self.MODEL}**"
+            f"Generated at {time_str} by **{self.MODEL}**"
             + f" from {n:,} English News Articles"
             + f" published between **{min_date_str}** and **{max_date_str}**.",
             "",
