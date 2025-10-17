@@ -1,41 +1,46 @@
 name: workflows/build.py
 
 on:
-    workflow_dispatch:
-    schedule:
-        - cron: "30 0 * * 5" # Runs every Friday at 6am Sri Lanka Time
+  workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * 5" # Runs every Friday at 6am Sri Lanka Time
 
 jobs:
-    upload-data:
-        runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
-        steps:
-            - uses: actions/checkout@v4
+    steps:
+      - name: ⬇️ Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: "main"
+          token: "${{ secrets.REPO_DATA_TOKEN }}"
+          fetch-depth: 1
 
-            - name: Set up Python
-              uses: actions/setup-python@v5
-              with:
-                  python-version: "3.12"
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-            - name: Install Dependencies
-              run: |
-                  python -m pip install --upgrade pip
-                  pip install -r requirements.txt
+      - name: 🛒 Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-            - name: Run workflows/build.py
-              env:
-                  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-              run: |
-                  export PYTHONPATH="$PYTHONPATH:./src"
-                  python workflows/build.py
+      - name: ⚙️ Run workflows/build.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          export PYTHONPATH="$PYTHONPATH:./src"
+          python workflows/build.py
 
-            - name: Push changes
-              run: |
-                  git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
-                  git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-                  git pull origin main
+      - name: ⬆️ Push changes
+        run: |
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+          git pull origin main
 
-                  git add .
-                  git commit -m "🤖 [build.yml] $(date '+%Y-%m-%d-%H%M')"
+          git add .
+          git commit -m "🤖 [build.yml] $(date '+%Y-%m-%d-%H%M')" || echo "No changes to commit"
 
-                  git push origin main
+          git push origin main
