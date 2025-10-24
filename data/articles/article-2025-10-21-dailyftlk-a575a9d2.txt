@@ -1,0 +1,23 @@
+Siemens, DIMO complete Sri Lanka’s largest grid substation at Habarana
+
+Siemens together with DIMO have successfully completed Sri Lanka’s largest grid substation at Habarana valued at Rs. 5 billion.
+
+This landmark project underscores the strength of the 70-plus-year partnership between DIMO and Siemens, which has been instrumental in developing more than 70% of the country’s grid infrastructure, DIMO said in a statement.
+
+Serving as the project’s turnkey contractor, Siemens managed the engineering, procurement, installation, testing, and commissioning of all major equipment including automation, SCADA, and protection systems. The complete civil and electrical scope, including civil design, land development, construction & electrical installation fell within the purview of DIMO, the principal subcontractor.
+
+Constructed on a 15-acre plot of land, the 220/132/33 kV greenfield substation was developed in parallel with the expansion of the Veyangoda substation, establishing a significant transmission hub in the centre of the country.
+
+By serving as the anchor for strategic expansion corridors such as Habarana–Veyangoda and the upcoming Habarana–Kappalthurai line, the new Habarana facility, which is acknowledged as the largest grid substation in Sri Lanka, improves interconnections between the North, East, and Central regions.
+
+By introducing a high-capacity injection point, the Habarana substation enhances overall transfer capability throughout the national grid, reduces transmission congestion, and fortifies voltage stability. Future improvements are anticipated to offer more dynamic support for stability and voltage regulation, such as the construction of a 75 MVA synchronous condenser.
+
+The Habarana substation is strategically positioned at the intersection of 132kV and 220 kV corridors. Sustainable growth will be further enabled by the proposed Habarana–Kappalthurai expansion, which will incorporate renewable energy generation and the expanding demand of the Eastern region into the national grid.
+
+Substation Automation Systems (SAS) based on IEC 61850 and cutting-edge Siemens protection and control technologies are installed in the substation, allowing for safer operations, quicker fault isolation, and interoperable protection. As a result of DIMO’s strong HSE practices and project management controls, the project was also honoured for safety excellence.
+
+The project was completed within the contractual timeframe, despite the project’s large greenfield scope and scale of development. DIMO’s internal knowledge and leadership in health, safety, and environment (HSE) standards helped overcome obstacles like extensive land development and stringent safety management requirements, earning national recognition.
+
+With Siemens’ OEM support guaranteeing the facility’s long-term reliability, DIMO continues to provide warranty support, spares and servicing, on-call technical assistance, and operator training after commissioning.
+
+DIMO Energy General Manager Shehan Amaratunga said: “The Habarana Grid Substation is a landmark project for Sri Lanka’s power sector. DIMO is pleased to have partnered up with Siemens to provide this system-critical infrastructure, which not only improves the national grid’s reliability now but also establishes the groundwork for the nation’s future industrial and energy growth.”

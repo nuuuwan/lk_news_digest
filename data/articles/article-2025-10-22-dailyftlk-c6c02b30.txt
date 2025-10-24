@@ -1,0 +1,95 @@
+Fixing the tax code: Fairness in, distortions out
+
+Over the past four decades, vehicle taxes have been an easy revenue source in the context of generous income tax policy and weak administration
+
+Kautilya, the chief advisor to Chandragupta Maurya in the 3rd century BC, wrote in his treatise The Arthashastra that taxes should be collected “just as a bee collects honey from a flower without disturbing its petals.” Many centuries later, Jean-Baptiste Colbert, the First Minister of State under King Louis XIV of France in the 17th century, famously observed that “the art of taxation consists in plucking the goose so as to obtain the maximum number of feathers with the least amount of hissing.” Both metaphors, though separated by time and culture, capture the essence of good tax policy: revenue must be raised with minimal economic disruption and minimal public resistance.
+
+Tax policy refers to the design and intent of the tax system—its laws, rates, structures, and principles that determine what is taxed, at what rate, and for what purpose. In other words, a well-designed tax policy protects the “petals” and avoids “excessive hissing.”
+
+The 17th IMF program is centred on revenue-based fiscal consolidation. There is no dispute about the necessity of raising revenue—Sri Lanka’s tax collection was unsustainably low. The real issue is how revenue is being raised and who is bearing the burden—or escaping it.
+
+A sound tax policy must be grounded in the following principles – equity (progressivity and coverage), efficiency (minimise distortions and disincentives), simplicity, transparency, revenue sufficiency, stability and predictability, neutrality, administrative feasibility and economic growth compatibility (encourage investment, productivity and innovation).
+
+Below is a list of policy inconsistencies in the current tax system that should be addressed in the upcoming Budget.
+
+Do away with tax incentives offered for firms in the Port City
+
+There is no defensible justification for granting tax concessions to businesses in the Port City. The location is already uniquely advantaged: it sits on prime coastal land, adjacent to Colombo’s financial and leisure districts, and will have direct connectivity to the airport expressway via the elevated port access road—reducing transit time to just 30 minutes, faster than any comparable location. The area also benefits from superior urban planning (parks, wide sidewalks, modern infrastructure) and enhanced reliability through its connection to Colombo’s electricity ring circuit.
+
+By statute, every enterprise in the Port City is exempt from the Termination of Employment Act (TEWA), giving firms a far more flexible labour regime than competitors outside the zone. Adding tax concessions on top of these structural advantages is indefensible. Taxes forgone must ultimately be recouped from other taxpayers, creating an unfair burden. Such concessions also introduce severe distortions: for example, employees of “Authorised Persons” can earn in foreign currency while paying no income tax. These are typically high-income earners who should be taxed at the top marginal rate, yet instead they are given an unwarranted windfall. Furthermore, employee wages can be credited to a Personal Foreign Currency Account (PFCA), allowing them to remit up to $ 20,000 every six months and earn interest on balances completely tax-free.
+
+This not only undermines tax equity but also disrupts the labour market. Firms outside the Port City are forced to pay higher wages to offset the tax benefits their employees forego in comparison to working for an entity in the port city. Worse, the framework opens a loophole: owners can designate themselves as employees, draw excessive salaries in place of profits, and arbitrage their way out of corporate tax obligations.
+
+In short, Port City already enjoys location, infrastructure, and regulatory advantages. Layering tax concessions on top is both unjust to other taxpayers and corrosive to the integrity of the broader economy.
+
+The value added tax is preferred to other forms of indirect taxation like turnover taxes, cascading sales taxes or import duties for it is more efficient, transparent and growth friendly. Ideally, a VAT system that minimises exemptions and administered effectively will provide the fiscal space to do away with all other distortionary taxes like CESS, SSL and PAL.
+
+There is a pressing need to broaden the VAT base in Sri Lanka. The current registration threshold of Rs. 60 million in revenue is excessively high, particularly for service businesses. Ideally, the threshold should be based on value addition rather than gross revenue, since value addition is typically much higher for services than for goods, ensuring a fairer and more economically rational system. If a value-added basis is not feasible, the threshold should at minimum be Rs. 30 million (half the current one). At present, many business owners exploit the system by creating multiple entities to remain below the threshold, thereby avoiding VAT obligations.
+
+Regarding exemptions, they not only forgo much-needed revenue but also introduce severe market distortions. For example, in the protein market, fish is exempted, while chicken, red meat, shellfish, and eggs are taxed, creating arbitrary price disparities. Similarly, kerosene, despite being more expensive than petrol or diesel at the refinery level, is exempted from VAT and excise taxes for distributional reasons—but it can be substituted for petrol, leading to resource misallocation. Likewise, electricity is exempted, but fuel an alternate source of energy is not, further distorting relative prices and economic incentives.
+
+A rational approach would be to lower the threshold, base registration on value addition, and carefully review exemptions to reduce distortions while improving revenue collection. If affordability is a concern, a portion of the additional tax revenue could be redirected through targeted cash transfers to enhance affordability.
+
+Under the current tax law, investments exceeding $ 3 million qualify for a 150% enhanced capital allowance, rising to 200% in the Northern Province. Yet the country’s most pressing need is the creation of high-paying jobs, and incentives should therefore be directed toward employment generation rather than capital intensity. For example, in the Northern Province, most qualifying investments have been in renewable energy. This policy is a misuse of tax expenditure—given the region’s natural advantages of abundant sunshine and favourable coastal winds—they are also capital-heavy and job-light, delivering limited employment benefits. Enhanced capital allowances should be done away with, instead a highly targeted incentive regime using tax credits should be used to stimulate job creation, especially for females.
+
+Doing away with lower rate of income tax for service exports
+
+Under the current tax law, foreign-sourced income from service exports is taxed at a concessionary rate of 15%, replacing the earlier full exemption. While this appears to be an improvement, it raises serious questions of economic rationale and equity. Why should the tax rate differ depending on whether income is derived from services or goods? The justification offered—that it encourages taxpayers to remit income to Sri Lanka—is unconvincing, since tax avoidance is already a civil offence. Moreover, there is no guarantee that even at 15% taxpayers will not channel earnings to other jurisdictions or disguise them as remittances to reduce their liability.
+
+The policy also fails on grounds of fairness. Many service exporters fall within the top 5% of income earners, who in a progressive tax system should be paying at the highest marginal rates, not enjoying concessions. Finally, such preferential treatment distorts the labour market, as tax benefits drive employee preferences and force domestic firms to pay inflated wages for the same skills.
+
+Encourage the use of tax credits as a fiscal policy instrument
+
+Targeted, refundable tax credits are a highly effective policy tool. They can be used to incentivise specific outcomes, such as employee training, where private firms may underinvest due to employee mobility. By subsidising these activities, policy makers can ensure that the broader economy benefits, and the cost is ultimately recouped through higher tax revenues from individuals who remain in the country. Tax credits are straightforward to administer, and their fiscal impact is predictable, unlike many other forms of incentives. When designed to benefit lower-income individuals or smaller businesses, they also promote equity. Making credits refundable further strengthens compliance, encouraging registration and participation in the tax system while simultaneously supporting policy objectives.
+
+The Sri Lanka Export Development Act No. 40 of 1979 empowered the Minister of Export Development to impose the Commodity Export Subsidy Scheme (CESS) on both imports and exports. The original intention was to encourage value addition to commodities—for example, by levying a CESS on raw rubber and using the proceeds to fund public goods or provide direct subsidies to value-added exporters. Even today, CESS is applied to exports of tea, rubber, and coconut products.
+
+However, over the years, a fiscal instrument originally designed to support industrial policy has increasingly been used as a protectionist tool for privileged businesses. An examination of CESS collections shows that the bulk of revenue now comes from imports rather than exports. There is little connection between the items on which it is imposed and any coherent strategic objective. In practice, CESS has become an instrument to shield certain domestic industries linked to powerful interests, and it is also used as a para-tariff mechanism to circumvent obligations under free or preferential trade agreements.
+
+CESS is highly welfare-reducing because it distorts relative prices in the market. Its burden is regressive, falling disproportionately on low-income households. A clear example is in the construction sector: luxury residential developments often benefit from para-tariff exemptions through investment concessions, while low-income households must build their homes incrementally at higher costs.
+
+There is no evidence of a coherent industrial policy that systematically analyses the equity and distortionary effects of CESS or recommends more efficient alternatives. The continued use of CESS raises serious questions about the nexus between political interests and vested business interests.
+
+A select group of firms continue to benefit from indefinite tax concessions under Section 17 of the Board of Investment Law. These concessions, which initially offered a tax-free period followed by permanently reduced rates, were granted subject to certain conditions. Yet it is far from clear whether these conditions are being properly monitored or enforced. The result is not only unjustified tax expenditure but also a serious distortion of the competitive landscape, undermining horizontal equity among firms operating in the same industry. No concession should be indefinite—all tax holidays must carry a clear sunset clause. For perspective, the longest-standing concession dates back astonishingly to 1815 (Schedule 3, Section Q of the tax law).
+
+Under the current regime, gaming businesses are subject to 18% tax on gross gaming revenue (GGR) and 45% corporate income tax. However, there are sophisticated ways to structure expenses to reduce taxable income or shift costs to entities with lower rates or exemptions. This issue is particularly relevant given the generous existing and proposed incentives for large integrated gaming resorts.
+
+Many jurisdictions have addressed this challenge by taxing the top line only, which is easier to monitor and enforce through modern technology—such as AI-assisted cameras over gaming tables and direct interfaces with slot machines. For example, Macao, the world’s largest gaming jurisdiction, taxes only GGR at 40%.
+
+Given the complexity and potential for tax base erosion, it is recommended to increase the GGR tax from 18% to 30% and exempt gaming entities from corporate income tax, simplifying compliance while safeguarding revenue.
+
+Rethinking the taxation of dividends and capital gains on private company shares
+
+The current taxation of dividends and capital gains on private company shares warrants urgent reassessment. Accelerating economic growth through structural transformation requires greater investment, particularly through risk capital. Yet the existing tax framework favours debt over equity, discouraging investment in growth-oriented firms.
+
+For a dividend-paying company, underlying earnings are taxed at 30%. When 70% of these earnings are distributed as dividends, they are subject to a further 15% tax, resulting in a combined effective tax rate of 40.5%.
+
+For a non-dividend-paying company, where shares are sold at book value, the retained earnings are initially taxed at 30%, and the capital gain (retained earnings) on sale is effectively taxed again. For individuals, the capital gains (CG) tax rate is 10%, and for corporates, it is 30%. Consequently, the effective tax burden rises to 40.5% for individuals investors and 51% for corporates investors.
+
+In contrast, debt investors benefit from tax-deductible interest, which is taxed only at the recipient’s marginal rate—typically 36% for the highest-income taxpayers.
+
+The implication is clear: investors in growth-oriented equity, who reinvest profits to expand the business, face the highest tax burden, followed by dividend-paying equity investors, while debt investors enjoy the lowest effective tax rate. This outcome runs counter to conventional economic wisdom and penalises the very investors needed for growth and innovation.
+
+A more balanced approach, such as a franking credit system (as practiced in Australia), would allow shareholders to credit taxes already paid at the corporate level, with only the difference payable according to their marginal tax rate. This would align incentives with economic growth, promote equity investment, and reduce distortions favouring debt over equity.
+
+The current system of vehicle import taxation in Sri Lanka combines ad valorem taxes and quantity-based excise taxes. For internal combustion engine (ICE) vehicles, including hybrids, excise duties are based on cylinder displacement, whereas for electric vehicles, they are based on motor power output. These two bases are not comparable: cylinder displacement is a poor proxy for actual engine power, given engineering trade-offs that allow similar displacements to produce widely varying outputs. For comparability, ICE taxation should ideally also be based on engine output rather than displacement.
+
+Other taxes—customs duty, VAT, and luxury tax—are ad valorem and applied above various thresholds. Both ad valorem and quantity taxes are banded, but the bands are non-progressive: crossing a threshold imposes a higher rate on the entire value or capacity, not just the incremental portion. As a result, total taxes on most passenger vehicles range between 125% and 250%, among the highest globally.
+
+Historically, this system has been fiscally lucrative, largely due to the social and egoistic demand for personal vehicles. However, it also creates strong incentives for tax avoidance, including under-invoicing or misreporting engine displacement or motor output. Verifying these figures is challenging due to complex engineering design considerations.
+
+Over the past four decades, vehicle taxes have been an easy revenue source in the context of generous income tax policy and weak administration. Excessively high rates have incentivised gaming the system and the issuance of concessionary import permits for privileged groups, undermining institutional integrity.
+
+Quantity-based excise taxes were initially introduced to curb under-invoicing. Yet, the current structure distorts market competition, as success depends less on quality or price and more on fitting specific tax bands. This creates welfare losses for both consumers and importers.
+
+The least distortionary approach would be to base taxes on the imported value of the vehicle. If progressivity is desired, slabs could apply higher rates only to incremental values above thresholds. If policymakers wish to retain a quantity-based tax, gross vehicle weight would be a better metric than engine displacement or motor output, as it is simple to verify and less prone to manipulation. The revised system can maintain revenue neutrality while being significantly less distortionary and far less susceptible to manipulation.
+
+The recent strong economic and fiscal performance—along with the stock market rally—is creating a dangerous sense of complacency among policymakers. While the macroeconomic framework implemented under the 17th IMF program has undoubtedly contributed to this improvement, as have sectoral recoveries following deep contractions and favourable weather conditions, these gains are largely cyclical and temporary.
+
+As the economic base rises, achieving further growth will become increasingly difficult. Future growth will not come automatically; it will depend on structural reforms that change the underlying drivers of the economy. Good tax policy is one of the most critical of these reforms.
+
+Without urgent correction, the current tax structure will begin to “damage the petals” and create “excessive hissing”—in other words, it will erode productive capacity and provoke resistance, ultimately slowing growth. This would be disastrous for debt sustainability and could reverse the hard-won gains achieved thus far.
+
+The tax system must be fixed now—before complacency turns into crisis.
+
+(The writer is the Chairman of the The Advocata Institute and CEO of JB Securities Ltd. The opinions expressed are his own.)
