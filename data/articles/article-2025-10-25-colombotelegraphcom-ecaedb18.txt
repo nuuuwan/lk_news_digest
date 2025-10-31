@@ -1,0 +1,65 @@
+AI, Power & The Human Flaw
+
+This piece began after my friend Vishnu Vasu shared an edited video clip of Jon Stewart’s recent discussions with Mark Cuban, Carole Cadwalladr, Yuval Noah Harari, Christine Lagarde, and Tristan Harris. Vishnu and I have had many long conversations about AI and emerging technology, its promise, its risks, and the kind of world it’s shaping for the next generation.
+
+Having worked in systems design since the mid-1980s, I’ve witnessed technology evolve from the age of floppy disks and dial-up modems to the dawn of AI and quantum computing. That long view makes me both fascinated and cautious about where we’re heading.
+
+As someone from that old-school design background and as a father to a seventeen-year-old son I’ve got a personal interest not just in how technology works, but in what it does to us: to our sense of humanity, independence, and moral compass.
+
+Once again, the tone was predictably bleak. Artificial Intelligence, they warned, is a threat to democracy, freedom, and even to the future of humanity. The villains, as always, were the big tech companies OpenAI, Google, Microsoft etc., supposedly plotting to own the world.
+
+Now, I don’t entirely disagree that we should be cautious. I’m deeply apprehensive about where AI is heading. Could these systems ever become conscious or sentient? And if so, what would that mean for human society and control? As quantum AI edges closer to reality, those questions only grow more complex.
+
+Don’t get me wrong, part of me would love to see the day AI loses the “A” and truly becomes sentient. That moment, if it ever comes, could mark humanity’s next great evolutionary leap. It would force us to redefine what consciousness, morality, and even life itself mean. I’m not afraid of that possibility, I’m just wary of the humans who will try to control it.
+
+I’m cautious, nervous, and a bit worried, but what worries me more than the technology itself are the humans behind it. Especially those who claim to be protecting us from it.
+
+The people in that conversation are not neutral truth-tellers. Many are connected to powerful global organizations like the World Economic Forum institutions that talk about “saving democracy” while quietly promoting centralized control. They speak of morality and public good, but their moral preaching often feels hollow coming from those who have long benefited from power and privilege.
+
+Their critique of social media, for instance, is deeply selective. Yes, these platforms have amplified misinformation and division. But they also democratized speech breaking the monopoly that governments and legacy media once had over public discourse.
+
+During the COVID-19 pandemic, this became painfully clear. Ordinary people used online platforms to question authority, share alternative views, and challenge official narratives. It was messy, sometimes chaotic but it was also democracy in action.
+
+The irony is that the same people now lamenting “the dangers to democracy” are often the ones who once benefited from controlling it.
+
+Harari is undoubtedly brilliant but also dangerously comfortable with the idea of managed humanity. He often talks about the “hacking of humans,” suggesting that once you know people better than they know themselves, you can control them. That may be a chilling truth, but what’s concerning is how casually he seems to accept it as inevitable. His worldview aligns neatly with the WEF’s brand of soft technocracy, a belief that the world needs enlightened global coordination run by experts.
+
+This is the same WEF that once published the now-infamous line: “You will own nothing, and you will be happy.” To many, that phrase has come to symbolise the quiet elitism of those who believe that the masses are better off managed than empowered. Whether or not the slogan was meant literally, it reveals a mindset, one that sees individual ownership, independence, and dissent as obstacles to be “streamlined” in the name of global efficiency.
+
+So, when Harari warns that AI will threaten democracy, I can’t help but notice the irony. Because what he really seems worried about isn’t the destruction of democracy, it’s the loss of control by those who currently define it.
+
+Christine Lagarde, head of the European Central Bank, speaks about AI as if she’s safeguarding the public interest. Yet she represents an institution that has long operated as one of the least democratic power structures on the planet. Central banks control the lifeblood of economies money yet remain shielded from real accountability.
+
+Lagarde’s concern about AI “undermining truth” sounds noble but coming from someone who manages opaque monetary systems that shape millions of lives without consent, it feels performative. The fear isn’t that AI will distort truth; it’s that AI could decentralise it. For the first time, ordinary people can challenge legacy narratives, financial, political, or cultural, using technology that once belonged only to the powerful. That’s the real threat to the establishment.
+
+Then there’s Mark Cuban, a self-styled maverick billionaire who now plays the moral philosopher of the tech age. Cuban warns about AI’s risks yet built his fortune on exploiting the very market forces that reward disruption without oversight. His argument that AI should be “controlled” comes off as selective caution, an appeal to regulation that always seems to arrive once the innovators have secured their own seat at the table.
+
+What these elites share is not genuine concern for democracy, but fear of losing the monopoly on influence. When social media first emerged, it did more to democratise public discourse than any political movement in decades. It wrested narrative control away from governments and legacy media and that terrified them. During the COVID pandemic, we saw precisely how quickly those same institutions tried to reclaim that control, often under the banner of “protecting people from misinformation.”
+
+AI is indeed powerful, and yes, it needs oversight. But that oversight should be rooted in transparency, law, and human rights, not in fearmongering by the same circles that brought us the global financial crises, data monopolies, and political groupthink.
+
+* Ensuring accountability for misuse, whether by corporations or governments.
+
+Like any new tool, AI and digital platforms depend on how we use them. The same technology that can educate can also mislead; the same tool that can empower can also distract. But pretending individuals have no role in this equation is dishonest.
+
+Parents, for instance, cannot shrug off responsibility for what their underage children consume online and place the entire burden on tech companies. We don’t do that with the food industry or pharmaceuticals where responsibility is shared between producer, regulator, and consumer. The same principle must apply here.
+
+What these critics often fail to grasp is the mindset of the people who build technology. Most engineers, coders, and creators don’t start with dreams of global monopolization. Their motivation is usually curiosity What’s the next best thing I can make? How far can I push the envelope? What new form of innovation can I bring about?
+
+Of course, success attracts money and power but that’s a human trait, not a technological one. That’s where sensible regulation should come in: to ensure fair play, prevent abuse, and protect individual privacy and freedoms.
+
+Regulation should focus on genuine wrongdoing illegal activity, monopolistic behaviour, privacy violations not on suppressing innovation because it threatens entrenched power. Yet, too often, that’s exactly what happens.
+
+AI is no longer a distant future; it’s here, shaping our world right now. Governments and so-called protection organizations many of which I remain deeply wary of must approach this technology with realism, not fear.
+
+Their role should be to ensure ethical conduct, protect competition, and safeguard individual rights not to curtail innovation for political or ideological reasons. Because, let’s be honest, part of their panic comes from the fact that they’re losing control.
+
+For decades, global elites, major institutions, and governments have held a monopoly over information and influence. Now, that monopoly is breaking. Technology has given ordinary people tools and access they never had before and that shift frightens those who’ve long defined the rules.
+
+AI represents a redistribution of capability. And that’s exactly why the old guard is desperate to contain it.
+
+So yes, AI carries risks all powerful tools do. But it also offers an opportunity to level the playing field, expand creativity, and empower individuals in ways we’ve never seen before.
+
+The real danger isn’t AI itself. It’s flawed, self-interested human beings with egos, agendas, and fears deciding who gets to use it and how.
+
+As a systems designer who’s watched technology evolve from the inside and as a father watching his son grow up in a digital world, I don’t fear progress I fear hypocrisy. I fear those who claim moral authority while quietly pursuing control. AI, like every transformative technology before it, will test not just our intelligence but our integrity. Whether it serves humanity or undermines it will depend, as it always has, on the humanity of those in charge.

@@ -1,0 +1,25 @@
+LAUGFS Power partners Futurity to introduce first AI-enabled Annual Report
+
+LAUGFS Holdings Ltd., Executive Group Vice Chairman Mithila Wegapitiya (right) with Futurity Co-Founder Supun Kaluarachchi
+
+LAUGFS Power PLC, a subsidiary of the diversified LAUGFS Group, has launched its first AI-enabled Annual Report in collaboration with Futurity Ltd.
+
+The initiative marks a milestone for Sri Lanka’s energy sector, positioning LAUGFS Power among the earliest renewable energy companies in the country to adopt artificial intelligence for shareholder communications.
+
+The deployment integrates Futurity’s flagship platform, Omni, into the Investor Relations section of the LAUGFS Power website. Through this implementation, stakeholders can now interact with the company’s two most recent Annual Reports using natural-language AI. Instead of manually navigating lengthy PDF documents, investors, analysts, and the public can engage with an interactive chat interface for fast access of financial insights, operational highlights, and performance data.
+
+To further enhance accessibility, the solution incorporates custom dashboards that visualise selected financial metrics. These dashboards offer clear, intuitive representations of key performance indicators, making corporate data more transparent and easier to interpret. The interface has been fully customised to reflect LAUGFS Power’s brand identity, ensuring that the new functionality integrates seamlessly with existing corporate communications.
+
+This implementation demonstrates how artificial intelligence can address long-standing challenges in corporate reporting. Traditionally, annual reports have been static, compliance-driven documents. By enabling interactivity, transparency, and immediacy, LAUGFS Power is setting a new benchmark for stakeholder engagement in the energy sector.
+
+The project also represents the first step in a broader AI-enablement journey for the wider LAUGFS Group. With operations spanning energy, retail, and industrial manufacturing, the Group views AI adoption as central to its long-term strategy of improving competitiveness, strengthening transparency, and driving sustainable growth. The success of the LAUGFS Power implementation provides a foundation for extending similar innovations across the Group’s subsidiaries.
+
+The platform has been fully customised to reflect LAUGFS Power’s branding and has undergone rigorous testing to ensure accuracy, reliability, and a seamless user experience. Post-launch, Futurity will continue to support the platform through an annual maintenance contract, ensuring ongoing integration of future reports and improvements to functionality.
+
+LAUGFS Holdings Ltd., Executive Group Vice Chairman and LAUGFS Power PLC CEO Mithila Wegapitiya said: “Innovation has always been central to LAUGFS Power’s mission of driving sustainable energy solutions. By introducing AI-enabled reporting, we are providing our shareholders and stakeholders with transparent, accessible, and interactive insights into our performance. This is not just an upgrade to our reporting process but a step towards shaping the future of how we communicate and engage as a company. We are proud to lead the way in the energy sector.”
+
+Futurity Co-Founder Supun Kaluarachchi said:  “With Omni, we’re showing how AI can turn even a traditional Annual Report into an engaging, conversational experience that makes information more accessible.”
+
+The launch of LAUGFS Power’s AI-enabled Annual Report underscores the growing momentum for artificial intelligence across Sri Lanka’s corporate landscape. While digital tools have been introduced in various industries, the energy sector’s embrace of AI for investor relations highlights the technology’s potential to transform even the most established business practices.
+
+For LAUGFS Power, this initiative reflects its commitment to sustainability, transparency, and forward-looking innovation. For Futurity, it demonstrates the power of building enterprise-grade AI solutions in Sri Lanka that can redefine how organisations communicate and deliver value to stakeholders.

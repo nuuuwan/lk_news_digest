@@ -1,0 +1,17 @@
+Kaspersky Industrial Cybersecurity enhances performance: new capabilities improve network security and operational effectiveness
+
+This update expands cross-platform Extended Detection and Response capabilities, streamlines security settings management and provides deeper understanding of network activity. These enhancements enable faster threat detection, easier configuration control, and greater operational efficiency.
+
+Recent findings from Kaspersky ICS CERT reveal that malicious objects were blocked on 20.5% of ICS computers in the second half of 2025. This figure underscores a quite high volume of cybersecurity threats facing industrial environments today and highlights the urgent need for organizations to implement comprehensive protection strategies to safeguard their critical assets and processes. In response to the increasing demand for enhanced cybersecurity, Kaspersky has upgraded its flagship solution for industrial environments.
+
+The company offers a distinctive ecosystem that seamlessly integrates dedicated OT-grade technologies, expert knowledge and invaluable expertise. At the core of this ecosystem lies Kaspersky Industrial CyberSecurity (KICS), a native Extended Detection and Response (XDR) platform designed for critical infrastructure protection. Developed to comprehensively secure the industrial automation and control systems it consists of KICS for Nodes that is aimed at endpoints of distributed control systems and KICS for Networks that monitors automation system network security.
+
+The new release introduces a range of advanced capabilities designed to strengthen security and ensure resilient operations:
+
+Unit Trust Association of Sri Lanka launches “Investor Awareness Initiative” to empower public to build wealth through Unit Trusts
+
+Softlogic GLOMARK expands footprint with all-new outlet at Horton Place
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
