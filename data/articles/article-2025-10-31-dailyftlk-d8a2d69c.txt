@@ -1,0 +1,21 @@
+Rakuten Symphony and SLT-Mobitel sign MoU to deploy Open RAN Trial in Sri Lanka
+
+Pilot project marks one of South Asia’s first Open RAN deployments
+
+Rakuten Symphony and SLT-Mobitel have announced the signing of a Memorandum of Understanding (MoU) to collaborate on a pilot project to build an Open Radio Access Network (Open RAN) comprising 4G and 5G NSA/SA (Non-Standalone and Standalone) sites within Sri Lanka.
+
+SLT-Mobitel will leverage Rakuten Symphony’s advanced Open RAN portfolio to deliver innovative network infrastructure for the project, including a virtualised Centralised Unit (CU) and Distributed Unit (DU) infrastructure, along with pre-certified third party 4G and 5G open Radio Units (RUs).
+
+The partnership is part of a wider strategic initiative led by Rakuten Mobile, Rakuten Symphony’s parent company, supported by the Japanese Government. This initiative is accelerating global Open RAN adoption to diversify the telecom supply chain and represents a forward-looking investment in telecom to make networks more competitive and secure. To date, initiatives have been rolled out in India, Vietnam, Kuwait and Kenya.
+
+The project will be among the first Open RAN deployments in South Asia and serves as a precursor to a nationwide Open RAN deployment in Sri Lanka, aimed at enhancing SLT-Mobitel’s network agility, efficiency and scalability.
+
+Rakuten Symphony President Sharad Sriwastawa said, “Adopting open network principles and leveraging Rakuten Symphony’s proven technology, SLT-Mobitel is positioned to achieve improved total cost of ownership, a leaner operating model and faster time to market, ultimately delivering improved network outcomes and an enhanced customer experience. We look forward to supporting SLT-Mobitel in the delivery of one of South Asia’s first Open RAN deployments.”
+
+Mobitel Ltd., Chief Operating Officer Sudharshana Geeganage said, “SLT-Mobitel is proud to lead South Asia’s Open RAN revolution through the partnership with Rakuten Symphony. The collaboration demonstrates SLT-Mobitel’s focus on implementing next-generation technologies to strengthen our service capabilities. Open RAN trial will offer unprecedented network flexibility and innovation capabilities, supporting SLT-Mobitel to deliver superior customer value and support Sri Lanka’s digital economy growth.”
+
+Rakuten Symphony, through its collaboration with Rakuten Mobile who applies achievements obtained from key research and development projects subsidised by the NEDO (New Energy and Industrial Technology Development Organisation) program*1, remains committed to leading Open RAN innovation, and the development of automated network quality assurance systems and edge cloud capabilities for next-generation communication networks of the future.
+
+Read more about Rakuten Symphony and Rakuten Mobile’s participation in Government sponsored research and development initiatives to explore modernisation of mobile networks and diversification of supply chain vendor ecosystems.
+
+*1 Research and Development Project of the Enhanced Infrastructures for Post-5G Information and Communication Systems (JPNP20017), subsidised by the New Energy and Industrial Technology Development Organisation (NEDO). https://corp.mobile.rakuten.co.jp/english/news/press/2023/0703_02/

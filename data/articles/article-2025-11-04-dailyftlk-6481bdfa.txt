@@ -1,0 +1,49 @@
+Disrupted digital agora
+
+Algorithms once celebrated for personalising content now prioritise provocation over truth
+
+As someone who has spent more than two decades in the communications field, I have observed the evolution of information from the editorially mediated systems of the pre-digital era to the algorithm-driven dynamics that define today’s media landscape. This experience has provided a rare, long-view perspective on how content is created, how content is used and virally amplified across global platforms. Having witnessed the digital promise of transparency and connection transform into a crisis of credibility, this series seeks to examine the accelerating erosion of trust that now defines the modern digital public square.
+
+The digital age began with a bold promise, that instantaneous, borderless communication would deepen understanding and empower democracy. Social media was envisioned as the new public square, an open agora for ideas. But instead of enlightenment, it has produced an era of distortion.
+
+Today’s social platforms have become the battlegrounds of an invisible war: the “Infodemic” a relentless flood of falsehoods that undermines truth, institutions, and trust. What began as a technological revolution has evolved into an existential crisis.
+
+Algorithms once celebrated for personalising content now prioritise provocation over truth. The result is a systemic bias toward outrage, emotional manipulation, and misinformation, a distortion so profound that it now challenges the foundations of democracy, business credibility, and societal cohesion.
+
+The economics of attention have become the economics of deception. Social media thrives on engagement and not accuracy. Algorithms reward virality, not veracity. Content that provokes anger or tribal affirmation travels farther and faster than fact-based discourse.
+
+This feedback loop has blurred the line between misinformation (unintentional error) and disinformation (intentional deceit). Both spread with equal efficiency — and equal damage.
+
+Enter Generative AI, which compounds the crisis. Deepfakes and AI-generated narratives make the origins of content nearly impossible for the average user to authenticate. The World Economic Forum’s Global Risks Report has repeatedly ranked misinformation and disinformation among the world’s top threats, not as a communications issue, but as a systemic risk to public health, democracy, and stability.
+
+For communicators and reputation strategists, the disinformation age has rewritten the rules.
+
+Reputation, once built through transparency, consistency, and credibility, can now be destroyed in moments by algorithmically amplified lies. The inherent design of social media platforms creates a critical imbalance where “Speed vs. Truth” is perpetually skewed toward falsehoods: by the time a meticulous fact-check is produced, the original disinformation has already achieved viral velocity and inflicted significant reputational damage. This effect is amplified by the “Superspreader Effect”, where a concentrated minority of highly motivated, often anonymous, actors generate a disproportionate share of false narratives, rendering them largely immune to traditional media accountability mechanisms. Compounding this challenge is “The Deepfake Dilemma”, which introduces instantaneous, hyper-realistic deception; imagine a global food brand’s market value collapsing overnight due to a fabricated, AI-generated contamination video, a crisis where the speed of digital deception completely outpaces even the most agile corporate response teams.
+
+Communicators have been forced into a permanent crisis posture, relying on digital forensics, real-time monitoring, and AI-assisted rebuttals. The art of reputation management is now inseparable from the science of verification.
+
+After a decade of laissez-faire optimism, governments are taking decisive steps to restore accountability. The era of “digital exceptionalism” when platforms operated with minimal oversight, is over.
+
+The European Union’s Digital Services Act (DSA) represents the world’s most comprehensive regulatory framework for online platforms. It shifts responsibility squarely onto tech giants, classifying “Very Large Online Platforms” (VLOPs), those reaching over 45 million EU users, as systemic actors.
+
+These platforms must assess, mitigate, and report the risks their algorithms pose to society, including disinformation and manipulative content. They must open their data to researchers and disclose how their recommendation systems function. Failure to comply can result in severe financial penalties, marking a paradigm shift from self-regulation to systemic transparency.
+
+In Asia, digital regulation often aligns with national security priorities.
+
+Sri Lanka, with its hyperconnected population, has witnessed the dual-edged nature of social media during periods of unrest, from hate speech amplification to politically motivated misinformation. While temporary bans and new legislation have sought to control falsehoods, the ongoing debate centres on balance: how to curb harmful content without enabling censorship or political misuse.
+
+Singapore’s Protection from Online Falsehoods and Manipulation Act (POFMA) reflects a more interventionist approach. It grants ministers the power to order content removals or corrections deemed false and contrary to the public interest. Critics warn of overreach, but supporters highlight its efficiency in preserving social cohesion within a multi-ethnic, digitally volatile society.
+
+These differing approaches, the EU’s systemic risk model versus Asia’s sovereignty-based model, illuminate a global divergence in how societies define the balance between freedom and safety, expression and order.
+
+The digital public square is fractured. What was once a platform for empowerment has become an amplifier of distortion. Yet, within this disruption lies a profound opportunity, to rebuild trust through verifiable truth.
+
+Regulation alone will not solve the Infodemic. It must be accompanied by cultural and institutional change, where truth is once again seen as a shared public good.
+
+For the communications industry, this means moving beyond reactive crisis control toward proactive truth stewardship, embedding verification, transparency, and ethical AI use at the core of reputation management.
+
+The coming years may well mark a renaissance of credible media, where audiences, fatigued by algorithmic deceit, re-anchor their trust in verified information. Ironically, the future of digital communication may lie in rediscovering the values of the past: integrity, accountability, and the relentless pursuit of truth.
+
+This article is part of a continuing series examining the evolving intersection of technology, regulation, and reputation in the post-truth era. The next feature will explore how global regulatory philosophies are reshaping the boundaries between free expression and digital accountability.
+
+(The writer is an entrepreneur and communications strategist with over two decades of experience in public relations, crisis communications, and reputation management. He leads ventures across the communications, trading, luxury, and sustainability sectors, advising brands and leaders on navigating trust and credibility in complex markets. He can be reached on [email protected].)
