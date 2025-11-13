@@ -97,7 +97,9 @@ class NewsDigest(NewsDigestReadMeMixin, NewsDigestRSSMixin):
         log.info(f"Generated digest with {len(digest_article_list)} items.")
 
         os.makedirs(NewsDigest.DIR_DIGESTS, exist_ok=True)
-        digest_path = os.path.join(NewsDigest.DIR_DIGESTS, f"digest.{ts}.json")
+        digest_path = os.path.join(
+            NewsDigest.DIR_DIGESTS, f"digest.{ts}.json"
+        )
         digest_file = JSONFile(digest_path)
         digest_file.write(digest_article_list)
         log.info(f"Wrote {digest_file}")
