@@ -97,10 +97,10 @@ class NewsDigestReadMeMixin:
         )
 
     def __save_copy_to_history__(self, content: str):
-        ts = TimeFormat.TIME_ID.format(Time.now())
         os.makedirs(self.DIR_DATA_README_HISTORY, exist_ok=True)
         history_digest_path = os.path.join(
-            self.DIR_DATA_README_HISTORY, self.DIGEST_PATH[:-3] + f".{ts}.md"
+            self.DIR_DATA_README_HISTORY,
+            self.DIGEST_PATH[:-3] + f".{self.ts}.md",
         )
         history_digest_file = File(history_digest_path)
         history_digest_file.write(content)
