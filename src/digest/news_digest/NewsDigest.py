@@ -3,7 +3,7 @@ import os
 import random
 
 from openai import OpenAI
-from utils import File, Log, Time, TimeUnit
+from utils import File, JSONFile, Log, Time, TimeFormat, TimeUnit
 
 from digest.article import Article
 from digest.news_digest.NewsDigestReadMeMixin import NewsDigestReadMeMixin
@@ -15,6 +15,7 @@ class NewsDigest(NewsDigestReadMeMixin):
     MAX_CONTENT_LEN = 1_000_000
     MAX_DAYS_OLD = 7
     MODEL = "gpt-5"
+    DIR_DIGESTS = os.path.join("data", "digests")
 
     @staticmethod
     def get_article_in_time_window() -> list[Article]:
@@ -59,6 +60,7 @@ class NewsDigest(NewsDigestReadMeMixin):
         self.system_prompt = (
             File(os.path.join("prompts", "digest.json.txt")).read().strip()
         )
+        self.ts = TimeFormat.TIME_ID.format(Time.now())
 
     def __validate_digest_articles__(self, digest_article_list):
         n_digest_articles = len(digest_article_list)
@@ -68,7 +70,7 @@ class NewsDigest(NewsDigestReadMeMixin):
         assert "body" in first_item, "No body in first item"
 
     def get_digest_article_list(self):
-        log.debug(f"Generating digest with {self.MODEL}...")
+        log.debug(f"Generating digest with MODEL={self.MODEL}...")
         client = OpenAI()
         response = client.responses.create(
             model=self.MODEL,
@@ -87,6 +89,13 @@ class NewsDigest(NewsDigestReadMeMixin):
         digest_article_list = json.loads(response.output_text)
         self.__validate_digest_articles__(digest_article_list)
         log.info(f"Generated digest with {len(digest_article_list)} items.")
+
+        os.makedirs(self.DIR_DIGESTS, exist_ok=True)
+        digest_path = os.path.join(self.DIR_DIGESTS, f"digest.{self.ts}.json")
+        digest_file = JSONFile(digest_path)
+        digest_file.write(digest_article_list)
+        log.info(f"Wrote {digest_file}")
+
         return digest_article_list
 
     def build(self):
