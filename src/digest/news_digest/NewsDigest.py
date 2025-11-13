@@ -1,6 +1,7 @@
 import json
 import os
 import random
+import re
 from xml.dom import minidom
 from xml.etree.ElementTree import Element, SubElement, tostring
 
@@ -126,6 +127,13 @@ class NewsDigest(NewsDigestReadMeMixin):
 
     DIGEST_RSS_PATH = "rss.xml"
 
+    @staticmethod
+    def get_deep_link_for_title(title: str) -> str:
+        # remove all non alphanumeric characters except spaces
+        title = re.sub(r"[^a-zA-Z0-9 ]", "", title)
+        title = title.replace(" ", "-").lower()
+        return title
+
     def build_rss_xml_data(self, used_articles, digest_article_list, ut, ts):
         rss = Element("rss", version="2.0")
         channel = SubElement(rss, "channel")
@@ -151,7 +159,10 @@ class NewsDigest(NewsDigestReadMeMixin):
             SubElement(item, "title").text = digest_article["title"]
             SubElement(item, "description").text = digest_article["body"]
             SubElement(item, "pubDate").text = pub_time_str
-            guid = f"{history_url}#item-{i_article}"
+            deep_link_title = self.get_deep_link_for_title(
+                digest_article["title"]
+            )
+            guid = f"{history_url}#{i_article}-{deep_link_title}"
             SubElement(item, "guid").text = guid
 
         rough = tostring(rss, encoding="utf-8", xml_declaration=True)
