@@ -69,7 +69,7 @@ class NewsDigest(NewsDigestReadMeMixin):
         assert "title" in first_item, "No title in first item"
         assert "body" in first_item, "No body in first item"
 
-    def get_digest_article_list(self):
+    def get_digest_article_list(self) -> list[dict]:
         log.debug(f"Generating digest with MODEL={self.MODEL}...")
         client = OpenAI()
         response = client.responses.create(
