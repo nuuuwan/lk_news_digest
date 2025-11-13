@@ -45,6 +45,11 @@ class NewsDigest(NewsDigestReadMeMixin):
                 break
         content = "\n...\n".join([a.all_text for a in used_articles])
         used_articles.sort(key=lambda a: a.time_ut, reverse=True)
+        log.debug(
+            f"Selected {len(content):,}B content"
+            + f" based on {len(used_articles)} articles random articles"
+            + f" from {len(articles_in_time_window)}."
+        )
         return content, used_articles
 
     def __init__(self):
@@ -61,7 +66,6 @@ class NewsDigest(NewsDigestReadMeMixin):
         first_item = digest_article_list[0]
         assert "title" in first_item, "No title in first item"
         assert "body" in first_item, "No body in first item"
-        log.info(f"Generated digest with {n_digest_articles} items.")
 
     def get_digest_article_list(self):
         log.debug(f"Generating digest with {self.MODEL}...")
@@ -80,9 +84,9 @@ class NewsDigest(NewsDigestReadMeMixin):
                 },
             ],
         )
-
         digest_article_list = json.loads(response.output_text)
         self.__validate_digest_articles__(digest_article_list)
+        log.info(f"Generated digest with {len(digest_article_list)} items.")
         return digest_article_list
 
     def build(self):
