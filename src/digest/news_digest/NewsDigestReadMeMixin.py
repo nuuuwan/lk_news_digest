@@ -16,10 +16,14 @@ class NewsDigestReadMeMixin:
     )
 
     def get_lines_digest(self) -> list[str]:
-        for digest_article in self.get_digest_article_list():
+        digest_article_list = self.get_digest_article_list()
+        log.debug(f"Digest has {len(digest_article_list)} articles.")
+
+        lines = []
+        for digest_article in digest_article_list:
             title = digest_article["title"]
             body = digest_article["body"]
-            self.lines.extend(
+            lines.extend(
                 [
                     f"## {title}",
                     "",
@@ -28,12 +32,15 @@ class NewsDigestReadMeMixin:
                 ]
             )
 
-        return [
-            "---",
-            "",
-            f"[Previous Editions]({self.URL_HISTORY})",
-            "",
-        ]
+        lines.extend(
+            [
+                "---",
+                "",
+                f"[Previous Editions]({self.URL_HISTORY})",
+                "",
+            ]
+        )
+        return lines
 
     def get_lines_used_articles(self) -> list[str]:
         lines = ["## References", ""]
@@ -86,8 +93,7 @@ class NewsDigestReadMeMixin:
             "",
         ]
 
-    @property
-    def lines(self) -> list[str]:
+    def get_lines(self) -> list[str]:
         return (
             self.get_lines_header()
             + self.get_lines_digest()
@@ -107,7 +113,7 @@ class NewsDigestReadMeMixin:
         log.info(f"Wrote {history_digest_file}")
 
     def build_readme(self):
-        content = "\n".join(self.lines)
+        content = "\n".join(self.get_lines())
         digest_file = File(self.DIGEST_PATH)
         digest_file.write(content)
         log.info(f"Wrote {digest_file}")
