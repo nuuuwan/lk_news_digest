@@ -3,7 +3,8 @@ import os
 import random
 import re
 from xml.dom import minidom
-from xml.etree.ElementTree import Element, SubElement, tostring
+from xml.etree.ElementTree import (Element, SubElement, register_namespace,
+                                   tostring)
 
 from openai import OpenAI
 from utils import File, JSONFile, Log, Time, TimeFormat, TimeUnit
@@ -20,6 +21,10 @@ class NewsDigest(NewsDigestReadMeMixin):
     MODEL = "gpt-5"
     DIR_DIGESTS = os.path.join("data", "digests")
     URL = "https://github.com/nuuuwan/lk_news_digest/blob/main/README.md"
+    RSS_FEED_URL = (
+        "https://raw.githubusercontent.com"
+        + "/nuuuwan/lk_news_digest/refs/heads/main/rss.xml"
+    )
 
     @staticmethod
     def __get_article_in_time_window__() -> list[Article]:
@@ -135,8 +140,22 @@ class NewsDigest(NewsDigestReadMeMixin):
         return title
 
     def build_rss_xml_data(self, used_articles, digest_article_list, ut, ts):
-        rss = Element("rss", version="2.0")
+
+        register_namespace("atom", "http://www.w3.org/2005/Atom")
+        rss = Element(
+            "rss",
+            {"version": "2.0"},
+        )
         channel = SubElement(rss, "channel")
+        SubElement(
+            channel,
+            "{http://www.w3.org/2005/Atom}link",
+            {
+                "href": self.RSS_FEED_URL,
+                "rel": "self",
+                "type": "application/rss+xml",
+            },
+        )
 
         pub_time_str = TimeFormat("%a, %d %b %Y %H:%M:%S %z").format(Time(ut))
 
