@@ -3,4 +3,5 @@
 
 from digest.article import (Article, ArticleBase, ArticleMetadataMixin,
                             ArticleTextMixin)
-from digest.news_digest import NewsDigest, NewsDigestReadMeMixin
+from digest.news_digest import (NewsDigest, NewsDigestReadMeMixin,
+                                NewsDigestRSSMixin)

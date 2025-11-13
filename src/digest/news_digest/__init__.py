@@ -3,3 +3,4 @@
 
 from digest.news_digest.NewsDigest import NewsDigest
 from digest.news_digest.NewsDigestReadMeMixin import NewsDigestReadMeMixin
+from digest.news_digest.NewsDigestRSSMixin import NewsDigestRSSMixin
