@@ -76,10 +76,6 @@ class NewsDigest(NewsDigestReadMeMixin, NewsDigestRSSMixin):
         system_prompt, news_article_content, ts
     ) -> list[dict]:
 
-        return JSONFile(
-            os.path.join("data", "digests", "digest.20251113.110349.json")
-        ).read()
-
         log.debug(f"Generating digest with MODEL={NewsDigest.MODEL}...")
         client = OpenAI()
         response = client.responses.create(
