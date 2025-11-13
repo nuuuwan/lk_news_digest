@@ -6,13 +6,13 @@ log = Log("NewsDigest")
 
 
 class NewsDigestReadMeMixin:
-    DIR_DATA_HISTORY = os.path.join("data", "history")
+    DIR_DATA_README_HISTORY = os.path.join("data", "readme_history")
     DIGEST_PATH = "README.md"
     MODEL_URL = "https://platform.openai.com/docs/models/gpt-5"
     URL_HISTORY = (
         "https://github.com"
         + "/nuuuwan/lk_news_digest"
-        + "/tree/main/data/history"
+        + "/tree/main/data/readme_history"
     )
 
     @property
@@ -104,15 +104,15 @@ class NewsDigestReadMeMixin:
 
     def __save_copy_to_history__(self, content: str):
         ts = TimeFormat.TIME_ID.format(Time.now())
-        os.makedirs(self.DIR_DATA_HISTORY, exist_ok=True)
+        os.makedirs(self.DIR_DATA_README_HISTORY, exist_ok=True)
         history_digest_path = os.path.join(
-            self.DIR_DATA_HISTORY, self.DIGEST_PATH[:-3] + f".{ts}.md"
+            self.DIR_DATA_README_HISTORY, self.DIGEST_PATH[:-3] + f".{ts}.md"
         )
         history_digest_file = File(history_digest_path)
         history_digest_file.write(content)
         log.info(f"Wrote {history_digest_file}")
 
-    def build(self):
+    def build_readme(self):
         content = "\n".join(self.lines)
         digest_file = File(self.DIGEST_PATH)
         digest_file.write(content)

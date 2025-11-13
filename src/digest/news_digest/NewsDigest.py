@@ -84,3 +84,6 @@ class NewsDigest(NewsDigestReadMeMixin):
         digest_article_list = json.loads(response.output_text)
         self.__validate_digest_articles__(digest_article_list)
         return digest_article_list
+
+    def build(self):
+        self.build_readme()
