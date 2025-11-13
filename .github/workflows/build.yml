@@ -3,7 +3,7 @@ name: workflows/build.py
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 0 * * 5" # Runs every Friday at 6am Sri Lanka Time
+    - cron: "30 0 * * *" # Runs every day at 6am Sri Lanka Time
 
 jobs:
   build:
