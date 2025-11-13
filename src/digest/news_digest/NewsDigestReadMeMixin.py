@@ -15,6 +15,20 @@ class NewsDigestReadMeMixin:
         + "/tree/main/data/readme_history"
     )
 
+    def get_lines_header(self, used_articles) -> list[str]:
+        time_updated = TimeFormat.TIME.format(Time.now())
+        time_updated_for_badge = Format.badge(time_updated)
+
+        return [
+            self.get_title(),
+            "",
+            "![LastUpdated](https://img.shields.io/badge"
+            + f"/last_updated-{time_updated_for_badge}-green)",
+            "",
+            self.get_description(used_articles),
+            "",
+        ]
+
     def get_lines_digest(self, digest_article_list) -> list[str]:
         log.debug(f"Digest has {len(digest_article_list)} articles.")
 
@@ -52,20 +66,6 @@ class NewsDigestReadMeMixin:
             )
         lines.append("")
         return lines
-
-    def get_lines_header(self, used_articles) -> list[str]:
-        time_updated = TimeFormat.TIME.format(Time.now())
-        time_updated_for_badge = Format.badge(time_updated)
-
-        return [
-            self.get_title(),
-            "",
-            "![LastUpdated](https://img.shields.io/badge"
-            + f"/last_updated-{time_updated_for_badge}-green)",
-            "",
-            self.get_description(used_articles),
-            "",
-        ]
 
     def get_lines_model_details(self, system_prompt) -> list[str]:
         return [
