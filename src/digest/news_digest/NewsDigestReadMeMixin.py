@@ -1,6 +1,5 @@
 import os
 
-from openai import OpenAI
 from utils import File, Format, Log, Time, TimeFormat
 
 log = Log("NewsDigest")
@@ -18,27 +17,20 @@ class NewsDigestReadMeMixin:
 
     @property
     def lines_digest(self) -> list[str]:
-        log.debug(f"Generating digest with {self.MODEL}...")
-        client = OpenAI()
-        response = client.responses.create(
-            model=self.MODEL,
-            reasoning={"effort": "low"},
-            input=[
-                {
-                    "role": "system",
-                    "content": self.system_prompt,
-                },
-                {
-                    "role": "user",
-                    "content": self.news_article_content,
-                },
-            ],
-        )
-        digest = response.output_text
-        log.info(f"Generated digest ({len(digest):,}B).")
+        digest_data = self.get_digest_data()
+        for item in digest_data:
+            title = item["title"]
+            body = item["body"]
+            self.lines.extend(
+                [
+                    f"## {title}",
+                    "",
+                    body,
+                    "",
+                ]
+            )
+
         return [
-            digest,
-            "",
             "---",
             "",
             f"[Previous Editions]({self.URL_HISTORY})",
