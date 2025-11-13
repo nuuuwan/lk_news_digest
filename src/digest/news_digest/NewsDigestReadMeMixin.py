@@ -24,6 +24,8 @@ class NewsDigestReadMeMixin:
             "",
             "![LastUpdated](https://img.shields.io/badge"
             + f"/last_updated-{time_updated_for_badge}-green)",
+            "[![RSS](https://img.shields.io/badge/RSS-Feed-orange)]"
+            + f"({self.RSS_FEED_URL})",
             "",
             self.get_description(used_articles),
             "",
