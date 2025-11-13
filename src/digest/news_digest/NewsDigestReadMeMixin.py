@@ -15,8 +15,7 @@ class NewsDigestReadMeMixin:
         + "/tree/main/data/readme_history"
     )
 
-    def get_lines_digest(self) -> list[str]:
-        digest_article_list = self.get_digest_article_list()
+    def get_lines_digest(self, digest_article_list) -> list[str]:
         log.debug(f"Digest has {len(digest_article_list)} articles.")
 
         lines = []
@@ -42,9 +41,9 @@ class NewsDigestReadMeMixin:
         )
         return lines
 
-    def get_lines_used_articles(self) -> list[str]:
+    def get_lines_used_articles(self, used_articles) -> list[str]:
         lines = ["## References", ""]
-        for i, article in enumerate(self.used_articles, start=1):
+        for i, article in enumerate(used_articles, start=1):
             lines.append(
                 f"{i}. `{article.date_str}` {article.description}"
                 + f" [{article.newspaper_id}]({article.url_metadata})"
@@ -52,10 +51,10 @@ class NewsDigestReadMeMixin:
         lines.append("")
         return lines
 
-    def get_lines_header(self) -> list[str]:
+    def get_lines_header(self, used_articles) -> list[str]:
         time_updated = TimeFormat.TIME.format(Time.now())
-        n = len(self.used_articles)
-        date_strs = [a.date_str for a in self.used_articles]
+        n = len(used_articles)
+        date_strs = [a.date_str for a in used_articles]
         min_date_str = min(date_strs)
         max_date_str = max(date_strs)
         time_updated_for_badge = Format.badge(time_updated)
@@ -72,12 +71,12 @@ class NewsDigestReadMeMixin:
             "",
         ]
 
-    def get_lines_model_details(self) -> list[str]:
+    def get_lines_model_details(self, system_prompt) -> list[str]:
         return [
             f"## Model Prompt (for [{self.MODEL}]({self.MODEL_URL}))",
             "",
             "```",
-            self.system_prompt,
+            system_prompt,
             "```",
             "",
         ]
@@ -93,29 +92,35 @@ class NewsDigestReadMeMixin:
             "",
         ]
 
-    def get_lines(self) -> list[str]:
+    def get_lines(
+        self, used_articles, system_prompt, digest_article_list
+    ) -> list[str]:
         return (
-            self.get_lines_header()
-            + self.get_lines_digest()
-            + self.get_lines_used_articles()
-            + self.get_lines_model_details()
+            self.get_lines_header(used_articles)
+            + self.get_lines_digest(digest_article_list)
+            + self.get_lines_used_articles(used_articles)
+            + self.get_lines_model_details(system_prompt)
             + self.get_lines_footer()
         )
 
-    def __save_copy_to_history__(self, content: str):
+    def __save_copy_to_history__(self, content: str, ts: str):
         os.makedirs(self.DIR_DATA_README_HISTORY, exist_ok=True)
         history_digest_path = os.path.join(
             self.DIR_DATA_README_HISTORY,
-            self.DIGEST_PATH[:-3] + f".{self.ts}.md",
+            self.DIGEST_PATH[:-3] + f".{ts}.md",
         )
         history_digest_file = File(history_digest_path)
         history_digest_file.write(content)
         log.info(f"Wrote {history_digest_file}")
 
-    def build_readme(self):
-        content = "\n".join(self.get_lines())
+    def build_readme(
+        self, used_articles, system_prompt, ts, digest_article_list
+    ):
+        content = "\n".join(
+            self.get_lines(used_articles, system_prompt, digest_article_list)
+        )
         digest_file = File(self.DIGEST_PATH)
         digest_file.write(content)
         log.info(f"Wrote {digest_file}")
 
-        self.__save_copy_to_history__(content)
+        self.__save_copy_to_history__(content, ts)

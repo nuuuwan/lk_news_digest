@@ -57,43 +57,40 @@ class NewsDigest(NewsDigestReadMeMixin):
     def __get_system_prompt__() -> str:
         return File(os.path.join("prompts", "digest.json.txt")).read().strip()
 
-    def __init__(self):
-        self.news_article_content, self.used_articles = (
-            self.__get_news_article_content__()
-        )
-        self.system_prompt = self.__get_system_prompt__()
-        self.ts = TimeFormat.TIME_ID.format(Time.now())
-
-    def __validate_digest_articles__(self, digest_article_list):
+    @staticmethod
+    def __validate_digest_articles__(digest_article_list):
         n_digest_articles = len(digest_article_list)
         assert n_digest_articles > 0, "No items in digest data"
         first_item = digest_article_list[0]
         assert "title" in first_item, "No title in first item"
         assert "body" in first_item, "No body in first item"
 
-    def get_digest_article_list(self) -> list[dict]:
-        log.debug(f"Generating digest with MODEL={self.MODEL}...")
+    @staticmethod
+    def __get_digest_article_list__(
+        system_prompt, news_article_content, ts
+    ) -> list[dict]:
+        log.debug(f"Generating digest with MODEL={NewsDigest.MODEL}...")
         client = OpenAI()
         response = client.responses.create(
-            model=self.MODEL,
+            model=NewsDigest.MODEL,
             reasoning={"effort": "low"},
             input=[
                 {
                     "role": "system",
-                    "content": self.system_prompt,
+                    "content": system_prompt,
                 },
                 {
                     "role": "user",
-                    "content": self.news_article_content,
+                    "content": news_article_content,
                 },
             ],
         )
         digest_article_list = json.loads(response.output_text)
-        self.__validate_digest_articles__(digest_article_list)
+        NewsDigest.__validate_digest_articles__(digest_article_list)
         log.info(f"Generated digest with {len(digest_article_list)} items.")
 
-        os.makedirs(self.DIR_DIGESTS, exist_ok=True)
-        digest_path = os.path.join(self.DIR_DIGESTS, f"digest.{self.ts}.json")
+        os.makedirs(NewsDigest.DIR_DIGESTS, exist_ok=True)
+        digest_path = os.path.join(NewsDigest.DIR_DIGESTS, f"digest.{ts}.json")
         digest_file = JSONFile(digest_path)
         digest_file.write(digest_article_list)
         log.info(f"Wrote {digest_file}")
@@ -101,4 +98,15 @@ class NewsDigest(NewsDigestReadMeMixin):
         return digest_article_list
 
     def build(self):
-        self.build_readme()
+        news_article_content, used_articles = (
+            self.__get_news_article_content__()
+        )
+        system_prompt = self.__get_system_prompt__()
+        ts = TimeFormat.TIME_ID.format(Time.now())
+        digest_article_list = self.__get_digest_article_list__(
+            system_prompt, news_article_content, ts
+        )
+
+        self.build_readme(
+            used_articles, system_prompt, ts, digest_article_list
+        )
