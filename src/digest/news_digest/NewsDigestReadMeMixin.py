@@ -15,8 +15,7 @@ class NewsDigestReadMeMixin:
         + "/tree/main/data/readme_history"
     )
 
-    @property
-    def lines_digest(self) -> list[str]:
+    def get_lines_digest(self) -> list[str]:
         digest_data = self.get_digest_data()
         for item in digest_data:
             title = item["title"]
@@ -37,8 +36,7 @@ class NewsDigestReadMeMixin:
             "",
         ]
 
-    @property
-    def lines_used_articles(self) -> list[str]:
+    def get_lines_used_articles(self) -> list[str]:
         lines = ["## References", ""]
         for i, article in enumerate(self.used_articles, start=1):
             lines.append(
@@ -48,8 +46,7 @@ class NewsDigestReadMeMixin:
         lines.append("")
         return lines
 
-    @property
-    def lines_summary(self) -> list[str]:
+    def get_lines_summary(self) -> list[str]:
         time_updated = TimeFormat.TIME.format(Time.now())
         n = len(self.used_articles)
         date_strs = [a.date_str for a in self.used_articles]
@@ -67,8 +64,7 @@ class NewsDigestReadMeMixin:
             "",
         ]
 
-    @property
-    def lines_model_details(self) -> list[str]:
+    def get_lines_model_details(self) -> list[str]:
         return [
             f"## Model Prompt (for [{self.MODEL}]({self.MODEL_URL}))",
             "",
@@ -78,8 +74,7 @@ class NewsDigestReadMeMixin:
             "",
         ]
 
-    @property
-    def lines_footer(self) -> list[str]:
+    def get_lines_footer(self) -> list[str]:
         return [
             "![Maintainer]"
             + "(https://img.shields.io/badge/maintainer-nuuuwan-red)",
@@ -92,14 +87,13 @@ class NewsDigestReadMeMixin:
 
     @property
     def lines(self) -> list[str]:
-
         return (
             ["# 🇱🇰 Sri Lanka This Week", ""]
-            + self.lines_summary
-            + self.lines_digest
-            + self.lines_used_articles
-            + self.lines_model_details
-            + self.lines_footer
+            + self.get_lines_summary()
+            + self.get_lines_digest()
+            + self.get_lines_used_articles()
+            + self.get_lines_model_details()
+            + self.get_lines_footer()
         )
 
     def __save_copy_to_history__(self, content: str):
