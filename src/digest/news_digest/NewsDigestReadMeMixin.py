@@ -19,12 +19,14 @@ class NewsDigestReadMeMixin:
         log.debug(f"Digest has {len(digest_article_list)} articles.")
 
         lines = []
-        for digest_article in digest_article_list:
+        for i_article, digest_article in enumerate(
+            digest_article_list, start=1
+        ):
             title = digest_article["title"]
             body = digest_article["body"]
             lines.extend(
                 [
-                    f"## {title}",
+                    f"## {i_article}. {title}",
                     "",
                     body,
                     "",
