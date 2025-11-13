@@ -27,7 +27,7 @@ class NewsDigestReadMeMixin:
             "[![RSS](https://img.shields.io/badge/RSS-Feed-orange)]"
             + f"({self.RSS_FEED_URL})",
             "",
-            self.get_description(used_articles),
+            f"*{self.get_description(used_articles)}*",
             "",
         ]
 
