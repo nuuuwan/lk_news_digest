@@ -1,0 +1,15 @@
+Five Indian firms shortlisted for digital ID project
+
+Five Indian technology companies, Infosys, Tata Consultancy Services, Protean e-Gov Technologies, RailTel Corporation, and Bharat Electronics, have been shortlisted to bid for Sri Lanka’s upcoming Unique Digital Identity (SL-UDI) project.
+
+The firms were pre-qualified by India’s National Institute for Smart Government (NISG), which is overseeing the selection of a Master Systems Integrator (MSI) responsible for developing, implementing, and maintaining the national digital ID system. The process follows a tender call issued in September under reference NISG/SLUDI 2025.
+
+According to NISG, the shortlisted bidders will advance to the techno-commercial stage and are scheduled to visit Sri Lanka next week at their own expense.
+
+Sri Lanka’s Ministry of Digital Economy and the Information and Communication Technology Agency (ICTA) have meanwhile begun identifying a local Managed Service Provider (MSP) that will take over operations of the digital ID platform once the system is fully deployed.
+
+The initial implementation phase is being financed through a grant from the Government of India under the MOSIP (Modular Open Source Identity Platform) framework. The selected MSI will oversee the build and rollout before handing over system operations to the Sri Lankan MSP, which is expected to be appointed by December 2025.
+
+The transfer process will include a six-month joint phase for training and system familiarisation to ensure a smooth transition. The success of the SL-UDI initiative, officials said, will depend heavily on the efficiency and capacity of the local MSP once operational.
+
+Sri Lanka aims to issue its first digital ID cards by the third quarter of 2026, as announced by President Anura Kumara Dissanayake in his recent Budget speech.

@@ -1,0 +1,87 @@
+Revenue Mirage: Why Budget 2026 celebrates wrong numbers
+
+There’s a fundamental challenge in democratic governance: opposition parties can critique freely, but governing requires navigating complex trade-offs. President Anura Kumara Dissanayake’s 2026 budget offers a compelling case study in this transition, revealing significant gaps between campaign rhetoric and the constraints of fiscal management.
+
+Perhaps the most striking aspect of this budget is the government’s relationship with the IMF Extended Fund Facility. During opposition years, the current administration vocally opposed the IMF programme, characterizing it as compromising national sovereignty. Public protests were organized, and the austerity measures were framed as economically damaging to ordinary citizens.
+
+However, the budget speech presents a markedly different narrative, emphasizing the government’s role in completing “complex negotiations” and maintaining programme commitments. This represents a significant policy evolution that warrants examination.
+
+From a financial perspective, the IMF programme’s core elements, foreign reserve stabilisation, debt restructuring, and tax reform, were indeed instrumental in preventing economic collapse. These measures, implemented by the previous administration, created the foundation upon which current stability rests. The question for analysts and citizens alike is whether this shift represents genuine policy learning or political opportunism.
+
+This matters because credibility in economic management depends on consistency and acknowledgment of institutional continuity. When governments claim credit for the frameworks they previously opposed without explaining their changed perspective, it undermines the analytical foundation necessary for sound policy evaluation.
+
+The budget’s infrastructure commitments present another area requiring careful scrutiny. Historically, the governing party opposed major development projects through legal challenges and public campaigns, characterizing highways and ports as economically unsound or corruption-prone ventures.
+
+The current budget, however, emphasizes connectivity and infrastructure development as economic priorities. While corruption concerns in previous projects deserve independent investigation, the broader question is whether infrastructure opposition was principled or political.
+
+From an accounting perspective, infrastructure delays carry real costs: project escalation, opportunity costs from delayed economic benefits, and reduced investor confidence. When political parties transition from opposing to promoting similar projects, the financial community needs clarity on what analytical framework guides these decisions.
+
+This isn’t about political hypocrisy; it’s about understanding whether infrastructure assessments are based on consistent cost-benefit analysis or shifting political winds. Investors and development partners require this clarity for rational decision-making.
+
+The budget’s fiscal strategy raises substantive concerns about achievability. The IMF programme mandates a primary surplus of 2.3% of GDP, alongside specific targets for tax base expansion and expenditure control. These aren’t suggestions, they’re contractual obligations with measurable consequences for non-compliance.
+
+The budget appears to rely heavily on revenue growth from economic expansion to meet these targets. While growth-driven revenue is desirable, it’s also uncertain. This approach contains inherent risks:
+
+First, economic growth projections may not materialise as forecast, creating revenue shortfalls. Second, expenditure commitments are typically sticky, easier to promise than to cut. Third, the IMF’s programme reviews occur quarterly, meaning deviations become apparent quickly.
+
+Sound fiscal management requires conservative revenue estimates and concrete expenditure controls. Betting on optimistic growth scenarios without backup plans represents a higher risk tolerance than international creditors typically accept. The financial community will watch quarterly reviews closely to assess whether this optimism was justified.
+
+State-owned enterprise reform represents perhaps the budget’s most significant omission. The IMF programme explicitly requires SOE restructuring to reduce fiscal drains, these entities have historically imposed substantial costs on government finances through operational losses and inefficient capital allocation.
+
+The budget mentions “restructuring” and “strategic partnerships” but provides minimal detail on timelines, financial targets, or governance reforms. Critically absent is any discussion of depoliticising board appointments, which professionals recognize as fundamental to effective corporate governance.
+
+Without concrete implementation frameworks, these commitments remain aspirational. Financial markets and credit rating agencies evaluate governments on execution, not intentions. The absence of measurable milestones suggests either incomplete planning or reluctance to commit to potentially unpopular reforms.
+
+The budget’s tax structure introduces significant complexity through sector-specific holidays and concessions for technology, agriculture, and exports. From a tax policy perspective, this approach conflicts with established best practices.
+
+The IMF programme emphasises tax base broadening and simplification, principles supported by decades of economic research. Complex tax systems create several problems:
+
+• Investment distortion: Companies make decisions based on tax treatment rather than economic fundamentals
+
+• Administrative burden: Both taxpayers and revenue authorities face higher compliance costs
+
+• Lobbying opportunities: Special interests seek favorable carve-outs, potentially compromising revenue neutrality
+
+• Base narrowing: Exemptions reduce the pool of taxable activity, contradicting programme objectives
+
+Effective tax reform typically moves toward fewer rates, broader bases, and minimal exemptions. The budget’s approach suggests either disagreement with this conventional wisdom or political pressure to accommodate special interests. Neither explanation provides comfort regarding long-term fiscal sustainability.
+
+The budget celebrates achieving 15.4% government revenue to GDP, the highest in two decades, the government has claimed, as evidence of fiscal success. However, this achievement warrants closer examination of its composition and sustainability. A significant portion stems from import duty collection, particularly from the vehicle import surge following relaxed restrictions. While this generates immediate revenue, it triggers a dangerous economic chain reaction: substantial foreign reserve outflows for vehicle imports, currency depreciation pressure as reserves diminish, and ultimately, inflation through increased costs of essential imported commodities. The rupee’s recent weakening validates these concerns. This revenue strategy essentially trades long-term monetary stability for short-term fiscal optics, a particularly concerning approach for a nation still rebuilding foreign reserve buffers post-default.
+
+The rupee’s depreciation pressure occurs against a backdrop of significant USD volatility in global markets. The US dollar has experienced its weakest performance since 2020, declining approximately 10.7% against a basket of major currencies in the first half of 2025. The Dollar Index has fallen 4-5% year-to-date, with notable movements including a 12.6% rise in EUR/USD and a 7.7% yen appreciation (Figure 1). For Sri Lanka, this creates a compounding problem: while the rupee weakens due to domestic factors like reserve depletion from vehicle imports, USD instability against major currencies adds another layer of unpredictability to import costs and foreign debt servicing obligations. The budget appears not to have adequately addressed in its revenue and expenditure projections. (See Figure 1)
+
+The budget outlines ambitious digitalization objectives spanning tax administration, public service delivery, and government operations, initiatives that could genuinely improve efficiency and reduce corruption. However, the allocation of merely Rs.1000 million rupees for these comprehensive digital transformation plans reveals a fundamental disconnect between rhetoric and resource commitment. Modern digitalization projects require substantial investment in infrastructure, software systems, cybersecurity, training, and change management. Comparable initiatives in similar economies typically require budgets several orders of magnitude larger. This minimal allocation suggests either severe underestimation of implementation costs or lack of serious intent behind the digitalization promises. Setting unrealistic targets without adequate funding doesn’t constitute policy, it creates inevitable implementation failures that further erode public trust in government capability.
+
+Pre-election promises included removing VAT from essential items, medicines, educational materials, and basic foods. This resonated with citizens facing cost-of-living pressures and differentiated the party from previous administrations.
+
+The budget delivers only narrow, symbolic VAT exemptions while emphasizing revenue preservation for the primary surplus target. This represents a significant policy reversal within months of assuming office.
+
+From a public finance perspective, this shift is understandable, VAT provides substantial, stable revenue that’s difficult to replace. However, the lack of transparent communication about this pivot creates a credibility problem. Citizens who voted based on these promises deserve explanation of the fiscal constraints that made them unworkable.
+
+This pattern, broad promises followed by narrow delivery, risks eroding public trust, which is itself a form of social capital essential for implementing difficult reforms. Governments that acknowledge constraints honestly typically maintain better long-term credibility than those that quietly abandon commitments.
+
+For a nation emerging from sovereign default, transparency in debt management is paramount. International creditors, domestic investors, and rating agencies all require detailed information on restructuring progress, contingent liabilities, and medium-term fiscal strategy.
+
+The budget provides only high-level debt obligation summaries, lacking granular detail on negotiations with commercial and bilateral creditors beyond China. This opacity creates several problems: Market uncertainty: Investors cannot accurately price risk without information, speculation: Information vacuums get filled with rumors, often worse than reality, missed confidence-building: Transparency itself signals competent management
+
+Modern debt management emphasizes disclosure as a tool for reducing borrowing costs and building credibility. The budget’s limited transparency represents a missed opportunity to strengthen market confidence.
+
+This budget reveals the inherent tension between political campaigning and economic management. While some policy evolution is natural as parties transition to governance, the pattern here suggests incomplete reconciliation between past rhetoric and present responsibility.
+
+The financial community evaluates governments on consistency, transparency, and execution. On these metrics, the budget raises concerns:
+
+• Consistency: Claiming credit for frameworks previously opposed without acknowledgment
+
+• Transparency: Limited disclosure on critical debt and SOE metrics
+
+Sri Lanka’s economic recovery depends on maintaining international confidence while addressing citizen needs. This requires honest communication about constraints, concrete implementation plans for reforms, and acknowledgment of institutional continuity across administrations.
+
+The budget represents neither disaster nor triumph; it’s a document reflecting the difficult learning curve of governance. The question moving forward is whether subsequent budgets and quarterly reviews demonstrate growing sophistication or continued tension between political instinct and economic necessity.
+
+Economic management isn’t performance, it’s about building institutional credibility through consistent, transparent, and evidence-based policy. The nation’s recovery depends on this maturity developing quickly.
+
+(The writer, a senior Chartered Accountant and professional banker, is Professor at SLIIT, Malabe. The views and opinions expressed in this article are personal.)
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
