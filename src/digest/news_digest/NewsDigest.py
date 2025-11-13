@@ -1,6 +1,8 @@
+import json
 import os
 import random
 
+from openai import OpenAI
 from utils import File, Log, Time, TimeUnit
 
 from digest.article import Article
@@ -52,3 +54,33 @@ class NewsDigest(NewsDigestReadMeMixin):
         self.system_prompt = (
             File(os.path.join("prompts", "digest.json.txt")).read().strip()
         )
+
+    def __validate_digest_articles__(self, digest_article_list):
+        n_digest_articles = len(digest_article_list)
+        assert n_digest_articles > 0, "No items in digest data"
+        first_item = digest_article_list[0]
+        assert "title" in first_item, "No title in first item"
+        assert "body" in first_item, "No body in first item"
+        log.info(f"Generated digest with {n_digest_articles} items.")
+
+    def get_digest_article_list(self):
+        log.debug(f"Generating digest with {self.MODEL}...")
+        client = OpenAI()
+        response = client.responses.create(
+            model=self.MODEL,
+            reasoning={"effort": "low"},
+            input=[
+                {
+                    "role": "system",
+                    "content": self.system_prompt,
+                },
+                {
+                    "role": "user",
+                    "content": self.news_article_content,
+                },
+            ],
+        )
+
+        digest_article_list = json.loads(response.output_text)
+        self.__validate_digest_articles__(digest_article_list)
+        return digest_article_list
