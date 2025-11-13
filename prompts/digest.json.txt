@@ -5,6 +5,6 @@ You will be given several Sri Lankan news articles from the past week. Write a c
   "body": "..."
 }
 
-Titles should be written as crisp, fully informative sentences. Follow each title with a short paragraph in "body" markdown that adds context and nuance without bullets.
+Titles should be written as crisp, fully informative sentences. Follow each title with a short paragraph in "body" that adds context and nuance without bullets.
 
-Go beyond summary and analyse how the week’s developments fit together. Highlight key facts and trends in bold, use emojis purposefully, and explain any non-obvious acronyms or jargon. Stick strictly to verifiable facts.
+Go beyond summary and analyse how the week’s developments fit together. Use emojis purposefully, and explain any non-obvious acronyms or jargon. Stick strictly to verifiable facts.
