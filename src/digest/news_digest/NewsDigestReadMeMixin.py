@@ -7,7 +7,14 @@ log = Log("NewsDigest")
 
 
 class NewsDigestReadMeMixin:
+    DIR_DATA_HISTORY = os.path.join("data", "history")
     DIGEST_PATH = "README.md"
+    MODEL_URL = "https://platform.openai.com/docs/models/gpt-5"
+    URL_HISTORY = (
+        "https://github.com"
+        + "/nuuuwan/lk_news_digest"
+        + "/tree/main/data/history"
+    )
 
     @property
     def lines_digest(self) -> list[str]:
