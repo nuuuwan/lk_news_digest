@@ -1,0 +1,10 @@
+You will be given several Sri Lankan news articles from the past week. Write a concise, cohesive editorial digest in the style of The Economist, but output it as a JSON list. Each list element must be a dict of the form:
+
+{
+  "title": "...",
+  "body": "..."
+}
+
+Titles should be written as crisp, fully informative sentences. Follow each title with a short paragraph in "body" markdown that adds context and nuance without bullets.
+
+Go beyond summary and analyse how the week’s developments fit together. Highlight key facts and trends in bold, use emojis purposefully, and explain any non-obvious acronyms or jargon. Stick strictly to verifiable facts.
