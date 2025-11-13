@@ -50,5 +50,5 @@ class NewsDigest(NewsDigestReadMeMixin):
             self.get_news_article_content()
         )
         self.system_prompt = (
-            File(os.path.join("prompts", "digest.txt")).read().strip()
+            File(os.path.join("prompts", "digest.json.txt")).read().strip()
         )
