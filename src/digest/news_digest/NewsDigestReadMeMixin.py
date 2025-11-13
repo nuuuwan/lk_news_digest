@@ -16,10 +16,9 @@ class NewsDigestReadMeMixin:
     )
 
     def get_lines_digest(self) -> list[str]:
-        digest_data = self.get_digest_data()
-        for item in digest_data:
-            title = item["title"]
-            body = item["body"]
+        for digest_article in self.get_digest_article_list():
+            title = digest_article["title"]
+            body = digest_article["body"]
             self.lines.extend(
                 [
                     f"## {title}",
@@ -46,7 +45,7 @@ class NewsDigestReadMeMixin:
         lines.append("")
         return lines
 
-    def get_lines_summary(self) -> list[str]:
+    def get_lines_header(self) -> list[str]:
         time_updated = TimeFormat.TIME.format(Time.now())
         n = len(self.used_articles)
         date_strs = [a.date_str for a in self.used_articles]
@@ -55,6 +54,8 @@ class NewsDigestReadMeMixin:
         time_updated_for_badge = Format.badge(time_updated)
 
         return [
+            "# 🇱🇰 Sri Lanka This Week",
+            "",
             "![LastUpdated](https://img.shields.io/badge"
             + f"/last_updated-{time_updated_for_badge}-green)",
             "",
@@ -88,8 +89,7 @@ class NewsDigestReadMeMixin:
     @property
     def lines(self) -> list[str]:
         return (
-            ["# 🇱🇰 Sri Lanka This Week", ""]
-            + self.get_lines_summary()
+            self.get_lines_header()
             + self.get_lines_digest()
             + self.get_lines_used_articles()
             + self.get_lines_model_details()
