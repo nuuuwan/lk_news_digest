@@ -18,7 +18,7 @@ class NewsDigest(NewsDigestReadMeMixin):
     DIR_DIGESTS = os.path.join("data", "digests")
 
     @staticmethod
-    def get_article_in_time_window() -> list[Article]:
+    def __get_article_in_time_window__() -> list[Article]:
         articles = Article.list_all()
         min_time_ut = (
             Time.now().ut - NewsDigest.MAX_DAYS_OLD * TimeUnit.SECONDS_IN.DAY
@@ -32,8 +32,8 @@ class NewsDigest(NewsDigestReadMeMixin):
         return articles_in_time_window
 
     @staticmethod
-    def get_news_article_content() -> str:
-        articles_in_time_window = NewsDigest.get_article_in_time_window()
+    def __get_news_article_content__() -> str:
+        articles_in_time_window = NewsDigest.__get_article_in_time_window__()
 
         content = ""
         used_articles = []
@@ -53,13 +53,15 @@ class NewsDigest(NewsDigestReadMeMixin):
         )
         return content, used_articles
 
+    @staticmethod
+    def __get_system_prompt__() -> str:
+        return File(os.path.join("prompts", "digest.json.txt")).read().strip()
+
     def __init__(self):
         self.news_article_content, self.used_articles = (
-            self.get_news_article_content()
+            self.__get_news_article_content__()
         )
-        self.system_prompt = (
-            File(os.path.join("prompts", "digest.json.txt")).read().strip()
-        )
+        self.system_prompt = self.__get_system_prompt__()
         self.ts = TimeFormat.TIME_ID.format(Time.now())
 
     def __validate_digest_articles__(self, digest_article_list):
