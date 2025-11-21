@@ -1,0 +1,51 @@
+Where we stand, how Budget 2026 funds progress and what next
+
+Sri Lanka has reached a policy inflection point. Its 2026 national Budget foregrounds digitalisation as a strategic lever for growth, public-service efficiency and jobs creation and it arrives against a mixed baseline widespread familiarity with mobile internet however persistently low formal computer skills. The challenge ahead is straightforward on paper but fiendishly hard in practice: turn headline allocations and national strategies into enduring, equitable improvements in computer and digital literacy for the next generation.
+
+National statistics show a split personality in Sri Lanka’s digital profile. On the one hand, broad digital literacy, the ability to use mobile phones and basic online services, is relatively high, roughly two out of three Sri Lankans demonstrate some form of digital literacy. On the other, formal computer literacy (the set of skills associated with using a personal computer: typing, file management, word processing, spreadsheets and basic software use) remains low. The Department of Census and Statistics reported an overall computer-literacy rate of 35.9% in 2024, down 3.1 percentage points from 2023, and with marked urban-rural disparities (urban 47.3%, rural and estate areas significantly lower). That gap matters because many mid-level and higher-value jobs still require computer competence rather than only smartphone fluency.
+
+The government’s 2026 Budget, delivered on 07 November, 2025, places digital transformation high on the policy agenda. The finance documents, Budget speech and related analyses reveal three complementary strands. Large capital lines for national digital infrastructure and platforms. Media reporting and government material point to a multi-billion-rupee commitment to build backbone systems: a national digital identity, a government data exchange architecture, and sectoral digital platforms. Public reporting has placed the headline figure for the digital economy allocation in the range of Rs. 25.5–35.6 billion, used for multiple projects across Ministries.
+
+The 2026 estimates earmark funding to upgrade technical and vocational training (TVET) and to support education modernisation. Published budget pages and press coverage indicate about Rs. 8,000 million set aside for improving vocational training with specific reference to modernising courses and teacher training that includes technology components.
+
+The Budget speech and independent analyses mention a new Digital Economy Act, the creation of a Digital Economy Authority, and measures to incentivise digital payments (for example waiving some transaction fees) to accelerate adoption of e-services. These legal and regulatory steps aim to create the governance structures to sustain investment and private-sector partnerships.
+
+Taken together, the Budget signals intent to both build infrastructure and to stimulate demand for digital services, a necessary combination if investments are to generate jobs and create real incentives for citizens to improve their digital skills. If implemented with discipline and equity in mind, the Budget’s digital thrust could deliver concrete benefits:
+
+A national digital ID and data-exchange could make many government services faster and more accessible, reducing bureaucratic friction for citizens and businesses. That in turn raises demand for people who can navigate online forms and routine digital processes.
+
+Improved job pathways: Upgraded TVET programmes tied to industry needs can create entry points into IT support, digital content creation, data operations and customer-service roles that do not require advanced degrees. The dedicated vocational funding in the budget provides the fiscal base for such retooling.
+
+Economic multiplier effects: A stronger digital economy can stimulate entrepreneurship, remote work and exports of digital services the government itself has flagged ambitions for a USD 15 billion digital economy by 2030, which would create sustained demand for digital workers.
+
+Public-sector efficiency and transparency: Digital procurement, e-payments and online workflows can reduce leakages and create measurable gains in service delivery benefits that are politically visible and socially meaningful.
+
+However every promise carries pitfalls. The Budget’s success depends on implementation choices that are less glamorous than speeches or headline numbers. Equity shortfall. Centralised projects can paradoxically widen gaps if procurement, roll-out and teacher training focus on better connected urban schools. The DCS data showing stark urban-rural differences in computer literacy underline this risk: without explicit ring-fenced funding for remote and estate schools, the poorest children may be left further behind.
+
+Underestimated recurring costs: Providing devices is only the first step; upkeep, connectivity, repairs, software licences and technical support are ongoing Budget items that are easy to underfund in a single fiscal cycle. Experience in other countries shows device lifecycles and maintenance are recurrent drains that must be planned for.
+
+Teacher capacity bottleneck: Technology without pedagogy is decoration. Large numbers of teachers will need sustained professional development, not one-off workshops, to make technology an integrated part of teaching, and that requires funding for mentoring, follow-ups and incentives.
+
+Procurement and governance vulnerabilities: Big IT projects attract vendor complexity and political risk. Transparent procurement, open dashboards and independent audits are essential to prevent delays, cost overruns and misuse.
+
+Mismatch between mobile use and PC skills: A “mobile-first” population means many citizens are digitally active, but not necessarily computer-literate. Policies must deliberately scaffold mobile skills into formal computer competence, otherwise young people will remain employable mainly for low-value informal activities.
+
+Publish a time-bound target such as “raise national computer literacy from 35.9% to X% by 2028,” broken down by province and sector, and attach KPIs for device uptime, teacher training completion rates and student learning outcomes. Targets make Ministries accountable and let donors and civil society measure progress.
+
+Dedicate a visible tranche of the digital allocation to rural/estate connectivity, community learning centres and device maintenance. These ring-fenced sums should be conditional on provincial implementation plans and monitored centrally.
+
+Fund sustained blended programmes (online modules + face-to-face mentoring) and create incentives career points, allowances or certification linked to demonstrated classroom use of digital pedagogy. One-day workshops will not suffice.
+
+Co-design short, stackable credentials with industry (BPOs, local IT firms, telecoms) so learners earn immediately employable skills; use apprenticeships and internship stipends to smooth the school-work transition.
+
+Publish procurement timelines, contracts and progress dashboards. Use third-party verification for large projects and empower Parliament’s oversight committees and civil society to scrutinise roll-outs.
+
+Start with learners’ existing digital behaviours (mobile apps, messaging) and scaffold keyboarding, file management, spreadsheets and basic coding. Micro-credentials should certify these steps and be portable across jobs and education pathways.
+
+If the Budget is implemented with these principles, success will be visible in three ways within 03 -05 years: (a) measurable rises in computer literacy across provinces and narrowing of the urban-rural gap; (b) stronger TVET pipelines placing youth into digital economy jobs; and (c) more routine public services transacted online with lower administrative costs. These outcomes together would mean the government not only digitised services but also upgraded human capital, giving a generation of Sri Lankans the practical skills to participate in a digital economy.
+
+Sri Lanka’s 2026 Budget sets out a credible blueprint: institutional reforms (Digital Economy Act/Authority), sizeable allocations for digital infrastructure and ring-fenced funding for vocational modernisation. But numbers do not equal outcomes. The real test will be whether the state can manage procurement transparently, ring-fence funds for the least well served, and commit to the long, unglamorous work of teacher development and device maintenance. Without those elements, the allocation risks being another budget headline rather than a generational transformation. With them, Sri Lanka could use this moment to convert mobile familiarity into lifelong computer skills and give the next generation the practical tools they need for work, learning and civic life.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
