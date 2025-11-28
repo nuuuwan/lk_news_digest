@@ -1,0 +1,29 @@
+A timely eye-opener to the environmental, social and economic costs of AI
+
+Sri Lanka is positioning itself as an emerging hub for artificial intelligence, promising investors that the island is ready to host large data centres, cloud providers and digital infrastructure on a scale never attempted before. Government statements present AI as a clean, limitless opportunity—an industry that will accelerate GDP growth, attract foreign capital and turn the country into a regional innovation centre.
+
+But at Thursday’s Nations Trust Bank – WNPS Monthly Lecture at the BMICH, former Acting Chief Justice Shiranee Tilakawardane offered a blunt reality check, warning that the nation is entering this race “without calculating the environmental, social or economic costs of what we are inviting in.”
+
+And in the world of AI, she stressed, these costs are not abstract. “AI is not some weightless miracle technology. It is enormously resource-intensive, and those impacts are already shaping global investment decisions,” she said.
+
+She pointed to the sheer energy demand of modern AI systems. Training the GPT-3 model alone required 1,287 megawatt-hours of electricity—an extraordinary figure for a single training cycle. “When a single model consumes that much energy before it is even deployed, we must ask: where is Sri Lanka’s power for dozens of such operations supposed to come from?” she asked.
+
+Daily global usage of ChatGPT now requires nearly 40 million kilowatt-hours. These numbers matter for a country whose electricity system is already stretched thin. Sri Lanka’s grid is fragile, tariffs are rising, and the nation remains heavily dependent on imported fossil fuels. Yet policymakers continue to promise uninterrupted power to companies planning some of the world’s most energy-hungry facilities.
+
+“We cannot pretend that our current energy landscape can simply absorb these demands. The math does not add up,” Justice Tilakawardane warned.
+
+The water footprint may be even more destabilising. Training GPT-3 consumed 700,000 litres of fresh water, and the daily cooling needs of global generative AI systems now run into tens of millions of gallons. Sri Lanka—already grappling with recurring droughts, shrinking reservoirs and climate-driven hydrological stress—has yet to articulate how it will support hyperscale data centres.
+
+“When agriculture, industry and communities are already competing for water, someone will be pushed aside. The question is: whose access will be sacrificed to keep AI servers cool?” she asked.
+
+Justice Tilakawardane also drew attention to global supply chain risks embedded in AI hardware—from child labour in the cobalt mines of the Democratic Republic of Congo to the toxic and energy-intensive semiconductor production processes in Asia. These, she argued, have direct implications for Sri Lankan companies integrating AI into export-focused sectors.
+
+“ESG is not a slogan. It is an accountability framework, and companies that ignore upstream human rights or environmental violations will face consequences in global markets,” she said. Major export destinations are already tightening requirements on reporting, traceability and lifecycle impacts. Without early compliance, local firms could face penalties, blacklisting or costly supply-chain audits.
+
+HNB FINANCE Posts Rs. 620 Mn PAT, Up by 129% Year-on-Year during the First Half of the FY 2025/26
+
+Green Tape powers 10,000th digital tender, driving ‘a new era of transparent procurement in Sri Lanka’
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

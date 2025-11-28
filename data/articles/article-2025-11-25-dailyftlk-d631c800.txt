@@ -1,0 +1,61 @@
+Power sector reform: Turning setbacks into sustainable opportunity
+
+The NPP Government faces criticism for rolling back the 2024 power sector reforms, with concerns that increased centralisation will lead to inefficiency, delayed system upgrades, higher costs and inability to attract investment.  Is it possible to transform these criticisms into opportunities for sustainable growth through pragmatic measures?
+
+The Sri Lanka Electricity (Amendment) Act, No. 14 of 2025 has reversed the liberalisation of 2024, reinstating centralised control. While it aligns with political priorities, critics warn it threatens efficiency, investment, and Sri Lanka’s 2030 renewable energy goal, risking long-term sustainability for short-term gain. My previous article in the Daily FT (10/10/2025) explored the adverse impacts of scrapping the 2024 reforms.(See endnote [i])
+
+The 2025 amendment restricts private companies to less than 5% ownership in both generation and distribution, which may deter integrated investment and reduce input from skilled firms. The hope is that the Government will revise this Act to expand private sector participation and board representation
+
+This article faces political reality and proposes actions that can improve power sector performance under the 2025 Act.  Drawing on international experience, it argues that the Government and CEB can adopt pragmatic, evidence-based solutions focused on results to deliver reliable, affordable, and sustainable electricity and attract the US$5 billion investment needed in the next decade. Five practical pathways address criticisms and offer effective countermeasures.
+
+Critics argue that the lack of real competition and accountability within CEB’s newly segmented entities perpetuates inefficiency and stifles innovation. To address these concerns, the following measures are suggested:
+
+Strengthen Governance and Financial Discipline. Implement robust financial and operational ring-fencing for each unit, supervised by independent boards. Upholding sound governance from the outset is vital, though appointing qualified independent board members remains a challenge. Require independently audited accounts, and transparent and publicly available Key Performance Indicator (KPIs) to ensure accountability and enable comparisons. Promote Internal Competition and Market-Based Reform. Adopt internal market mechanisms, like cost-based bidding and competitive service contracts, tied to transparency and regulatory benchmarks to foster discipline and reform. Permit LECO, the most innovative and best run distribution company, to operate as an independent entity.  Encourage other distribution companies to follow its innovative practices. Keeping Lanka Transformers Limited (LTL) within the transmission company blurs lines between grid operation and generators, risking biased decisions and discouraging private investment. Make LTL an independent, ring-fenced entity to boost transparency, fair competition, and investor confidence.
+
+Enhance Performance Monitoring and Recognition. Make publicly available, comprehensive dashboards for each unit, tracking key metrics like electricity cost per kWh, technical losses, reliability, availability, carbon emissions, and customer satisfaction. This will foster internal competition and allow for public recognition of high-performing units.
+
+Encourage Innovation and Accountability. While competition as outlined in the 2024 Act may not be feasible now, it is still important for efficiency. Allowing high-performing units more autonomy and access to concessional finance, while imposing stricter budget controls on underperformers, would help. Additionally, awarding staff bonuses based on performance rather than distributing them universally could improve outcomes.International experience—from China’s State Grid to Malaysia’s TNB—shows that performance-linked budgeting and internal competition can drive efficiency even in vertically integrated utilities, addressing many of the sector’s persistent criticisms.
+
+Adopt Special Purpose Vehicles (SPVs) as model for Public-Private Partnerships in the electricity sector via a practical, reform-focused approach. SPVs enable investment in LTL and CEB subsidiaries. It permits Government oversight through Treasury shares, attracting private investment and improving standards. This supports gradual privatisation, risk management, efficiency, decarbonisation, and funding. The effectiveness of this approach depends on skilled governance, which may be hampered by excessive Government control under the 2025 Act.
+
+The 2025 amendment restricts private companies to less than 5% ownership in both generation and distribution, which may deter integrated investment and reduce input from skilled firms. The hope is that the Government will revise this Act to expand private sector participation and board representation.
+
+CEB must commit to clear, expert-led procurement and contract management. Procurement failures—such as those in the Adani Wind Farms and LNG FSRU projects—highlight the dangers of inconsistent and non-transparent processes. Advisory and technical support from organisations such as the Solar Energy Corporation of India and the World Bank Group can help address skill and governance gaps, provided that the CEB actively seeks such expertise. (See endnote [ii])
+
+Credible governance is vital for reform success. Board and operational decisions must remain free from political influence, with strong checks, balances, and merit-based leadership to build trust and attract investment. These goals demand ongoing commitment and discipline from the NPP Government.
+
+Sri Lanka can learn from India’s more liberal Foreign Direct Investment regime and Uruguay’s public-private renewable energy transformation.
+
+CEB must commit to clear, expert-led procurement and contract management. Procurement failures—such as those in the Adani Wind Farms and LNG FSRU projects—highlight the dangers of inconsistent and non-transparent processes. Advisory and technical support from organisations such as the Solar Energy Corporation of India and the World Bank Group can help address skill and governance gaps, provided that the CEB actively seeks such expertise
+
+A key issue is the lack of transparent, non-political processes for setting feed-in tariffs and procurement, which undermines investor confidence and renewable energy investment. Overcoming these challenges is crucial to meeting the goal of 70% renewable electricity by 2030; as of 2024, renewables provided 53%. It will require adding 2,500 to 5,500 MW of renewables by 2030, depending on technology, requiring billions of dollars from domestic, and international sources, and participation of credible and capable companies.
+
+Solutions include forming a multi-stakeholder tariff committee, using transparent methods, and conducting public consultations without Government interference. Tariffs should be cost-reflective, based on objective technical and financial criteria. Additional measures could involve foreign currency indexation, payment security via multilateral guarantees, with payments in LKR preferred with hedging options. Reverse auctions could boost competition and price discovery.
+
+By establishing robust regulatory, procurement and financial frameworks—ensuring equitable access to financing, well-structured duties, transparent grid integration guidelines, and balanced risk-sharing—the sector can unlock significant benefits and foster sustained growth and innovation.  The recent battery energy storage systems feed-in-tariff scheme shows that poor design risks slowing progress.
+
+There are lessons that Sri Lanka would do well to heed, such as the transparent, formula-based tariff-setting as practised in India, and competitive procurement methods like Brazil’s reverse auctions. Egypt’s approach—offering USD-indexed tariffs and securing multilateral guarantees— demonstrates how risk mitigation can mobilise significant ($2 billion) investment for renewables and reduce currency risk.
+
+Credible governance is vital for reform success. Board and operational decisions must remain free from political influence, with strong checks, balances, and merit-based leadership to build trust and attract investment. These goals demand ongoing commitment and discipline from the NPP Government. Sri Lanka can learn from India’s more liberal Foreign Direct Investment regime and Uruguay’s public-private renewable energy transformation
+
+Together, these measures address criticisms concerning the lack of transparency, helping to attract credible investors and accelerate the transition across the entire power sector.
+
+Another concern is insufficient investment in modern grid infrastructure and operational independence. To effectively integrate distributed generation and renewables, focus on storage, smart grids, and demand response, with a technically independent National System Operator. Grid code reforms need to allow open access for qualified generators and ensure fair competition with CEB’s generators, while maintaining security and reliability.
+
+The 2025 Act weakened the system operator’s operational independence promised in the 2024 Act, potentially leading to biased and inefficient dispatch. This can be resolved by reinstating legal safeguards for autonomy, implementing transparent oversight, and basing dispatch decisions solely on technical and economic factors.
+
+Drawing on lessons from Chile and Australia, Sri Lanka can see that grid modernisation, technical autonomy, and flexible resources are key to least-cost, secure, and sustainable supply—directly addressing criticisms of technical stagnation.
+
+5. Engage staff and unions via a social compact and strategic skills redeployment
+
+Critics often point to poor communication and lack of buy-in from CEB staff and unions as a barrier to reform. Recognising that CEB staff and unions understandably advocate for continuity and job protection, the Government could initiate a “social compact” with CEB labour representatives—anchored in mutual trust and long-term sector resilience. This compact would reaffirm commitments to job security and pension stability, while introducing productivity-linked incentives and digital modernisation.
+
+A national skills initiative could help workers transition to new roles in a 21st century utility, renewables, automation, and customer service. It can ensure reforms are inclusive and no worker is left behind.  With many CEB cadre opting for early retirement, such skills development becomes even more necessary and urgent.
+
+While the 2025 Act may limit structural transformation, progress is still possible. By addressing central criticisms—recentralisation, inefficiency, lack of transparency, weak investment frameworks, technical stagnation, and poor workforce engagement—Sri Lanka can build a power sector that is efficient, reliable, attractive to investors, and aligned with climate goals
+
+South Africa’s Eskom and Indonesia’s PLN experiences show that involving staff and unions in reform through negotiation, retraining, and incentives can support both modernisation and workforce stability. In New Zealand, reforms included targeted programs offering training, financial help, and guidance for staff moving to contractor roles, preserving expertise and enabling flexible work, ultimately supporting workforce resilience and smoother transitions in the power sector.
+
+While the 2025 Act may limit structural transformation, progress is still possible. By addressing central criticisms—recentralisation, inefficiency, lack of transparency, weak investment frameworks, technical stagnation, and poor workforce engagement—Sri Lanka can build a power sector that is efficient, reliable, attractive to investors, and aligned with climate goals.
+
+Global evidence shows that even centralised utilities can evolve if guided by clear performance metrics, transparency, and genuine stakeholder engagement. The challenge is not whether reform is possible, but whether the NPP Government and CEB are willing to respond to criticism with pragmatic, sustained action. The stakes—economic recovery, energy security, and climate resilience—are too high to ignore.

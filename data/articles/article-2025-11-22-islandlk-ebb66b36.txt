@@ -1,0 +1,29 @@
+ComBank and Abans forge landmark partnership with POS and digital payments rollout
+
+The Commercial Bank of Ceylon is to roll out a major point-of-sale (POS) and digital payments solution across the national retail network of Abans PLC – in a partnership that sets a new benchmark for bank–retailer collaborations in the country and underscores the Bank’s capacity to deliver enterprise-grade acquiring infrastructure.
+
+This agreement will make Abans one of the leading digitally enabled retailers in Sri Lanka, with a network of over 400 outlets across the country, equipping its outlets to accept payments across all major international and domestic card schemes as well as QR payments, while seamlessly integrating with the company’s enterprise resource planning (ERP) and supply chain management (SCM) systems at the scale, security, interoperability, and resilience required by modern retail.
+
+Commercial Bank’s merchant acquiring platform for Abans will encompass Visa, Mastercard, UnionPay, JCB, LankaPay, and LankaQR, in addition to supporting international QR schemes such as WeChat Pay, Alipay and UnionPay, Visa QR, and Mastercard QR, all unified under a single framework that also includes the Bank’s Internet Payment Gateway. This omni-channel capability ensures that whether a customer pays in-store, online, or via mobile, transactions are processed through one consolidated system, simplifying reconciliation and enhancing transparency. Not only does the solution support card and QR payments, it is also capable of facilitating Easy Payment Plans (EPP), delivering a complete, future-ready digital payment experience for merchants and customers alike.
+
+The 2,500 POS devices to be deployed are multi-functional, EMV-certified terminals that support contactless, chip, and magnetic stripe cards, as well as dynamic QR acceptance. Each unit is designed for high throughput environments and offers secure API connectivity to Abans’ ERP and SCM platforms. The result is real-time transaction capture, instant inventory updates, automated billing accuracy, and seamless digital recordkeeping across the chain’s retail footprint, the Bank said.
+
+Commercial Bank’s systems are fully compliant with Payment Card Industry Data Security Standards (PCI DSS), incorporating point-to-point encryption, tokenisation, and layered fraud detection mechanisms. Continuous real-time monitoring, risk scoring, and anomaly alerts safeguard against fraud, while a dedicated incident response team ensures rapid resolution in line with defined service-level agreements.
+
+“This partnership is a showcase of technology leadership,” S. Ganeshan, Deputy General Manager – Personal Banking of Commercial Bank said. “By delivering an integrated POS and digital payment solution of this scale, we are enabling Abans to transact with the highest levels of security, interoperability, and operational resilience. It is proof that Commercial Bank can architect complex payment ecosystems that match the needs of modern retail and align with the country’s digital future.”
+
+Dr. S. Dubash, Director of the Abans Group added: “Our priority has always been to combine innovation with customer-centricity. This deployment gives our customers faster, safer, and more flexible payment choices while ensuring our back-end operations run with precision and efficiency. Partnering with Commercial Bank allows us to take a decisive step forward in digital retailing and reinforces our contribution to the national push towards a cashless economy.”
+
+The collaboration also directly supports the government’s national vision of a cashless economy. By enabling millions of secure, traceable digital transactions at one of the country’s largest retail groups, Commercial Bank and Abans are advancing mass-scale adoption of digital payments, financial inclusion, and efficiency in consumer commerce.
+
+By blending enterprise-grade payment technology, nationwide retail presence, and a shared vision of digital transformation, Commercial Bank and Abans have created a blueprint for future collaborations between banks and large corporates. This rollout redefines what is possible in merchant acquiring, marking a pivotal moment in Sri Lanka’s journey towards becoming a digitally empowered economy, the Bank said.
+
+The first Sri Lankan bank with a market capitalisation exceeding US$ 1 billion, Commercial Bank was also the first bank in the country to be listed among the Top 1000 Banks of the World, and has the highest capital base among all Sri Lankan banks. The Bank is the largest private sector lender in Sri Lanka and the largest lender to the country’s SME sector. Commercial Bank is also a leader in digital innovation and is Sri Lanka’s first 100% carbon-neutral bank.
+
+Commercial Bank operates a network of strategically located branches and automated machines island-wide, and has the widest international footprint among Sri Lankan banks, with 20 branches in Bangladesh, a fully-fledged Tier I Bank with a majority stake in the Maldives, a microfinance company in Myanmar, and a representative office in the Dubai International Financial Centre (DIFC). The Bank’s fully owned subsidiaries, CBC Finance Ltd. and Commercial Insurance Brokers (Pvt) Limited, also deliver a range of financial services via their own branch networks.
+
+Sri Lanka Insurance Life shines at SLIM National Sales Awards 2025
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
