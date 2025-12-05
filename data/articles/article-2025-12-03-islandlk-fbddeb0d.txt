@@ -1,0 +1,23 @@
+Kaspersky advocates protecting Sri Lanka’s digital future by combatting vulnerabilities
+
+Sri Lanka’s rapid adoption of digital technologies has ushered in tremendous opportunities for economic growth and innovation. However, this accelerated digitization also exposes critical vulnerabilities in software and infrastructure that cybercriminals eagerly exploit.
+
+According to the Kaspersky Security Bulletin 2024 and the Kaspersky 2024 Threat Statistics Report, exploit-driven threats rose sharply globally, with malicious file detections increasing 14% to 467,000 per day. Trojan activity grew by 33%, and Trojan-droppers surged X2.5 times. The Kaspersky Top Exploited Vulnerabilities 2023–2024 report also shows exploited Linux vulnerabilities more than tripled year-on-year, signaling a clear global rise in exploit-based cyberattacks. These attacks leverage weaknesses in widely-used software, such as operating systems, applications, and drivers, to bypass security controls, implant malware, or steal sensitive information.
+
+Sam Yan, Head of Sales for Asia Emerging Countries at Kaspersky, stresses, ‘‘Many organizations in Sri Lanka still operate legacy IT systems or delay critical security patches, creating ripe conditions for attackers exploiting known vulnerabilities. This vulnerability is compounded by attackers’ consistent use of zero-day exploits, previously unknown software flaws that cannot be patched until they are discovered, leaving organizations exposed on multiple fronts.”
+
+According to Kaspersky, attacks targeting vulnerable Windows drivers showed an upward trend for Q1 and Q2 2025: There was a 25% growth in Q1 2025 compared to Q1 2024 and an 8% growth in Q2 2025 compared to Q2 2024, with these drivers being exploited for ransomware and APT campaigns. Meanwhile, Linux systems face growing threats as critical vulnerability registrations surged threefold in 2023 compared to the 2019-2022 average, reflecting Linux’s expanding adoption in enterprise environments. Yan warns, “The diversity of IT environments in Sri Lanka, from government departments to private firms, means a one-size-fits-all approach doesn’t work. Organizations need tailored vulnerability management strategies that include continuous patching, automated scanning, and employee training.”
+
+Furthermore, macOS users are not immune. New spyware and backdoors targeting Apple devices emerge constantly, highlighting the expanding attack surface. Yan adds, “Sri Lanka’s cybersecurity ecosystem must evolve from reactive defense to proactive threat hunting and response. Investments in threat intelligence platforms and endpoint detection and response (EDR) tools can drastically reduce the window of vulnerability.”
+
+He advocates public-private cooperation, saying, “Combating software vulnerabilities requires a unified effort. Government agencies, tech vendors, and cybersecurity firms must collaborate on information sharing and rapid response protocols.”
+
+In 2024, Sri Lanka experienced 9,218 phishing attacks that impersonated financial institutions to target businesses. This substantial threat volume demonstrates the need for organizations to implement regular penetration testing and cyber drills to identify vulnerabilities before attackers can exploit them.
+
+To protect yourself and your business from ransomware attacks, consider following the rules proposed by Kaspersky experts: Do not expose remote desktop/management services (such as RDP, MSSQL, etc.) to public networks unless absolutely necessary and always use strong passwords, two-factor authentication and firewall rules for them. Promptly install available patches for commercial VPN solutions providing access for remote employees and acting as gateways in your network. Always keep software updated on all the devices you use to prevent ransomware from exploiting vulnerabilities. Pay special attention to the outgoing traffic to detect cybercriminals’ connections.
+
+ITC Ratnadipa welcomes designers and guests for CFW Couture + Trousseau, day two
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

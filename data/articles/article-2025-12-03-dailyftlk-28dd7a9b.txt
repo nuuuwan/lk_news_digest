@@ -1,0 +1,15 @@
+Sri Lanka moves toward electronic invoicing with RAMIS upgrade
+
+The Cabinet of Ministers on Monday approved engaging with Singapore-based NCS Solutions Ltd., to upgrade the Revenue Administration Management Information System (RAMIS) of the Inland Revenue Department.
+
+The upgrade will introduce a Web API facility for VAT-registered individuals, marking a key step toward modernising tax administration.
+
+Although Sri Lanka has not yet implemented a real-time electronic invoicing system, many countries are adopting such frameworks to enhance tax transparency, curb evasion, and streamline business transactions.
+
+In line with these global trends, the Inland Revenue Department has evaluated the introduction of an electronic invoicing system integrated with RAMIS.
+
+The evaluation concluded that implementing a secure Web Application Programing Interface (Web API) would serve as the initial stage of this transition, enabling VAT-registered taxpayers to interface more efficiently with the department’s digital tax systems.
+
+This initiative aligns with broader efforts to modernise the country’s tax administration and improve compliance through technology-driven solutions.
+
+The proposal to this effect was presented by President Anura Kumara Dissanayake in his capacity as the Finance, Planning and Economic Development Minister.

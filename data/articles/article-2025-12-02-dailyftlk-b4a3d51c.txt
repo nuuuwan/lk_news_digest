@@ -1,0 +1,13 @@
+Telecom operators, partners accelerate restoration of connectivity after Cyclone Ditwah
+
+Sri Lanka’s national telecommunication operators, in close coordination with Government authorities, are intensifying round-the-clock recovery efforts to reconnect communities battered by severe flooding and landslides triggered by Cyclone Ditwah since 27 November.
+
+The disaster has claimed 334 lives, left nearly 400 people missing or unaccounted for, and affected more than 1.3 million individuals nationwide, with rising river levels prompting evacuation warnings for low-lying areas from the National Disaster Management Centre.
+
+Widespread power outages and damage to backbone optical-fibre networks have disrupted a significant portion of the national network, causing major service interruptions, particularly in Colombo, Gampaha, Kalutara, Kandy, Ratnapura, and other Central Province districts. These outages have isolated families and hampered emergency coordination, but all operators have extended free mobile connectivity until today (2 December) to support affected households and relief operations.
+
+On 28 November, the Telecommunications Regulatory Commission of Sri Lanka (TRCSL) convened emergency meetings with the country’s major operators, Dialog Axiata, SLT-Mobitel, and Hutch, urging seamless collaboration with the Ceylon Electricity Board for rapid deployment of generators and backup power solutions. Field teams are now prioritising backbone repairs, site stabilisation, and temporary power installations, targeting substantial network recovery so that voice, data, and emergency lines can serve public safety and family communication needs.
+
+In support of this national response, several long-standing infrastructure partners are actively contributing. Huawei Technologies Lanka has activated its Business Continuity Management (BCM) mechanism and established a dedicated network-support task force that has mobilised more than 80 personnel. This includes engineers assisting Dialog Axiata, supporting SLT-Mobitel and Hutch, and coordination of additional engineers and subcontractors to deliver specialised components and carry out on-site recovery work in the worst-hit districts.
+
+This collaborative effort, from Government directives to operator execution and partner technical support, reflects Sri Lanka’s resilience in the face of crisis and the critical role reliable connectivity plays in keeping families together and enabling rescue operations.
