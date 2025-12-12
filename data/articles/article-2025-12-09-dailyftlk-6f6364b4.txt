@@ -1,0 +1,115 @@
+Building a safer Sri Lanka: A presidential appeal for a National Building and Development Code
+
+Tracing the wounds of history and the painful narrative behind it
+
+The Engineer Journal is the official publication of the Institution of Engineers, Sri Lanka (IESL). On 22 October 2016, I published an article entitled “Path Ahead for Public Sector Engineers” (Volume 49, Issue 4). Securing its publication was a considerable challenge, as the journal traditionally accepts only technical papers that present research findings or inventions. Articles on management-related subjects are typically confined to the newsletter. Furthermore, my article contained critical observations on the conduct of practising engineers and the role of IESL itself. In consultation with the assessors, I moderated the tone to achieve a balanced and constructive middle ground.
+
+Following its publication, I received an email from a senior officer at the Urban Development Authority (UDA), who expressed interest in adopting some of my recommendations. He invited me to assist in developing Key Performance Indicators (KPIs) for technical areas related to Development Plans. I subsequently designed a KPI framework, which was implemented within the unit despite significant internal resistance. During a visit to Sri Lanka, I delivered a presentation to the Chairman and senior management of UDA on the practical applications of KPIs. The questions raised during the session reflected the staff’s reluctance to embrace the system. This work was undertaken entirely on a voluntary basis, as a professional contribution to motherland.
+
+On 11 July 2017, I published another article titled “The Need of the Hour: A Building Code for Sri Lanka.” Prior to this publication, the necessity of a National Building Code had not been adequately recognised by Sri Lankan engineers or planners. I shared the article with the same senior officer at UDA, who was deeply engaged with the subject, given UDA’s responsibility to develop such a Code. He initiated professional dialogue among relevant agencies, and I committed my time, expertise, and experience to support this national priority. Over the course of two years, I actively participated in extensive online discussions and facilitated meaningful exchanges among representatives from UDA, NBRO, CIDA, the University of Moratuwa, and IESL.
+
+During these sessions, I delivered a comprehensive presentation on the National Construction Code Series and the Building Code of Australia. In addition, I provided a Building Classification System and a template with content pages for a proposed Model National Building Compliance Code tailored to Sri Lanka. To support this initiative, I shared copies of internationally recognised codes from Australia, Singapore, India, and Canada, offering comparative insights and best practices.
+
+Through persistent advocacy and sustained professional engagement, these efforts culminated in the Cabinet’s approval on 30 April 2019 to proceed with the development of a National Building Code. Importantly, I dedicated two years of work entirely pro bono, driven solely by the objective of helping Sri Lanka establish a robust regulatory framework for building and development compliance.
+
+Although I worked voluntarily, I was aware that the officials attending these meetings were compensated for their roles in what should have been a nationally significant undertaking. After more than two years of dedicated effort, however, the outcome was deeply disheartening. The expert committee ultimately abandoned the idea of developing a homegrown National Building Code and instead chose to explore the purchase of a foreign code.
+
+I voiced my strong disagreement with this approach and gradually withdrew from further committee activities, recognising that my presence was increasingly perceived as an obstacle to their preferred course of action. From the outset, I understood that such a direction was unlikely to achieve the true objectives of a National Building Code.
+
+It became clear to me that the expert group lacked a proper understanding of the essential characteristics of a National Building Code. Predictably, the initiative failed to materialise. This experience reflected the level of professional efficiency demonstrated by the officials appointed under the Yahapalana Government to lead the development of a National Building Compliance Code, an effort intended to safeguard public amenity, safety, and welfare, and to minimise the risk of man-made disasters.
+
+Eight years after I attempted to guide Sri Lankan professionals to develop a national building compliance code, Cyclone Ditwah came and went in a hurry.  The scale of damage left by Ditwah was magnified by the unregulated and non-compliant development activities on the ground. While the forces of nature will ultimately prevail in such events, the extent of destruction and loss of life could have been significantly reduced had the authorities enforced planning and construction regulations and introduced technical performance solutions for designers and builders through a National Building Compliance Code.
+
+The devastation was compounded by a series of human shortcomings:
+
+5. Lack of flood management plans for varying rain events (1:20, 1:50, 1:100, 1:1000, and Probable Maximum Flood levels)
+
+Equally troubling was the lack of public evacuation strategies and comprehensive disaster management plans for each flood event. Over the past eight years, I have consistently reminded professional stakeholders of these urgent needs through public articles. Yet, those responsible for action remained in a state of inertia, allowing preventable risks to persist.
+
+On 21 October 2025, significantly, before the devastation of Cyclone Ditwah, the NPP Government approved the long-overdue project to develop a National Building Code for Sri Lanka. This initiative represents a crucial step forward, but its success will depend on whether the appointed committee fully understands the scope of a national building code in which multidisciplinary professionals must be engaged, what legal instruments must be established before implementation, and what monitoring and enforcement mechanisms must be sustained thereafter.
+
+The responsibility for developing the National Building Code of Sri Lanka (NBCSL) lies squarely with professionals across engineering, planning, architecture, environment and disaster management disciplines. Politicians are responsible for enacting policies and laws, but they must rely on the expertise and recommendations of these professionals to ensure effective outcomes.
+
+Globally, developed nations have already established such frameworks through rigorous effort and collaboration. For Sri Lanka the path forward is clear.  It is to seek technical assistance from developed countries, UN agencies, and the World Bank. However, this process must not be reduced to a mere opportunity for officials to pursue overseas training or scholarships. The true measure of success will be the delivery of tangible outcomes that strengthen national resilience.
+
+Failure to achieve this will leave the nation vulnerable, forcing citizens to bear the consequences of professional negligence and systemic inefficiency.
+
+Buildings and infrastructure, roads, bridges, dams, drainage systems, and more form the backbone of daily life. They must be constructed in the right form, in the right place, and in the right way. When these structures fail, whether due to natural forces such as fire, flooding, or cyclones, or man-made causes such as structural collapse or poor maintenance, the consequences are immediate and severe. To protect lives, every structure must be compliant, safe, and sustainable, designed to withstand disasters long enough to allow occupants to remain safe or evacuate when necessary.
+
+Recent global tragedies underscore this reality. The devastation caused by Cyclone Ditwah, the Grenfell Tower fire in London, and the Genoa Bridge collapse in Italy demonstrate how quickly deficiencies in planning, construction, and compliance can escalate into national crises.
+
+Sri Lanka faces similar vulnerabilities. Rapid urbanisation, unauthoriSed construction in both cities and hill country, the proliferation of condominiums, obstruction of stormwater drainage channels, and uneven regulatory oversight have created a fragile built environment. These risks make the establishment of a National Building Compliance Code not just timely, but essential.
+
+The objective is clear, it is to protect lives, safeguard investments, and build public confidence in the resilience of Sri Lanka’s infrastructure.
+
+Despite decades of construction booms, Sri Lanka still lacks a consolidated, legally enforceable National Building Code. This absence has left the country vulnerable to systemic failures in design, construction, and regulation.
+
+Even among professionals, there is widespread misunderstanding of what a National Building Code entails. National means applicability across the entire country. Building encompasses not only all types of structures but also their interface with associated infrastructure. Code signifies a legally enforceable framework, not merely a set of technical guidelines.
+
+Many mistakenly equate the National Building Code with technical standards such as those issued by the Sri Lanka Standards Institution, British Standards, Euro Standards, or Australian Standards. In reality, the Building Code is a legal compliance instrument. It prescribes performance solutions, references technical standards, and establishes mechanisms to approve innovative approaches.
+
+Technical codes alone, often termed Codes of Practice or National Standards, carry no legal authority. For example, a professional in Sri Lanka may design a structure without adhering to a technical code, and if that design fails, resulting in injury or death, prosecution is impossible because no legal requirement mandates compliance with a specific standard. In contrast, countries like Australia enforce compliance through their National Building Code. Designers must either follow nominated technical codes and planning regulations or demonstrate that their design meets performance requirements through testing, verification, or expert review. Non-compliance renders development activities illegal, and professional negligence under such circumstances is treated as a crime, given its impact on public safety, health, and amenity.
+
+Currently, Sri Lanka’s approval processes vary widely, enforcement is inconsistent, and unauthorised or non-compliant structures continue to proliferate. Tragic incidents such as the 2017 Wellawatte building collapse and the 2020 Kandy building failure exposed a chain of systemic weaknesses in inadequate design, flawed planning, weak approval mechanisms, poor construction certification, and insufficient insurance oversight.
+
+Critical safety considerations such as accessibility for people of all abilities, fire compartmentation, and emergency egress, are frequently overlooked. As a result, the public is exposed daily to risks when entering partially functional, poorly designed, and inadequately managed buildings.
+
+The 2014 Lacrosse Tower fire in Melbourne, Australia, demonstrated how combustible external cladding can turn a localised incident into a rapidly escalating crisis, with flames racing from the 6th to the 21st floor in minutes. While internal sprinklers prevented fatalities, the event triggered nationwide audits and extensive rectification programs.
+
+The United Kingdom’s Grenfell Tower disaster in 2017 revealed the devastating consequences of inadequate fire safety measures. The absence of sprinklers and the presence of combustible cladding contributed to the tragic loss of dozens of lives, leaving a lasting impact on public policy, industry practices, and community trust.
+
+Italy’s Genoa Bridge collapse in 2018 underscored the critical importance of lifecycle maintenance, comprehensive asset documentation, and strict regulation of heavy vehicle loads. The tragedy highlighted how neglect in infrastructure oversight can have catastrophic consequences.
+
+Together, these events serve as stark reminders that governance, rigorous auditing, and transparent accountability are as vital to public safety as technical design and engineering excellence.
+
+Australia’s introduction of the first Performance Building Code in the 1990s marked a significant step toward modern regulation. The Code has been periodically reviewed and improved, yet even commentary written as recently as 2017 by me is now outdated. A key challenge lies in the fragmented governance structure because each State retains the authority to impose its own requirements and controls on the National Building Code.
+
+In New South Wales, reforms aimed at streamlining development approvals went too far. Under the “Design and Construct” model, when design, construction, and certification were funded or controlled by the same developer, quality and compliance were compromised. The rise of private certifiers, intended to expedite approvals, created incentives to dilute compliance standards. Recognising these risks, the NSW Government strengthened oversight by appointing a commissioner and inspectors, removing rogue certifiers from the industry, and prosecuting offenders.
+
+Sri Lanka faces even deeper structural challenges. The absence of a comprehensive development certification framework, a unified Buildings Regulations Act, and robust compliance auditing leaves the system vulnerable. Political cycles prioritise ribbon-cutting ceremonies for new assets while neglecting maintenance funding, documentation, and long-term asset management. Failures are addressed only through emergency spending, a pattern that must be broken.
+
+High-rise living transforms neighbourhoods, but it also introduces risks. Deep basement excavations, pile driving near property boundaries, and altered groundwater flows can destabilise adjacent structures. Without compulsory pre-construction dilapidation surveys, damage to neighbouring properties often goes undocumented and uncompensated.
+
+Best practice in developed jurisdictions includes transparent public notification, clear site signage, traffic management plans, noise controls, and erosion protections. These safeguards protect neighbours, pedestrians, and public spaces. For Sri Lanka, mainstreaming such practices before approvals are granted is essential to ensure that urban growth does not come at the expense of community safety and environmental integrity.
+
+From projects to products and planning for the whole lifecycle
+
+The economic life is almost always shorter. When projects neglect lifecycle maintenance, renewals, and upgrade costs or fail to secure sustainable funding sources assets risk becoming “white elephants.” Asset management must be treated as a professional discipline and not an afterthought.
+
+Sri Lanka must embed lifecycle planning and benefit realisation into every major building and infrastructure approval. Clear accountability for outcomes, alongside revenue or savings mechanisms that sustain assets over time, is essential to ensure long-term value and resilience.
+
+Australia’s National Construction Code (NCC) sets performance-based requirements across safety, health, amenity, and sustainability. It offers two pathways:
+
+Performance solutions-flexible, non-prescriptive approaches that encourage innovation while meeting performance requirements.
+
+State Governments complement the NCC with oversight of certifiers, builder licensing, and warranties (ie. six-year structural guarantees). Yet Australia’s cladding and structural crises demonstrate that standards alone are insufficient without:
+
+Sri Lanka should establish a performance-based National Building Compliance Code, tailored to local conditions. Success will depend not only on the code itself but on investment in institutions and skills to enforce it equitably. Provincial Governments, like their Australian counterparts, can play a vital role by introducing localised enforcement, compliance auditing, and supervision to ensure accountability at every level.
+
+Update building and development planning requirements at local, provincial, and national levels and base all standards on evidence from:
+
+Enact a National Building and Development Act and a National Building and Development Compliance Code. Make compliance compulsory nationwide, with buildings classified by use and associated risk.
+
+Create a permanent Independent Buildings and Developments Commission to oversee approvals, certifications, audits, and continuous code updates. Ensure enforcement at local, provincial, and national levels.
+
+Mandate dilapidation surveys and neighbourhood notifications as part of every development approval. Safeguard adjacent properties, roads, and public assets before construction begins. The developer must restore or improve surrounding public properties to a better condition as a part of development approval. Or else a percentage of project cost must be paid to the local authority to develop surrounding public structure.
+
+Require fire compartmentation, sprinklers where warranted, equitable access by building class, emergency egress, and strict site safety measures (PPE, traffic control).
+
+Tie approvals to whole-of-life asset management plans. Asset owners must demonstrate that assets and their environments can be maintained safely, functionally, and compliantly throughout their lifecycle.
+
+Train professionals, certifiers, inspectors, designers, and contractors in the use and enforcement of the National Building and Development Compliance Code. Adapt international guidance to local conditions while building domestic expertise.
+
+Demand transparency: Ask for approvals, certifications, and warranties before you build, buy, or rent.
+
+Support enforcement: Back local authorities that uphold compliance and safety rules and hold them accountable.
+
+Push for reform: Encourage political leaders to legislate a planning and development control system, a compliance code, and a permanent Building Commission.
+
+Lives and investments can be protected by insisting on smart rules, honest enforcement, and professional accountability.
+
+Sri Lanka can learn from global lessons. A legally enforceable National Buildings and Development Code, independent certification, lifecycle asset management, and a culture of compliance will transform today’s risks into tomorrow’s resilience.
+
+The choice is stark.  Invest in governance and professional capacity now or pay far more later in preventable tragedies and lost public trust.
+
+(The author is a chartered professional engineer, a Fellow, and an international professional engineer accredited by both the Institution of Engineers, Sri Lanka (IESL) and Engineers Australia. He holds two masters degrees, one in Local Government Engineering and another in Engineering Management and has undertaken specialised training in Building Regulations and Compliance, Physical Lifecycle Asset Management, Risk Management, and Accessibility Compliance. Currently, he serves in the Australian New South Wales Local Government sector. With over 37 years of local and international experience, his mission is to share knowledge and inspire Sri Lankan professionals to embrace global best practices in engineering and governance. He can be contacted at: [email protected].)

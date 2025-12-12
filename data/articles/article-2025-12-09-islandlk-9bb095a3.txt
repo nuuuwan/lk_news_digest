@@ -1,0 +1,71 @@
+Why TV debates won’t stop the killing
+
+On Friday, 5th December, ITN’s Hathweni Peya turned its spotlight on road safety, a subject as urgent as it is lethal. True to the grand tradition of Sri Lankan television panels, the discussion featured a consultant neurosurgeon and a professor representing the road safety subcommittee. Yet, conspicuously absent were voices that could have grounded the debate in lived reality: a traffic police representative, a Transport Ministry official armed with hard statistics, and grieving family members whose tragedies often provide the emotional anchor and, admittedly, the inevitable B-roll, for such conversations.
+
+Having covered these performances for three decades, I can write the script with my eyes closed. In 2024, 2,521 people died on our roads, a 6.7% increase from 2020. While we recycle the same talking points about “reckless or stressful drivers,” the data suggests that the problem isn’t just not only the people behind the wheel but also the people behind the desks.
+
+We are witnessing a systemic failure, disguised as a discipline problem. And, frankly, the numbers are screaming what our policymakers refuse to hear.
+
+Let’s address the elephant in the room: Sri Lankan drivers are indeed chaotic. The police will tell you there were 1,651 speeding cases involving bus drivers last year alone. But here is the uncomfortable truth: we have been having this exact conversation about discipline for 20 years.
+
+If the medicine hasn’t worked for two decades, maybe the diagnosis is wrong.
+
+A 2023 study in “Accident Analysis & Prevention” found that developing countries stuck in the “awareness campaign” phase typically see fatality reductions of less than 2%. Countries that shift focus to infrastructure engineering and automated enforcement achieve reductions of 15-25%.
+
+Between 2016 and 2021, Sri Lanka managed a pathetic 3.6% annual decrease in fatality rates. The Asia-Pacific region managed 19%. Even South Asia, hardly a beacon of safety, averaged a 10% reduction. We aren’t just failing; we are failing to be competitive at keeping our citizens alive.
+
+To understand the depth of our failure, we must look beyond our shores. Our officials like to claim our fatality rate (11.5 per 100,000 population) is “manageable” compared to the global average. This is a statistical sleight of hand.
+
+Look at Ukraine. Despite fighting an active war, facing missile strikes and destroyed infrastructure, Ukraine manages to maintain a sophisticated accident data system. They know exactly that 41.5% of their accidents are speeding-related. They are deploying AI-driven enforcement. If a country under siege can modernise its road safety, what is our excuse?
+
+Look at India. Dealing with 295 million vehicles and chaotic urbanisation, India has rolled out the iRAD (Integrated Road Accident Database) across 28 states. They are not just counting bodies; they are analysing causes.
+
+Here is the statistic that should have stopped the show on  Hathweni Peya: Only 9% of Sri Lankan roads are rated 3-stars or better for pedestrians. According to the International Road Assessment Programme (iRAP), this means 91% of our road network is statistically unsafe for anyone walking. Yet, pedestrians accounted for 838 deaths in 2024, the highest single category.
+
+When an engineer designs a high-speed road through a town without a sidewalk or a safe crossing, and a pedestrian or cyclist is killed in a sidewalk it, we call the pedestrian/cyclist “undisciplined.” In reality, they are victims of design malpractice.
+
+In advanced economies, motorists are required to maintain at least a one-meter clearance when overtaking a cyclist or pedestrian. In Sri Lanka, however, the reality feels alarmingly different—vehicles often whiz past so close that you can almost feel them brushing your ear, even when you’re walking on the correct side of the road. I’ve personally experienced this during my regular morning walks. Adding to the chaos, drivers frequently stop in the middle of the road to buy kola kenda (herbal porridge) or flowers. I’ve witnessed such scenes right in front of the Mahamevnawa Temple and even managed to capture a few incidents, which I’d like to share with our readers.
+
+The situation for motorcyclists is equally grim. They accounted for 732 deaths and were involved in the highest number of accidents (8,405). Yet only 47% of our roads meet basic safety standards for two-wheelers. We have built a road network for cars in a country where the majority drive scooters or take the bus. (See Figure 1)
+
+Perhaps the most infuriating aspect of this crisis is the “Sri Lanka Accident Data Management System” (SLADMS). This state-of-the-art system was developed to replace our antiquated paper-based records. It allows for GPS mapping of accidents, hotspot identification, and predictive modelling.
+
+It exists. We paid for it. But it has not been implemented nationwide.
+
+Instead, we continue to use the outdated Micro Accident Analysis Programme (MAAP), effectively shooting in the dark. While the world moves toward machine learning for accident prediction, our intervention strategy is wait for a crash, express outrage, repeat.
+
+Every day SLADMS remains offline is an act of administrative negligence. You cannot fix what you cannot measure.
+
+If the moral argument doesn’t move our politicians, perhaps the financial one will. The WHO estimates that road crashes cost countries, like Sri Lanka, up to 3% of their GDP annually.
+
+Do the math. We are hemorrhaging approximately Rs. 300-350 billion every year due to road accidents. This includes medical costs, lost productivity, property damage, and the long-term economic loss of young, working-age citizens.
+
+In 2024 alone, 572 people were killed just in the first quarter. Young males aged 15-34 account for 60-80% of traffic deaths globally. We are wiping out our workforce and then complaining about economic stagnation.
+
+A 2024 World Bank analysis suggests that every 1% reduction in traffic fatalities generates economic benefits equal to 0.12% of GDP. If we simply achieved the Asia-Pacific average for safety improvement, we could inject billions back into the national economy.
+
+In advanced economies, the process of earning a driver’s license begins with a learner’s permit, often issued as early as age 15, under strict conditions, such as prohibiting passengers. The subsequent driving test is so rigorous that even seasoned bus drivers from Sri Lanka, with 10–20 years of experience, often fail when attempting it abroad. I plan to write a separate article detailing this test, but in the meantime, I invite readers to explore platforms like Perplexity.ai or Google to see how these examinations are structured.
+
+If Hathweni Peya, or any media outlet, truly wants to serve the public, we need to stop the theatre. The next time a Minister or Traffic Chief sits in that chair, don’t ask them how we can “improve discipline.” Ask them this:
+
+The Sri Lanka Accident Data Management System (SLADMS) has been in discussion for years.
+
+Where is the audit for the 91% of roads classified as unsafe?
+
+Police checkpoints belong to another era. We need speed cameras and red-light cameras, systems that don’t take bribes, don’t get tired, and enforce the law consistently. When will automated enforcement become a reality?
+
+Road safety is not a cost, it’s an investment. Every $1 spent saves $4–$6 in avoided crashes and healthcare costs.
+
+When will Sri Lanka introduce written and practical driving tests comparable to advanced economies? Current standards are inadequate and contribute to systemic risk.
+
+The solutions are hiding in plain sight. They aren’t sexy. They involve building sidewalks, enforcing helmet laws with no exceptions, separating motorcycle lanes, and letting computers handle the ticketing.
+
+Countries poorer and more chaotic than Sri Lanka have managed to lower their death tolls. Vietnam reduced motorcycle deaths by 32% in five years through infrastructure changes. Rwanda achieved a 40% reduction in fatalities through strict vehicle inspections.
+
+We can continue to blame the “reckless or stressful driver” if it is a convenient scapegoat that absolves the state of its duty to protect its citizens.
+
+The next traffic death will occur in approximately 1-2 hours. It is not an accident. It is a predictable result of a system we have chosen not to fix.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
