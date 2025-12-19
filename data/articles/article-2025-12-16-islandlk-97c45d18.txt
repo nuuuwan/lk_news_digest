@@ -1,0 +1,71 @@
+When water becomes the weapon
+
+On the morning of November 28, 2025, Cyclone Ditwah made an unremarkable entrance, meteorologically speaking. With winds barely scraping 75 km/h, it was classified as merely a “Cyclonic Storm” by the India Meteorological Department. No dramatic satellite spiral. No apocalyptic wind speeds. Just a modest weather system forming unusually close to the equator, south of Sri Lanka.
+
+By December’s second week, the numbers told a story of national reckoning: over 650 lives lost, 2.3 million people affected, roughly one in ten Sri Lankans, and economic losses estimated between $6-7 billion. To put that in perspective, the damage bill equals roughly 3-5% of the country’s entire GDP, exceeding the combined annual budgets for healthcare and education. It became Sri Lanka’s deadliest natural disaster since the 2004 tsunami.
+
+The answer lies not in wind speed but in water volume. In just 24 hours on 28 November, hydrologists estimate that approximately 13 billion cubic meters of rain fell across Sri Lanka, roughly 10% of the island’s average annual rainfall compressed into a single day. Some areas recorded over 300-400mm in that period. To visualise the scale: the discharge rate approached 150,000 cubic meters per second, comparable to the Amazon River at peak flow, but concentrated on an island 100 times smaller than the Amazon basin.
+
+The soil, already saturated from previous monsoon rains, couldn’t absorb this deluge. Nearly everything ran off. The Kelani, Mahaweli, and Deduru Oya river systems overflowed simultaneously. Reservoirs like Kala Wewa and Rajanganaya had to release massive volumes to prevent catastrophic dam failures, which only accelerated downstream flooding.
+
+The human toll concentrated in two distinct geographies, each revealing different failures.
+
+In the Central Highlands, Kandy, Badulla, Nuwara Eliya, Matale, landslides became the primary killer. The National Building Research Organisation documented over 1,200 landslides in the first week alone, with 60% in the hill country. These weren’t random geological events; they were the culmination of decades of environmental degradation. Colonial-era tea and rubber plantations stripped highland forests, increasing soil erosion and landslide susceptibility. Today, deforestation continues alongside unregulated hillside construction that ignores slope stability.
+
+The communities most vulnerable? The Malaiyaha Tamil plantation workers, descendants of indentured labourers brought from South India by the British. Living in cramped “line rooms” on remote estates, they faced both the highest mortality rates and the greatest difficulty accessing rescue services. Many settlements remained cut off for days.
+
+Meanwhile, in the Western Province urban basin, Colombo, Gampaha, Kolonnawa, the Kelani River’s overflow displaced hundreds of thousands. Kolonnawa, where approximately 70% of the area sits below sea level, became an inland sea. Urban planning failures compounded the crisis: wetlands filled in for development, drainage systems inadequate for changing rainfall patterns, and encroachments on flood retention areas all transformed what should have been manageable flooding into mass displacement.
+
+By 03 December, when the cyclone had degraded to a remnant low, the physical damage inventory read like a national infrastructure audit gone catastrophic:
+
+UNDP’s geospatial analysis revealed exposure: about 720,000 buildings, 16,000 km of roads, 278 km of rail, and 480 bridges in flooded zones. This represents infrastructure that underpins the daily functioning of 82-84% of the national economy.
+
+The agricultural sector faces multi-season impacts. The cyclone struck during the Maha season, Sri Lanka’s major cultivation period, when approximately 563,950 hectares had just been sown. Government data confirms 108,000 hectares of rice paddies destroyed, 11,000 hectares of other field crops lost, and 6,143 hectares of vegetables wiped out. The tea industry, while less damaged than food crops, projects a 35% output decline, threatening $1.29 billion in annual export revenue.
+
+Supply chains broke. Cold storage facilities failed. Food prices spiked in urban markets, hitting hardest the rural households that produce the food, communities where poverty rates had already doubled to 25% following the recent economic crisis.
+
+Yet the most consequential damage doesn’t appear in economic loss estimates. These are what economists call externalities, costs that elude conventional accounting but compound human suffering.
+
+Environmental externalities : Over 1,900 landslides in protected landscapes like the Knuckles Range uprooted forest canopies, buried understory vegetation, and clogged streams with debris. These biodiversity losses carry long-term ecological and hydrological costs, habitat fragmentation, compromised watershed function, and increased vulnerability to future slope failures.
+
+Social externalities: Overcrowded shelters created conditions for disease transmission that WHO warned could trigger epidemics of water-, food-, and vector-borne illnesses. The unpaid care work, predominantly shouldered by women, in these camps represents invisible labour sustaining survival. Gender-based violence risks escalate in displacement settings yet receive minimal systematic response. For informal workers and micro-enterprises, the loss of tools, inventory, and premises imposes multi-year setbacks and debt burdens that poverty measurements will capture only later, if at all.
+
+Governance externalities: The first week exposed critical gaps. Multilingual warning systems failed, Coordination between agencies remained siloed. Data-sharing between the Disaster Management Centre, Meteorology Department, and local authorities proved inadequate for real-time decision-making. These aren’t technical failures; they’re symptoms of institutional capacity eroded by years of budget constraints, hiring freezes, and deferred maintenance.
+
+Climate scientists studying Ditwah’s behaviour note concerning anomalies. It formed unusually close to the equator and maintained intensity far longer than expected after landfall. While Sri Lanka has experienced at least 16 cyclones since 2000, these were typically mild. Ditwah’s behaviour suggests something shifting in regional climate patterns.
+
+Sri Lanka ranks high on the Global Climate Risk Index, yet 81.2% of the population lacks adaptive capacity for disasters. This isn’t a knowledge gap; it’s a resource gap. The country’s Meteorology Department lacks sufficient Doppler radars for precise forecasting. Rescue helicopters are ageing and maintenance are deferred. Urban drainage hasn’t been upgraded to handle changing rainfall patterns. Reservoir management protocols were designed for historical rainfall distributions that no longer apply.
+
+The convergence proved deadly: a climate system behaving unpredictably met infrastructure built for a different era, governed by institutions weakened by austerity, in a landscape where unregulated development had systematically eroded natural defences.
+
+Sources: WHO, UNICEF, UNDP, Sri Lanka Disaster Management Centre, UN OCHA, The Diplomat, Al Jazeera,
+
+With foreign reserves barely matching the reconstruction bill, Sri Lanka faces constrained choices. An IMF consideration of an additional $200 million on top of a scheduled tranche offers partial relief, but the fiscal envelope, shaped by ongoing debt restructuring and austerity commitments, forces brutal prioritisation.
+
+The temptation will be “like-for-like” rebuilds replace what washed away with similar structures in the same locations. This would be the fastest path back to normalcy and the surest route to repeat disaster. The alternative, what disaster planners call “Build Back Better”, requires different investments:
+
+* Targeted livelihood support for the most vulnerable: Cash grants and working capital for fisherfolk, smallholders, and women-led enterprises, coupled with temporary employment in debris clearance and ecosystem restoration projects.
+
+* Resilient infrastructure: Enforce flood-resistant building codes, elevate power substations, create backup power routes, and use satellite monitoring for landslide-prone areas.
+
+* Rapid disaster payments: Automatically scale up cash aid through existing social registries, with mobile transfers and safeguards for women and disabled people.
+
+* Insurance for disasters: Create a national emergency fund triggered by rainfall and wind data, plus affordable microinsurance for fishers and farmers.
+
+* Restore natural defences: Replant mangroves and wetlands, dredge rivers, and strictly enforce coastal building restrictions, relocating communities where necessary.
+
+The answers are uncomfortable. Decades of prioritising economic corridors over drainage systems. Colonial land-use patterns perpetuated into the present. Wetlands sacrificed for development. Budget cuts to the institutions responsible for warnings and response. Building codes are unenforced. Early warning systems are under-resourced. Marginalised communities settled in the riskiest locations with the least support.
+
+These aren’t acts of nature; they’re choices. Cyclone Ditwah made those choices visible in 13 billion cubic meters of water with nowhere safe to flow.
+
+As floodwaters recede and reconstruction begins, Sri Lanka stands at a crossroads. One path leads back to the fragilities that made this disaster inevitable. The other, more expensive, more complex, more uncomfortable, leads to systems designed not to withstand the last disaster but to anticipate the next ones.
+
+In an era of warming oceans and intensifying extremes, treating Ditwah as a once-in-a-generation anomaly would be the most dangerous assumption of all.
+
+(The writer, a senior Chartered Accountant and professional banker, is Professor at SLIIT, Malabe. The views and opinions expressed in this article are personal.)
+
+Revival of Innovative systems for reservoir operation and flood forecasting
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

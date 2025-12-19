@@ -1,0 +1,29 @@
+Budget 2026: Parliament and public deprived of real numbers
+
+The constitution anticipates that the Sri Lankan Parliament “shall have full control over public finance”. It exercises this power primarily through scrutinising, amending and approving the annual Budget. In practice, however, the Budgeting system has long been infected by inconsistencies and inaccuracies in the numbers presented to Parliament. Figures in the Budget speech, the estimates and other supporting documents released alongside the Budget often do not align. The 2026 Budget continues this trend, despite the Public Finance Management (PFM) Act mandating greater transparency. As a result, MPs are left debating outdated or inconsistent data, and the public is deprived of a clear understanding of the Government's actual financial plans. Both outcomes weaken Parliament’s oversight role and reduce public accountability.
+
+1. Discrepancies in revenue figures between the Budget speech and official estimates
+
+The revenue figures cited in the 2026 Budget Speech do not align with those in the Draft Budget Estimates. For instance, taxes on goods and services are reported as Rs. 3,056 billion in the Budget Speech, but only Rs. 2,938 billion in the estimates, a gap of Rs. 118 billion. Other revenue categories show similar inconsistencies, with no accompanying explanation.
+
+The discrepancy appears to stem from additional revenue proposals included in the speech but not reflected in the disaggregated data provided in the estimates. Since the speech presents only aggregate figures, Parliament lacks access to the detailed breakdown necessary to assess specific tax changes. This undermines Parliament’s ability to scrutinise expected revenues and renders the Budget debate less effective.
+
+Macroeconomic indicators, such as inflation and real GDP growth, are essential for calculating Budget ratios like revenue and primary balance as a percentage of GDP. Yet, three different sources—the Medium-Term Fiscal Framework (MTFF), the Budget Speech, and the Committee on Public Finance (COPF) report—present three distinct sets of assumptions made about these indicators.
+
+Under section 12 of the PFM Act, such assumptions are supposed to be reported in the Medium-Term Fiscal Framework (MTFF), released in June, which forms the basis for Budget preparation. However, back-calculating from the 2026 Budget Speech suggests nominal GDP growth of 7–8%, which differs from the 8.4% reported in the MTFF. The speech does not disclose the inflation or real GDP growth assumptions used. Meanwhile, the Fiscal, Budget and Economic Position Report—released alongside the speech—projects real GDP growth between 4% and 5% for 2026. The specific expectation applied in the preparation of the Budget was only disclosed later to the Committee on Public Finance (COPF), upon request. If the assumptions are updated, it is expected by the PFM Act, that the Budget, Economic and Fiscal Position Report, will reflect the updates and changes. But that was not the case, and the Government did not provide any other document to parliament to reconcile these differences either.
+
+These discrepancies fall short of the transparency standards mandated by the PFM Act
+
+The use of inconsistent and conflicting numbers seriously undermines Parliament’s ability to scrutinise the Budget effectively. It also reflects a broader failure in Government transparency. While such discrepancies have long been a feature of Sri Lanka’s Budgeting process, the Public Finance Management (PFM) Act in 2024 has gone further than previous laws in addressing these transparency gaps. The Act sets clear expectations for how financial information should be disclosed and justified. The current Budget fail to meet those expectations in three key areas:
+
+Section 20 (2) (a) of the PFM Act requires the Budget Speech to serve as a summary of the Annual Budget that is debated in Parliament. Section 20 (1) of the PFM Act specifies the Annual Budget Estimates and the Appropriation Bill as the Budget documents. Unexplained discrepancies between these—such as conflicting revenue projections, if unexplained with additional documents, undermine the integrity of the parliamentary process and cause the outcome to fall short of the Act’s transparency requirements.
+
+Section 49(2)(k) mandates that any updates to macroeconomic assumptions, such as growth and inflation, must be incorporated into the Budget, Economic and Fiscal Position Report. The failure to do so, (with updates only later provided to the COPF on request), also leaves Parliament debating Budget numbers that are outdated or incorrect.
+
+Section 49(2)(g) requires the Government to disclose the economic rationale behind its Budget estimates. However, in a significant number of proposals, the Budget Speech fails to even mention the actual Budgeted amount of expenditure or revenue outcomes from those proposals. This is in addition to the fact that in Sri Lanka there has been no culture of supporting Budget proposals with even a short analytical document, which explain the basis for the proposal.
+
+All of these factors place Parliament a serious disadvantage in being able to responsibly fulfill its constitutional mandate of having “full control over public finance”.
+
+Currently, the Budget speech figures evolve as new changes are made to the original Budget estimates. But transparency demands that Parliament and the public be informed of such changes and their rationale. To bridge current information gaps, Verité Research recommends publishing a Budget Reconciliation Document as part of the Budget speech annexes. This document should:
+
+Explain differences between the Budget Speech and the Annual Estimates

@@ -1,0 +1,55 @@
+How Sri Lanka can rebuild stronger after Cyclone Ditwah
+
+Advanced Artificial Intelligence technologies offer new hope for disaster prediction, management and recovery
+
+Cyclone Ditwah’s devastating impact on Sri Lanka has revealed a truth our nation can no longer ignore: climate-driven disasters are becoming more frequent, more destructive, and more unpredictable. Flash floods swallowed communities overnight, while landslides in the central highlands buried roads, homes, and entire families. Thousands were displaced, hundreds lost their lives, and critical infrastructure was crippled.
+
+As the rains intensified and communication channels faltered, one question echoed across the island: How can Sri Lanka prepare better?”
+
+Across the island: How can Sri Lanka prepare better? For me, the question is both professional and deeply personal.
+
+Before joining York St John University, I spent over a decade at Motorola Solutions, designing AI-powered situational awareness and public safety systems for Governments worldwide. In 2018, while stationed at Motorola’s Florida office, I experienced first-hand what a modern early-warning ecosystem feels like. It shaped my career-long commitment to AI for public safety systems, and today that work continues in academia, where I lead the AI for Climate and Disaster Resilience Research Group (AICDRG) at York St John University, London Campus.
+
+“In an instant, sirens went off. My phone received simultaneous alerts: a potential tornado linked to the outer bands of a cyclone. The warnings were precise, frequent, location-specific, and actionable. The system guided me step-by-step to a designated safe zone—illustrating the type of technological capability that saves lives when every second counts”.
+
+Sri Lankan-Led UK team harnesses AI to strengthen Sri Lanka’s disaster readiness
+
+This experience, our international research collective—with experts including Sri Lankans, Lakmali Karunarathne, Samanthi Siriwardana, Kavindu Karunaratne (PhD reading), Dr Soonleh Ling, Dr Anu Bala, Dr Rebecca Balasundaram, Sangita Pokhrel, and Dr Rashmi Siddalingappa, Swathi Ganesan—works across India, Nepal, Bangladesh, and now Sri Lanka.
+
+Our mission is aligned with the United Nations Early Warnings for All (EW4ALL) initiative. It focuses on building AI-enabled early-warning systems, climate intelligence, and resilient infrastructure planning, particularly for countries facing intensifying climate pressures.
+
+Cyclone Ditwah has shown that Sri Lanka urgently needs such AI-enabled capabilities across the prediction, response, and rebuilding phases. We identified five dimensions where AI can revolutionise Sri Lanka’s disaster management.
+
+Sri Lanka’s unique geography—steep terrain, river basins that flow into dense cities, and a monsoon-driven rainfall pattern—requires advanced forecasting tools. AI models trained on meteorological, hydrological, and satellite geospatial datasets can significantly improve the accuracy of predicting the floods in the Kelani, Mahaweli, Kalu and Gin rivers, Landslides in Kandy, Nuwara Eliya, Badulla, Matale and Ratnapura districts, Cyclone rainfall, wind intensity and storm surge, and reservoir water levels are rising at Victoria, Kotmale, and other dams.
+
+Furthermore, AI can detect anomalies and emerging risks well before traditional manual systems, according to Reservoir Predictive Intelligence. Sri Lanka relies heavily on reservoirs like Victoria (722 MCM), Kotmale (174 MCM), Randenigala, Rantambe, Kothmale, Castlereagh, and Moussakelle. During cyclones, unexpected inflows can trigger emergency water releases, worsening downstream flooding. To resolve this, AI can forecast inflow volumes 6–72 hours ahead, predict spillway overflow scenarios, recommend safe, optimised water-release schedules, and simulate compound impacts across different rainfall patterns. This is particularly relevant following Ditwah, when sudden inflows overwhelmed riverbanks across multiple districts.
+
+AI can combine elevation models, soil types, slope, land use, plantation coverage, rainfall intensity, and historical landslide data. Machine learning can generate dynamic landslide risk indices updated every few hours. This is lifesaving for districts such as Badulla, Nuwara Eliya, and Kandy, where Ditwah triggered widespread slope failures that buried roads, isolating and destroying entire villages.
+
+Modern disasters often exceed historical precedents. Generative AI can create synthetic extreme-event scenarios, including Cyclone tracks more intense than Ditwah, simulated rainfall patterns never before recorded, landslide chains triggered by prolonged rainfall, and dam stress-test scenarios (s). These simulations allow disaster agencies, local authorities, and the military to rehearse and prepare for “future disasters we have never seen.”
+
+Sri Lanka’s disaster messaging needs to evolve from generic alerts to personalised warnings, geographically precise risk levels, multilingual instructions (Sinhala, Tamil, and English), and impact-based guidance, for example, people receiving warnings such as “your area may experience 1m of floodwater; move to higher ground within 2 hours”.
+
+To do this, AI systems can integrate: real-time rainfall, reservoir telemetry, satellite updates, public SOS messages, road accessibility status, hospital capacity, and forecast uncertainties. This results in clear, actionable, human-friendly alerts being sent to mobile phones, TV channels, radio networks, and public sirens. This AI-powered early warning system mirrors the kind of system I helped design at Motorola—where situational awareness software, real-time intelligence feeds, and rapid communication come together to save lives.
+
+Using AI to predict which roads will flood first, estimate safe routes to shelters, advise authorities where to deploy boats and rescue units, optimise helicopter and ambulance dispatch, identify communities that will be hardest hit, and recommend evacuation zones before the crisis peaks. Agent-based simulations and reinforcement-learning models can rehearse evacuation strategies for areas such as Colombo–Kelaniya, Gampaha–Ja Ela, Kandy–Gatambe corridor, Ratnapura town, and Badulla–Hali Ela. Artificial intelligence turns guesswork into evidence-based emergency management.
+
+Beyond the storm: Recovery, resilience and a vision for Sri Lanka
+
+The post-Ditwah period could be categorised into four main areas. Post-Disaster Mapping, Optimising Relief and Reconstruction, Building a Sri Lanka Climate Digital Twin, AICDRG’s end-to-end Architecture for Sri Lanka.
+
+Post-disaster mapping can be conducted using AI-driven satellite image analysis to identify collapsed buildings, map inundated areas with 9-90% accuracy, detect blocked roads and washed-away bridges, estimate agricultural losses, and prioritise areas requiring urgent relief. This AI-supported system will replace weeks of manual mapping with near-instant assessments.
+
+Secondly, AI could assist Governments in identifying which communities remain underserved and in providing critical answers. Which households need urgent resettlement? Where should temporary shelters be expanded? Which bridges, hospitals and schools must be rebuilt first? What infrastructure upgrades will reduce future risk? Additionally, vulnerability analytics, AI can highlight populations more likely to struggle with recovery - communities in plantations, low-income families, and flood plain settlements.
+
+Thirdly, by working with Government agencies, Sri Lanka can develop a national Climate Digital Twin, enabling simulation of future cyclone and monsoon impacts, stress-testing infrastructure under climate-change scenarios, studying how land-use changes, urban expansion, and deforestation affect disasters, and, lastly, planning multi-decade investments in climate-resilient bridges, roads, and dams. This forms the backbone of a Sri Lankan
+
+Our research group (AICDRG) proposes an ambitious end-to-end disaster management architecture explicitly tailored to Sri Lanka’s terrain, population distribution, and socioeconomic realities. The framework begins with pre-disaster prediction, where artificial intelligence is used to forecast weather, model dam inflows, assess landslide susceptibility, and track cyclones with rainfall projections. During emergencies, the system shifts to real-time monitoring and response, integrating multimodal sensors with situational dashboards, live damage feeds, and optimised evacuation strategies to save lives and resources. In the aftermath, the model supports post-disaster recovery through AI-driven damage mapping, community vulnerability analysis, and climate-resilient reconstruction planning, while also preparing long-term adaptation strategies. Notably, the architecture embeds governance and ethics at its core, ensuring equity-focused data policies, human-in-the-loop decision-making, and transparent accountability protocols. Experts say this initiative could mark a turning point in Sri Lanka’s approach to preparing for and recovering from natural disasters, combining cutting-edge technology with a strong commitment to fairness and resilience.
+
+A future where Sri Lanka is safer, smarter and more resilient
+
+Cyclone Ditwah showed us the painful cost of delayed warnings, fragmented information systems and reactive decision-making. But it also opened a pathway for transformation. Sri Lanka has the talent, institutions, and urgency to lead South Asia in AI-enabled climate resilience.
+
+With coordinated national leadership, partnerships with universities and global agencies, and responsible deployment of AI technologies, Sri Lanka can build a future where: Early warnings are precise; Evacuations are efficient; Recovery is faster and equitable; Infrastructure is climate-proof and Communities are safer. This is not just innovation—it is our duty to the next generation.
+
+(The author is Associate Professor and Associate Dean, Data Science and Computer Science York St John University – London Campus)

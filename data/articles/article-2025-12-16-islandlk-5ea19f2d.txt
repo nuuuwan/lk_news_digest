@@ -1,0 +1,57 @@
+Revival of Innovative systems for reservoir operation and flood forecasting
+
+Most reservoirs in Sri Lanka are agriculture and hydropower dominated. Reservoir operators are often unwilling to acknowledge the flood detention capability of major reservoirs during the onset of monsoons. Deviating from the traditional priority for food production and hydropower development, it is time to reorient the operational approach of major reservoir operators under extreme events, where flood control becomes a vital function. While admitting that total elimination of flood impacts is not technically feasible, the impacts can be reduced by the efficient operation of reservoirs and effective early warning systems.
+
+At the very outset, I would like to mention that the contents in this article are based on my personal experience in the Irrigation Department (ID), and there is no intention to disrespect their contributions during the most recent flood event. The objective is to improve the efficiency and the capability of the human resources available in the ID and other relevant institutions to better respond to future flood disasters.
+
+Reservoir management is an important aspect of water management, as water storage and release are crucial for managing floods and droughts. Several numerical models and guidelines have already been introduced to the ID and MASL during numerous training programs for reservoir management and forecasting of inflows.
+
+This article highlights expectations of engineering professionals and discusses a framework for predicting reservoir inflows from its catchment by using the measured rainfall during the previous few days. Crucially, opening the reservoir gates must be timed to match the estimated inflow.
+
+Similarly, rainfall-runoff relationships had been demonstrated and necessary training was provided to selected engineers during the past to make a quantitative (not qualitative) forecast of river water levels at downstream locations, based on the observed rainfall in the upstream catchment.
+
+Furthermore, this article highlights the already available technology and addresses certain misinformation provided to the mass media by some professionals during recent discussions. These discrepancies are primarily related to the opening of reservoir gates and flood forecasting.
+
+It is not logically sound to claim that the 2025 flood in the Kelani basin was the highest flood experienced historically. While, in terms of flood damage, it was probably the worst flood experienced due to rapid urbanisation in the lower Kelani basin. We have experienced many critical and dangerous floods in the past by hydraulic definition in the Kelani Ganga.
+
+Historical water levels recorded at the Nagalagam Street gauge illustrate this point: (See Table)
+
+In view of the above data, the highest water level recorded at the Nagalagam river gauge during the 2025 flood was 8.5 ft. This was a major flood, but not a critical or dangerous flood by definition.
+
+According to the standing orders of the ID, water levels in major reservoirs must be kept below the Full Supply Level (FSL) during the Northeast (NE) monsoon season (from October to March) until the end of December. According to my recollection, this operational height is 1.0m below the FSL. Therefore, maintaining a reservoir below the FSL during this period is not a new practice; it explicitly serves the dual purpose of dam safety and flood detention for the downstream areas.
+
+When a reservoir is reaching the FSL, the daily operation of gates is expected to be managed so that the inflow of water from the catchment rainfall is equal to the outflow through the spill gates (Inflow *  Outflow). The methodology for estimating both the catchment inflow and the gate outflow is based on very simple formulas, which have been previously taught to the technical officers and engineers engaged in field operations.
+
+Sophisticated numerical models for rainfall-runoff relationships are available and known to subject specialists of the ID through the training provided over the last 40 years. For major reservoirs, the engineers in charge of field operations could be trained to estimate daily inflows to the reservoirs, especially in cases where the simple formulas mentioned in section C are not adequate.
+
+Regarding the provision of reservoir spill gates, one must be mindful of the underlying principles of probability. Major reservoir spillways are designed for very high return periods, such as 1,000 and 10,000 years. If the spillway gates are opened fully when a reservoir is at full capacity, this can produce an artificial flood of a very large magnitude. A flood of such magnitude cannot occur under natural conditions. Therefore, reservoir operators must be mindful in this regard to avoid any artificial flood creation.
+
+In reality, reservoir spillways are often designed for the sole safety of the reservoir structure, often compromising the safety of the downstream population. This design concept was promoted by foreign funding agencies in recent times to safeguard their investment for dams. Consequently, the discharge capacities of these spill gates significantly exceed the natural carrying capacity of river downstream. This design criterion requires serious consideration by future designers and policymakers.
+
+The public often asks a basic question regarding flood hazards in a river system with reservoirs: Why is flooding more prominent downstream of reservoirs compared to the period before they were built? This concern is justifiable based on the following incidents.
+
+For instance, why do Magama in Tissamaharama face flood threats after the construction of the massive Kirindi Oya reservoir? Similarly, why does Ambalantota flood after the construction of Udawalawe Reservoir? Furthermore, why is Molkawa in the Kalutara District area getting flooded so often after the construction of Kukule reservoir?
+
+These situations exist in several other river basins too. Engineers must therefore be mindful of the need to strictly control the operation of reservoir gates by their field staff. The actual field situation can sometimes deviate significantly from the theoretical technology discussed in air- conditioned rooms. Due to this potential discrepancy, it is necessary to examine whether gate operators are strictly adhering to the operational guidelines, as gate operation currently relies too much on the discretion of the operator at the site.
+
+In 2003, there was severe flood damage below Kaudulla reservoir in Polonnaruwa. I was instructed to find out the reason for this flooding by the then Minister of Mahaweli & Irrigation. During my field inspection, I found that the daily rainfall in the area had not exceeded 100mm, yet the downstream flood damage was unbelievable. I was certain that 100mm of rainfall could not create a flood of that magnitude. Further examination suggested that this was not a natural flood, but was created by the excessive release of water from the radial gates of the Kaudulla reservoir. There are several other similar incidents and those are beyond the space available for this document.
+
+It may be surprising to note the high quality of real-time flood forecasts issued by the ID for the Kelani River in the late 1980s and early 1990s. This was achieved despite the lack of modern computational skills and advanced communication systems. At that time, for instance, mobile phones were non-existent. Forecasts were issued primarily via the Sri Lanka Broadcasting Corporation (SLBC )in news bulletins.
+
+A few examples of flood warning issued during the past available in official records of the ID are given below:
+
+“The water level at Nagalagam street river gauge was at 9 ft 0 inches at 5.0 PM. This is 1.0 ft above the major flood level. Water level is likely to rise further, but not likely to endanger the Kelani flood bund”.
+
+“The water level at Nagalagam street river gauge was at 3 ft 3 inches at 6.0 PM. The water level likely to rise further during the next 24 hours, but will not exceed 5.0 ft.”
+
+“The water level at Nagalagam street river gauge was at 4 ft 6 inches last night. The water level will not go above 5.0 ft within the next 24 hours.”
+
+“The water level at Nagalagam Street River gauge was at 4 ft 6 inches at 7.00 AM. The water level will remain above 4.0 ft for the next 12 hours and this level will go below 4.0 ft in the night.
+
+The water level is not expected to rise within next 24 hours.”
+
+Had this technology been consistently and effectively adopted, we could have significantly reduced the number of deaths and mitigated the unprecedented damage to our national infrastructure. The critical question then arises: Why is this known, established flood forecasting technology, already demonstrated by Sri Lankan authorities, not being put into practice during recent disasters? I will leave the answer to this question for social scientists, administrators and politicians in Sri Lanka.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

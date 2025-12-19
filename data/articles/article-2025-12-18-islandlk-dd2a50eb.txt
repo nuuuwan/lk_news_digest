@@ -1,0 +1,89 @@
+Presidential authority in times of emergency:A contemporary appraisal
+
+Keynote Address Delivered at the International Research Conference of the Faculty of Law, University of Colombo, on 12 December 2025.
+
+One of the great challenges of modern public law is to reconcile traditional principles relating to the rule of law and the separation of powers with the exigencies of crises which threaten the destruction of society itself. To what extent must protective mechanisms developed by systems of law over the ages give way to the need for physical survival in the throes of life-threatening crises? What is the right balance to be struck, as a matter of public policy?
+
+The classic statement is by John Locke, who insisted that, in emergencies, the government should have legally unfettered power “to act according to discretion, for the public good, without the prescription of the law, and sometimes even against it” (Second Treatise of Government). This is an ancient idea which goes back to Roman times, when Cicero, in his famous oration, Pro Milone, declared: “Inter arma silent leges” (“Amid the clash of arms, the laws are silent”).
+
+This received expression in the present century in the work of Carl Schmitt, who insisted that “The sovereign is he who decides on the state of exception” (Political Theology:Four Chapters on the Concept of Sovereignty). According to him, not only is the sovereign’s authority untrammelled during emergency, but the declaration of emergency is his right alone, dependent solely on the exercise of his subjective judgment. This unqualified power springs from the supreme law of nature—-the safety of the people.
+
+Judicial pronouncements across the world explicitly reflect this point of view. Justice Story, on behalf of the Supreme Court of the United States, famously declared: “The question arises, by whom is the exigency to be judged and decided? We are all of opinion that the authority to decide whether the exigency has arisen, belongs exclusively to the President, and that his decision is conclusive upon all other persons” (Martin v. Mott).In Ghulam Sarwar v. Union of India, Subba Rao CJ, speaking for the Supreme Court of India, observed: “The question whether there is grave emergency is left to the satisfaction of the Executive, for it is obviously in the best position to judge the situation”.
+
+There is, however, equally emphatic opinion to the contrary. Khanna J, in a celebrated dissent, was scathing in his denunciation of the opposite approach: “The position would be that, so far as executive officers are concerned, in matters relating to life and personal liberty of citizens, they would not be governed by any law, they would not be answerable to any court, and they would be wielding more or less despotic powers” (Additional District Magistrate, Jabalpur v. Shivakant Shukla).
+
+II. A Landmark Pronouncement by the Supreme Court of Sri Lanka
+
+The Supreme Court of Sri Lanka had recently to deal with this issue frontally (Ambika Satkunanathan v. Attorney General). This is a watershed decision because, for the first time in our legal history, the Supreme Court held that an Acting President of the Republic had violated the fundamental rights of the People, enshrined in the Constitution, by the declaration of a State of Emergency.
+
+The circumstances against the backdrop of which this historic ruling was made, are well known. A serious depletion of foreign reserves resulted in a severe shortage of basic amenities like fuel, cooking gas, electricity, staple food items, and medicine. In the context of an unprecedented default in the repayment of foreign loans and significant depreciation of the rupee, extended power cuts and galloping inflation led to acute economic hardship. These circumstances culminated in unrest on a scale never seen before on the Island.
+
+Violence included the brutal murder of a Member of Parliament, the torching of residences of the Prime Minister and more than 70 other political personalities, forcible occupation of the Presidential Secretariat, the President’s official residence and the Office of the Prime Minister, with almost a million people gathered in Colombo demanding the resignation of the President. The elected President had fled the country, and a date had been set for an urgent meeting of Parliament to elect the President in accordance with procedure spelt out in the Constitution. An unruly mob had encircled Parliament, threatening to prevent this meeting from taking place. This was the situation in which Acting President Ranil Wickemesinghe declared a State of Emergency.
+
+He did so in terms of provision in the Public Security Ordinance, which empowered him to take this action, if he was of opinion that this was “expedient in the interests of public security and the preservation of public order, or for the maintenance of supplies and services essential to the life of the community”(section 2).
+
+The decision was that of a divided Supreme Court. The majority consisted of Murdu Fernando CJ and Yasantha Kodagoda J, while there was a vigorous dissent by Arjuna Obeyesekere J. The minority held that the circumstances warranted the opinion entertained by the Acting President, while the plurality declared themselves prepared to make this assumption. This, then, was common ground. The difference of opinion pertained to another vital issue.
+
+Once the Acting President (hereinafter referred to as the President), had reached this conclusion, he had four optional courses of action available to him:
+
+(i) He could have recourse to the routine law, principally the provisions of the Penal Code and the Criminal Procedure Code, to deal with the situation;
+
+(ii) He could invoke Part III of the Public Security Ordinance, which would enable him to take particular actions such as calling out the Armed Forces to supplement the Police, prevent public gatherings on highways and in the vicinity of bridges and other specified locations, and declare curfew. These measures could be taken, short of proclamation of a State of Emergency;
+
+(iii) He could take the “drastic step”, under Part II of the Public Security Ordinance, to bring into force the provisions contained within that section, in terms of which an Emergency could be declared, applicable to the whole Island;
+
+(iv) While declaring an Emergency under Part II, he could confine its operation to particular parts of the Island.
+
+This is where the difference of opinion between the plurality and the minority of the court manifested itself. The majority was of opinion that the President’s satisfaction relating to the existence of objective conditions justifying declaration of Emergency did not automatically entitle him to go the full length of bringing into being a nationwide Emergency under Part II, but obligated him further to consider whether measures of a more limited nature, contemplated by Part III, would be sufficient to deal effectively with the situation.Failure to do so, according to their ruling, would involve a breach of the Constitution.
+
+By contrast, the minority was convinced that “Once the President has come to the conclusion that a state of public emergency exists, there is no purpose in mandating a consideration of other options”, and that “Requiring the President to embark on whether the ordinary laws or other various provisions or options would be adequate to deal with a public or national emergency, would be unreasonable and an unprecedented step”. On this basis, the minority held that the President’s actions were entirely within the Constitution, and entailed no liability for contravention of fundamental rights.
+
+Contemporary trends in the law acknowledge marked differences in scale, intensity, and duration among types of emergency which precipitate varying degrees of government paralysis.
+
+South African law incorporates one comprehensive definition of a State of Emergency, capable of invocation when “the life of the nation is threatened by war, invasion, general insurrection, disorder, natural disaster, or other public emergency” (Constitution, Article 37(1)(a)). Preferable, by far, is the position under the Emergencies Act of Canada, which recognises four different kinds of emergencies— natural disasters, threats to public order, international emergencies, and states of war (Section 18(2)). This enables different degrees of Parliamentary scrutiny and control.
+
+The Constitution of India provides another example of this approach. Article 352 envisages a threat to the security of India or any part of the country by reason of war, external aggression or armed rebellion, while Article 356 contemplates a failure of constitutional government in any Indian state, and the context of Article 360 is jeopardy to the financial stability or credit of India.
+
+In the spectrum of gravity, peril to the very existence of the state, in the degree present in the Sri Lankan situation, attracts the highest concern. In circumstances of potential government breakdown, “facile distrust” is not the recommended counsel. The courts of India have cautioned that “When there is a crisis situation, it is necessary to trust the government with extraordinary powers in order to enable it to overcome such crisis” (Bhagvati J. in Shivakant Shukla).
+
+Undue concern about a lawless situation, typified by unbridled executive power, is not realistic. Emergency legislation has rightly been characterized as “extra-legislative legislation”. Far from there being a legal vacuum, systems of law have furnished practical safeguards, while enabling public order to be maintained.
+
+One of these is the imaginative “super-majority escalator” technique, characteristic of South African law. Only a simple majority of Parliament is required to approve a State of Emergency operative for a maximum period of 21 days, and to extend it up to 3 months. Beyond that, a 60% majority is compulsory for further extensions (Article 37). Here, then, is a successful reconciliation of competing objectives.
+
+Article 16 of the Constitution of the Fifth Republic in France empowers the President to determine not only the sufficiency of conditions warranting the declaration of a State of Emergency, but also its appropriate duration. Restraints on Presidential power in France are weak because the President, although required to consult the Conseil Constitutionel (Constitutional Court), is not bound by its advisory opinion, in the event of contrary advice.
+
+Relative amplitude of Presidential power in emergency situations in France has been justified by a prominent French jurist, François Saint-Bonnet, on the basis that the curtailment of emergency powers at the disposal of the Executive carries the risk of deprivation of the very tools which the government finds indispensable to combat the threat.
+
+Germany’s Basic Law, although wary of emergency powers because of the harrowing experience of Article 48(2) of the Constitution of the Weimar Republic, which paved the way for the rise of Hitler, nevertheless does not balk at recognizing “internal emergencies” which enable intervention by the Executive, albeit subject to control by the Federal Parliament.
+
+Constitutional provisions in different jurisdictions, irrespective of the approach selected, envisage substantial executive power in times of emergency, curtailed by surveillance on the part of the elected Legislature.
+
+The decided cases in many countries are replete with examples of indicia which concede to the Executive great latitude in these contexts. The recurring feature is the urging of restraint in the exercise of judicial review in keeping with a suitably benign construction, consistent with constitutional standards. This is reflected in unimpeachable academic authority, as well.
+
+It has been insisted that executive decisions “should be taken seriously as a bona fide attempt to solve whatever social problem they set out to tackle”(Aileen Kavanagh).The caution has been administered that judges should exercise great caution before concluding that the government has violated constitutional rights(Prof. T. R. S. Allan) and,in public emergencies threatening the life of the nation, elected officials should be permitted “to err, if at all, on the side of safety”(Lord Bingham).The courts “should resist the temptation to substitute their own preferred solutions to questions of public policy”(Allan).
+
+This is so, for a number of reasons. One of them is that the public authority is entitled to latitude because it has “a kind of responsibility to advance the public interest that a court does not have”(Brooke L.J.).This is reinforced by other considerations. For instance, possession of special expertise by the executive authority is an important factor.
+
+The nature of the subject matter, for this very reason, has a vital bearing on the issue. Judges have been conscious that “the more political the question is, the more appropriate it will be for political resolution, and the less likely it is to be an appropriate matter for judicial decision”(Lord Bingham).
+
+A responsible and representative system of democratic governance brings into sharp focus “the degree of democratic accountability of the original decision maker, and the extent to which other mechanisms of accountability may be available”(Murray Hunt).Basic values of constitutionalism identify Parliamentary controls as infinitely preferable, in this regard, to judicial intervention.
+
+This has to do with the nature and legitimate confines of the judicial function. Mirza Beg J, speaking for the Supreme Court of India, has candidly conceded that “the judicial process suffers from inherent limitations”(Shivakant Shukla).This is essentially because a court “can neither have full and truthful information, nor the means to such information”(Chandrachud J in Shivakant Shukla),especially in respect of classified information.
+
+An absolute imperative is that the distinction between judicial review and substitution of judgment must be scrupulously observed. Admittedly contextual, this principle is of overriding significance because it is “wrong to expect executive bodies to replicate the style of analysis adopted by courts in determining allegations of violation of rights”(T. R. S. Allan).
+
+It is crucial for the rule of law that the dividing line between these two distinct functions should not become inadvertently blurred. It is not necessary for the public authority to address itself to the same legal arguments as the court(Court of Appeal of England in the Begum case),the judicial function being restricted by the consideration that “the court is usually concerned with whether the decision maker reached his decision in the right way, rather than whether he got what the court might think to be the right answer”(Lord Hoffmann).
+
+The raison d’etre underpinning executive intervention in these extraordinary situations should be constantly borne in mind. The reality is the absence of a practical substitute. “Neither the legislature nor the judiciary is capable of swift, energetic action, which leaves the executive by default as the authoritative body”(David Dyzenhaus).For this inescapable reason, there has been constant emphasis that executive actors “should not be deterred from engaging in the very activity needed,and contemplated, to deal with the crisis”.
+
+The overarching object of policy is the preservation of public confidence. “The faster and more effective the response, the smaller the overall damage to society, as a whole. The best way for government to respond to these fears is to do something large and dramatic to reassure the populace”(Bruce Ackerman).
+
+The weight attaching to these elements of public policy is self-evident. (To be continued)
+
+D. Phil. (Oxford), Ph. D. (Sri Lanka); Rhodes Scholar,Quondam Visiting Fellow of the Universities of Oxford, Cambridge and London; Former Vice-Chancellor and Emeritus Professor of Law of the University of Colombo.
+
+How the ‘Lost Tribes of Israel’ help in understanding Mid-East peace issues
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

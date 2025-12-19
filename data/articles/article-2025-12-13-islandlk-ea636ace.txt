@@ -1,0 +1,75 @@
+Why Sri Lanka Still Has No Doppler Radar – and Who Should Be Held Accountable
+
+Cyclone Ditwah has come and gone, leaving a trail of extensive damage to the country’s infrastructure, including buildings, roads, bridges, and 70% of the railway network. Thousands of hectares of farming land have been destroyed. Last but not least, nearly 1,000 people have lost their lives, and more than two million people have been displaced. The visuals uploaded to social media platforms graphically convey the widespread destruction Cyclone Ditwah has caused in our country.
+
+The purpose of my article is to highlight, for the benefit of readers and the general public, how a project to establish a Doppler Weather Radar system, conceived in 2007, remains incomplete after 18 years. Despite multiple governments, shifting national priorities, and repeated natural disasters, the project remains incomplete.
+
+Over the years, the National Audit Office, the Committee on Public Accounts (COPA), and several print and electronic media outlets have highlighted this failure. The last was an excellent five-minute broadcast by Maharaja Television Network on their News First broadcast in October 2024 under a series “What Happened to Sri Lanka”
+
+The Agreement Between the Government of Sri Lanka and the World Meteorological Organisation in 2007.
+
+The first formal attempt to establish a Doppler Radar system dates back to a Trust Fund agreement signed on 24 May 2007 between the Government of Sri Lanka (GoSL) and the World Meteorological Organisation (WMO). This agreement intended to modernize Sri Lanka’s meteorological infrastructure and bring the country on par with global early-warning standards.
+
+The World Meteorological Organisation (WMO) is a specialized agency of the United Nations established on March 23, 1950. There are 193 member countries of the WMO, including Sri Lanka. Its primary role is to promote the establishment of a worldwide meteorological observation system and to serve as the authoritative voice on the state and behaviour of the Earth’s atmosphere, its interaction with the oceans, and the resulting climate and water resources.
+
+According to the 2018 Performance Audit Report compiled by the National Audit Office, the GoSL entered into a trust fund agreement with the WMO to install a Doppler Radar System. The report states that USD 2,884,274 was deposited into the WMO bank account in Geneva, from which the Department of Metrology received USD 95,108 and an additional USD 113,046 in deposit interest. There is no mention as to who actually provided the funds. Based on available information, WMO does not fund projects of this magnitude.
+
+The WMO was responsible for procuring the radar equipment, which it awarded on 18th June 2009 to an American company for USD 1,681,017. According to the audit report, a copy of the purchase contract was not available.
+
+Monitoring the agreement’s implementation was assigned to the Ministry of Disaster Management, a signatory to the trust fund agreement. The audit report details the members of the steering committee appointed by designation to oversee the project. It consisted of personnel from the Ministry of Disaster Management, the Departments of Metrology, National Budget, External Resources and the Disaster Management Centre.
+
+The Audit Report highlights failures in the core responsibilities that can be summarized as follows:
+
+· Procurement irregularities—including flawed tender processes and inadequate technical evaluations.
+
+—proposed radar sites did not meet elevation or clearance requirements.
+
+—in some cases for years, exposing sensitive components to deterioration.
+
+—between the Meteorology Department, Disaster Management Centre, and line ministries.
+
+Some of the mistakes highlighted are incomprehensible. There is a mention that no soil test was carried out before the commencement of the construction of the tower. This led to construction halting after poor soil conditions were identified, requiring a shift of 10 to 15 meters from the original site. This resulted in further delays and cost overruns.
+
+The equipment supplier had identified that construction work undertaken by a local contractor was not of acceptable quality for housing sensitive electronic equipment. No action had been taken to rectify these deficiencies. The audit report states, “It was observed that the delay in constructing the tower and the lack of proper quality were one of the main reasons for the failure of the project”.
+
+In October 2012, when the supplier commenced installation, the work was soon abandoned after the vehicle carrying the heavy crane required to lift the radar equipment crashed down the mountain. The next attempt was made in October 2013, one year later. Although the equipment was installed, the system could not be operationalised because electronic connectivity was not provided (as stated in the audit report).
+
+In 2015, following a UNOPS (United Nations Office for Project Services) inspection, it was determined that the equipment needed to be returned to the supplier because some sensitive electronic devices had been damaged due to long-term disuse, and a further 1.5 years had elapsed by 2017, when the equipment was finally returned to the supplier. In March 2018, the estimated repair cost was USD 1,095,935, which was deemed excessive, and the project was abandoned.
+
+The Committee on Public Accounts (COPA) discussed the radar project on August 10, 2023, and several press reports state that the GOSL incurred a loss of Rs. 78 million due to the project’s failure. This, I believe, is the cost of constructing the Tower. It is mentioned that Rs. 402 million had been spent on the radar system, of which Rs. 323 million was drawn from the trust fund established with WMO. It was also highlighted that approximately Rs. 8 million worth of equipment had been stolen and that the Police and the Bribery and Corruption Commission were investigating the matter.
+
+Despite the project’s failure with WMO, the Japan International Cooperation Agency (JICA) entered into an agreement with GOSL on June 30, 2017 to install two Doppler Radar Systems in Puttalam and Pottuvil. JICA has pledged 2.5 billion Japanese yen (LKR 3.4 billion at the time) as a grant. It was envisaged that the project would be completed in 2021.
+
+Once again, the perennial delays that afflict the GOSL and bureaucracy have resulted in the groundbreaking ceremony being held only in December 2024. The delay is attributed to the COVID-19 pandemic and Sri Lanka’s economic crisis.
+
+The seven-year delay between the signing of the agreement and project commencement has led to significant cost increases, forcing JICA to limit the project to installing only one Doppler Radar system in Puttalam.
+
+As I am not a meteorologist and do not wish to make a judgment on this, I have decided to include the statement issued by JICA after the groundbreaking ceremony on December 24, 2024.
+
+“In partnership with the Department of Meteorology (DoM), JICA is spearheading the establishment of the Doppler Weather Radar Network in the Puttalam district, which can realize accurate weather observation and weather prediction based on the collected data by the radar. This initiative is a significant step in strengthening Sri Lanka’s improving its climate resilience including not only reducing risks of floods, landslides, and drought but also agriculture and fishery“.
+
+Based on online research, a Doppler Weather Radar system is designed to observe weather systems in real time. While the technical details are complex, the system essentially provides localized, uptotheminute information on rainfall patterns, storm movements, and approaching severe weather. Countries worldwide rely on such systems to issue timely alerts for monsoons, tropical depressions, and cyclones. It is reported that India has invested in 30 Doppler radar systems, which have helped minimize the loss of life.
+
+Without radar, Sri Lanka must rely primarily on satellite imagery and foreign meteorological centres, which cannot capture the finescale, rapidly changing weather patterns that often cause localized disasters here.
+
+The general consensus is that, while no single system can prevent natural disasters, an operational Doppler Radar almost certainly would have strengthened Sri Lanka’s preparedness and reduced the extent of damage and loss.
+
+Sri Lanka’s inability to commission a Doppler Radar system, despite nearly two decades of attempts, represents one of the most significant governance failures in the country’s disastermanagement history.
+
+Audit findings, parliamentary oversight proceedings, and donor records all confirm the same troubling truth: Sri Lanka has spent public money, signed international agreements, received foreign assistance, and still has no operational radar. This raises a critical question: should those responsible for this prolonged failure be held legally accountable?
+
+Now may not be the time to determine the extent to which the current government and bureaucrats failed the people. I believe an independent commission comprising foreign experts in disaster management from India and Japan should be appointed, maybe in six months, to identify failures in managing Cyclone Ditwah.
+
+However, those who governed the country from 2007 to 2024 should be held accountable for their failures, and legal action should be pursued against the politicians and bureaucrats responsible for disaster management for their failure to implement the 2007 project with the WMO successfully.
+
+Sri Lanka cannot afford another 18 years of delay. The time for action, transparency, and responsibility has arrived.
+
+(The views and opinions expressed in this article are solely those of the author and do not necessarily reflect the policy or position of any organization or institution with which the author is affiliated).
+
+SC delegation, headed by CJ Surasena, observes Indian Supreme Court in action
+
+Heavy rains leave communities at risk; disaster units on high alert
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
