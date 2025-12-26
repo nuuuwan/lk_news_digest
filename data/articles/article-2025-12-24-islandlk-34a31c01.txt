@@ -1,0 +1,61 @@
+Australia’s social media ban: A sledgehammer approach to a scalpel problem
+
+When governments panic, they legislate. When they legislate in panic, they create monsters. Australia’s world-first ban on social media for under-16s, which came into force on 10 December, 2025, is precisely such a monster, a clumsy, authoritarian response to a legitimate problem that threatens to do more harm than good.
+
+Prime Minister Anthony Albanese hailed it as a “proud day” for Australian families. One wonders what there is to be proud about when a liberal democracy resorts to blanket censorship, violates children’s fundamental rights, and outsources enforcement to the very tech giants it claims to be taming. This is not protection; it is political theatre masquerading as policy.
+
+The ban’s appeal is obvious. Social media platforms have become toxic playgrounds where children are subjected to cyberbullying, addictive algorithms, and content that can genuinely harm their mental health. The statistics are damning: 40% of Australian teens have experienced cyberbullying, youth self-harm hospital admissions rose 47% between 2012 and 2022, and depression rates have skyrocketed in tandem with smartphone adoption. These are real problems demanding real solutions.
+
+But here’s where Australia has gone catastrophically wrong: it has conflated correlation with causation and chosen punishment over education, restriction over reform, and authoritarian control over empowerment. The ban assumes that removing children from social media will magically solve mental health crises, as if these platforms emerged in a vacuum rather than as symptoms of deeper societal failures, inadequate mental health services, overworked parents, underfunded schools, and a culture that has outsourced child-rearing to screens.
+
+Dr. Naomi Lott of the University of Reading hit the nail on the head when she argued that the ban unfairly burdens youth for tech firms’ failures in content moderation and algorithm design. Why should children pay the price for corporate malfeasance? This is akin to banning teenagers from roads because car manufacturers built unsafe vehicles, rather than holding those manufacturers accountable.
+
+The practical implementation of this ban reads like dystopian satire. Platforms must take “reasonable steps” to prevent access, a phrase so vague it could mean anything or nothing. The age verification methods being deployed include AI-driven facial recognition, behavioural analysis, government ID scans, and something called “AgeKeys.” Each comes with its own Pandora’s box of problems.
+
+Facial recognition technology has well-documented biases against ethnic minorities. Behavioural analysis can be easily gamed by tech-savvy teenagers. ID scans create massive privacy risks in a country that has suffered repeated data breaches. And zero-knowledge proof, while theoretically elegant, require a level of technical sophistication that makes them impractical for mass adoption.
+
+Already, teenagers are bragging online about circumventing the restrictions, prompting Albanese’s impotent rebuke. What did he expect? That Australian youth would simply accept digital exile? The history of prohibition, from alcohol to file-sharing, teaches us that determined users will always find workarounds. The ban doesn’t eliminate risk; it merely drives it underground where it becomes harder to monitor and address.
+
+Even more absurdly, platforms like YouTube have expressed doubts about enforcement, and Opposition Leader Sussan Ley has declared she has “no confidence” in the ban’s efficacy. When your own political opposition and the companies tasked with implementing your policy both say it won’t work, perhaps that’s a sign you should reconsider.
+
+The legal challenges now percolating through Australia’s High Court get to the heart of what’s really at stake here. The Digital Freedom Project, led by teenagers Noah Jones and Macy Neyland, argues that the ban violates the implied constitutional freedom of political communication. They’re right. Social media platforms, for all their flaws, have become essential venues for democratic discourse. By age 16, many young Australians are politically aware, engaged in climate activism, and participating in public debates. This ban silences them.
+
+The government’s response, that child welfare trumps absolute freedom, sounds reasonable until you examine it closely. Child welfare is being invoked as a rhetorical trump card to justify what is essentially state paternalism. The government isn’t protecting children from objective harm; it’s making a value judgment about what information they should be allowed to access and what communities they should be permitted to join. That’s thought control, not child protection.
+
+Moreover, the ban creates a two-tiered system of rights. Those over 16 can access platforms; those under cannot, regardless of maturity, need, or circumstance. A 15-year-old seeking LGBTQ+ support groups, mental health resources, or information about escaping domestic abuse is now cut off from potentially life-saving communities. A 15-year-old living in rural Australia, isolated from peers, loses a vital social lifeline. The ban is blunt force trauma applied to a problem requiring surgical precision.
+
+Let’s talk about the elephant in the digital room: data security. Australia’s track record here is abysmal. The country has experienced multiple high-profile data breaches, and now it’s mandating that platforms collect biometric data, government IDs, and behavioural information from millions of users, including adults who will need to verify their age to distinguish themselves from banned minors.
+
+The legislation claims to mandate “data minimisation” and promises that information collected solely for age verification will be destroyed post-verification. These promises are worth less than the pixels they’re displayed on. Once data is collected, it exists. It can be hacked. It can be subpoenaed. It can be repurposed. The fine for violations, up to AUD 9.5 million, sounds impressive until you realise that’s pocket change for tech giants making billions annually.
+
+We’re creating a massive honeypot of sensitive information about children and families, and we’re trusting companies with questionable data stewardship records to protect it. What could possibly go wrong?
+
+Proponents like US Senator Josh Hawley and author Jonathan Haidt praise Australia’s ban as a “bold precedent” that will trigger global reform. This is wishful thinking bordering on delusion. What Australia has actually created is a case study in how not to regulate technology.
+
+France, Denmark, and Malaysia are watching, but with notable differences. France’s model includes parental consent options. Denmark proposes exemptions for 13-14-year-olds with parental approval. These approaches recognise what Australia refuses to acknowledge: that blanket prohibitions fail to account for individual circumstances and family autonomy.
+
+The comparison table in the document reveals the stark rigidity of Australia’s approach. It’s the only country attempting outright prohibition without parental consent. This isn’t leadership; it’s extremism. Other nations may cherry-pick elements of Australia’s approach while avoiding its most draconian features. (See Table)
+
+Here’s what actual child protection would look like: holding platforms legally accountable for algorithmic harm, mandating transparent content moderation, requiring platforms to offer chronological feeds instead of engagement-maximising algorithms, funding digital literacy programmes in schools, properly resourcing mental health services for young people, and empowering parents with better tools to guide their children’s online experiences.
+
+Instead, Australia has chosen the path of least intellectual effort: ban it and hope for the best. This is governance by bumper sticker, policy by panic.
+
+Mia Bannister, whose son’s suicide has been invoked repeatedly to justify the ban, called parental enforcement “short-term pain, long-term gain” and urged families to remove devices entirely. But her tragedy, however heart-wrenching, doesn’t justify bad policy. Individual cases, no matter how emotionally compelling, are poor foundations for sweeping legislation affecting millions.
+
+Australia’s social media ban is built on good intentions, genuine concerns about child welfare, and understandable frustration with unaccountable tech giants. But good intentions pave a very particular road, and this road leads to a place where governments dictate what information citizens can access based on age, where privacy becomes a quaint relic, and where young people are infantilised rather than educated.
+
+The ban will fail on its own terms, teenagers will circumvent it, platforms will struggle with enforcement, and the mental health crisis will continue because it was never primarily about social media. But it will succeed in normalising digital authoritarianism, expanding surveillance infrastructure, and teaching young Australians that their rights are negotiable commodities.
+
+When this ban inevitably fails, when the promised mental health improvements don’t materialize, when data breaches expose the verification systems, and when teenagers continue to access prohibited platforms through VPNs and workarounds, Australia will face a choice: double down on enforcement, creating an even more invasive surveillance state, or admit that the entire exercise was a costly mistake.
+
+Smart money says they’ll choose the former. After all, once governments acquire new powers, they rarely relinquish them willingly. And that’s the real danger here, not that Australia will fail to protect children from social media, but that it will succeed in building the infrastructure for a far more intrusive state. The platforms may be the proximate target, but the ultimate casualties will be freedom, privacy, and trust.
+
+Australia didn’t need a world-first ban. It needed world-class thinking. Instead, it settled for a world of trouble.
+
+(The writer, a senior Chartered Accountant and professional banker, is Professor at SLIIT, Malabe. The views and opinions expressed in this article are personal.)
+
+Psychosocial insights from the birth of Our Lord Jesus for a world striving to uphold the sanctity of human life
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
