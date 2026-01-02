@@ -1,0 +1,13 @@
+Dialog and UoM Mobile Communications  Research Lab launch SinhalaVITS
+
+In a significant move to accelerate technological innovation in Sri Lanka, Dialog Axiata PLC and the Dialog-University of Moratuwa (UoM) Research Lab, has announced the release of SinhalaVITS, a state-of-the-art, open-source Text-to-Speech (TTS) model for the Sinhala language.
+
+This non-commercial initiative delivers a powerful, high-quality, and natural-sounding Sinhala voice model to the public, making it freely accessible to developers, researchers, and students. The model is available for download on Hugging Face, the world’s largest open-source AI community, empowering anyone to build and experiment with advanced voice technology.
+
+The SinhalaVITS model is the result of a deep-rooted collaboration that unites Dialog’s industry leadership with the academic excellence of the Dialog–UoM Mobile Communications Research Lab, fulfilling a vital need within Sri Lanka’s tech community for accessible, high-performance tools that drive innovation. By removing cost and licensing barriers tied to proprietary software, Dialog is empowering developers and researchers while fostering a more inclusive, collaborative, and future-ready AI ecosystem. This initiative further reinforces Dialog’s commitment to advancing Sri Lanka’s digital future—investing in open-source technology and academic partnerships to nurture local talent and lay the foundation for next-generation digital services built by Sri Lankans, for Sri Lankans.
+
+Dialog Axiata PLC Group Chief Analytics and AI Officer Dr. Romesh Ranawana said, “Local-language AI is vital for building an inclusive digital economy in Sri Lanka. SinhalaVITS enables developers, startups, and institutions to create services across education, healthcare, and public accessibility, empowering communities who are less comfortable with English or text-heavy interfaces. By open-sourcing this model, Dialog is helping nurture home-grown innovation and build the digital infrastructure the country needs for the future.”
+
+Dialog -UoM Research Lab Director Prof. Dileeka Dias added, “We are excited to launch SinhalaVITS, which provides Sri Lanka with cutting-edge, open-source Sinhala Text-to-Speech technology that is accessible to all. Our aim in this initiative is to unlock new possibilities to shape the next era of voice technology in Sri Lanka by bridging industry and academia.”
+
+Developers and researchers can access the SinhalaVITS model and its resources on the Hugging Face platform starting today, which can be accessed via https://huggingface.co/dialoglk.

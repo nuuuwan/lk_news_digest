@@ -1,0 +1,79 @@
+Permits, privilege,  and the price we all pay
+
+“There will be no permits. The permit culture must end in Sri Lanka.” This was the resounding declaration from President Anura Kumara Dissanayake as he presented the 2026 Budget proposal. The plan to supply vehicles to Members of Parliament (MPs) on a strictly “return-after-term” basis echoes a long-overdue escape from a system that has, for decades, quietly drained public coffers. It is a system that has rewarded privilege over performance, entrenched inequality, and undermined the credibility of the state.
+
+The Advocata Institute welcomes this decision. It is a vital critique of a “permit culture” that is a remnant of a feudal past, not a modern economy. A permit is, by definition, a special approval granting selected groups privileged access to benefits unattainable to the general public. It creates an inherently regressive, two-tier system: one for ordinary citizens, and another for those afforded special treatment.
+
+When we examine the case of vehicle permits in Sri Lanka, the dynamic becomes disturbingly stark.
+
+To understand the magnitude of this reform, one must understand the distortionary nature of the “permit.”
+
+According to Finance Ministry officials, since 2020 alone, 25,508 duty-free vehicle permits have been issued to Government employees. Even during the economic constriction of recent years, the flow continued: 6,062 permits in 2024 and 2,043 in 2025.
+
+In Sri Lanka, vehicles are expensive because of import tax – a policy imposed and strengthened by Parliament since the 1960s. Issuing exemptions (permits) is, therefore, a fundamentally flawed rationale. It’s the equivalent of penalising an entire class, with no basis for the punishment to begin with, before releasing the favoured students from sanction – all the while cleverly disguising the exemption as a so-called “benefit”. And who are the first beneficiaries? The very policymakers responsible for the high taxes.
+
+Originally introduced as compensation for low nominal salaries, the permit system morphed into a transferable asset and a reliable source of campaign financing. By importing vehicles at the fraction of its taxable price, or by selling the permit itself, MPs were able to generate substantial profits, untaxed, to fund electoral activities. In the decades that followed, eligibility expanded well beyond Parliament. The privilege was extended to senior civil servants and a wide array of public-sector professionals, including but not limited to doctors, university professors, State engineers, and directors of State corporations.
+
+Eventually, permits had become a normalised perk in the public sector, issued as frequently as once every five years. However, this perk was driven not by performance gains, but lobbying pressure. No circular or audit report has ever tied permit eligibility to measurable performance. Entitlement was purely based on title or years of service, thus, creating a dangerously perverse incentive structure.
+
+The result? Permits turned into a predictable political asset, attached to a significant transferable cash value. As vehicle import taxes increased over the years, the value of the permit increased proportionally. The permit itself became an appreciating asset, detached from its initially stated purpose, and thus began the trading of permits too.
+
+In December 2010, Transparency International Sri Lanka revealed that the majority of 65 newly elected Parliamentarians, including 2 Cabinet Ministers, sold their duty-free vehicle permits for as much as Rs. 17 million each, when adjusted for inflation using Department of Census and Statistics figures, that windfall is equivalent to which adjusted for inflation sits at approximately Rs. 48 million today.
+
+In December 2012, in an event the Sunday Times classified as a “Christmas Bonansa for MPs,” the Government granted permission for MPs to openly sell their duty-free permits. At the time, they sold for Rs. 20 million each, which adjusted for inflation sits at approximately Rs. 50 million today.
+
+Nagananda Kodituwakku is an attorney-at-law and rights activist, who formerly headed the Customs Revenue Task Force. On 28 October 2016, he wrote to the Commissioner General of Motor Traffic, naming 75 MPs who imported luxury vehicles, including BMWs, Mercedes-Benz, Land Cruisers and even a Hummer. The total tax waived per MP ranged from Rs.30 million to Rs. 44.7 million. In today’s terms, this range approximately translates to between a staggering Rs. 66 million and Rs. 98.5 million.
+
+Since the permit artificially lowers the price of a vehicle for a specific group, they benefit from a subsidised (concessional) price. The relative price of a vehicle falls for members of this group, so demand rises, but this rise is not attributed to market forces. The sudden rise in vehicle purchases among permit holders is not a reflection of genuine need; it is a rational response to a market distortion. They buy not because they must, but because the tax exemption makes it financially irrational not to.
+
+When a permit holder imports a vehicle, the State suffers a “double blow” to its revenue stream. First, the Treasury forfeits the revenue at the border. The list of waived taxes is exhaustive and compounding:
+
+1.  Customs Import Duty (CID)- Calculated as a % of Cost, Insurance and Freight (CIF)
+
+2. Excise Duty (XID)- Calculated using engine capacity, fuel type, vehicle category
+
+4.  Luxury Tax (LTMV) – Applied when value or engine capacity exceeds specific thresholds
+
+5. VAT (charged on a cascading* tax base: CIF + CID + XID + LTMV)
+
+*This means this tax is calculated on top of the previous taxes, not just the original value of the vehicle.
+
+Second, the State loses on income tax. In most tax systems around the world, law requires the benefit to be assigned an imputed monetary value, so that it may be taxed, just like income. But Sri Lanka’s duty-free vehicle permits have escaped this entirely.
+
+Sri Lanka’s cascading, multi-layered tax structure drives effective import taxation on most passenger vehicles into the 125%–250% range, with the Vehicle Importers Association of Sri Lanka placing some models in the 200%–300% bracket. It is, by any comparative standard, one of the most punitive vehicle-tax regimes in the world.
+
+Inequality: Middle-income families are priced out of car ownership; mobility becomes a privilege, not a right.
+
+Inefficiency: High tariffs keep the national fleet old and costly to maintain. Older vehicles burn more fuel, produce higher emissions, and compromise road safety. As a result, public transport absorbs pressure it was never designed for
+
+No industrial rationale: Sri Lanka does not manufacture cars, so these tariffs serve no protectionist purpose. These taxes function solely as revenue extraction, and our citizens and economy pay the price.
+
+Tax compliance deteriorates. Consumer choice shrinks. Economic participation weakens.Productivity sours.
+
+The move to a “return-after-term” model is the correct economic and ethical step.
+
+Looking forward, the Government must adopt a centralised fleet-management framework. We should look to models like Australia’s, which utilises a single regulated system ensuring consistent pricing, transparent leasing, and the timely replacement of aging units to reduce maintenance costs.
+
+The President’s declaration promises an end to a distortionary era. However, the future relies on vigilance. Citizens, media, and Parliament must ensure this commitment is honoured through transparent procurement and a permanent end to exemptions. The “permit culture” was a price the economy could never afford; it is time we stopped paying it.
+
+Duty-Free Permits system under scrutiny | Print Edition - The Sunday Times, Sri Lanka
+
+Scheme for Issuance of Motor Vehicle Permits on Concessionary Terms Nos. 01/2016, 01/20
+
+UNP MPs silent over daylight robbery: Sale of duty free car permits? | The Sunday Times
+
+List of 75 MPs and their Luxury Vehicle Imports | Colombo Telegraph
+
+Quantification of Values for Non-Cash Benefits in calculating Employment Income
+
+Quantification of Values for Non-Cash Benefits in calculating Employment Income
+
+“Today” = Oct 2025. For inflation calculations, we chain-link across base changes:
+
+1. Within a base, inflation factor between month A and month B =
+
+2. Across base changes, pick a bridge month that appears in both series. Multiply factors in sequence (“chain link”).
+
+3. Multiply the historical amount by the product of factors to get the “today” value.
+
+(The author is an Economic Researcher at the Advocata Institute. The opinions expressed are the author’s own.)

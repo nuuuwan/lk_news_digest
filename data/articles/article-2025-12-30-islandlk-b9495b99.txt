@@ -1,0 +1,57 @@
+Medicinal drugs for Sri Lanka:The science of safety beyond rhetoric
+
+The recent wave of pharmaceutical tragedies in Sri Lanka, as well as some others that have occurred regularly in the past, has exposed a terrifying reality: our medicine cabinets have become a frontline of risk and potential danger. In recent months, the silent sanctuary of Sri Lanka’s healthcare system has been shattered by a series of tragic, preventable deaths. The common denominator in these tragedies has been a failure in the most basic promise of medicine: that it will heal, not harm. This issue is entirely contrary to the immortal writings of the Father of Medicine, Hippocrates of the island of Kos, who wrote, “Primum non nocere,” which translates classically from Latin as “First do no harm.” The question of the safety of medicinal drugs is, at present, a real dilemma for those of us who, by virtue of our vocation, need to use them to help our patients.
+
+For a nation that imports the vast majority of its medicinal drugs, largely from regional hubs like India, Pakistan, and Bangladesh, the promise of healing is only as strong as the laboratory that verifies these very same medicinal drugs. To prevent further problems, and even loss of lives, we must demand a world-class laboratory infrastructure that operates on science, not just sentiment. We desperately need a total overhaul of our pharmaceutical quality assurance architecture.
+
+The detailed anatomy of a national drug testing facility is not merely a government office. It is a high-precision fortress. To meet international standards like ISO/IEC 17025 and World Health Organisation (WHO) Good Practices for Pharmaceutical Quality Control Laboratories, such a high-quality laboratory must be zoned into specialised units, each designed to catch a different type of failure.
+
+*  The Physicochemical Unit: This is where the chemical identity of a drug is confirmed. Using High-Performance Liquid Chromatography (HPLC) and Gas Chromatography-Mass Spectrometry (GC-MS), scientists determine if a “500mg” tablet actually contains 500mg of the active ingredient or if it is filled with useless chalk.
+
+*  The Microbiology Suite: This is the most critical area for preventing “injection deaths.” It requires an ISO Class 5 Cleanroom: sterile environments where air is filtered to remove every microscopic particle. Here, technicians perform Sterility Testing to ensure no bacteria or fungi are present in medicines that have to be injected.
+
+*  The Instrumentation Wing: Modern testing requires Atomic Absorption Spectrometers to detect heavy metal contaminants (like lead or arsenic) and Stability Chambers to see how drugs react to Sri Lanka’s high humidity.
+
+*  The injectable drug contamination is a serious challenge. The most recent fatalities in our hospitals were linked to Intravenous (IV) preparations. When a drug is injected directly into the bloodstream, there is no margin for error. A proper national laboratory must conduct two non-negotiable tests:
+
+*  Bacterial Endotoxin Testing (BET): Even if a drug is “sterile” (all bacteria are dead), the dead bacteria leave behind toxic cell wall products called endotoxins. If injected, these residual compounds cause “Pyrogenic Reactions” with violent fevers, organ failure, and death. A functional lab must use the Limulus Amoebocyte Lysate (LAL) test to detect these toxins at the parts-per-billion level.
+
+*  Particulate Matter Analysis: Using laser obscuration, labs must verify that no microscopic shards of glass or plastic are floating in the vials. These can cause fatal blood clots or embolisms in the lungs.
+
+It is absolutely vital to assess whether the medicine is available in the preparation in the prescribed amounts and whether it is active and is likely to work. This is Bioavailability. Sri Lanka’s heavy reliance on “generic” imports raises a critical question: Is the cheaper version from abroad as effective as the original, more expensive branded formulation? This is determined by Bioavailability (BA) and Bioequivalence (BE) studies.
+
+A drug might have the right chemical formula, but if it does not dissolve properly in the stomach or reach the blood at the right speed, it is therapeutically useless. Bioavailability measures the rate and extent to which the active ingredient is absorbed into the bloodstream. If a cheaper generic drug is not “bioequivalent” to the original brand-named version, the patient is essentially taking a useless placebo. For patients with heart disease or epilepsy, even a 10% difference in bioavailability can lead to treatment failure. A proper national system must include a facility to conduct these studies, ensuring that every generic drug imported is a true “therapeutic equivalent” to the brand-named original.
+
+As far as testing goes, the current testing philosophy is best described as Reactive, rather than Proactive. The current Sri Lankan system is “reactive”: we test a drug only after a patient has already suffered. This is a proven recipe for disaster. To protect the public, we must shift to a Proactive Surveillance Model of testing ALL drugs at many stages of their dispensing.
+
+*  Pre-Marketing Approval: No drug should reach a hospital shelf without “Batch Release” testing. Currently, we often accept the manufacturer’s own certificate of analysis, which is essentially like allowing students to grade their own examination answers.
+
+*  Random Post-Marketing Surveillance (PMS): Regulatory inspectors must have the power to walk into any rural pharmacy or state hospital, pick a box of medicine at random, and send it to the lab. This could even catch “substandard” drugs that may have degraded during shipping or storage in our tropical heat. PMS is the Final Safety Net. Even the best laboratories cannot catch every defect. Post-Marketing Surveillance is the ongoing monitoring of a drug’s safety after it has been released to the public. It clearly is the Gold Standard.
+
+*  Pharmacovigilance: A robust digital system where every “Adverse Drug Reaction” (ADR) is logged in a national database.
+
+*  Signal Detection: An example of this is if three hospitals in different provinces report a slight rash from the same batch of an antibiotic, the system should automatically “flag” that batch for immediate recall before a more severe, unfortunate event takes place.
+
+*  Testing for Contaminants: Beyond the active ingredients, we must test for excipient purity. In some global cases, cheaper “glycerin” used in syrups was contaminated with diethylene glycol, a deadly poison. A modern lab must have the technology to screen for these hidden killers.
+
+When one considers the Human Element, Competence and Integrity, the very best equipment in the world is useless without the human capital to run it. A national lab would need the following:
+
+*  Highly Trained Pharmacologists and Microbiologists and all grades of staff who are compensated well enough to be immune to the “lobbying” of powerful external agencies.
+
+*  Digital Transparency: A database accessible to the public, where any citizen can enter a batch number from their medicine box and see the lab results.
+
+Once a proper system is put in place, we need to assess as to how our facilities measure up against the WHO’s “Model Quality Assurance System.” That will ensure maintenance of internationally recognised standards. The confirmed unfavourable results of any testing procedure, if any, should lead to a very prompt “Blacklist” Initiative, which can be used to legally bar failing manufacturers from future tenders. Such an endeavour would help to keep all drug manufacturers and importers on their toes at all times.
+
+This author believes that this article is based on the premise that the cost of silence by the medical profession would be catastrophic. Quality assurance of medicinal compounds is not an “extra” cost. It is a fundamental right of every Sri Lankan citizen, which is not at all subject to any kind of negotiation. Until our testing facilities match the sophistication of the manufacturers we buy from, we are not just importing medicine; we are importing potential risk.
+
+The promises made by the powers-that-be to “update” the testing laboratories will remain as a rather familiar, unreliable, political theatre until we see a committed budget for mass spectrometry, cleanroom certifications, highly trained and committed staff and a fleet of independent inspectors. Quality control of therapeutic medicines is not a luxury; it is the price to be paid for a portal of entry into a civilised and intensively safe healthcare system. Every time we delay the construction of a comprehensive, proactive testing infrastructure, we are playing a game of Russian Roulette with the lives of our people.
+
+The science is available, and the necessary technology exists. What is missing is the political will to put patient safety as the premier deciding criterion. The time for hollow rhetoric has passed, and the time for a scientifically fortified, transparent, and proactive regulatory mechanism is right now. The good health of all Sri Lankans, as well as even their lives, depend on it.
+
+MBBS(Cey), DCH(Cey), DCH(Eng), MD(Paediatrics), MRCP(UK), FRCP(Edin), FRCP(Lond), FRCPCH(UK), FSLCPaed, FCCP, Hony. FRCPCH(UK), Hony. FCGP(SL)
+
+Specialist Consultant Paediatrician and Honorary Senior Fellow, Postgraduate Institute of Medicine, University of Colombo, Sri Lanka.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

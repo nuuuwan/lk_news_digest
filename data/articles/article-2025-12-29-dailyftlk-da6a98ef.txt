@@ -1,0 +1,53 @@
+Beyond relief: Building Sri Lanka’s digital disaster brain
+
+We already have powerful tools within reach, like Geographic Information Systems (GIS), which help us capture, manage, analyse and visualise spatial data. With GIS, we can layer the truths of a place; its population density, its housing settlements, its farmland, its rivers and floodplains, its hospitals, schools and roads. With these layers, we can run the scenarios that matter: What if this basin receives 500 millimetres of rain in a single day? Which neighbourhoods drown first? Which roads disappear under water? Where must evacuation centres be placed long before the clouds gather? None of this is science fiction. The technology exists today. But our data lives fragmented lives, scattered across ministries, tucked away in agencies, each holding only one piece of a much larger story. Almost no one is stitching the whole picture together
+
+When Cyclone Ditwah tore through Sri Lanka, it wasn’t just the wind and water that hit us. It was a sense of déjà vu, the feeling that we have been here too many times before. Flooded homes, frantic rescues, communities rallying together in compassion and exhaustion, these are stories we’ve all lived through, time and time again.
+
+I have watched this pattern repeat itself across floods, pandemics and economic shocks. As a country, we almost know the rhythm by heart; chaos, heartbreak, extraordinary acts of kindness, rebuilding… but then there’s silence. We move on, until the next storm hits.
+
+That same old cycle is back again, but somehow it feels heavier this time, harder to carry. The world around us has shifted in ways we can’t ignore. Technology has threaded itself into our days, the climate feels more fragile, as if the earth itself is asking us to pay attention. With so much change, so many signs, you’d think we would have learned by now.
+
+But no, we continue in the same way.  So the real disaster is not the cyclone. It is in the fact that we are still in no way  prepared.
+
+If Cyclone Ditwah becomes just another chapter in a long book of avoidable pain, then we have learned nothing. But if it becomes the moment we finally commit to preparedness; both human and digital, then perhaps the next time the wind begins to rise, we will not feel this same bitter sense of déjà vu
+
+Sri Lanka’s vulnerability isn’t only written in its geography. Yes, we sit in the path of cyclones that sweep across the Bay of Bengal, and yes, a warming climate has made our monsoons harsher, more unpredictable, more full of warning. But so much of the pain we face is of our own making. We build our homes on floodplains and then grieve when the rivers simply return to what was always theirs. We strip the hillsides bare and then stand helpless as they collapse under their own wounded weight. We let our cities grow without thought, drainage choked, canals forgotten, until a heavy rain becomes a kind of quiet drowning. And again and again, we treat long-term planning not as a responsibility to each other, but as some distant luxury we can put off.
+
+Natural shocks turn into national catastrophes when our own neglect chips away at the protections we should have built. Some experts call Ditwah a once-in-a-century event because all five river basins flooded at the same time. That may be true, it is rare. But rarity no longer comforts us; not in a world where climate change is speeding everything up, making the unusual feel almost familiar. The only honest response now is to accept that the worst can happen, and to prepare for it with the seriousness it deserves.
+
+The only reason our disaster mode feels so natural now is because these crises have come at us again and again. That familiarity should trouble us as a nation. Preparedness doesn’t begin when a cyclone finally earns a name on a weather map. It begins much earlier, in the choices we make about how we shape our cities and care for our land
+
+At PickMe, we have been forced to build resilience the hard way. We have gone through multiple floods, COVID-19, an economic crisis, and a recession. Over time, we have had to move from reacting to preparing.
+
+Today, we have standard operating procedures (SOPs) that kick in almost automatically when something goes wrong. Because we are a digital platform, those SOPs are not just words on paper; they are embedded into our software.
+
+The beauty of a digital platform is that we can “flex” the system as easily as you might edit a Word document. When floods hit, we can quickly reconfigure the app to add new buttons – for example, to collect donations, to move supplies, or even to hail a boat instead of a car or tuk-tuk. What looks like agility from the outside is actually preparation from the inside.
+
+But I want to be very clear about one thing: I am not proud that we have had to become good at this. The only reason our disaster mode feels so natural now is because these crises have come at us again and again. That familiarity should trouble us as a nation.
+
+Preparedness doesn’t begin when a cyclone finally earns a name on a weather map. It begins much earlier, in the choices we make about how we shape our cities and care for our land.
+
+We already have powerful tools within reach, like Geographic Information Systems (GIS), which help us capture, manage, analyse and visualise spatial data. With GIS, we can layer the truths of a place; its population density, its housing settlements, its farmland, its rivers and floodplains, its hospitals, schools and roads. With these layers, we can run the scenarios that matter: What if this basin receives 500 millimetres of rain in a single day? Which neighbourhoods drown first? Which roads disappear under water? Where must evacuation centres be placed long before the clouds gather?
+
+None of this is science fiction. The technology exists today. But our data lives fragmented lives, scattered across ministries, tucked away in agencies, each holding only one piece of a much larger story. Almost no one is stitching the whole picture together. What we need is a central, intelligent, technology-driven disaster management brain — a living system where all our data converges, stays updated, and guides both long-term planning and real-time decisions when every minute matters.
+
+Cyclone Ditwah is yet another painful reminder of how fragile we still are, but it is also a chance to choose a different path. We cannot stop cyclones and we cannot stop the rain. What we can stop is allowing natural events to harden into national tragedies. But that demands discipline in how we use our land, real investment in digital infrastructure, the centralising and sharing of data, and the political courage to hold people accountable when negligence costs lives
+
+Live tracking isn’t some futuristic dream; it’s something we should have had long ago. I believe the Disaster Management Centre must function as a true real-time command hub, constantly watching the pulse of the country: rainfall and shifting weather patterns, rising rivers and reservoirs, the quiet warnings of landslide risks, even the air and water quality that’s already hurting in places.
+
+None of this is beyond our reach. The technology exists, and many countries, including neighbours in our own region, already rely on these systems. Here in Sri Lanka, we collect much of this raw data too, but it lives in fragments, scattered across agencies running on different systems, never speaking to one another.
+
+Now imagine something different: a single, integrated national dashboard, paired with a public disaster app that sends verified alerts, safe-zone maps, evacuation routes and real-time relief updates straight to people’s phones. And if we combine that with blockchain-based tracking of aid, we build not just a system that helps people survive a disaster, but one that earns their trust in the very moment they need it most.
+
+Sri Lanka’s vulnerability isn’t only written in its geography. Yes, we sit in the path of cyclones that sweep across the Bay of Bengal, and yes, a warming climate has made our monsoons harsher, more unpredictable, more full of warning. But so much of the pain we face is of our own making
+
+is yet another painful reminder of how fragile we still are, but it is also a chance to choose a different path. We cannot stop cyclones and we cannot stop the rain. What we can stop is allowing natural events to harden into national tragedies.
+
+But that demands discipline in how we use our land, real investment in digital infrastructure, the centralising and sharing of data, and the political courage to hold people accountable when negligence costs lives.
+
+I have seen the best of Sri Lanka in our hardest moments; neighbours pulling each other from rising waters, strangers opening their doors and communities rebuilding with whatever they have. That spirit is our greatest strength. It deserves systems that are strong enough, and intelligent enough, to stand beside it.
+
+If Cyclone Ditwa becomes just another chapter in a long book of avoidable pain, then we have learned nothing. But if it becomes the moment we finally commit to preparedness; both human and digital, then perhaps the next time the wind begins to rise, we will not feel this same bitter sense of déjà vu.
+
+(The author is the founder and CEO of Digital Mobility Solutions Lanka PLC, the most successful tech-based startup in the country, which introduced the “PickMe” digital mobility solution app to Sri Lanka. A serial entrepreneur counting 17 years of founding and successfully running several technology-based ventures, he has been part of several tech companies in the country, including Anything.lk, now rebranded as wow.lk. He won the National Silver Award at the FCCISL Sri Lankan Entrepreneur of the Year 2018, the FCCISL Young Entrepreneur of the Year Award (April 2004) and the ICTA Young IT Professional Award (May 2006) for his efforts in technopreneurship)
