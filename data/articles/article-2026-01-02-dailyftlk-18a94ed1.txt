@@ -1,0 +1,63 @@
+Rise of digital forensics: Meeting demands of a data-driven world
+
+Digital forensics is the process of identifying, processing, analysing, and documenting digital evidence. This process is essential for presenting evidence in a court of law, in accordance with a country's governing legal framework.
+
+Digital forensics emerged in the 1980s, with early computer crime investigations conducted by agencies such as the FBI. In the 1990s and 2000s, the field expanded rapidly, introducing tools like EnCase and addressing growing internet and mobile data concerns. Today, digital forensics encompasses cloud storage, mobile forensics, and cyber intrusion investigations. Understanding its evolution highlights the importance of methodical and legally sound procedures.
+
+Digital forensics plays a crucial role in a wide range of investigations, including:
+
+Criminal cases – such as uncovering evidence of cybercrimes, conducting forensic audits, investigating drug and human trafficking, as well as addressing terrorism and extremism.
+
+Civil cases – including the verification of claims involving electronically stored information (ESI) and investigations into intellectual property (IP) theft.
+
+Corporate and internal investigations – such as investigating data breaches, ensuring regulatory compliance, addressing employee misconduct, detecting insider threats, and preventing data theft.
+
+Increase in cybercrime – The frequency and sophistication of cyberattacks (e.g., ransomware, phishing, data theft) continue to grow.
+
+Widespread use of digital devices – Nearly every modern crime involves some digital footprint (phones, computers, CCTV, social media), making digital
+
+Expansion of cloud and mobile platforms – Cloud computing, smartphones, and IoT devices introduce new complexities that require specialised expertise.
+
+Legal and compliance requirements – Businesses must meet legal standards such as the General Data Protection Regulation (GDPR) and Personal Data Protection Act (PDPA), further driving the need for digital forensic capabilities.
+
+The demand for digital forensics is rapidly increasing due to the expanding role of technology in nearly every aspect of modern life. From personal communication to corporate operations, e-commerce, and government activities, digital devices generate vast amounts of data that can be critical in investigations and legal proceedings.
+
+Digital evidence can include a broad range of data, such as:
+
+For digital evidence to be accepted in a court of law, it must meet the following criteria:
+
+Believable – Must be presented in a clear and convincing manner
+
+The qualities of admissible digital evidence are crucial in a legal hearing because they ensure that the evidence presented is legally valid, trustworthy, and fair, which is essential for upholding justice. Each quality plays a vital role in determining whether the digital evidence can be effectively used in court.
+
+Imaging and analysis software – Create forensic images of storage devices and analyse their content (e.g., EnCase, Autopsy, FTK)
+
+File carving tools – Recover deleted or corrupted files from media (e.g., PhotoRec, Scalpel)
+
+Mobile device forensic tools – Extract data from smartphones, tablets, and other mobile devices (e.g., Cellebrite UFED, Oxygen Forensic Detective)
+
+Password recovery tools – Recover or decrypt passwords and secured data (e.g., Passware Kit, Ophcrack, PassFab 4WinKey)
+
+Network analysis tools – Monitor network traffic, identify breaches, and analyse data flows (e.g., Wireshark, Colasoft Capsa)
+
+Malware analysis tools – Detect and analyse malware, viruses, and other threats (e.g., Cuckoo Sandbox, Hybrid Analysis)
+
+Forensic hardware devices – Maintain data integrity during evidence examination (e.g., write blockers, JTAG interfaces)
+
+Digital forensics tools are crucial for accurately collecting, preserving, and analysing digital evidence while maintaining its integrity for use in legal proceedings.
+
+Although digital forensic investigators are not legal professionals, they must understand the rules of evidence, particularly in relation to the collection, preservation, and transportation of data. These rules dictate when, how, and why evidence can be presented and used in a legal setting.
+
+A properly documented chain of custody is vital for the admissibility of evidence. Missing or incomplete records may result in evidence being challenged or excluded. Each item of evidence must be clearly documented with:
+
+Data tampering – Identifying unauthorised changes to files or systems
+
+Timelines and User Activity – It reveals what happened, when it happened, and who was involved by analysing user actions and system logs
+
+In today’s increasingly digital world, digital forensics has become indispensable to the investigation and resolution of criminal, civil, and corporate cases. As cyber threats grow in both complexity and scale, forensic experts must be equipped with advanced tools, current legal knowledge, and rigorous investigative methodologies. From maintaining a reliable chain of custody to ensuring that digital evidence is admissible and tamper-proof, digital forensics plays a crucial role in upholding justice and preserving the integrity of digital systems.
+
+The writer is a Chartered Accountant and the Country Director for Sri Lanka at the International Institute of Certified Forensic Investigation Professionals, USA, Inc. (IICFIP). He can be reached via email at [email protected].
+
+Casey, E. (2011). Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet (3rd ed.). Amsterdam: Elsevier Academic Press.
+
+(The author holds titles of ACA (ICASL), CPIF (USA), CertIFR (ACCA-UK), PGD in Business Finance and Strategy (ICASL), Dip in Digital Forensic Investigation UK)

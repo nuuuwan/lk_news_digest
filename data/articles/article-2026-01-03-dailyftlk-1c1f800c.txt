@@ -1,0 +1,65 @@
+Solar power on irrigation canals: A dual solution for energy and water conservation
+
+Across the world, solar power has emerged as one of the fastest-growing sources of clean energy. It is environmentally friendly, increasingly cost-competitive, and particularly well suited to tropical countries with abundant sunshine. Recognising this global transition, Sri Lanka has set ambitious national targets: generating 70 percent of electricity from renewable sources by 2030 and achieving carbon neutrality by 2050.
+
+Sri Lanka is naturally well endowed for solar energy generation. The country receives abundant sunlight throughout the year, especially in the dry zone, where solar radiation ranges between 4.0 and 6.0 kWh/m²/day. This provides a strong foundation for meeting a significant share of daytime electricity demand through solar power.
+
+Solar energy also complements Sri Lanka’s existing hydropower system. Daytime solar generation can reduce pressure on hydropower plants during peak daylight hours, allowing valuable reservoir storage to be conserved for nighttime generation and drought periods. Such integration improves grid reliability while strengthening national water security, an increasingly critical concern under climate change.
+
+Despite its potential, large-scale solar development faces a major constraint, which is land availability. In Sri Lanka, land is intensively contested among agriculture, forest conservation, settlements, and industrial development. Allocating vast tracts of land for solar farms often creates social, environmental, and political tensions.
+
+If Sri Lanka is to meet its renewable energy ambitions without compromising food security or ecosystems, innovative solutions that minimise land acquisition are essential.
+
+One promising solution is the installation of solar panels over irrigation canals. This concept, already implemented successfully in several countries, converts existing infrastructure into dual-purpose systems, generating clean energy while simultaneously reducing water losses from evaporation.
+
+Higher efficiency: The cooling effect of flowing water can improve panel performance by 7–15 percent
+
+Water conservation: Canal coverage can reduce evaporation losses by 50–80 percent
+
+Farmer benefits: Reliable and affordable electricity supports irrigation pumping and farm mechanisation
+
+A canal-top solar installation covering just one hectare (10,000 m²) can generate 0.8–1.2 MWp of power which is equivalent to 1.2–1.8 GWh annually, while saving around 12 million litres of water each year. This volume of water alone is sufficient to produce nearly 5,000 kilogrammes of rice per annum.
+
+India has been a global pioneer in canal-top solar development. In 2012, the State of Gujarat commissioned the world’s first canal-top solar pilot project on the Narmada Canal. The 1 MW installation not only generated clean electricity but also saved approximately 9 million litres of water by reducing evaporation.
+
+A canal top solar power system in the State of West Godavari, India
+
+Encouraged by its success, the Gujarat Government expanded canal-top solar capacity to 35 MW across 13 kilometres of canals by 2017, installing more than 116,000 solar panels. The State now plans to extend this model across parts of its 19,000-kilometre canal network. The  project has the potential to generate thousands of megawatts of electricity, save nearly 57,000 hectares of land, and conserve vast quantities of water.
+
+Other Indian states—including Maharashtra, Punjab, and Andhra Pradesh—have followed suit. These projects demonstrate that canal-top solar is not merely a technical novelty but a scalable, socially acceptable, and economically viable solution.
+
+Beyond India, canal-top and water-based solar systems are gaining attention worldwide.
+
+United States (California): Recent studies suggest that covering major canals could generate up to 13 GW of electricity while saving nearly 63 billion gallons of water annually, an important strategy in drought-prone regions.
+
+China: As the world’s largest solar producer, China is testing canal-top and floating solar systems as part of its effort to reduce coal dependence and optimise land use.
+
+Morocco: Facing severe water scarcity and high solar potential, Morocco is exploring canal-based solar solutions to support both renewable energy expansion and irrigation efficiency.
+
+These international experiences underline the adaptability of canal-top solar across diverse climatic and institutional contexts.
+
+Sri Lanka’s irrigation infrastructure offers enormous potential for canal-top solar. The Mahaweli Irrigation System alone includes nearly 1,900 kilometres of main, branch, and distributary canals.
+
+If even a fraction of this network were utilised, Sri Lanka could achieve:
+
+Water savings: Millions of litres annually critical for dry-zone agriculture
+
+This dual benefit of electricity generation and water conservation could be transformative. Farmers would benefit from improved irrigation reliability and affordable power while the nation would reduce fossil fuel imports, strengthen food security, and enhance climate resilience.
+
+Lower canal maintenance costs due to reduced weed growth and bank erosion
+
+Both canal-top and floating solar systems have an important role to play:
+
+Floating solar is best suited for large reservoirs and tanks, offering high-capacity generation but requiring careful management of water-level fluctuations and ecological impacts.
+
+Canal-top solar is ideal for long, narrow canals, avoids land acquisition, reduces evaporation, and brings power generation closer to rural demand centres.
+
+Together, these approaches form a complementary strategy for maximising the renewable energy potential of Sri Lanka’s water infrastructure.
+
+For Sri Lanka, canal-top solar is more than an energy project.  It is a strategic investment in water security, food production, and climate resilience. By learning from India and adapting global best practices to local conditions, Sri Lanka can unlock a new frontier in renewable energy without competing for land.
+
+If implemented with foresight and institutional coordination, canal-top solar could place Sri Lanka at the forefront of innovative, climate-smart energy solutions in South Asia, delivering power, protecting water, and supporting farmers all at once.
+
+Sri Lanka should adopt canal-top solar as a national energy–water strategy, not as isolated pilot projects. A single lead agency must be mandated to implement canal-top solar in close coordination with the Irrigation Department, Mahaweli Authority, Ceylon Electricity Board and the Sustainable Energy Authority. Initial pilot projects should be launched in selected Mahaweli and dry-zone canals, followed by rapid scaling through public–private partnerships. Project approval and financing should explicitly value both electricity generation and water savings. Most importantly, implementation must remain farmer-centred, delivering reliable, affordable power for irrigation while conserving scarce water resources. With clear leadership and integrated planning, canal-top solar can simultaneously strengthen energy security, food production, and climate resilience.
+
+(The author holds a B.Sc. in Agricultural Engineering from Tokyo University and a M.Sc. in Soil and Water Management from the University of Wageningen.  He was a former Director of the Natural Resources Management Centre, Department of Agriculture, Sri Lanka. He has worked with the FAO in Sri Lanka and Bangladesh.)

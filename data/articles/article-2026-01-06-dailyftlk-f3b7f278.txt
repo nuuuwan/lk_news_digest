@@ -1,0 +1,59 @@
+Ditwah disaster response: Legal limits and market costs of suspending debt payments
+
+Sri Lanka has confronted one of the most destructive natural disasters in its recorded history. In late November 2025, Cyclone Ditwah caused widespread damage to infrastructure, livelihoods and public services across the country. The disaster struck while Sri Lanka was still emerging from its 2022 sovereign default and grappling with fragile public finances. In this context, some in the international development community, including Nobel laureate Joseph Stiglitz, have called for an immediate suspension of external sovereign debt repayments.
+
+The humanitarian logic of this appeal is compelling and praiseworthy. Yet the legal and financial realities are more unforgiving. This article considers whether a natural disaster such as Cyclone Ditwah can justify a unilateral suspension of sovereign debt payments under international law and commercial debt practice and why, even if morally persuasive, such a move would carry significant legal and market consequences.
+
+Whether a State can lawfully suspend sovereign debt repayments in response to a natural disaster turns on a narrow and demanding set of international legal doctrines, most notably the doctrine of necessity.
+
+Article 25 of the International Law Commission’s Articles on State Responsibility permits a State to preclude the wrongfulness of breaching an international obligation only where this is the sole means of safeguarding an essential interest against grave and imminent peril and, only where the State has not materially contributed to the situation or seriously impaired the essential interests of others.
+
+Applied to natural disasters, this threshold is exacting. A State must show that the disaster threatens essential interests such as life, health and basic public services; that suspending payment is the only viable response; and that no reasonable alternatives exist. It must also demonstrate that deficiencies in disaster preparedness or prior policy choices did not materially worsen the harm.
+
+Cyclone Ditwah unquestionably endangered Sri Lanka’s population and caused colossal damage to infrastructure. Yet international tribunals have consistently interpreted the necessity defence narrowly. In sovereign debt disputes, economic distress, even when triggered by external shocks, has rarely sufficed. Governments are typically required to demonstrate that all other options, however painful, have been exhausted. Necessity therefore remains an uncertain and temporary shield rather than a dependable legal justification.
+
+Force majeure offers even less comfort. While natural disasters are classic force majeure events in many commercial contexts, sovereign debt contracts governed by foreign law rarely treat disaster-induced fiscal stress as rendering payment legally impossible. Courts have long drawn a sharp distinction between physical impossibility and inability to pay.
+
+Absent explicit contractual provisions linking debt service obligations to disaster events, financial incapacity, even following a major cyclone, is unlikely to excuse non-performance before courts or arbitral tribunals.
+
+These constraints matter because most of Sri Lanka’s international sovereign bonds are governed by English law and New York law, the twin anchors of global debt markets. This governing-law choice, favoured by investors, prioritises contractual certainty, predictability and enforceability.
+
+Under both systems, sovereign immunity is typically waived for commercial debt. Courts treat bond obligations as ordinary contracts, enforceable regardless of political context or humanitarian emergency. The principle that agreements must be honoured remains decisive.
+
+In practice, courts in both jurisdictions have been unreceptive to arguments grounded in economic necessity. English courts have repeatedly held that financial hardship does not excuse non-performance. New York courts have gone further, aggressively enforcing creditor rights, as illustrated by litigation against Argentina following its 2001 default.
+
+For Sri Lanka, the implication is clear.  While Cyclone Ditwah strengthens the moral and political case for debt relief, it does not create a legal right to suspend payments unilaterally under the law governing its sovereign bonds.
+
+This legal rigidity explains why post-disaster calls for debt suspension rely less on law than on legitimacy. Economists and humanitarian organisations argue that diverting scarce public funds to creditors during a humanitarian emergency is indefensible. Human rights bodies increasingly support the view that minimum obligations relating to life, health and housing should take precedence.
+
+But these arguments do not override contractual rights in London or New York court rooms. They shape negotiations, not judicial outcomes. Creditors may choose to offer relief, but disaster alone does not compel them to do so.
+
+Unilateral suspension would also carry significant market costs. Under English and New York law, a payment halt typically triggers cross-default and acceleration clauses, rendering large portions of debt immediately due. Credit ratings fall to default levels, raising borrowing costs not only for the sovereign but also for domestic banks and State-owned enterprises. Trade finance becomes more expensive or unavailable, constraining imports precisely when disaster recovery demands them.
+
+For Sri Lanka, where market access remains fragile, unilateral suspension risks prolonging exclusion from international capital markets long after the humanitarian emergency has passed. The IMF-supported Extended Fund Facility program aims to restore macroeconomic stability and place Sri Lanka on a credible path towards debt sustainability and renewed access to external financing. A unilateral halt to debt repayments would run directly counter to that objective.
+
+Cyclone Ditwah presents a powerful humanitarian and political case for debt relief. It does not, however, provide a clear legal basis for unilateral suspension of debt payments under existing international law or under the English and New York law governing Sri Lanka’s bonds. The market repercussions would also be severe
+
+Cyclone Ditwah presents a powerful humanitarian and political case for debt relief. It does not, however, provide a clear legal basis for unilateral suspension of debt payments under existing international law or under the English and New York law governing Sri Lanka’s bonds. The market repercussions would also be severe.
+
+The disaster may strengthen Sri Lanka’s bargaining position if creditors are willing to negotiate. But moral urgency does not create legal entitlement. Under today’s sovereign debt architecture, meaningful relief is more likely to emerge through negotiation and multilateral support than through unilateral action.
+
+(The author is a former head of Finance and Financial Planning disciplines at Deakin University, Australia)
+
+1. International Law Commission (2001) Articles on Responsibility of States for Internationally Wrongful Acts, UN Doc A/56/10.
+
+2. Vienna Convention on the Law of Treaties (1969), 1155 UNTS 331.
+
+3. Waibel, M. (2011) Sovereign Defaults before International Courts and Tribunals. Cambridge: Cambridge University Press.
+
+4. CMS Gas Transmission Company v Argentine Republic (ICSID Case No. ARB/01/8), Award, 12 May 2005.
+
+5. LG&E Energy Corp. v Argentine Republic (ICSID Case No. ARB/02/1), Decision on Liability, 3 October 2006.
+
+6. NML Capital Ltd v Republic of Argentina, 573 U.S. 134 (2014).
+
+7. International Monetary Fund (2023) Sri Lanka: Request for an Extended Fund Facility. Washington, DC: IMF.
+
+8. World Bank (2025) Sri Lanka: Rapid Damage and Loss Assessment Following Cyclone Dithwa. Washington, DC: World Bank.
+
+9. UNCTAD (2012) Principles on Responsible Sovereign Lending and Borrowing. Geneva: United Nations.

@@ -1,0 +1,35 @@
+The Power Of The Many: Why Sri Lanka’s Village Tanks Are The Key To Energy Sovereignty
+
+As the Public Utilities Commission (PUCSL) evaluates the Ceylon Electricity Board’s (CEB) Draft Long-Term Generation Expansion Plan (LTGEP) 2025–2044, Sri Lanka faces a pivotal choice. The current draft remains anchored in a “centralized” philosophy—a system of massive, distant power plants connected by thousands of kilometres of vulnerable wires.
+
+To achieve the national goal of 70% renewable energy, we must look beyond this aging model. The future of Sri Lankan power lies largely in decentralization: a system where our ancient network of irrigation tanks could become the backbone of a modern, resilient, and localized energy grid.
+
+A primary hurdle cited in the LTGEP for renewable expansion is land scarcity. Centralized solar farms require vast tracts of land, often leading to conflicts with agriculture and forestry. However, decentralization offers an elegant, dual-purpose solution through our big and medium size village tanks (Wewa).
+
+* Floating Solar: By installing solar panels on the water surface of local reservoirs, we eliminate the need for new land.
+
+* Water Conservation: These floating “covers” significantly reduce evaporation, preserving critical water levels for farmers during droughts.
+
+* Enhanced Efficiency: The cooling effect of the water beneath the panels increases their energy output by up to 10% compared to land-based systems.
+
+* Micro-Wind Integration: The open bunds of these tanks act as natural wind corridors, ideal for small-scale turbines that feed directly into the local council’s grid.
+
+In a centralized system, electricity is often generated in one corner of the island to be consumed in another. The centralized model requires electricity to travel long distances from generation hubs to load centres. This long-distance travel results in significant Transmission and Distribution (T&D) losses—a technical wastage that acts as a “hidden tax” on every citizen’s electricity bill.  The CEB plan acknowledges that net losses (Transmission & Distribution) are approximately 7.25% to 7.93% of total generation.
+
+However, generating power at the local council level ensures that energy is consumed where it is produced. By bypassing the high-voltage transmission network for local needs, a decentralized system can significantly reduce these technical losses, effectively increasing the available energy without adding new capacity.
+
+By decentralizing power generation to the Local Council (Pradeshiya Sabha) level, we move the source next to the user. This “Proximity Power” ensures that every watt generated is used locally, drastically reducing wastage and lowering the overall cost of the system.
+
+The CEB’s main technical concern with renewable energy is “balancing”—the difficulty of keeping the grid stable when the sun sets or wind dies down. In a centralized grid, a single frequency fluctuation can trigger a domino effect, leading to a nationwide blackout. The plan highlights that high penetration of variable renewable energy (VRE) like wind and solar presents “significant operational challenges” for the centralized grid. To manage this, it proposes massive investments in utility-scale storage (900 MW of BESS and 600 MW of Pumped Hydro) and flexible thermal plants (2,330 MW of Gas Turbines) to act as spinning reserves.
+
+On the other hand decentralization transforms the grid into a series of “Microgrids”. A decentralized system manages balancing locally at the council level through Microgrids. Instead of relying on a central “brain” to balance the entire island, each local area balances its own load. This reduces the need for expensive, large-scale flexible thermal plants and prevents a single transmission failure from causing a national blackout. Alternatively, each local council area can manage its own supply using local battery storage and biomass. If the national grid fails, a decentralized local council can “island” itself—disconnecting from the fault and keeping essential local services (hospitals, water pumps, streetlights) powered independently
+
+The following table highlights why the transition to a decentralized model is not just a technical upgrade, but a necessity:
+
+Decentralization is ultimately about Energy Democracy. In developed nations like Denmark and Germany, local municipalities and cooperatives own a majority of the renewable infrastructure. Local SMEs supported through low interest loans could be encouraged to invest and partner with local councils in local power generation.
+
+If our LTGEP 2025–2044 empowers local councils to own and manage their own “Village Tank Power Plants,” and similar local power generation solutions we stop the drain of capital to central bureaucracies and foreign fuel markets. Instead, that wealth is reinvested into local roads, schools, and clinics.
+
+We do not need a bigger grid; we need a smarter, more distributed one. By integrating our ancient irrigation heritage with modern floating solar and micro-wind technology, Sri Lanka can leapfrog the failures of the centralized industrial age. It is time to empower our local councils and return the power—literally—to the people.
+
+The above article is based on the writer’s submissions to the public consultation on the Ceylon Electricity Board’s (CEB) Draft Long-Term Generation Expansion Plan (LTGEP) 2025–2044 conducted by the Public Utilities Commission (PUCSL)

@@ -1,0 +1,49 @@
+Separating ownership and operation will significantly improve public bus transportation system
+
+The public transportation system is one area where the country has not yet achieved the level of developed nations. The reason is that planners have failed to identify the fundamental flaw in its structure.
+
+Sri Lanka has approximately 10,000 private bus owners and the CTB. There are about 16,000 buses owned by private operators and 3 to 4,000 buses owned by the CTB. Both the CTB and private owners also operate the buses.
+
+The solution to these issues is to separate ownership from operational responsibilities. This involves assigning one operator to each geographic area, which will likely be a provincial authority. There will be nine operators on the island, each responsible for bus transportation within a province. A tenth operator will oversee interprovincial routes. Each provincial transport authority (the operators) will operate under the provincial council.
+
+For example, the Western Province Transport Authority (or a WPC-owned company) would serve as the operator responsible for bus services in the Western Province. This operator would develop schedules based on peak trip demand and ensure that trips run even when they are not immediately profitable. (For instance, initially the 176 route will have a bus every 5 minutes during peak hours, every 20 minutes during off-peak hours, and every 40 minutes from midnight to 5 a.m.) This peak-time schedule could be gradually adjusted based on demand.
+
+This operator will hire buses from owners, including both CTB and private providers, who meet the specified standards. Owners must provide a bus that complies with the operator's safety standards and passenger facility requirements. For each bus, owners must also provide a qualified, experienced driver who meets the operator’s standards. Owners will receive a monthly retainer along with a fee for each kilometer driven. This retainer and per-kilometer fee will vary based on factors such as air conditioning, purpose-built buses with good suspension and passenger comfort, and other relevant considerations. The owner is responsible for fueling, servicing, and repairing vehicles to ensure they meet the operator's requirements.
+
+Additionally, the single operator must run this as a service rather than for pure profit. If there is a shortfall between income, operating expenses, and management costs, the relevant provincial council should cover the deficit. The provincial council could recover this cost by increasing private vehicle licencing fees.
+
+This separation between ownership and operation, where a single operator serves a specific geographic area, provides these benefits.
+
+There will be a bus plying on all routes on a specified, well-publicised timetable. This will also ensure that regular bus services are available at night and other less profitable times. This will provide an almost 100% reliable bus transport service.
+
+A bus service that is 100% reliable could decrease the use of private vehicles, which would lower the country’s fuel consumption and traffic congestion.
+
+The Government will not have to bear the cost of buying new buses for the CTB.
+
+Since the operator will enforce safety and other standards, the buses on the roads will not have worn-out tires, faulty brake systems, or other technical issues, ensuring safer public bus transportation.
+
+The speeding, reckless driving, and competing for passengers will not be there.
+
+There will be no instances where unqualified or inexperienced drivers operate buses on public roads.
+
+Using a tracking system fixed to the buses, the operator could monitor and record the speed, each location, breakdowns, etc., in the bus service.
+
+Using the same tracking system, electronic display boards could be installed at bus stops showing the arrival time of the next bus. (This system is available in most developed countries.)
+
+Central monitoring could allow the operator to send buses to replace broken-down ones or in case of accidents.
+
+Like in airlines, a seat pre-booking system could be introduced for an extra fee.
+
+By introducing digital payment cards, the pilferage of collection, time required for counting cash, and banking, etc., can be eliminated.
+
+With ongoing input from the bus pass holders, the operator could learn and use it to improve the timetables, introduce additional routes, and adjust capacity and frequencies.
+
+Data from the tracking system and bus passes could be used to adjust trip frequencies, creating a dynamic system that responds to changes in demand.
+
+Based on the data, trips could be adjusted continuously, with some having limited stops to reduce travel time for passengers.
+
+By establishing a dynamic link with real-time train arrival updates and adjusting bus schedules accordingly, the quality of last-mile transportation can be further enhanced.
+
+Through an app, passengers could access information about the next available bus, book seats, order buses for private trips, arrange group routes such as for offices and schools, connect with other passengers on a route, make and track complaints, and provide feedback for improvement.
+
+Proper design, planning, and monitoring are crucial to prevent provincial operators from ending up like the CTB. Additionally, some current CTB staff could be transferred to the operator companies to help avoid increasing costs.
