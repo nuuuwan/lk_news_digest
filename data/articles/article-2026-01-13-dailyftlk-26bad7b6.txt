@@ -1,0 +1,25 @@
+Digital divide persists despite rising literacy: Stats Dept.
+
+Rapid gains in digital literacy mask deep structural gaps across regions, income groups and modes of access, posing a challenge for the Government’s push to build a fully inclusive digital economy, according to the latest data from the Department of Census and Statistics.
+
+The Computer Literacy Statistics 2025 – First Six Months Bulletin shows that while 70.8% of the population aged 5–69 is digitally literate, only 38.4% are computer literate, highlighting a sharp divide between mobile-based digital skills and the ability to use computers required for more advanced digital tasks typically required in formal employment, education and public administration
+
+The data point to a continued shift away from personal computers towards smartphones and tablets, but also to limits in the depth of digital capability.
+
+Access remains uneven at the household level. Just 21.4% of households had a desktop or laptop in 2025, a figure that has stagnated in the narrow 20–21% range since 2023. In the estate sector, computer ownership falls to 5.8%, compared to 18.9% in rural areas and 36.3% in urban areas.
+
+Provincial disparities are also pronounced, with 35.1% of households in the Western Province owning a computer, against just 9.0% in the Northern Province.
+
+Skill gaps mirror access gaps. Urban computer literacy stands at 52.1%, while rural and estate sectors record much lower rates of 36.6% and 18.6% respectively.
+
+At provincial level, the Western Province again leads with a computer literacy rate of 49.8%, while the North Central Province records the lowest at 23.5%. Gender differences persist, with male computer literacy at 39.9% compared to 37.1% among females.
+
+The divide widens by age, education and occupation. While 75.6% of those aged 15–19 are computer literate, literacy falls sharply among older age groups. Individuals with GCE A/L qualifications or higher report a computer literacy rate of 78.6%, compared to far lower levels among those with less schooling.
+
+Among the employed, around 73.0% are computer literate, but this rises above 90% in professional, technical and clerical roles, while only 34.2% of those in elementary occupations have computer literacy.
+
+Internet use also reflects unequal depth of engagement. Although 60.4% of the population aged 5–69 used the internet at least once in the past 12 months, only 21.3% used e-mail over the same period, underlining the dominance of basic mobile usage over more formal digital communication tools.
+
+Urban areas and those aged 20–24 record the highest levels of internet and e-mail use.
+
+The data suggest that Sri Lanka’s digital economy is expanding in reach but not evenly in capability. Without closing gaps in computer access, skills and meaningful internet use, the Government’s digitalisation drive risks reinforcing existing economic and social divides rather than narrowing them.
