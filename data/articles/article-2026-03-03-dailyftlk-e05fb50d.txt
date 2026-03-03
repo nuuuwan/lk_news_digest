@@ -1,0 +1,19 @@
+Court of Appeal rules in favour of Colombo Fort Land in tax classification case
+
+High dividend concentration does not automatically convert income into business income
+
+The Court of Appeal has delivered a significant judgment in favour of Colombo Fort Land & Building PLC, ruling that the company should be classified as a Holding Company rather than an Investment Company for corporate tax purposes under the Inland Revenue Act (IRA) of 2006.
+
+The decision arose from C.A. (Tax) 20/2022 and 21/2022, which centred on whether the company’s corporate structure and income profile warranted treatment as an “Investment Company” or a “Holding Company.”
+
+The Inland Revenue Department (IRD) had initially refused the company’s tax returns, seeking to tax its dividend income as trading profits under Section 3(a) of the IRA 2006. Tax authorities argued that because dividends accounted for over 80% of the company’s revenue, such income must constitute business income.
+
+However, the Court rejected that position, holding that a high volume of income from a particular source does not automatically alter its legal classification.
+
+In drawing a distinction between investment and holding entities, the Court observed that investment companies typically trade shares frequently for short-term profit, whereas holding companies maintain long-term control over subsidiaries.
+
+The Court found that Colombo Fort Land held its shares for long durations to manage its subsidiary portfolio rather than for systematic trading. On that basis, it ruled that the company was legally recognised as a Holding Company.
+
+The judgment further clarified that dividends and interest earned by such a company must be classified under Section 3(e) as a separate source of income.
+
+Crucially, the Court held that these dividends are deemed not to form part of total statutory income under Section 63 of the Act. The ruling reinforces the legislative intent underpinning the IRA 2006 to prevent double taxation at multiple stages within a corporate structure.

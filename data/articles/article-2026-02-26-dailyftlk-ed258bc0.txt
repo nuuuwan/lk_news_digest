@@ -1,0 +1,63 @@
+Importance of AI governance:  A critical imperative for Sri Lanka
+
+Artificial Intelligence (AI) is no longer a futuristic concept—it is already embedded in decision-making across finance, healthcare, logistics, education, public administration, and national security. While AI offers immense productivity gains, efficiency, and innovation, it also introduces significant ethical, legal, operational, and security risks.
+
+As AI adoption accelerates globally, AI governance has emerged as a critical mechanism to ensure that AI systems are safe, ethical, transparent, and accountable. Countries that fail to establish robust AI governance frameworks risk data breaches, reputational damage, regulatory non-compliance, and erosion of public trust.
+
+For Sri Lanka, which is actively pursuing digital transformation and e-governance initiatives, the absence of a structured AI governance framework could become a strategic vulnerability rather than a development advantage.
+
+Many countries have already recognised the urgency of governing AI responsibly and have introduced national or regional frameworks.
+
+Focuses on principles such as fairness, transparency, accountability, privacy protection, and human-centred AI.
+
+Introduces a risk-based approach, classifying AI systems into unacceptable, high-risk, limited-risk, and minimal-risk categories, with strict compliance obligations for high-risk applications. The AI Act is a European regulation on artificial intelligence (AI) – the first comprehensive regulation on AI by a major regulator anywhere.
+
+Provides a voluntary but structured framework to identify, assess, manage, and govern AI-related risks across the AI lifecycle.
+
+Strongly emphasises state control, algorithm accountability, content moderation, and alignment with national security priorities.
+
+Widely regarded as a practical, business-friendly framework focusing on explainability, transparency, human oversight, and responsible deployment.
+
+Including ISO/IEC 23894 (AI risk management) and ISO/IEC 42001 (AI management systems), which provide globally recognised governance and control structures.
+
+AI governance is no longer optional—it is becoming a regulatory expectation and competitive differentiator.
+
+While AI improves efficiency, unmanaged AI usage exposes organisations to serious risks:
+
+One of the most critical risks arises from employees uploading sensitive information into public AI platforms such as ChatGPT.
+
+In early 2026, a senior official at the Cybersecurity and Infrastructure Security Agency (CISA) uploaded “For Official Use Only” government contracting documents into a public version of ChatGPT for policy review purposes.
+
+This incident highlights how well-intentioned productivity use of AI can result in severe governance failures.
+
+Even if identifiers are removed, contextual or proprietary knowledge leakage remains a significant concern.
+
+Research by Cyberhaven indicates: 8.6% of employees have pasted company data into ChatGPT, with 11% of all data pasted being classified as confidential. More concerning, 4.7% of employees have pasted sensitive data, including source code, client information, and strategic documents. (Cyberhaven, 2025)
+
+This demonstrates that AI-related data risk is systemic, not accidental or isolated.
+
+To mitigate these risks, organisations must move beyond ad-hoc controls and establish formal AI governance policies.
+
+Clear policies defining what data can and cannot be uploaded to AI tools
+
+Disable chat history- Users can turn off chat history so their conversations are not saved or used to train the AI.
+
+opt out of data training- Users can choose not to allow their inputs to be used to improve future AI models, helping to reduce data reuse.
+
+These solutions allow organisations to leverage AI benefits without compromising confidentiality.
+
+Why Sri Lanka urgently needs a National AI governance framework
+
+…makes the absence of a national AI governance framework a significant policy gap.
+
+Data privacy violations (especially under the Personal Data Protection Act)
+
+Training policymakers, regulators, and organisational leaders on AI risks and governance
+
+AI governance is not about restricting innovation—it is about enabling sustainable, trusted, and responsible AI adoption.
+
+The 2026 CISA incident demonstrates that even advanced economies are vulnerable without strong AI governance. For Sri Lanka, proactive action today can prevent costly failures tomorrow.
+
+By learning from global best practices and tailoring them to local realities, Sri Lanka can position itself as a responsible AI adopter, safeguarding data, protecting citizens, and enhancing economic competitiveness in the AI-driven world.
+
+(The author is a Senior Chartered Accountant with over 20 years of professional experience, primarily in the banking sector, and is currently serving as AGM– Audit at one of the country’s leading banks. He is also a CISA-certified auditor (ISACA), holds professional qualifications in Artificial Intelligence, and serves as a visiting lecturer at PIM, CA Sri Lanka, and IBSL)
