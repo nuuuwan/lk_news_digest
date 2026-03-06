@@ -1,0 +1,17 @@
+LB Finance adopts Snowflake to transform into an AI-powered financial institution
+
+Snowflake, the AI Data Cloud company, announced that LB Finance PLC, one of Sri Lanka’s A- (lka) Fitch-rated non-bank financial institutions, has adopted Snowflake as the data foundation to accelerate its digital transformation journey. By modernizing and unifying its data ecosystem on the Snowflake platform, LB Finance has evolved its hybrid business model to offer a seamless experience for modern app and digital-first customers as they transition from physical branches to accessing financial services digitally.
+
+As digital adoption expanded, LB Finance identified opportunities to enhance its on-premises data architecture to better support real-time analytics, AI workloads, and the increasing performance demands of its digital channels. The tightly coupled nature of compute and storage limited scalability and delayed access to timely insights, increasing reliance on IT teams for analytics. Scaling compute-intensive AI infrastructure also became increasingly complex and costly, highlighting the need for a modern, cloud-native platform.
+
+In response to these evolving requirements, LB Finance selected Snowflake’s AI Data Cloud platform for its security, governance, and scalability, establishing a unified and future-ready data foundation. This approach has enabled the organization to operate as a real-time, insight-driven financial services provider, supporting AI-powered personalization and improved digital customer experiences.
+
+Snowflake now serves as LB Finance’s single source of truth, providing enterprise-grade security, governance, and scalability across its data ecosystem. Altria Consulting, the implementation partner, helped LB Finance transition to Snowflake to run a broad range of workloads on a single, unified platform and eliminate silos between reporting, analytics, and AI. Today, the company’s enterprise data warehousing, regulatory reporting, digital channel analytics, customer 360 insights, and production AI models for credit risk, fraud detection, and personalization are powered by Snowflake. These capabilities have delivered measurable business impact. Data availability has shifted from batch-oriented processing to near real-time. Report generation time has dropped from hours to seconds during peak periods, and business users now access self-service insights without IT intervention. At the customer level, this translates into faster loan approvals, fully digital onboarding journeys, personalized product offerings, and credit decisions delivered significantly faster, in many cases within minutes.
+
+Union Bank hits LKR 2.2 Bn PBT and doubles bottom line in FY2025
+
+GRI Tires celebrates Top Dealer Excellence at Perera Tire Service Awards Night 2026
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
