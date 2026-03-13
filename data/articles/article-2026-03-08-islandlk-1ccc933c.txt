@@ -1,0 +1,73 @@
+Human–Elephant conflict in Sri Lanka
+
+Human–elephant conflict (HEC) in Sri Lanka results in significant loss of human life, elephant deaths, and extensive damage to crops and property. Despite numerous interventions over the decades, the situation continues to deteriorate. The reasons for the breakdown of what was once a relatively tolerant coexistence—albeit one dominated by humans—into an increasingly confrontational relationship must be clearly understood by both the public and policymakers. Immediate measures are required to minimise losses, alongside long-term solutions grounded in sound ecological and governance principles. It must also be recognised that this is a complex problem; effective mitigation and sustainable solutions require a multidisciplinary approach integrated into the country’s overall development planning. This article examines several cost-effective methods that have been successfully implemented in other countries and may apply to the Sri Lankan context.
+
+The primary reason for the escalation of human–elephant conflict (HEC) is the shrinking of wildlife habitats in the country due to poorly planned development and uncontrolled, unwise land encroachment. A major barrier to effective intervention is the lack of accurate and comprehensive data in two key areas: (a) land and land utilisation, and (b) the elephant population and their range.
+
+It became evident after the Ditwah cyclone disaster that the lack of readily accessible, reliable data on land and its use, is a major obstacle to a wide range of project planning and implementation efforts. Regardless of how HEC is mitigated, the government must take immediate action to establish a digital land-use database, as this is a key component of long-term planning for any development initiative. Using modern aerial mapping technologies, it should be possible to catalogue the geography and utilisation of every square metre of the island’s landmass.
+
+Crossing a railroad in the North Central Province (File photo)
+
+Similarly, accurate data on the number of elephants, their age and gender distribution, and the extent of their habitat range, are essential for data-driven decision-making. Here, too, modern technology offers practical solutions. Land-based digital cameras have been successfully used to count elephants, identify individual animals, and monitor their range. Research has shown that the pigmentation patterns of Asian elephants—particularly those on their ears—can serve as a “fingerprint” for identifying individuals. The same technique can also be used to study elephant movement patterns and habitat range. Computer programmes already exist for such cataloguing purposes; however, developing a similar programme, locally, could be both economical and educational, for example, as part of a university IT programme. Since data-driven decision-making is key to the success of any long-term strategy, data collection must begin immediately while short-term mitigation measures are implemented.
+
+There must be a general understanding of how this problem has worsened. Sri Lanka is considered an anomaly in island biogeography for supporting a high density of megafauna—including Asian elephants, leopards, and sloth bears—on a relatively small landmass of about 65,000 square kilometres. This is further complicated by the country’s high human population density, estimated at about 356–372 people per square kilometre, ranking among the highest in the world. The human population has increased more than fivefold between 1900 and 2024, from about 4.5 million to nearly 22 million.
+
+The corresponding expansion of land use for human settlement, agriculture, and infrastructure development has placed enormous pressure on wildlife habitats. Habitat loss, together with imbalances in predator populations, has resulted not only in escalating human–elephant conflict (HEC) but also in increasing crop damage caused by peacocks, monkeys, giant squirrels, and feral pigs. The Sri Lankan elephant has no natural predators; its only significant threat arises from human activities. Restoring balance within this complex ecological system is no easy task, yet it must remain the long-term objective if the country is to safeguard its unique biodiversity.
+
+Since the current situation has developed over an extended period, practical and humane solutions will also take time to implement. In the short term, several interventions can reduce direct interactions between humans and elephants while ensuring the safety of both:
+
+* Strict prohibition of roadside feeding and improved waste management.
+
+* Public education on safe deterrence methods and the promotion of ethical and sustainable practices in forests, national parks, and sanctuaries.
+
+* The use of proven, non-lethal deterrent methods implemented in a coordinated and systematic manner.
+
+* Anti-depredation squads (ADS): well-trained response teams tasked with implementing and monitoring these measures.
+
+* The use of AI-based technologies to prevent train–elephant collisions.
+
+Several countries have successfully used chilli as a deterrent to keep elephants away from farms and settlements. While cultivating chilli as a crop may contribute to this effort, it alone is not an effective deterrent; the pungent compounds in chilli, which act as an irritant to elephants, must be delivered effectively. One widely used and economical method is chilli-grease fencing, an alternative to electric fencing. In this method, rags soaked in a mixture of ground chilli and used motor oil are hung from ropes in strategic locations to create a deterrent barrier.
+
+More advanced deterrence techniques have also been tested. For example, compressed-air launchers that fire chilli-filled projectiles have demonstrated effectiveness in safely redirecting elephants from a distance without causing harm. In some countries, locally made projectiles containing chilli powder, sand, and firecrackers enclosed in flexible sheaths, such as rubber balloons, are ignited and launched ahead of approaching animals. When combined with strobe lights, air horns, or other noise-making devices, these methods have been found to be even more effective. Over time, elephants may learn to associate irritation with light and sound, allowing these signals alone to act as deterrents. The main limitation of this approach is the need for well-trained personnel available throughout the day. Therefore, the involvement of existing national services—such as the armed forces—in developing and implementing such systems should be considered.
+
+Technology can also play an important role in reducing train–elephant collisions. Night-vision cameras mounted on trains, combined with artificial intelligence, could be used not only to detect elephants but also to identify patterns in elephant movements near railway tracks. Once such high-risk locations are mapped, additional cameras could be installed along the tracks to transmit warning signals to approaching trains when elephants are detected nearby. As a further step, this system could be integrated with the Driver’s Safety Device (DSD)—the “dead man’s” handle or pedal—so that trains can be automatically stopped when elephants are detected on or near the tracks, thereby reducing reliance solely on driver response.
+
+A lasting resolution depends on strategic land-use planning and coexistence-based management. This must form part of a broader national discussion on the sustainable use of the country’s limited land resources.
+
+* Data-driven placement and maintenance of fencing, rather than attempting to confine elephants within fixed areas.
+
+* Strengthened management of wildlife reserves, including the prevention of human encroachment and uncontrolled cattle grazing.
+
+* Habitat improvement within forests to reduce the attraction of elephants to agricultural lands.
+
+* Introduction of drought-resistant grass varieties such as Cenchrus purpureus (commonly known as elephant grass or Napier grass) and Pennisetum purpureum in wildlife refuges and national parks to alleviate food shortages during the dry season.
+
+* Population control measures, including vaccine-based methods, supported by reliable population data.
+
+Public education on the importance of maintaining ecological balance—especially amid environmental change and expanding economic development—must also be a key priority. Basic principles of environmental management should be incorporated into higher education across all disciplines. At the same time, difficult but necessary questions must be asked about the long-term sustainability and economic return of certain land-use patterns, particularly those shaped during the colonial period for plantation crops. Inefficient agricultural practices, such as chena cultivation, should be phased out, and the clearing of wilderness—especially in ecologically sensitive highland areas for tourism development—must be strictly regulated.
+
+Elephants typically travel between 15 and 50 kilometres a day. Therefore, restoring uninterrupted elephant corridors, linking existing wildlife reserves, must be a central component of long-term planning. In some cases, this may require carefully considering the relocation of human settlements that have developed within former elephant corridors.
+
+Unfortunately, rural communities often bear a disproportionate share of the burden created by these conservation measures. It is, therefore, essential that policies ensure they receive a fair share of the economic benefits generated by wildlife-based industries, particularly tourism. Such policies should aim to help these communities transition from subsistence livelihoods toward improved standards of living. In this context, a critical evaluation of existing agricultural systems must form part of a broader national land-management strategy. Put plainly, the long-term viability of plantation industries, such as tea and rubber, should be assessed in terms of their return on investment—particularly the investment of scarce land resources.
+
+Finally, all ecosystems have a carrying capacity, meaning there is a limit to the number of people and animals that a given area of land can sustain. This issue extends beyond Sri Lanka; many scientists argue that, given current levels of malnutrition and resource depletion, the planet may already have exceeded its sustainable carrying capacity. Others suggest that technological advances and lifestyle changes may increase that capacity. In either case, significant changes in human consumption patterns and lifestyles are likely to become inevitable.
+
+For elephants, however, the absence of natural predators means that humane human intervention may be required to manage population growth sustainably. If elephant populations were allowed to increase unchecked, food scarcity could lead to malnutrition and starvation among the animals themselves. At the same time, a nation, already struggling with child malnutrition, must carefully balance its limited resources between human welfare and wildlife conservation.
+
+One promising approach is immunological sterilisation using the Porcine Zona Pellucida (PZP) vaccine, a reversible and humane form of immunocontraception used in wildlife population management. By stimulating antibodies that prevent sperm from fertilising eggs, this dart-delivered vaccine controls reproduction without significantly altering the animals’ natural behaviour. Once accurate data are obtained on the age and gender distribution of the Sri Lankan elephant population, the systematic application of such methods could become feasible.
+
+Moreover, the development of local capacity to produce such vaccines should be encouraged. Similar technologies could also be applied to manage populations of other animals—such as monkeys and stray dogs—whose numbers can become problematic if left unchecked. Local vaccine production would not only address domestic needs but could potentially create opportunities for export and scientific collaboration.
+
+Human–elephant conflict (HEC) in Sri Lanka is intensifying due to habitat fragmentation, unplanned development, and weak governance. Elephants require large, connected landscapes to survive, and when traditional migration corridors are blocked, conflict becomes inevitable.
+
+Current ineffective practices—such as the mass translocation of elephants, fragmented fencing that obstructs migration routes, and policies that overlook the livelihoods of rural communities—must be reconsidered and replaced with more effective strategies. Mechanisms must also be established to ensure that the economic benefits of environmental protection, particularly those generated by wildlife tourism, are fairly shared with rural populations who bear the greatest burden of living alongside wildlife.
+
+A shift toward data-driven planning, protection of ecological corridors, community partnerships, and stronger institutional accountability is essential. The human–elephant conflict is not solely a wildlife issue; it is fundamentally a land-use and governance challenge. Sri Lanka would benefit from establishing a dedicated Human–Elephant Coexistence Organisation, or from strengthening an existing Wildlife Commission with the authority and capacity to implement long-term, science-based management strategies.
+
+With informed policies and genuine support for affected communities, peaceful coexistence between humans and elephants is both achievable and sustainable. Ultimately, educating future generations and equipping them to face emerging environmental challenges with knowledge and responsibility is the most effective long-term strategy.
+
+Winds of Change:Geopolitics at the crossroads of South and Southeast Asia
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

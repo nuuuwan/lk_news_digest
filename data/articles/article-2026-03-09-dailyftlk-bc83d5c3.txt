@@ -1,0 +1,39 @@
+The hidden cost of substandard coal: Estimating the national impact on Sri Lanka
+
+The Lakvijaya (Norochcholai) coal power station is Sri Lanka’s largest thermal power plant and a critical component of the country’s electricity generation system. Coal for the plant is procured through the Lanka Coal Company (LCC) on behalf of the Ceylon Electricity Board (CEB). Recent controversy regarding the quality of certain coal shipments has raised questions about the broader economic impact on the national electricity system.
+
+The Lakvijaya power plant is designed to operate using coal with a calorific value of approximately 6,150 kcal/kg. If coal with a significantly lower calorific value is supplied, the plant must burn larger quantities of coal to produce the same electricity output.
+
+Approximate annual coal consumption at the Lakvijaya plant: 2.3–2.5 million tons. For calculation purposes an average of 2.4 million tons per year is assumed.
+
+If coal with calorific value around 5,700 kcal/kg is used instead of 6,150 kcal/kg, energy content is approximately 7–8% lower.
+
+Extra coal required = 2.4 million tons * 7.3% ≈ 175,000 additional tons of coal.
+
+Assuming an average international coal price of $ 110 per tonne: 175,000 tons * $110 ≈ $19 million.
+
+Converted to Sri Lankan rupees (approximately Rs. 300 per $): $19 million ≈ Rs. 5.7 billion.
+
+Estimated annual loss due to fuel inefficiency: Rs 5–6 billion.
+
+Operational observations suggested that plant output may have dropped from approximately 810 MW to around 755 MW, representing a reduction of about 55 MW.
+
+Daily electricity deficit: 55 MW * 24 hours = 1,320 MWh (1.32 million units).
+
+If replacement electricity is generated using diesel or fuel-oil plants costing approximately Rs. 60–75 per unit compared with coal generation around Rs. 20–25 per unit, the additional cost per unit could be about Rs. 40.
+
+Additional daily cost: 1.32 million units * Rs. 40 ≈ Rs. 52 million per day.
+
+If such substitution occurs for roughly 120 days in a year: Rs. 52 million * 120 ≈ Rs. 6.2 billion.
+
+Coal with higher ash and impurity levels can cause slagging and fouling in boilers, erosion of turbine components and increased maintenance requirements. These problems can lead to costly outages and accelerated wear of plant equipment.
+
+Lower-grade coal frequently contains higher sulphur, moisture and ash content. This leads to increased emissions during combustion including sulphur dioxide (SO2), nitrogen oxides (NOx), particulate matter (PM2.5) and greater volumes of fly ash.
+
+If ash content rises from around 12% to approximately 16%, then for 2.4 million tons of coal consumption this would produce roughly 96,000 tons of additional ash requiring handling, disposal and environmental management.
+
+These impacts increase pollution-control costs, ash handling expenses and environmental management requirements. Estimated environmental and operational costs: Rs. 0.5–1 billion.
+
+The cost of substandard coal is not limited to the price paid for a shipment. It cascades through the entire electricity system—reducing plant efficiency, forcing reliance on more expensive alternative generation, accelerating equipment wear and increasing emissions of sulphur dioxide, nitrogen oxides and particulate matter. When these combined effects are considered, the national economic impact could plausibly range between Rs. 8 billion and Rs. 16 billion.
+
+(The author is a CPA who was the head of finance at the Securities and Exchange Commission of Sri Lanka from its inception in 1992 and was a founder manager. He has commercial experience in Australia and over 15 years of experience in the public service and not-for-profit sectors in New Zealand where he resides now)

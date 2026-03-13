@@ -1,0 +1,27 @@
+Kaspersky: Sri Lanka ranks 20th globally for web-based cyber threats in 2025
+
+Sri Lanka continues to face significant cybersecurity challenges, with 30.4% of internet users experiencing web-borne cyberattacks in 2025, according to the latest Kaspersky Security Bulletin. The report places Sri Lanka in the 20th position globally when it comes to dangers associated with surfing the web.
+
+During the January-December 2025 period, Kaspersky products detected 9,153,362 different internet-borne cyberthreats on the computers of Kaspersky Security Network (KSN) participants in Sri Lanka. This figure highlights the persistent and evolving nature of cyber threats targeting Sri Lankan internet users.
+
+“Web threats remain one of the most significant cybersecurity challenges for Sri Lankan users and businesses,” said Adrian Hia, Managing Director for APAC at Kaspersky. “With nearly one in five users experiencing attacks in 2025, it’s clear that cybercriminals are increasingly targeting the region’s growing digital economy.”
+
+The report identifies two primary attack methods used by cybercriminals to penetrate systems. The first involves exploiting vulnerabilities in browsers and their plugins through drive-by downloads, where infection occurs when visiting a compromised website without any user intervention. Among these, file-less malware poses the greatest danger, as its malicious code uses registry or WMI subscriptions for persistence, leaving no single object for static analysis on the disk.
+
+The second method relies on social engineering, where cybercriminals deceive users into downloading malicious files disguised as legitimate programs. This approach requires user participation and preys on trust and urgency to compromise systems.
+
+To combat these sophisticated threats, Kaspersky products deploy advanced protection technologies including Behavior Detection, which uses machine learning-based models and behavior heuristics to detect malicious activity even when the code is unknown. The company’s Exploit Prevention technology reveals and blocks malware attempts to exploit software vulnerabilities in real time.
+
+“As Sri Lanka continues its digital transformation journey, protecting against web-based threats becomes increasingly critical,” Hia added. “Organizations and individuals must adopt comprehensive security solutions that go beyond traditional antivirus protection to include proactive, machine learning-based detection and behavior analysis.”
+
+Kaspersky recommends that users avoid downloading applications from untrusted sources, refrain from clicking links from unknown sources or suspicious advertisements, and enable two-factor authentication wherever available. Organizations should keep all software updated, avoid exposing remote desktop services to public networks, and implement advanced security products for comprehensive visibility across corporate infrastructure.
+
+The full Kaspersky Security Bulletin for 2025 is available at Securelist.com, providing detailed insights into global and regional threat landscapes.
+
+Hayleys Mobility and Kaiyi Auto introduce affordable and fully electric Kaiyi eVibe to Sri Lanka
+
+M-E tensions continue to prove a dampener for stock trading; indices down
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

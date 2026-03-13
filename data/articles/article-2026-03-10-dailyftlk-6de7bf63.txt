@@ -1,0 +1,15 @@
+The impact of inadequate infrastructure on commercialisation of business innovations
+
+Entrepreneurship is considered the key driver of economic development and employment generation, while innovation is considered the backbone of entrepreneurship. Therefore, entrepreneurs invest significant resources in research and development to introduce new products and services that can satisfy human needs and wants and improve the quality of life.
+
+However, innovation alone won’t drive businesses to success. There are many cases where businesses were unable to succeed in their markets, let alone introduce their products to the markets due to a lack of supporting infrastructure. This has been a huge issue for businesses, especially for those that rely heavily on technological, digital, or physical systems, such as telecommunications, energy, transportation, and healthcare.
+
+Infrastructure refers to the fundamental systems and facilities that are needed for a business to function effectively. These include telecommunications, electricity, transportation, digital platforms, and regulatory frameworks. When there is insufficient infrastructure, even highly innovative products may fail to reach the market or achieve commercial viability.
+
+Introducing 5G-based products before the full 5G infrastructure is a clear recent example of this. Many telecommunication companies developed 5G enabled devices, sim cards, and services promising ultra-fast speeds, low latency, and smart-city applications. But many failed to do as they promised because 5G towers were limited to major cities, rural and semi-urban areas lacked coverage, and supporting fiber-optic networks were incomplete. This slowed adoption and reduced commercial success despite technological willingness. Another example can be seen in automotive industry, where many electric vehicle manufacturers introduced affordable electric vehicles, but they struggled to enter markets where basic charging infrastructure did not exist. Likewise, the FinTech industry also faced a similar problem when first introducing digital payment and cashless systems.
+
+In most cases, this lack of infrastructure forced businesses to postpone launches, limit their target markets, or abandon projects altogether. Therefore, businesses may be required to invest in building their own infrastructure, such as private networks, logistics systems, or power solutions, limiting innovations for startups and small enterprises, as they already operate under resource constraints. Furthermore, inadequate infrastructure can discourage foreign investment and technological transfer, as investors are less likely to fund innovative ventures in regions where basic infrastructure does not exist.
+
+So, to foster entrepreneurship and sustainable economic development, policymakers, governments, and private stakeholders must invest in infrastructure alongside innovation. Only then can businesses fully realise the potential of their inventions and contribute something meaningful to society.
+
+(The author is a fourth-year Entrepreneurship undergraduate at the University of Sri Jayewardenepura)

@@ -1,0 +1,53 @@
+The evidentiary lock-out: A global outlier and a death knell for Sri Lankan tax justice
+
+The cornerstone of any civilised legal system is the right to a fair hearing, a principle known as natural justice. However, the proposed Inland Revenue (Amendment) Bill of 2026 threatens to dismantle this foundation. At the heart of the controversy is the introduction of Section 122(8A), a provision that creates a "permanent evidentiary lock-out." If passed in its current form, this rule will effectively strip taxpayers of their right to defend themselves, potentially concluding a tax appeal before the first hearing even begins.
+
+Under the existing framework of the Inland Revenue Act No. 24 of 2017, Section 122(8) already provides a mechanism to ensure cooperation. If a taxpayer fails to provide a document during an audit, they are restricted from using it later in judicial proceedings unless the Commissioner-General (CGIR) explicitly agrees. This was a discretionary gatekeeper model designed to balance efficiency with fairness.
+
+The 2026 Bill, however, shifts from this discretionary restriction to a hard statutory bar. Section 122(8A) dictates that for any information requested on or after April 1, 2026, failure to produce documents within a specific statutory window—six months for local evidence and nine months for foreign evidence, renders that evidence legally dead.
+
+1. inadmissible in any judicial proceeding or Tax Appeals Commission (TAC) hearing.
+
+2. invalid for discharging the burden of proof, which already rests heavily on the taxpayer under Section 141.
+
+While the Bill mentions six and nine-month windows, these are not the "grace periods" they appear to be. The Bill explicitly states that these windows do not extend the original deadlines set by tax officers.
+
+Imagine an Inland Revenue Department (IRD) officer issues a notice for complex bank reconciliations, giving the taxpayer a mere fourteen days to comply. If the taxpayer, struggling with archives or delayed bank responses, misses that short window, the officer can refuse an extension. From that moment, the taxpayer is in a race against a statutory guillotine.
+
+By the time the matter reaches the TAC or the Court of Appeal, the taxpayer may hold the "smoking gun" document that proves an assessment is erroneous. Yet, the law would forbid the judge from even looking at it. This is not just a procedural hurdle; it is a draconian gag order.
+
+To understand how radical this proposal is, one must look at how other jurisdictions handle the late submission of evidence. Most developed legal systems use a "Safety Valve" model rather than an absolute lock-out.
+
+India’s Income Tax Rules restrict new evidence at the appeal stage, but with a critical caveat: evidence is admitted if the taxpayer was "prevented by sufficient cause" from producing it earlier. The Indian Supreme Court has repeatedly held that the search for the "correct" tax liability outweighs procedural rigidity.
+
+In the UK, the Tax Tribunal is governed by the "overriding objective" to deal with cases fairly and justly. They use a three-stage test to decide on late evidence, considering the reason for the delay and the "balance of consequences." An absolute statutory bar like Sri Lanka's 122(8A) would likely be struck down as a violation of the European Convention on Human Rights.
+
+In Australia, the focus is on whether the late evidence causes "undue prejudice" to the tax authority. If the IRD can still examine the document and respond, it is generally admitted. The system recognises that the goal of the law is accuracy, not administrative convenience.
+
+The rationale for this amendment is likely a frustration with a small segment of taxpayers who intentionally delay audits by withholding documents, only to "spring" them during the appeal stage to frustrate the IRD.
+
+While administrative efficiency is a valid goal, Section 122(8A) is a sledgehammer used to crack a nut. To punish the entire tax-paying public for the tactical delays of a few is a disproportionate response. Taxpayers often face genuine hurdles:
+
+Third-party Delays: Obtaining certificates from foreign vendors or historical bank statements often takes months, well beyond the taxpayer's control.
+
+Complex Data: Large-scale audits involve thousands of line items; expecting 100% compliance within a short, non-extendable window is often a physical impossibility.
+
+The right to be heard (audi alteram partem) is the most basic tenet of natural justice. It is meaningless if one is forbidden from presenting the evidence required to be heard effectively. By barring evidence, the state is essentially deciding the outcome of an appeal before it starts.
+
+If this Bill proceeds without amendment, it faces a high likelihood of being challenged before the Supreme Court during the 14-day window for constitutional review. The argument is simple: a law that prevents a citizen from proving their case via legitimate evidence is inherently "arbitrary and capricious," violating the equal protection of the law guaranteed by Article 12(1) of the Constitution.
+
+The IRD’s frustration with delays can be solved without resorting to evidentiary execution. Instead of the "lock-out" in 122(8A), the authorities should consider:
+
+1. Costs and Penalties: If a taxpayer introduces "new" evidence at the appeal stage that could have been provided earlier, the law should empower the TAC or the Courts to impose heavy financial costs on the taxpayer.
+
+2. The "Good Cause" Exception: Align with global standards by allowing evidence if the taxpayer can prove a "reasonable cause" (e.g., third-party delays or medical emergencies).
+
+3. Mandatory Pre-Assessment Reviews: Ensure a final meeting where the IRD and taxpayer confirm all available documents have been exchanged before an assessment is finalised.
+
+Section 122(8A) is a dangerous precedent. It transforms the tax collection process from a search for the "correct" tax liability into a game of "procedural entrapment”
+
+Revenue collection is vital for the State, but it must never come at the expense of the rule of law. A system that wins by silencing the defence is not a system of justice, it is a system of extraction.
+
+The "Evidentiary Lock-out" must be unlocked before it shuts the door on fairness forever.
+
+(The author is an Attorney-at-Law, LLB, FCMA (UK), CGMA and FCMA. He was the Tax Practice Leader of the Year 2024 for the Asia Pacific region - International Tax Review (ITR) and also amongst the top four for the Tax Litigation and Disputes Practice Leader of the Year (ASPAC region) - International Tax Review (ITR))
