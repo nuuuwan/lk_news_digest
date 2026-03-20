@@ -1,0 +1,59 @@
+Are you ready to face the next power cuts?
+
+I published two articles in 2016 and 2022 titled “Are you ready for the next black out?" Let us hope that the silver lining behind the calamity of 9 February, country-wide blackouts may hopefully have created the environment, commitment and preparation of the CEB to prevent any future island-wide blackouts. But recent events, both local and international, certainly may drive the CEB to impose power cuts in the not-so-far future.
+
+Further, the breaking up of CEB into six different companies effective from 9 March 2026, raises the worry, will the experience gained be retained and passed on? Under such circumstances, it is not possible to totally discount the possibility of total blackouts too in the future under the new restructured system, until the much hoped for efficient and cohesive electricity sector is established.
+
+However, keeping our fingers crossed and heeding the official warning by the regulator PUCSL (“Risk of Power Cuts Due to use of low-quality coal PUCSL warns” - The Island 6 March 2026), it is prudent to consider how each of us could plan to minimise the possible impact and be ready to face the inevitable.
+
+Unlike in the period 2016 and 2022 when I sounded the alarm, we are fortunate to have the means to minimise the dependence on the central grid and thereby face the threat to some extent. These means are unfortunately presently limited mainly to the domestic consumers and to those consuming over 300 units per month to be financially feasible. This is mainly due to the retrogressive policies by the authorities, who charge some 46% at the point of import of deep cycle batteries which are an essential and major cost component to engage in this exercise.
+
+If the cost of the batteries is affordable for those consuming less they too can benefit from this venture. Perhaps it might find some attraction by those under the general tariff category such as small business and offices, for whom the lack of power during the day may be an issue of commercial importance, to override any financial mismatch.
+
+Financial evaluation and estimates based on the potential consumer tariff demanded by the CEB from 1 April 2028, for the domestic category is available to anyone interested.
+
+a) The CEB now refuses to provide any grid connection for integration of any rooftop solar PV systems under the Surya Bala Sangraamaya.
+
+b) The much advertised scheme offering a tariff of Rs. 45.80/kWh exported to the grid during the peak hours, off batteries charged by solar by domestic customers, turned out to be a total scam, This was in spite of Cabinet approval for the scheme. Not a single KWh was added to the grid under this scheme. There were more questions raised on the methodology used to calculate the offered tariff of Rs. 45.80 and its adequacy to attract consumer compliance. Anyhow, this scheme is no more, as the deadline of 31 December 2025 is now past.
+
+c) The day time consumption of most domestic consumers is very low and the major consumption occurs during the peak hours. A rough division would be a ratio of 20:60:20 for the three tariff bands of day/peak and off peak.
+
+d) During most periods of the year even under cloudy conditions there is some solar generation. To ensure the daily consumption is more than covered by the solar input and any surplus is used to charge the battery, to the level adequate to manage the evening and peak hour demand, the capacity of the solar panels and battery have to be determined.
+
+e) The consumer remains connected to the grid via an automatic change over switch, which will revert them back and forth to the grid based on the adequacy of the State of Charge (SOC) of the battery. Thereby they can revert to the grid in times of extended periods of rainy weather. We can conjecture that at such times the hydro generation is adequate for the CEB to serve the demand without power cuts. Thereby the consumer is assured of electricity supply throughout the year.
+
+This scheme which will be funded entirely by the consumer, with assistance from the banks, while insulating the consumer from possible power cuts, will also have the salutary impact on the National Grid as follows:
+
+a) Their scheme will operate in an off grid mode, without exports to the grid at any time. Therefore they will not contribute to the often voiced worries of over voltage, instability and variability in the national grid.
+
+b) If an adequate number of consumers join the scheme that would result in a significant reduction for the peak time demand on the grid. Therefore, the need for continued use of expensive Oil based power generation can be eliminated. The possibility of ensuring the laudable status of zero use of oil based generation experienced on some days during times of good hydro generation, could be extended throughout the year including to dry months, when the solar generation is optimal.
+
+In the present context of the ongoing war in the Middle East, Sri Lanka may face a situation similar to what was experienced in 2022 when we ran out of oil. At present even if we have the dollars to pay for it, we may not have the possibility of getting our oil supplies. The question of affordability is also at the back of the equation with oil prices skyrocketing already past $ 95 per barrel of crude oil. The chance of the price reaching $ 150 is a distinct possibility, if the war continues for even a month. The double whammy faced by Sri Lanka is the deteriorating Sri Lanka rupee already past the Rs. 315/$ mark.
+
+A clear objection would come from the CEB to this scheme, stating that it will wean away their high end consumers, who are expected to support a cross subsidy of the poorer consumers. But a study of the publicly available CEB financial data indicates that this is an untenable and an unacceptable argument.  The use of oil based generation is needed only to serve the high end consumers.
+
+If their demand is reduced, particularly during the peak hours, the need for such generation can be eliminated entirely lowering the average cost of generation significantly. The new average cost of generation would still be much lower than the amount of income from the middle level consumers and adequate to continue to support the lower end confirmers.
+
+Further the consumption of the lower end consumers, say less than 60 units per month is a minute amount far less than the generation from the Major Hydro plants, which costs less than Rs. 2/50 per unit.  The annual Generation from Major Hydro was 5364 GWh in 2023 whereas the consumption by those consuming less than 60 Units/month was only 1261 GWh ( CEB Statistics 2023) As such the concept of subsidising low end consumers is a myth.
+
+Even the new tariff scheme is demanding only Rs. 69.27/unit for consumption over 180 units per month. But the cost of oil based generation to meet the demands of such consumers is at least Rs. 70/unit or much higher. The prevailing costs in June 2022 are shown below. The current costs would be considerably higher (See Plant-wise cost table).
+
+As such it is very much in the interest of the CEB to encourage such high end consumers to self-generate as much as possible and reduce the burden on the Grid and lower the average cost of generation.
+
+On the other hand the lowest tariff payable by a consumer with the minimal 30 Units per month will be paying Rs. 5.11 per unit. Thus the reality is that the poorer consumers are subsidising the high end consumers (see Proposed consumer tariff from 1 April 2026 table).
+
+An honest review and evaluation of these numbers, available into public domain without the benefit of the convoluted opinions of the experts, whose projects and schemes have only resulted in the inexorable increase in the cost to the consumers over the past, will hopefully encourage the authorities to support the proposed system.
+
+If they have the sense to recognise the value of removing the excessive levies charged at the point of import of batteries, the total capital required for the proposed intervention by the consumers could be lowered. This could bring down the threshold of viable investment down, below the stated 300 Units per month.
+
+The enhanced saving to the country by reducing the forex to import oil, will more than compensate the loss of one time income, by such high levies of Customs Duty, VAT, PAL etc.
+
+It is learnt that recently the large capacity batteries over 1 MWH have been granted such concessions. While this is to be lauded for the long term impact and helping to reach the target of at least 70% RE by 2030, the authorities fail to realise that extending such concessions to the smaller scale batteries, would result in an immediate benefit and even deter the possibility of power cuts , which cannot be discounted, as matters are not entirely under the control of Sri Lanka.
+
+While hoping that sanity will prevail at least after the restructuring of the CEB, I encourage those consumers who can afford to protect yourselves against the now seemingly inevitable power cuts. Even if Sri Lanka is able to avoid such a calamity, as the Ministry is proclaiming, these consumers stand to benefit from the savings of their monthly electricity bill.  In the present scenario when CEB is refusing to permit any more grid connected Solar PV, you have no other way of reducing your monthly electricity bill.
+
+In fact your intervention, if an adequate number of this cohort of consumers are ready to implement this system could result in a great national service and favour to those in the middle and low end consumer groups, who are financially unable to engage in this exercise, by enabling the CEB not to seek power cuts as shown below:
+
+Current daily peak load - 2949 MW. Threshold calculated by PUCSL to trigger power cuts - 3030 MW in April, 3070 MW in June and 3000 MW in July. Assume 25,000 Consumers remove 5kW each from the grid demand during peak. The cumulative reduction is 125 MW, more than adequate to wade off a power cut, even if the Lak Vijaya coal power plant continues to misfire as being experienced now. This is a no brainer.
+
+We can only hope that at least the banks making massive profits will consider a favourable loan scheme to help more and more people to join the scheme without delay and avoid any power cuts, which would be a great tragedy on top of the other impending difficulties facing all of Sri Lanka under the present ongoing war environment.

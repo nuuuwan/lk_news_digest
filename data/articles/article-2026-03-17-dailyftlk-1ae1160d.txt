@@ -1,0 +1,29 @@
+New study warns of moderate to high AI-driven risks to electoral integrity
+
+A new study by Democracy Reporting International (DRI) finds that Sri Lanka faces moderate to high risks to electoral integrity linked to the misuse of Generative Artificial Intelligence (GenAI), driven by vulnerabilities across regulation, politics, media, and society.
+
+The report, Sri Lanka’s Elections in a Machine-Mediated Age: Assessing GenAI-Related Risks to Electoral Integrity, assesses how AI-generated political content, synthetic media, and large language model (LLM)-based tools are reshaping Sri Lanka’s digital political information ecosystem.
+
+While AI does not create democratic fragility on its own, the study finds that in contexts marked by regulatory gaps, political polarisation, limited press freedom, and low public awareness of misinformation, these technologies can significantly intensify existing weaknesses and increase risks to electoral integrity.
+
+Elections are increasingly shaped by fragmented and difficult-to-verify online political content. As digital platforms become central arenas for political communication and voter mobilisation, AI-generated text, images, audio, and video risk blurring the boundaries between authentic and fabricated political messaging.
+
+Although documented cases of AI misuse remain limited, early instances of AI-assisted deepfakes and synthetic campaign materials have already been observed in recent election cycles. As these tools become more accessible and affordable, the likelihood of strategic misuse is expected to grow.
+
+Regulation (High Risk): Fragmented legal frameworks and inconsistent platform oversight limit effective prevention and response to AI-enabled manipulation.
+
+Politics (Moderate but Rising Risk): Expanding use of social media and emerging AI-assisted campaigning tools increase risks of synthetic political persuasion.
+
+Media (Moderate to High Risk): Growing online exposure combined with constrained press freedom weakens corrective mechanisms.
+
+Society (Moderate to High Vulnerability): Polarisation, low media literacy, and limited awareness of misinformation heighten susceptibility to AI-driven manipulation
+
+Taken together, these risks are systemic and cross-cutting, with the potential to distort voter decision-making, erode trust in information sources, and weaken democratic discourse.
+
+Introducing clear and enforceable rules on AI-generated political content, particularly during election periods
+
+Strengthening oversight and monitoring capacity within electoral and regulatory bodies
+
+Expanding nationwide media and information literacy initiatives to help citizens critically assess synthetic content
+
+Democracy Reporting International (DRI) is an independent, non-partisan organisation dedicated to promoting democracy worldwide. DRI works on democratic governance, electoral integrity, and digital democracy through research, analysis, and capacity-building initiatives. In Sri Lanka, DRI implements projects aimed at strengthening resilience against disinformation, supporting inclusive political discourse, and enhancing institutional and societal safeguards for democratic processes.

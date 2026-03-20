@@ -1,0 +1,33 @@
+In physics first, Chinese scientists create rare ‘hexagonal diamond’ harder than natural diamond
+
+Illustration of a hexagonal diamond, the super strong mineral that may finally have been proven to exist
+
+Researchers in China have made what they claim to be the first samples of pure hexagonal diamond, a theorised rare variant of superstrong diamond found in meteorites from shattered dwarf planets, according to a report in www.livescience.com.
+
+Natural diamond, also called cubic diamond, has been considered the hardest natural material on Earth for so long that the Mohs hardness scale, which rates minerals’ resistance to scratching, uses diamond as the scale’s upper limit. It’s called cubic diamond for its neat arrangements of carbon atoms in a cubic structure. In contrast, hexagonal diamond organises carbon atoms in a lattice made of hexagons, like a honeycomb.
+
+In 1962, researchers at the Pittsburg Coal Research Center theorised that layers of carbon atoms making up diamond could be organised in a hexagonal lattice instead of a cubic one, thanks to how carbon forms bonds with other carbon atoms. In 1967, researchers discovered hexagonal diamond — or lonsdaleite — in the lab, suspecting it could be harder than cubic diamond.
+
+They started looking for it in a special type of diamond-rich meteorite called ureilite, which forms from the mantle of smashed dwarf planets. The first detections of hexagonal diamond in the wild were documented in a 1967 paper; three Canyon Diablo meteorites (fragments of an asteroid that created a large crater in Arizona) with about 30% hexagonal and 70% cubic diamond phases, and Goalpara meteorites (found in Assam, India) that had a small amount of hexagonal diamond.
+
+Not everyone agrees that the Canyon Diablo lonsdaleite exists. Some scientists thought the evidence could be explained by flawed cubic diamond that was stacked chaotically, and they weren’t convinced that lonsdaleite had been detected in previous studies. However, multiple recent studies have identified lonsdaleite in meteorites and in lab samples, including a 2025 study that made small amounts of it in the lab.
+
+The biggest challenge in identifying lonsdaleite is the lack of pure samples; in many cases, it is mixed with cubic diamond, graphite and other minerals. This makes it difficult
+
+The new study, published 4 March in the journal Nature, addressed this problem by creating several pure hexagonal diamond samples about 0.06 inches (1.5 millimeters) in diameter
+
+Not everyone agrees that the Canyon Diablo lonsdaleite exists. Some scientists thought the evidence could be explained by flawed cubic diamond that was stacked chaotically, and they weren’t convinced that lonsdaleite had been detected in previous studies. However, multiple recent studies have identified lonsdaleite in meteorites and in lab samples, including a 2025 study that made small amounts of it in the lab.
+
+The biggest challenge in identifying lonsdaleite is the lack of pure samples; in many cases, it is mixed with cubic diamond, graphite and other minerals. This makes it difficult
+
+The new study, addressed this problem by creating several pure hexagonal diamond samples about 0.06 inches (1.5 millimeters) in diameter
+
+The study also provides major evidence that hexagonal diamond is a real material. According to the study, “structural and spectroscopic analyses, supported by large-scale molecular dynamical simulations, unambiguously confirm the identity of HD (hexagonal diamond).”
+
+To make the samples, the researchers compressed very organised graphite (graphite with carbon atoms neatly arranged) for 10 hours at 20 gigapascals, or about 200,000 times Earth’s atmospheric pressure at sea level, and subjected them to temperatures ranging from 2,300 to 3,450 degrees Fahrenheit (1,300 to 1,900 degrees Celsius). At higher temperatures and pressures, the lonsdaleite started morphing into cubic diamond.
+
+Hexagonal diamond could improve processes and tools that currently rely on cubic diamond, like drilling and cutting tools, polishing abrasive coatings, and dissipating heat from electronics. Its presence in meteorites can also tell us a lot about how the meteorite formed and where it came from, giving more clues about our solar system.
+
+The elusive material “has potential applications in many fields, for example in cutting tools, in thermal management materials and in quantum sensing”, Chong-Xin Shan, co-lead of the new Nature study and a physicist at Zhengzhou University, told Nature in an article.
+
+The new study also provides “a practical strategy for producing HD (hexagonal diamond) in bulk form,” opening the way for bigger samples, more scientific exploration, and industrial applications no longer limited by cubic diamond’s hardness, according to the authors.

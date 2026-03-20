@@ -1,0 +1,119 @@
+Rethinking the proposed amendment to Thin Capitalisation rule and the fate of SMEs
+
+By reducing the equity base through the inclusion of negative retained earnings, the proposed amendment effectively penalises businesses that are already struggling financially. This can be likened to a merciless cow attacking a man who has already fallen from a tree
+
+It hardly needs to be emphasised that the economic development of a country forms the backbone and cornerstone of progress in all other sectors—political, cultural, educational, and social. Consequently, facilitating and maintaining a conducive environment for economic growth is one of the most fundamental responsibilities of any Government. The success or failure of a Government is often measured by its ability to foster sustainable economic development. In other words, the advancement of all other sectors ultimately depends on the level of economic prosperity achieved by a country.
+
+It is also a matter of common sense that economic development is primarily driven by the private sector, while the role of Government is to create the conditions necessary for such development to occur. The justification for the State to levy taxes on the private sector lies precisely in its responsibility to provide infrastructure, institutional stability, and the regulatory environment that enables businesses to operate efficiently and productively.
+
+Against this backdrop, the proposed amendments to the Thin Capitalisation rule under Section 18(5) of the Inland Revenue Act, No. 24 of 2017 appear to overlook this fundamental responsibility of the State. The proposed changes risk imposing an adverse burden on businesses—particularly Small and Medium Enterprises (SMEs), which account for more than 95% of business establishments in Sri Lanka and constitute the backbone of the national economy.
+
+In simple terms, thin capitalisation refers to a situation where a company is financed with a relatively high level of debt compared to equity. A business is generally financed through two main sources: equity and debt.
+
+Equity – capital invested by the owners or shareholders of the company.
+
+Debt – funds borrowed from financial institutions or other lenders.
+
+When a company relies excessively on debt financing rather than equity, it is considered “thinly capitalised”.
+
+From a tax perspective, such debt financing structures may be used as a tax planning—or sometimes tax avoidance—strategy. The reason lies in the different tax treatment of debt and equity. Interest paid on loans is generally tax-deductible, whereas dividends paid to shareholders are not deductible for tax purposes.
+
+To prevent companies from excessively reducing their taxable income through interest deductions, many countries have introduced Thin Capitalisation Rules, which limit the amount of interest that can be deducted when a company’s debt exceeds a prescribed ratio relative to its equity.
+
+Under the current Sri Lankan Inland Revenue Act, the thin capitalisation rule effectively restricts the deductibility of interest where debt exceeds four times the equity of a company.
+
+Equity: Rs. 150 million, Loan: Rs. 800 million, and Interest expense: Rs. 100 million
+
+Since the allowable debt under the rule is four times equity (Rs. 600 million), the allowable interest deduction would be proportionately limited.
+
+Accordingly, allowable interest: 100M × (600M / 800M) = Rs. 75 million
+
+The balance Rs. 25 million would not be deductible in that year but may be carried forward subject to the same limitation.
+
+The justification for the State to levy taxes on the private sector lies precisely in its responsibility to provide infrastructure, institutional stability, and the regulatory environment that enables businesses to operate efficiently and productively
+
+A closer examination of the thin capitalisation rule reveals that it has undergone several stages of expansion, gradually moving further away from its original policy objective.
+
+Historically, thin capitalisation rules were introduced to address tax planning strategies used by multinational corporations (MNCs).
+
+Some multinational groups financed subsidiaries located in high-tax countries through loans rather than equity. The subsidiary would then pay substantial interest to the parent company located in a low-tax jurisdiction.
+
+Because interest payments are tax-deductible, the subsidiary’s taxable profits in the high-tax country would be significantly reduced. Meanwhile, the parent company would receive the interest income in a jurisdiction where it was taxed at a much lower rate.
+
+The net effect was the shifting of profits from high-tax jurisdictions to low-tax jurisdictions.
+
+Recognising the global implications of such practices, the OECD addressed the issue under Action 4 of the Base Erosion and Profit Shifting (BEPS) Project, which aims to prevent excessive interest deductions and profit shifting within multinational groups.
+
+Thus, the original purpose of thin capitalisation rules was clear: to prevent cross-border profit shifting by multinational corporations.
+
+The next stage of evolution extended thin capitalisation rules to domestic corporate groups.
+
+Under the Inland Revenue Act No. 10 of 2006, provisions (26 (x) (i) and (y)) were introduced to address situations where subsidiaries obtained loans from their holding companies or related entities within the same corporate group in order to shift profits internally.
+
+The objective remained anti-avoidance—preventing artificial profit shifting within related companies.
+
+With the introduction of the Inland Revenue Act No. 24 of 2017, the scope of the rule was expanded significantly.
+
+The thin capitalisation rule was no longer confined to multinational enterprises or related-party transactions. Instead, it began to apply to any company, regardless of whether the loan originated from a related party or an independent financial institution.
+
+The relevant provision in Section 18(1) states that the financial costs deductible by an entity (other than a financial institution) cannot exceed the prescribed limit based on financial instruments.
+
+This change effectively transformed the thin capitalisation rule from a targeted anti-avoidance provision into a general limitation on interest deductibility across the entire corporate sector.
+
+The most recent proposal represents yet another expansion of the thin capitalisation rule. Previously, the Inland Revenue Department adopted a restrictive interpretation by treating negative retained earnings (accumulated losses) as part of “reserves” when calculating equity for thin capitalisation purposes.
+
+However, this interpretation was rejected by the Court of Appeal in the landmark case of Samson Rajarata Tiles Ltd v. Commissioner General of Inland Revenue. The Court held that negative retained earnings cannot be treated as “reserves” for the purpose of determining equity under the thin capitalisation provisions.
+
+In response to this judicial decision, policymakers now propose to amend Section 18(5) of the Inland Revenue Act to expressly include negative retained earnings and accumulated losses within the definition of reserves.
+
+The proposed amendment states that “reserves” include negative retained earnings, accumulated losses, or deficits in reserves.
+
+In practical terms, this amendment would significantly reduce the equity base of companies that have accumulated losses, thereby tightening the thin capitalisation limitation even further.
+
+For an Illustration: Equity: Rs. 50 million, Debt: Rs. 300 million, Interest expense: Rs. 100 million, and Net loss incurred during the year: Rs. 75 million
+
+Since “reserves” are now proposed to include negative retained earnings, the equity base would be reduced by the accumulated loss of Rs. 75 million. Consequently, the company’s equity would effectively become negative Rs. 25 million.
+
+Under such circumstances, the allowable interest deduction would be completely denied.
+
+Accordingly, the allowable interest would be calculated as: Allowable Interest = 100M × (-100M / 300M) = Nil
+
+As a result, the entire interest expense of Rs 100 million would be disallowed and added back to the accounting loss of Rs. 75 million. Consequently, a company that has actually incurred a loss would be deemed to have taxable income of Rs. 25 million, thereby becoming liable to pay income tax despite being in a loss-making position.
+
+By reducing the equity base through the inclusion of negative retained earnings, the proposed amendment effectively penalises businesses that are already struggling financially. This can be likened to a merciless cow attacking a man who has already fallen from a tree.
+
+Tax policy must strike a careful balance between preventing abuse and encouraging economic activity. Anti-avoidance rules are necessary, but they must remain proportionate and aligned with their original policy objectives
+
+The evolution of the thin capitalisation rule can be illustrated through a well-known parable.
+
+In a monastery, monks gather every evening for meditation. The head monk owned a cat that roamed around the meditation hall and distracted the monks. To prevent this disturbance, the head monk ordered that the cat be tied to a pillar during meditation.
+
+Years later, the head monk died. Nevertheless, the monks continued tying the cat to the pillar before meditation. Eventually the cat also died. But the monks, unwilling to abandon tradition, brought another cat to the monastery so that it could be tied to the pillar during meditation.
+
+Generations later, learned monks even wrote scholarly commentaries explaining the spiritual significance of tying a cat to a pillar.
+
+Rules created to address a specific economic problem may gradually expand over time until they become detached from the original mischief they were meant to prevent. What began as a targeted anti-avoidance measure can transform into a mechanical rule applied indiscriminately, where the original policy justification is no more.
+
+Capital is the lifeblood of every business, particularly in the SME sector.
+
+Unlike large multinational corporations, SMEs rarely have access to sophisticated capital markets or large equity injections. In most cases, they rely heavily on bank financing and other interest-bearing loans to fund working capital, expansion, and survival.
+
+It is therefore unrealistic to expect SMEs to maintain ideal debt-equity ratios, especially in a challenging economic environment where businesses may already be burdened with accumulated losses.
+
+In practice, companies with accumulated losses would face tighter restrictions on interest deductions precisely at a time when they are most dependent on borrowed capital to recover and grow.
+
+Such an approach risks discouraging investment, constraining business expansion, and undermining the very sector that drives economic growth.
+
+A country seeking growth cannot afford policies that inadvertently weaken its private sector. At a time when Sri Lanka urgently needs investment, entrepreneurship, and business expansion, tax policy should encourage capital formation rather than restrict it
+
+Tax policy must strike a careful balance between preventing abuse and encouraging economic activity. Anti-avoidance rules are necessary, but they must remain proportionate and aligned with their original policy objectives.
+
+The thin capitalisation rule was originally designed to curb cross-border profit shifting by multinational corporations. Extending it indiscriminately to all companies—especially SMEs that depend on debt financing—risks undermining its economic rationale.
+
+If tax rules are expanded without regard to their original purpose, they may gradually become rigid mechanisms that hinder rather than support economic development.
+
+A country seeking growth cannot afford policies that inadvertently weaken its private sector. At a time when Sri Lanka urgently needs investment, entrepreneurship, and business expansion, tax policy should encourage capital formation rather than restrict it.
+
+The real challenge for policymakers is not merely to design rules, but to ensure that those rules remain faithful to the economic logic that gave birth to them. Without that discipline, tax legislation may grow increasingly complex while its policy purpose quietly disappears—much like tying a cat to a pillar long after anyone remembers why.
+
+(The author is a Retired Deputy Commissioner General, Inland Revenue Department and could be reached via email at [email protected])

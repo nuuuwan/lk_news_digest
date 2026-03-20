@@ -1,0 +1,47 @@
+We handed every child a screen and called it progress. Now what?
+
+Cast your mind back to the late 1990s. Technology evangelists, in government, in schools, in Silicon Valley boardrooms, were making a very confident prediction: the classroom of the future would be digital, and that future was essentially already here. Wire the schools. Buy the computers. Train the teachers to press the right buttons. And stand back as a generation of turbo-charged, digitally-empowered learners leapfrogs every educational problem ever known to humanity.
+
+It was, to be fair, an intoxicating idea. Who wouldn’t want to modernise education? Who could argue against progress? And so governments around the world, rich and poor, north and south, opened their wallets and signed their contracts. Phase One of the Great Digital Experiment had begun, and very few people were allowed to ask awkward questions.
+
+Through the 2000s, the experiment scaled up. We moved from shared computer labs to 1:1 device programmes, a laptop or tablet for every child, like some kind of annual prize-giving that never ended. Vendors introduced the irresistibly catchy notion of ‘digital natives,’ a generation supposedly born knowing how to swipe, and, therefore, desperately in need of classrooms that matched their wired-up lives. And, gradually, quietly, commercial platforms began mediating almost everything that happened between a teacher and a student.
+
+The research, even then, was sending mixed signals. OECD data showed that more personal screen time was not automatically producing better learners. Students who used computers heavily in school were not streaking ahead in reading or maths. But these inconvenient findings were absorbed into a simple narrative: the problem was not the technology, it was how teachers were using it. More training. Better platforms. Upgraded hardware. The answer, invariably, was more.
+
+a slogan that turned a psychology study into a revolution in educational policy.
+
+And then came COVID-19, and suddenly every school in the world was forced to discover whether digital education actually worked when it had no analogue alternative. The answer, for most children, was: not very well. Schools closed, screens opened, and learning largely ground to a halt, not because the technology failed, but because education, it turned out, is stubbornly, irreducibly human. What worked was teachers who knew their students, relationships built over time, the unquantifiable texture of a real classroom. A Zoom rectangle, however crisp the resolution, is not a substitute.
+
+The pandemic accelerated digitalisation to a degree nobody had planned for and exposed its limits simultaneously. UNESCO’s own global monitoring report, not exactly a hotbed of anti-technology radicalism, sounded the alarm in 2023, issuing what amounted to a polite institutional apology: technology in education must be a tool that serves learners, not an end in itself. Translation: we may have overdone it.
+
+The science, meanwhile, had been accumulating quietly. A widely cited study showed that students who take notes by hand retain and understand information better than those typing on laptops, not because handwriting is some mystical ancient craft, but because the physical slowness forces you to process, summarise and think, while typing tempts you into verbatim transcription. Your fingers race across the keyboard and your brain mostly stays home.
+
+At the scale of entire school systems, OECD analysis of PISA 2022 results, which showed historic declines in reading and mathematics across member countries, drew a striking curve: moderate use of digital devices is associated with better outcomes, but heavy use, especially for leisure during school time, correlates with lower performance. Not a little lower. Substantially lower. And this held true even after accounting for students’ socioeconomic backgrounds. In other words, digital distraction is an equal-opportunity problem.
+
+PISA 2022 also produced some of the most dismal reading and maths scores seen in decades across wealthy nations. Was technology entirely to blame? Almost certainly not. But policymakers looking for something tangible to point at, and something they could actually change before the next election, had found their answer.
+
+Finland, long the world’s favourite education success story, passed legislation in 2025 restricting mobile phone use in schools. Phones are now generally prohibited during lessons unless a teacher grants specific permission. Sweden went further still, announcing a full national ban, phones collected at the start of the school day and returned at dismissal, to take effect in 2026. The Swedes had already begun quietly rolling back their earlier enthusiasm for digital devices in preschools, reintroducing books and handwriting after noticing that children’s reading comprehension was suffering. Australia’s Queensland state had already launched its ‘away for the day’ policy, extending the ban to break times as well as lessons. We do not yet know how other wealthy, technologically advanced countries will respond to this challenge, but they are undoubtedly watching the pioneers of de-digitalisation with close attention.
+
+These are not technophobic, backwards-looking nations. Finland and Sweden sit at the very top of every global education ranking. They have the infrastructure, the teacher quality and the research capacity to make considered decisions. What they have decided, after three decades of enthusiastic investment in digital education, is that smartphones in the hands of children during school hours are doing more harm than good. That is a significant statement from people who know what they are talking about.
+
+Here is where things become genuinely uncomfortable for the international education community. While many rich countries like Finland, Sweden and Australia are scaling back, vast swathes of the world are still scaling up. Across parts of South Asia, Africa and Latin America, and in pockets of the Global North that never quite caught up, governments are signing major contracts for tablet programmes and AI tutoring tools. They are, in good faith, doing what wealthy countries told them to do 30 years ago: invest in technology and watch the learning happen.
+
+The people selling them these systems are not pointing to the Nordic retreat.
+
+The multilateral organisations and development banks financing their ed-tech purchases have been slow to update their models. And so the world is now running two parallel education experiments simultaneously:
+
+some rich countries are de-digitalising, while everyone else is still trying to digitalise in the first place. The disparity is not merely ironic, it raises serious questions about who sets the agenda for global education reform, and whose children bear the cost of getting it wrong. While Finland retreats from the classroom screen, others are still signing the contracts that will fill theirs.
+
+Over the next four articles, this column will trace this story across every level of education, from primary classrooms where six-year-olds are learning cursive again in Stockholm, to universities where academics are requiring handwritten examinations partly to outwit AI essay-generators. We will look at the evidence honestly, without either the breathless optimism that launched the digital revolution or the nostalgic panic now driving some of the backlash.
+
+We will also ask the question that international education policy rarely pauses to ask: when the wealthy world discovers that an experiment has not gone quite as planned, who bears the cost of correction, and who is still being sold the original experiment at full price?
+
+De-digitalisation is not a confession. It is, at best, a mid-course correction by systems with the luxury of one. The real question is what we owe the rest of the world, which hasn’t had that luxury yet.
+
+Part I: From Ed-Tech Enthusiasm to De-Digitalisation (this article) | Part II: Phones, Pens & Early Literacy in Primary Schools | Part III: Attention, Algorithms & Adolescents in Secondary Education | Part IV: Universities, AI & the Return of the Handwritten Exam | Part V: A Critical Theory of Educational De-Digitalisation
+
+(The writer, a senior Chartered Accountant and professional banker, is Professor at SLIIT, Malabe. The views and opinions expressed in this article are personal.)
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
