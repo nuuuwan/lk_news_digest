@@ -1,0 +1,75 @@
+Procedural overreach in Inland Revenue 2026 Bill
+
+The 2026 Bill does not just amend the law; it weaponises it, turning the Magistrate’s Court into a recovery office and the law of evidence into a cage. For the social contract to survive, the "evidentiary lockout" must be rejected in favour of the existing checks and balances that prioritise natural justice over administrative convenience
+
+The social contract between a State and its citizens relies on the principle that while the State has the right to collect revenue, the citizen has the right to a fair and transparent process. However, the introduction of the Inland Revenue (Amendment) Bill of 2026 threatens to transform this relationship into one of procedural combat.
+
+Through the lethal interaction of the new Section 122(8A), the radical recovery powers of Section 163(4A-4H), and the criminalisation of administrative errors under Chapter XVIIA, the Bill creates a landscape where the taxpayer is systemically disarmed.
+
+This article explores how these "home-grown" measures bypass established rules of natural justice and why the existing legal framework was already sufficient to ensure compliance.
+
+The procedural guillotine: Section 122(8A) and the disarmament of the defence
+
+The most significant shift in power is found in Clause 28 of the Bill, which inserts Section 122(8A). This provision introduces an "evidentiary lockout" that acts as a legal guillotine.
+
+Under this rule, any document or information requested by the Commissioner-General (CGIR) on or after April 1, 2026, must be produced within six months (for local records) or nine months (for foreign records).
+
+If the taxpayer fails to meet these strict deadlines, the consequence is absolute: the information becomes inadmissible in any judicial proceeding or before the Tax Appeals Commission (TAC).
+
+This interacts lethally with Section 141 of the Principal Act, which mandates that the burden of proof rests entirely on the taxpayer to show that an assessment is incorrect.
+
+By invoking Section 122(8A), the Department can effectively disarm a taxpayer. They are left with the legal burden to prove the Department is wrong, while being statutorily forbidden from presenting the very records, such as bank statements or invoice needed to do so.
+
+This creates a "win-by-default" scenario for the State, where a procedural delay regardless of the reason results in a total forfeiture of the right to a fair hearing.
+
+The proponents of the 2026 Bill may argue that Section 122(8A) is necessary to prevent delays. However, a review of the principal Inland Revenue Act (IRA) reveals that the Department already possesses a potent arsenal to deal with non-compliance.
+
+Section 185 of the Act already empowers the Department to charge a penalty of up to Rs. 1 million from any taxpayer who fails to comply with a notice to give information within the specified time. This financial deterrent is more than sufficient to compel compliance from even the most recalcitrant taxpayer. Furthermore, the Department must issue a warning notice before assessing this penalty, allowing for a 30-day grace period.
+
+In practice, the Department rarely utilises Section 185 to deal with taxpayers who delay information requests. Instead of enforcing the existing law, the Bill seeks to impose a blanket evidentiary lockout covering all taxpayers. This is a disproportionate response.
+
+The goal of the appellate process should be to achieve fairness, which requires the adjudicator (the CGIR, the TAC, or the Courts) to have the power to decide whether evidence is relevant and should be admitted. Under the current set-up at the Tax Appeals Commission (TAC), new evidence can be admitted with the permission of the Commission members, a sound system that ensures justice while preventing abuse of process. Section 122(8A) seeks to block this judicial discretion entirely, allowing a tax official (the CGIR/Assessor) to dictate what facts a judge is permitted to see.
+
+The Magistrate as a debt collector: The shadow of Section 163(4A-4H)
+
+Perhaps the most aggressive shift in the 2026 Bill is the introduction of Section 163(4A) through (4H). This framework radicalises the recovery of unpaid tax by involving the Magistrate’s Court in a way that bypasses traditional judicial review.
+
+The 2026 amendment reintroduces (and significantly strengthens) the Magistrate-court route that existed under the section 179 of the IRA 2006 Act, but removes the old precondition of trying seizure-and-sale first. It gives the Inland Revenue Department a faster and almost non-challengeable recovery tool in the Magistrate’s Court.
+
+Under the new Section 163(4A), the CGIR can submit a certificate of default to a Magistrate. The Magistrate is then required to summon the defaulter to "show cause" as to why the tax should not be recovered. However, the Bill intentionally limits the scope of what "cause" can be shown. Section 163(4C) explicitly states that the correctness of the statement in the certificate shall not be called in question or examined by the Magistrate. Furthermore, Section 163(4H) bars the Magistrate from entertaining any plea that the tax is "excessive, incorrect, or under appeal".
+
+If the taxpayer cannot pay, the tax is deemed a "court fine." Failure to pay this fine allows the Magistrate to sentence the taxpayer to imprisonment. This creates a “debtors' prison" for tax liabilities. Because Section 122(8A) may have already locked out the taxpayer's evidence at the assessment stage, they now enter the recovery stage legally barred from arguing that the debt is actually wrong. The Magistrate is reduced to a recovery agent for the IRD, tasked with jailing rather than adjudication.
+
+From fines to docks: The criminalisation of admin under Chapter XVIIA
+
+The 2026 Bill adds a final layer of intimidation through the new Chapter XVIIA, which introduces summary criminal trials for five specific administrative acts: failing to file annual statements, failing to file income returns, failing to register, failing to appear for summons, and failing to furnish returns.
+
+Historically, these failures were handled under Chapter XVII, which provides for administrative penalties, such as Rs. 50,000 for failing to register or up to Rs. 400,000 for late filing. While the Bill provides a mandatory 30-day warning notice before a trial begins, the "oppression" lies in the criminalisation of what were once civil defaults. If the notice is ignored "without reasonable cause," the taxpayer is hauled before a Magistrate and faces imprisonment for up to six months, a criminal fine of Rs. 400,000, or both.
+
+The illusion of protection: Section 186 and the coercive binary choice
+
+Taxpayers might look to Section 186(5) for relief. This section stipulates that no administrative penalty is payable if a person has been convicted of a criminal offence for the same conduct. Similarly, if an offence is compounded with the CGIR's consent, the administrative penalty is waived.
+
+However, this does not alleviate the oppression; it merely creates a coercive binary choice. The Department can use the threat of a Chapter XVIIA criminal trial to force taxpayers into compounding their offences under the amended Section 193. To "escape" the dock and the risk of jail, the taxpayer must now formally undertake to withdraw any active appeals related to that offence.
+
+This forces the taxpayer to choose between their Constitutional right to challenge an incorrect assessment and their freedom from a criminal record. When combined with the evidentiary lockout of Section 122(8A), the state has created a system where the taxpayer is pressured to settle and pay, even if the underlying assessment is fundamentally flawed.
+
+The Sri Lankan Supreme Court has long maintained that the "Law" includes the General Law of the land, not just Statute Law. In Collettes Ltd v. Bank of Ceylon, the Court determined that whether evidence has been properly admitted or excluded is, in itself, a question of law.
+
+By making evidence inadmissible through a statutory calendar (122(8A)) rather than a judicial inquiry, the 2026 Bill violates the fundamental rule of Audi Alteram Partem (the right to be heard). A hearing is not "fair" if a party is statutorily barred from presenting records that prove their innocence.
+
+Furthermore, if a tribunal misdirects itself on the facts or fails to take into account relevant considerations because it is legally forbidden from seeing them, it has committed an error of law.
+
+The proponents of the Bill often frame these measures as "international best practices." However, a look at other jurisdictions suggests that the Sri Lankan "Evidentiary Lockout" and fast-track recovery are uniquely aggressive.
+
+India: The Indian Income Tax Act of 1961 does allow for summary trials for minor offences, but Indian courts maintain the independence of appellate tribunals. Evidence is generally not barred in a way that renders a taxpayer totally defenceless, and tribunals have the discretion to admit new evidence if "sufficient cause" is shown.
+
+United Kingdom: HM Revenue and Customs (HMRC) utilises an independent "First-tier Tribunal" system. While there are procedural deadlines, the tribunal has the inherent discretion to admit evidence in the interest of justice. A tax official cannot dictate to a judge what evidence they are permitted to see in the way Section 122(8A) proposes.
+
+Australia and Singapore: These countries focus heavily on facilitating compliance through technology (similar to RAMIS) rather than the threat of summary imprisonment for first-time paperwork errors. Singapore, in particular, emphasises a "taxpayer service" model where criminal docks are reserved for substantive fraud, not administrative delays.
+
+The interaction of Section 122(8A), Chapter XVIIA, and Section 163 creates a circular trap for the Sri Lankan taxpayer. A taxpayer who struggles with a complex return may miss an evidence deadline (122(8A)), find themselves unable to discharge their burden of proof (141), face an inflated assessment, be hauled into criminal court for the initial delay (XVIIA), and eventually face a jail sentence in a recovery proceeding where they are legally barred from arguing they don't actually owe the money (163(4H)).
+
+The Department already possesses the power to fine taxpayers Rs. 1 million for delaying information (Section 185). The 2026 Bill does not just amend the law; it weaponises it, turning the Magistrate’s Court into a recovery office and the law of evidence into a cage. For the social contract to survive, the "evidentiary lockout" must be rejected in favour of the existing checks and balances that prioritise natural justice over administrative convenience.
+
+(The author is Attorney-at-Law, LLB, FCMA (UK), CGMA, FCMA. He was the Tax Practice Leader of the Year 2024 for the ASPAC region – International Tax Review (ITR) and was amongst the top four for the Tax Litigation and Disputes Practice Leader of the Year (ASPAC region) – ITR.)

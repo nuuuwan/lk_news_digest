@@ -1,0 +1,57 @@
+Fuel price shock does not have to be passed on fully  to consumers: Why and how?
+
+The escalation of conflict in the Middle East has increased global oil prices above $ 100 per barrel, returning to levels last seen in 2022. While oil futures show expectations of prices moderating to lower levels, there is still significant volatility in the market. For instance, in the week commencing 16 March 2026, the Singapore benchmark for petrol has increased to $ 140 per barrel (up 86% from $ 75 in February 2026), while diesel has reached $ 189 per barrel (up 112% from $ 89 in February 2026).
+
+Rising and fluctuating oil prices have multiple knock-on impacts on consumers and on inflation. The task of good policy making is to reduce volatility and cushion the consequences of shocks. This article shows a pathway for doing that through three adjustments to the application of Sri Lanka’s cost-recovery fuel price formula.
+
+Global price shocks and their impact on domestic fuel prices
+
+Sri Lanka currently follows a formula-based cost-recovery pricing mechanism for fuel.
+
+This means that local pump prices are expected to move in line with global oil prices, adjusted for taxes, and other administrative costs. The graph shows how the cost-recovery formula used by Sri Lanka would price fuel at the pump, with the increase in the global oil prices.
+
+Under a scenario with global prices averaging $ 110 per barrel for both petrol and diesel, domestic prices would increase sharply to Rs. 380 for petrol and Rs. 349 for diesel, equivalent to increases of 29% and 17% compared to formula-based prices on 1 March 2026.
+
+If prices rose to 16 March 2026 levels for petrol and diesel, domestic prices would increase sharply to Rs. 452 for petrol and Rs. 540 for diesel, representing increases of 53% and 81% compared to formula-based prices on 1 March 2026.
+
+The impact of these increases extends well beyond the fuel pump. Fuel is a core input across nearly all sectors of the economy. When fuel prices rise, transport costs increase, and these higher costs are passed on to goods and services, particularly food and other essentials. As a result, a sharp rise in fuel prices will trigger broader inflationary impacts, not only impacting the direct consumers of fuel but also all households and significantly raising the cost of living.
+
+The current cost-recovery fuel price formula used in Sri Lanka, if adhered to now, would pass on a very high price shock directly to consumers and the economy as a whole. But, cushioning consumers by suspending the application of the formula, and fixing the price, as has been done in such situations in the past, would disrupt the cost-recovery framework, which in turn would cause losses to CPC and complicate fiscal outcomes.
+
+If the choice is seen as binary (either-or), it presents a dilemma: cushion consumers and the wider economy, or maintain the cost-recovery fiscal framework?
+
+A third way: An adjusted formula that maintains fiscal discipline while reducing prices
+
+A Verite Research working paper (forthcoming), shows that the choice is not binary – that it is not an ‘either–or’, but it can be a ‘both–and’. That is, any perceived dilemma between maintaining the cost-recovery framework and cushioning consumers is a false dichotomy.
+
+It shows this by explaining an adjusted application of the cost-recovery formula that both ensures cost-recovery, but also cushions consumers by reducing the price increases that would arise from applying the formula in its current form.
+
+It shows three levels of adjustment by which this principle of ‘both–and’ (rather than ‘either–or’) can be applied.
+
+At present, within the cost-recovery price formula, administrative costs are estimated as a percentage of the landed cost of a unit of fuel, causing that estimate to increase in proportion to the rise in global oil prices.
+
+However, the underlying administrative costs are mostly fixed, and don’t depend on changes to the landed cost per unit. That means, the cost-recovery formula applied without adjustment generates an inaccurate price amplification during sudden global price increases. Removing that amplification would be the ‘Cost-Recovery Neutral’ adjustment. (Adjustment 1). That is done by applying administrative costs into the formula as a constant, not as a percentage of global price.
+
+This is a ‘both–and’ adjustment. It cushions consumers by reducing (by a small amount) the price increase passed on by the formula, and also continues to ensure full cost recovery to the utility.
+
+At present, within the cost-recovery price formula, VAT and the Social Security Contribution Levy (SSCL) tax components are calculated as a percentage of the landed cost of a unit of fuel, causing the tax collected to increase in proportion to the increase in global oil prices.  However, this increase in VAT and SSCL collection is an ‘unexpected excess tax’ -- more than what is anticipated in the budget from a unit of fuel. It also causes unnecessary price amplification – passing on to consumers not only the increase in cost, but also a proportionate increase in tax.
+
+A Government subsidy on the formula price that is equal and opposite to the ‘unexpected excess tax’ collected, would be ‘Fuel Tax Neutral’. Such a subsidy would neutralise (offset) only the unexpected excess tax. That means the net-of-subsidy tax collected from fuel remains unchanged.
+
+Therefore, in the midst of a price shock, Adjustment 2 is to apply a ‘Fuel Tax Neutral’ subsidy from the central Government into the formula. It prevents unnecessary price amplification, and does so without a net change to the national budget.
+
+This is once again a ‘both–and’ adjustment. Added on top of Adjustment 1, it cushions consumers by reducing the price increase passed on by the formula, and also keeps full cost-recovery as well as the planned net revenue from fuel tax in place. It is also entirely consistent with the application of the cost-recovery principles in utility pricing in the IMF program. The cost recovery commitments, as set out in the IMF program documents, explicitly allows for such a subsidy that is financed by central Government funds.
+
+As noted earlier fuel price increases typically pass through to general price levels, contributing to higher overall price levels in the economy. A much-cited IMF working paper titled ‘Pass-Through of External Shocks to Inflation in Sri Lanka’ estimates external shocks, such as fuel price shocks, can raise overall consumer prices in Sri Lanka by around 10% to 40% (of the percentage point increase in fuel prices), in the short and longer terms, as these effects ripple through supply chains. That is, a 50% increase in fuel prices can cause additional inflation of 5% in the short term and up to 20% in the long term, according to that analysis.
+
+VAT and SSCL are applied as a percentage of the price on most goods and services, not only fuel. As a result, higher fuel prices, by increasing overall price levels, increases the base on which these taxes are applied. This, in turn, leads to higher tax collection across the economy.
+
+Similar to the unexpected excess tax from a unit of fuel, the increase in fuel price pass through to overall price levels, generates an ‘unexpected excess tax’ from transactions across the wider economy, which is more than what is anticipated in the budget.
+
+An additional Government subsidy on the formula price that is equal and opposite to the ‘unexpected excess tax’ collected from the wider economy, would be ‘Fiscally Neutral’. Such a subsidy would neutralise (offset) only the unexpected excess tax from the wider economy due to the increase in fuel price. That means the net-of-subsidy tax collected from the wider economy remains unchanged.
+
+Therefore, in the midst of a price shock, Adjustment 3 is to apply a ‘Fiscally Neutral’ subsidy from the central Government into the formula. Added on top of Adjustments 1 and 2, it prevents unnecessary price amplification and also passes back to consumers the additional tax revenue the Government receives solely due to higher overall prices because of higher oil prices. Importantly, it does so without a net change to the national budget.
+
+This is once again a ‘both–and’ adjustment. Added on top of Adjustments 1 and 2, it cushions consumers by reducing the price increase passed on by the formula, and also keeps full cost-recovery and planned budget outcomes in place. Similar to adjustment 2, this is also entirely consistent with the application of the cost-recovery principles in utility pricing in the IMF program.   The precise price calculations and impacts under each of these three adjustments will be detailed in a forthcoming Verité Research working paper.
+
+(Research by: Anushan Kapilan, Raj Prabu Rajakulendran and Hafsa Haniffa)

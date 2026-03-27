@@ -1,0 +1,49 @@
+Oil, Inflation & The QR System
+
+Recent unrest in the Middle East has raised concerns that Sri Lanka may face a shortage of oil supply. Because oil plays such a central role in the economy—powering transportation, construction, electricity generation, and many other activities—many observers expect that such a shortage will inevitably lead to inflation. This expectation is commonly explained through the idea of “cost-push inflation,” where rising production costs—such as higher oil prices—are believed to push up the overall price level. However, this interpretation rests on a misunderstanding. To assess whether an oil shortage truly causes inflation, it is necessary to first clarify what inflation actually is.
+
+In modern usage, inflation is often defined as a general increase in the prices of goods and services. However, the classical economic definition differs. Earlier dictionaries, such as pre-2003 editions of Webster’s, defined inflation as an “undue expansion or increase, from over-issue of currency.” Under this definition, rising prices are not inflation itself, but a symptom of it.
+
+Economists such as Ludwig von Mises warned against redefining inflation in terms of prices alone, arguing that such a shift obscures its true cause. Similarly, Milton Friedman famously stated that “inflation is always and everywhere a monetary phenomenon.”
+
+This perspective highlights a key point: inflation is an expansion of the money supply. The word itself reflects this idea—just as a balloon inflates when air is added, an economy experiences inflation when money is expanded.
+
+Prices depend on the relationship between the supply of money and the quantity of goods and services available. When more money exists relative to available goods, prices tend to rise. From this standpoint, a shortage of oil—by itself—does not increase the money supply, and therefore is not inherently inflationary.
+
+Although an oil shortage does not directly cause inflation, it does affect prices in important ways. A reduction in oil supply will raise the price of oil. This, in turn, increases costs for sectors that depend heavily on it, such as transportation, logistics, and energy-intensive industries.
+
+However, the total amount of money in the economy remains unchanged. If consumers and businesses spend more on oil and related goods, they must necessarily spend less elsewhere. This leads to an adjustment in relative prices across the economy:
+
+* Goods and services that rely heavily on oil tend to rise in price
+
+* Goods and services less dependent on oil may experience weaker demand and falling prices
+
+In this sense, the economy rebalances. Prices change relative to one another, but there is no necessary increase in the overall price level.
+
+While an oil shortage is not inflation in itself, it can still have significant economic consequences. Higher energy costs may strain businesses, particularly those with thin margins or heavy dependence on fuel. Some may be forced to reduce output or shut down entirely.
+
+If this occurs on a large scale, total production in the economy declines. With fewer goods and services available, prices may rise—even if the money supply remains unchanged. In such cases, higher prices are driven by reduced supply rather than monetary expansion.
+
+This distinction is important: not all price increases are caused by inflation, even if they may appear similar.
+
+A monetary perspective also helps explain how inflation can mask underlying economic improvements. The Central Bank of Sri Lanka targets 5 percent inflation. If the economy grows by 2 percent annually while the money supply remains constant, prices would naturally tend to fall, as more goods are produced with the same amount of money.
+
+To maintain a positive inflation target, the money supply must therefore expand faster than productivity. In effect, inflation can offset the natural tendency of prices to decline in a growing economy.
+
+Historical examples illustrate this dynamic. During the late 19th century in the United States—often referred to as the “Gilded Age”—rapid economic growth was accompanied by falling prices, reflecting strong productivity gains rather than economic weakness.
+
+In response to fuel shortages, the Sri Lankan government has introduced a QR code system to ration fuel consumption. The intention is to distribute limited supplies more evenly, but such systems can produce unintended consequences.
+
+For instance, individuals who own vehicles but use them infrequently may still claim their full allocation. This creates an opportunity to resell unused fuel on the black market at higher prices. Over time, this can encourage rent-seeking behavior and the emergence of informal or illicit fuel markets.
+
+Rather than ensuring efficient allocation, the system risks diverting fuel toward those who can exploit the mechanism rather than those who need it most.
+
+An alternative approach is to allow fuel prices to adjust freely while encouraging competition among suppliers. Higher prices serve an important function: they discourage unnecessary consumption and ensure that limited fuel is directed toward its most valuable uses, such as emergency services or essential industries.
+
+At the same time, higher prices and potential profits incentivize entrepreneurs to increase supply, improve efficiency, and develop alternatives. Over time, these responses can alleviate shortages and bring prices back down.
+
+If price signals are suppressed through rationing systems like the QR code mechanism, these market adjustments are weakened. Prolonged shortages may then persist, while black-market activity becomes more entrenched.
+
+Given reports that the current geopolitical tensions may last for an extended period, maintaining such controls could impose lasting economic costs—slowing growth, distorting incentives, and increasing social strain.
+
+*The writer is a civil engineer based in Singapore. He can be reached at write.2.rizwan.m@gmail.com

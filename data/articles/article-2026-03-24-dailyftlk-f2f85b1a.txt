@@ -1,0 +1,45 @@
+The evolution of Withholding Taxes – a status quo
+
+Withholding taxes have long served as one of the most efficient mechanisms for collecting income tax in Sri Lanka. Historically, WHT has operated as a means of securing tax at source, ensuring that the State captures revenue before income reaches the hands of the recipient. The framework has undergone periodic expansion, contraction, and clarification across successive tax statutes.
+
+The Inland Revenue (Amendment) Bill of 2026 (“IRA Bill 2026) which is yet pending committee stage amendments and enactment, represents a key pivot in this regime. To understand the significance of the changes, it was necessary for me to examine both the historical trajectory and the implications from the proposed tax amendments. In doing so, I referred extensively to my article of 20 September 2018 published by Daily FT and found that many of the changes that were since introduced by the infamous 2019 tax cuts, and the subsequent reversals in 2023, have in fact ,for the most part, reinstated the original position. A stock take is therefore now necessary given the recent Bill and some of the practical and administrative changes it spells out in the WHT regime.  According to the law, income tax is imposed on a person who has taxable income for that year as well as a person who received final withholding payment during the year. Withholding taxes that are non-final are taxed within the taxable income while the final withholding payments are not subject to any further taxation.
+
+Taxes withheld under the following table are final withholding payments and will not be subject to any further tax.
+
+Employers are required to deduct APIT on employment income at rates specified by the Commissioner General and the tax rates have been issued by the IRD in its official site. The tables incorporate the personal relief of Rs. 1,800,000 per year of assessment. However, employment income where APIT is deducted has not been included as a final tax. Nevertheless, as per Section 94 (1) (a) (ii) no return of income is to be furnished by an individual who has exclusively employment income that has been subject to APIT.
+
+This typically meant that any employee who has interest income is still required to file income tax returns, however, the 2026 IRA Bill intends to change this such that no return of Income will be required to be filed by an individual who has employment income subject to APIT and whose interest income for the year of assessment does not exceed Rs. 5000 (w.e.f. 1 April 2025). This is a very progressive move in line with Adam’s Smith’s famous canons on taxation on economy “Every tax ought to be so contrived as both to take out and to keep out of the pockets of the people as little as possible, over and above what it brings into the public treasury of the state.” Thereby placing emphasis that the cost of collection of taxes should be as little as possible to the state.
+
+However, in keeping in line with the gazette notification that requires all resident individuals who are 18 years and above to have a Taxpayer Identification Number (TIN), the Commissioner General of Inland Revenue has issued a recent paper notice making it mandatory to include each employee’s TIN in the APIT Annual Statement filed by the employer commencing from the Year of Assessment 2025/2026. Records without a TIN will be rejected, and employees will not receive the credit for APIT deducted.
+
+This section captures investment returns such as dividend, interest, discount, charge, natural resource payment, rent, royalty, premium or retirement payment or amounts received as winnings from a lottery, reward, betting or gambling.
+
+In the case of resident individuals, given that a tax-free allowance persists, a blanket application of withholding by banks requires the withholdee to file a return and claim a refund. To curb this, under the amendment, w.e.f. 1 April 2025, individuals can claim exemption from interest withholding on the basis that they have no taxable income by providing a self-declaration to the bank.
+
+A notable addition to the withholding landscape as per the 2026 IRA Bill lies in the introduction of penalties for fraudulent declarations furnished to financial institutions. If the declaration is false or misleading, the individual becomes liable to a penalty of up to Rs. 200,000. This measure reflects the State’s recognition that interest related declarations have previously been misused.
+
+The law currently requires any person to withhold tax at 5% on amounts exceeding Rs. 100,000 per month from the following service fees with a source in Sri Lanka, to a resident individual who is not an employee of the payer –
+
+nas a commission or brokerage to a resident insurance, sales or canvassing agent.
+
+nfor services provided by individuals in the capacity of independent service providers such as doctors, engineers, accountants, lawyers, software developers, researchers, academics.
+
+The IRA Bill’s revision of Section 85 constitutes a decisive expansion of the withholding universe. The new framework includes a far broader and more contemporary list of service providers than previously captured, recognising the transformation of Sri Lanka’s economy over the past decade. In addition to the list above, service fees withholding is now broad-based to cover independent service providers in the capacity of
+
+nmodeller, artist, actor, dancer, singer, musician, event organiser, photographer, videographer, beautician.
+
+nsocial media specialist, brand ambassador, sports person, specialist for information technology and advertising agent
+
+However, the WHT on investment returns, service fees will not apply in certain instances set out in the law such as where the payments made by individuals, unless made in conducting a business, payments are exempt amounts etc.
+
+While the reforms will undoubtedly impose heightened compliance obligations on businesses and platforms that engage independent contractors, they also create a more structured pathway for gig economy earners to enter the formal tax system, establish tax credit histories, and regularise their interactions with the State. The success of the regime will depend on the ability of withholding agents to implement the new requirements, and the willingness of gig economy workers to adapt to increased tax visibility.
+
+It is interesting to note that the threshold of Rs. 100,000 per month which translates into Rs. 1.2 million a year has remained unchanged. The purpose of such a threshold was to limit withholding on taxpayers who will be liable and avoid the incidence of a refund. It would have been meritorious if this intent was embedded in policy and same be increased to Rs. 150,000 a month to take cognisance of the personal tax-free allowance of Rs. 1.8 million.
+
+(The author serves as the Partner – Tax Services of BDO Partners and heads the firm’s Tax Practice. She is a Fellow Chartered Accountant, a Fellow Member of the Chartered Institute of Management Accountants (UK), a Member of the Chartered Institute for Securities and Investment (UK), and a Chartered Global Management Accountant. All views expressed are personal and do not represent the views of her organisation)
+
+The 2026 Bill also reinforces administrative mechanisms governing withholding. Amendments to Sections 86 and 87 grant the Commissioner General explicit authority to prescribe the procedures and formats for withholding returns and statements and impose a statutory requirement for withholding agents to issue certificates to withholdees free of charge. These certificates will form the backbone of tax reconciliation for individuals and strengthen the Inland Revenue Department’s ability to cross verify income reported by taxpayers. Through these mechanisms, the Bill positions withholding tax not only as a collection tool but as a central component of the tax information architecture.
+
+As Sri Lanka continues to evolve in response to digitalisation, globalisation and the growth of independent service provision, the WHT framework established through the 2026 Amendment Bill marks a return to a more structured and enforceable withholding system—one that aligns the tax regime with the modern economy while ensuring that tax obligations are met efficiently and transparently.
+
+(The author serves as the Partner – Tax Services of BDO Partners and heads the firm’s Tax Practice. She is a Fellow Chartered Accountant, a Fellow Member of the Chartered Institute of Management Accountants (UK), a Member of the Chartered Institute for Securities and Investment (UK), and a Chartered Global Management Accountant. All views expressed are personal and do not represent the views of her organisation)

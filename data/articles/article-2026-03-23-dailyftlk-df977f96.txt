@@ -1,0 +1,43 @@
+Why illegal cyber operations demand a national response
+
+Only a few days ago, a large-scale illegal cyber operation was uncovered in the Anuradhapura–Mihintale area, a region better known for its religious and cultural significance than for organised crime. Acting on intelligence, Sri Lanka Army Intelligence, together with the Department of Immigration and Emigration, conducted coordinated raids across multiple locations, leading to the arrest of 134 foreign nationals. Among those taken into custody were 126 Chinese nationals, along with individuals from Myanmar and Taiwan. They were found operating from guest houses and temporary accommodations, equipped with laptops, mobile phones, and communication devices clear indicators of an organised, technology-driven operation.
+
+In recent months, a pattern has begun to emerge not only in Colombo’s high-rise apartments, but increasingly in quieter towns, tourist zones, and semi-urban districts. Behind the façade of “IT firms,” “digital marketing agencies,” or small-scale BPO operations, there are growing indications of organised cyber-enabled illicit activity. These are not merely cases of fraud. They are part of a broader, transnational ecosystem exploiting gaps in Sri Lanka’s regulatory, financial, and security architecture.
+
+This development demands urgent public attention not to create alarm, but to catalyse a coordinated national response.
+
+At the heart of the issue lies a transformation in the nature of crime. Traditional criminal enterprises have evolved into digitally enabled networks capable of operating across borders with minimal visibility. Sri Lanka, with its strong connectivity, English-speaking workforce, and relatively open operating environment, risks becoming an attractive base for such activities.
+
+The model is deceptively simple. Foreign nationals, often entering on tourist or short-term visas, establish operations in rented houses, apartments, or increasingly, guest houses. These setups resemble legitimate BPO operations. However, the activities conducted within often include online investment scams, phishing schemes, impersonation fraud, and crypto-related deception targeting victims abroad. The proceeds are then routed through a web of local bank accounts, digital wallets, and informal transfer mechanisms before being moved out of the country.
+
+First, there is a national security dimension. Organised, foreign-linked networks operating in unregulated digital spaces create vulnerabilities that can be exploited for purposes beyond fraud. The same infrastructure communication systems, financial channels, and covert operational hubs can be repurposed for more serious threats, including intelligence gathering or support to extremist elements.
+
+Second, there is an economic risk. The misuse of local banking and digital financial systems for illicit flows undermines the credibility and integrity of Sri Lanka’s financial sector. The Central Bank of Sri Lanka, through its Financial Intelligence Unit, has made progress in countering money laundering. Yet, the scale and sophistication of cyber-enabled financial crime require a far more integrated and technologically advanced response.
+
+Third, there is a governance challenge. Responsibility for addressing these operations is currently fragmented among multiple agencies the police, the Financial Crimes Investigation Division (FCID), the Telecommunications Regulatory Commission, the Department of Immigration and Emigration, and financial regulators. While each performs a vital role, the absence of a real-time intelligence-sharing mechanism creates critical blind spots.
+
+The Anuradhapura–Mihintale operation highlights another key concern: detection remains largely intelligence-driven and reactive. It was not a system-triggered anomaly or a data-driven alert that led to the discovery, but rather a tip-off followed by coordinated action. This raises an important question how many similar operations remain undetected?
+
+From an operational perspective, this underscores a critical lesson: intelligence must move from being a supporting function to becoming the central pillar of policing. Effective prevention depends on the integration of multiple intelligence streams human intelligence from communities and field officers, signals intelligence from telecom data, financial intelligence from banking systems, and immigration intelligence on foreign nationals. When fused together, these streams can enable pattern-based detection rather than reliance on isolated incidents.
+
+A risk-based approach is therefore essential. Locations or entities exhibiting certain indicators such as clusters of SIM cards, high-density digital device usage, foreign nationals on short-term visas, unusual financial flows, and continuous night-time activity should trigger graduated responses ranging from surveillance to immediate enforcement action. This is the essence of intelligence-led policing: identifying risk before it manifests as crime.
+
+Compounding the issue is the existence of a regulatory grey zone. Not all unregistered BPO or IT operations are illegal. However, the lack of a mandatory registration and monitoring framework allows illicit actors to operate under the cover of legitimacy. A cluster of laptops, headsets, and high-speed internet connections within a guest house may not immediately attract suspicion. Yet, when combined with patterns such as multiple SIM cards, foreign nationals with unclear employment status, and unusual financial activity, it forms a risk profile that should trigger scrutiny.
+
+The question, therefore, is not whether Sri Lanka has the capability to respond but whether it can adapt quickly enough.
+
+A critical starting point would be the establishment of a centralised, multi-agency intelligence fusion mechanism. Such a platform should integrate data from telecommunications providers, financial institutions, immigration authorities, and law enforcement agencies. This would enable pattern-based detection rather than reliance on sporadic intelligence leads.
+
+Regulatory reform is equally essential. Mandatory registration of all BPO and IT-enabled service operations, regardless of scale, would provide a baseline for oversight. Strengthening Know-Your-Customer requirements for SIM cards, internet connections, and financial accounts would reduce anonymity. In parallel, enhanced monitoring of digital payment systems and cryptocurrency transactions is necessary to disrupt illicit financial flows.
+
+Public awareness must also play a role. Landlords, guest house operators, and local communities should be sensitised to indicators of suspicious activity not to encourage vigilantism, but to promote informed vigilance in an increasingly digital environment.
+
+Finally, this issue demands stronger international cooperation. These networks are rarely confined to one country. They are part of larger syndicates operating across borders. Intelligence sharing with regional and global partners will be critical in dismantling these networks effectively.
+
+Sri Lanka now stands at a critical juncture. The recent operation in Anuradhapura and Mihintale should not be viewed merely as a successful enforcement action, but as an early warning signal. The country has the institutional capacity and experience to respond. What is required is urgency, coordination, and a recognition that cyber-enabled illicit operations are not peripheral crimes they are an emerging national security challenge.
+
+If left unchecked, these networks will not remain isolated. They will embed themselves within the economy, exploit systemic vulnerabilities, and become increasingly difficult to dismantle.
+
+The time to act is now while the threat is still visible, still containable, and still preventable.
+
+(The author is a senior security and intelligence professional with extensive experience in counter-terrorism and strategic risk assessment. He previously served as an Investigation and Intelligence Analyst at the Financial Crime Investigation Division -2015–2019).

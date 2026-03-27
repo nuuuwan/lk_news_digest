@@ -1,0 +1,11 @@
+Fuel QR system gets override option to fix registration hassles
+
+Vehicle owners can now reset and reclaim their fuel QR codes more easily following the launch of a new system feature that came into effect yesterday (19).
+
+The update addresses a common problem faced by motorists who were unable to access previously registered fuel QR codes due to changes in mobile phone numbers or because vehicles had been registered under former owners’ details.
+
+Under the new method, users can verify a vehicle by entering the correct vehicle number and chassis number. Even if the vehicle is already registered under another phone number, the system now allows users to cancel the existing registration and immediately re-register the vehicle under their current number using the “Override” option.
+
+Once the override is activated, the previous account and all related data are removed, and a new account is created instantly. However, the earlier user will lose all privileges linked to that vehicle.
+
+Authorities cautioned that overriding a registration without legal ownership or proper authorisation is an offence that may result in punishment, stressing that the feature is intended solely to assist rightful vehicle owners.

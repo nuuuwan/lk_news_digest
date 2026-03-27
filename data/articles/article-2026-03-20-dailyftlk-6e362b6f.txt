@@ -1,0 +1,37 @@
+Energy is national security: Why Sri Lanka’s future depends on a radical power shift
+
+In an import-dependent economy, energy security is synonymous with national security, economic stability, and the very survival of our way of life
+
+Sri Lanka’s drive for energy security is not happening in a vacuum; it is propelled by seismic shifts in the international arena. The stakes have been raised by immediate geopolitical crises that threaten the very arteries of global trade. The Straits of Hormuz, a vital chokepoint for a significant portion of the world’s oil supply, is currently engulfed in tension. Attacks on shipping vessels and energy terminals in oil-producing nations have introduced severe uncertainty, disrupting supply chains and driving up freight and insurance costs for import-reliant nations like Sri Lanka.
+
+Compounding these supply shocks is the fallout from the Russia-Ukraine war, which has fundamentally altered global energy logistics. The conflict precipitated punitive measures adopted by the USA and its allies, specifically sanctions that effectively blocked the purchase of oil and gas from Russia.
+
+To fix the problem, we must be honest about the weaknesses in our current energy mix. Today, Sri Lanka’s energy landscape is defined by a dangerous reliance on imported fossil fuels. Our generation mix is comprised of:
+
+Major Hydro: Approximately 35-40% of our installed capacity (including the Mahaweli complex and Victoria), which remains vulnerable to drought and climate variability.
+
+Thermal (Coal): The Lakvijaya Power Plant in Norochcholai accounts for a significant portion of baseload power, yet it is entirely dependent on imported coal.
+
+Thermal (Oil/Furnace Oil): Plants like Kerawalapitiya and Sapugaskanda provide critical emergency and peak power, but they are the most expensive to run due to global oil prices.
+
+nNon-Conventional Renewables: Wind, solar, and biomass are growing but still constitute a smaller percentage of the total grid mix.
+
+The national electricity network currently services over 7.5 million electricity consumers. This includes approximately 6.5 million domestic households, alongside tens of thousands of industrial and commercial users, reflecting a near-100% electrification rate. With such extensive connectivity, a failure of our energy systems does not cause isolated inconvenience; it triggers a systemic paralysis that impacts virtually every citizen and business instantly.
+
+The structural weaknesses in this mix are glaring. We produce virtually none of the petroleum products or coal we consume. Every shipment must be paid for in hard currency. Furthermore, there is a massive fiscal imbalance between the cost of generation and the selling price, forcing the Government to absorb losses or raise tariffs. Finally, our strategic buffers are woefully inadequate.
+
+We need not look far for a roadmap. Singapore is often cited as the gold standard for energy security among nations with few indigenous resources. Like Sri Lanka, Singapore imports almost all of its energy needs. However, through a combination of strategic diversification, massive infrastructure investment, and market liberalisation, it has created one of the most reliable and secure energy systems in the world.
+
+Singapore’s strategy rests on aggressive fuel diversification. Rather than relying on single pipelines from neighbors, they made a strategic pivot to Liquefied Natural Gas (LNG), building a terminal that allows them to buy gas from the global market—switching suppliers instantly if a regional crisis arises. To buffer against supply shocks, they developed the Jurong Rock Caverns, massive underground storage facilities that secure strategic reserves of oil and petrochemicals, freeing up land and ensuring the country can run even if global shipping lanes are disrupted.
+
+Crucially, Singapore did not stop at infrastructure; they reformed the market. By unbundling the sector and introducing an independent system operator, they separated regulation from generation, insulating grid stability from political interference. They are also maximising renewable potential within their constraints through floating solar farms and battery storage, and are actively connecting to the ASEAN Power Grid to import regional hydropower. For Sri Lanka, the lessons are clear: diversify fuel sources, build strategic buffers, unbundle the market for efficiency, and connect the grid regionally.
+
+While Singapore provides a model for import management, Sri Lanka has the distinct advantage of potential indigenous resources. We must be pragmatic and precise about what we actually possess. We must pivot from mere exploration to the urgent commercial development of proven assets.
+
+Energy security is also inextricably linked to food security. The agricultural sector is heavily energy-dependent, relying on diesel for tractors and electricity for irrigation pumps and fertiliser factories. Modern agriculture also requires cold storage and processing facilities to prevent post-harvest losses. Therefore, securing our energy grid is not just about keeping the lights on in Colombo. A shift to affordable, indigenous energy would lower the cost of production for farmers, stabilise food prices, and protect Sri Lanka from future food crises.
+
+The path to long-term security lies in diversification and indigenous production. The Government has set a target for 70% to 80% of energy to come from renewable sources by 2030. Sri Lanka possesses high wind and solar potential, and experts estimate we could generate over 100% of our energy needs through renewables by 2040.
+
+This shift is being bolstered by strategic regional integration. A cornerstone of this cooperation is the proposed High Voltage Direct Current (HVDC) interconnector linking Sri Lanka with Tamil Nadu. This ambitious project envisions a subsea transmission cable connecting Rameshwaram in India to Anuradhapura in Sri Lanka. Its technical features are designed for maximum efficiency: utilising HVDC technology to minimise energy loss, with an initial capacity of 500 megawatts (MW), scalable to 1,000 MW. Crucially, the link allows for bi-directional power flow, enabling Sri Lanka to import power during shortages or export excess renewable energy. This connection serves as a strategic ‘backbone,’ providing a rapid response mechanism to stabilise the grid in the event of a national blackout.
+
+Energy security is not a technical issue for engineers alone; it is a question of economic governance and constitutional duty. By embedding these principles into our national policy, Sri Lanka can move beyond short-term crisis management. We can build a resilient energy system that supports sustainable development, ensures affordable electricity for our citizens and cushions against external shocks.

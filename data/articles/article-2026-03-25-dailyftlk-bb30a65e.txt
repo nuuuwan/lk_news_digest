@@ -1,0 +1,85 @@
+Geopolitical conflict and national energy security: Role of AI in fuel and LPG crisis management
+
+Sri Lankan minds shaping the future of AI-based crisis management
+
+The escalating conflict involving Iran, the United States, and Israel represents a “global energy stress test” with profound implications for international fuel and LPG (Liquefied Petroleum Gas) security. At the heart of this vulnerability is the Strait of Hormuz, a maritime chokepoint responsible for the passage of approximately 20% of the world’s oil and gas supply. Disruptions in this region trigger immediate global shockwaves, including price spikes exceeding $100 per barrel, supply chain halts, and domestic economic instability.
+
+For importing nations, particularly in South Asia, traditional reactive management is no longer sufficient. The integration of Artificial Intelligence (AI) into national crisis management systems is now a strategic imperative. AI facilitates resilience through predictive modelling, global risk monitoring, and optimised resource allocation, transforming fuel crisis management from a localised operational response into a globally aware, proactive security strategy.
+
+The ongoing Iran–US–Israel conflict centres geographically and strategically on the Strait of Hormuz. The security of this narrow route is paramount to global energy stability due to the following factors:
+
+Supply Volume: Approximately 20% of global oil and gas supply traverses this route.
+
+Operational Disruptions: Recent military actions, including strikes on infrastructure and tanker disruptions, have led to stranded tankers and halted exports.
+
+Existential Threats: Iranian officials have warned of scenarios where “not a litre of oil” would be permitted to pass through the strait, indicating a total halt of energy flows.
+
+South Asian nations, specifically India, Sri Lanka, and Nepal, face the highest exposure to these energy shocks due to their heavy reliance on imported oil and LPG. The consequences of Middle Eastern disruptions manifest rapidly across several sectors:
+
+Price Volatility: Rapid increases in global oil prices, often surpassing $100 per barrel.
+
+Logistical Delays: Significant interruptions in LPG imports, shipping schedules, and tanker rerouting or cancellations.
+
+Depletion of Reserves: Reduced availability of fuel at national depots and potential premature depletion of strategic reserves.
+
+Inflationary Pressure: Increased transportation costs lead to direct inflation in food and essential goods.
+
+Public Disorder: Local shortages often trigger panic buying and the formation of long queues at distribution points.
+
+Economic Instability: Global disruptions have the power to shut down local fuel availability and destabilise entire national economies.
+
+In a landscape where fuel crises are global and fast-moving, AI is categorised as an essential tool for maintaining national security. The source identifies six critical areas where AI enhances management capabilities:
+
+Dr. Nalinda Somasiri is an Associate Professor and senior academic leader specialising in Artificial Intelligence, crisis management, and digital resilience systems.
+
+His professional journey has been shaped by direct exposure to large-scale national emergencies and complex operational environments, which inspired a career-long commitment to developing AI-for-public-safety and crisis management systems.
+
+Today, Dr. Somasiri leads the AI for Climate & Disaster Resilience Research Group (AICDRG) at York St John University London Campus, where his work focuses on applying artificial intelligence to real-world challenges such as fuel shortages, disaster response, early warning systems, and national infrastructure resilience.
+
+The group operates as an international research collective bringing together experts from academia and industry across South Asia and the United Kingdom.
+
+A key strength of this international initiative is the leadership and contribution of 4 Sri Lankan researchers who are actively developing practical AI-driven solutions for national resilience and public safety. Its members include:
+
+Dr. Soonleh Ling (Malaysia) – Senior Computer Science Lecturer at York St. John University, UK
+
+Dr. Amjad Alam (India) – Senior Computer Science Lecturer at York St. John University, UK
+
+Swathi Ganesan (India) – Senior Computer Science Lecturer at York St. John University, UK
+
+Lakmali Karunarathne (Sri Lanka) – Computer Science Lecturer at York St. John University, UK
+
+Prashant Bikram Shah (Nepal) – Computer Science Lecturer at York St. John University, UK
+
+Kavindu Karunaratne (Sri Lanka) – Visting Computer Science Lecturer at York St. John University, UK
+
+Dr. Rebecca Balasundaram (India) – Computer Science Lecturer at York St. John University, UK
+
+Sangita Pokhrel (Nepal)- Computer Science Lecturer at York St. John University, UK
+
+Dr. Rashmi Siddalingappa (India)- Computer Science Lecturer at York St. John University,UK
+
+Samanthi Siriwardana (Sri Lanka)- Computer Science Lecturer at York St. John University, UK
+
+Together, the team conducts collaborative research and policy development initiatives across: Sri Lanka, India, Nepal and Bangladesh.
+
+Their work aims to strengthen national preparedness, improve crisis response systems, and support governments in building resilient, technology-enabled public safety infrastructure. Together, these Sri Lankan researchers represent a growing national capability in applying Artificial Intelligence to real-world challenges.
+
+The transition from treating LPG shortages as local operational issues to recognising them as interconnected global emergencies is vital. To effectively manage future volatility, the document outlines a move toward:
+
+1) AI-driven early warning systems linked directly to global energy intelligence.
+
+2) Predictive supply chain models that account for geopolitical variables.
+
+4) Integrated national crisis dashboards to provide real-time visibility to policymakers.
+
+As geopolitical shocks can disrupt energy flows overnight, national resilience is no longer solely dependent on the physical supply of fuel, but on the intelligence, speed, and adaptability provided by AI systems.
+
+Fuel and LPG shortages will remain a risk in an increasingly uncertain global environment. Geopolitical tensions, economic pressures, and climate-related disasters will continue to challenge national energy systems.
+
+To protect its citizens and economy, Sri Lanka must invest in:
+
+By embracing Artificial Intelligence, Sri Lanka can move from crisis management to crisis prevention—and build a more resilient future.
+
+Energy security is not just about having enough fuel. It is about having the intelligence to manage it wisely.
+
+Artificial Intelligence provides Sri Lanka with a powerful tool to anticipate risks, protect essential services, and ensure stability in times of uncertainty.
