@@ -1,0 +1,49 @@
+New VAT tax invoice format  mandatory from 1 April 2026
+
+Importantly, this reform aligns with Sri Lanka’s digital tax initiatives, including systems such as RAMIS, and lays a strong foundation for future tax administration developments. Overall, this change represents a strategic policy initiative that will help businesses—from SMEs to large corporations—establish a robust, compliant, and audit-ready accounting framework
+
+Sri Lanka’s Value Added Tax (VAT) system is undergoing a significant structural reform with the introduction of a new standardised VAT Tax Invoice format. This reform was initially scheduled to come into effect on 1 January 2026 under Gazette Extraordinary No. 2463/05. However, in response to practical challenges and requests from VAT-registered businesses, the implementation date has been subsequently postponed to 1 April 2026.
+
+This reform aims to eliminate long-standing inconsistencies, strengthen compliance, and support the country’s broader digital taxation roadmap. For businesses, accountants, auditors, and policymakers, understanding these changes is not only essential for compliance but also critical for building stronger internal controls and seamless reporting systems.
+
+Values to be recorded in LKR without cents (rounded if necessary)
+
+Historically, many businesses in Sri Lanka have used customised invoice formats, resulting in a lack of uniformity within the VAT system. This has led to several operational challenges, including difficulties in VAT monitoring, weak audit trails, unsupported input tax claims, and record-keeping inconsistencies.
+
+In response to these systemic weaknesses, the introduction of a standardised and mandatory VAT Tax Invoice format has become essential. The new specification is designed to simplify tax administration, establish clearer controls, and enable faster and more accurate verification of transaction data.
+
+Furthermore, this reform reduces audit risks for businesses and enhances the transparency and reliability of VAT obligations. From a broader perspective, it represents a key policy initiative aimed at fostering a compliant tax culture and advancing Sri Lanka’s transition towards a digitally integrated tax system.
+
+Under the new regulations, every VAT invoice must prominently display the title “TAX INVOICE”. This serves as a clear identifier that the document is an official tax invoice and ensures legal validity in transactions between suppliers and purchasers.
+
+The invoice must clearly present the details of both parties:
+
+Where the purchaser is VAT-registered, their TIN must also be included as it is essential for claiming input VAT. This requirement strengthens tax monitoring and ensures the reliability of audit trails and transaction validation.
+
+Each VAT invoice must include a structured serial number in the format: YYMMM_QQQQ_XXXXX
+
+XXXXX – Sequential number (with leading zeros, no letters or symbols)
+
+This standardised numbering system significantly improves audit tracking and transaction traceability.
+
+All values must be recorded in LKR without cents (rounded where necessary)
+
+Payment Method must be specified (Cash, Bank Transfer, Cheque, Card, Mobile, or Online)
+
+These requirements ensure accuracy in VAT computation and strengthen audit reliability.
+
+These enhance traceability and provide greater clarity in accounting and audit processes.
+
+The supplier must retain a duplicate copy, clearly marked as “Duplicate”
+
+Both parties are required to retain these documents for a minimum of 5 years.
+
+Invoices must relate strictly to VAT-taxable supplies only, ensuring better control and compliance.
+
+If the purchaser makes a written request within 14 days from the date of supply, the supplier is required to issue a tax invoice.
+
+Such a request remains valid for future transactions between the same parties, eliminating the need for repeated requests and improving administrative efficiency.
+
+Importantly, this reform aligns with Sri Lanka’s digital tax initiatives, including systems such as RAMIS, and lays a strong foundation for future tax administration developments. Overall, this change represents a strategic policy initiative that will help businesses—from SMEs to large corporations—establish a robust, compliant, and audit-ready accounting framework.
+
+The new VAT Tax Invoice format, effective from 1 April 2026, marks a significant turning point in Sri Lanka’s tax administration. By standardising invoice structures, it enhances transparency, strengthens compliance, and improves audit efficiency. Businesses must proactively update their invoice templates, accounting systems, and internal processes to align with these new requirements. Timely implementation will not only ensure compliance but also enhance operational efficiency and credibility. This reform serves as a strong foundation for a more transparent, accountable, and digitally advanced tax system in Sri Lanka.

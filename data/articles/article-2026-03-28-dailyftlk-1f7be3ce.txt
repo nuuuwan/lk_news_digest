@@ -1,0 +1,103 @@
+Drug quality conundrum in Sri Lanka, the law and compliance
+
+Sri Lanka drugs and medical supplies requirements are met through three sources. The State hospital system is supplied by the State Pharmaceuticals Corporation (SPC), and the private sector is supplied by the SPC as well as private importers, and statistics show that the private importer share of total imports is around 60% of the total spend on drugs and medical supplies. Regarding quality assessments of imports, the SPC has a long-established process to check quality compliance according to pharmacopeial standards prior to the importation of drugs. The procedure followed by the private sector is understood to be different, and the responsibility to check quality compliance rests with them with no independent oversight of the process. Although the National Medicines Regulatory Authority (NMRA) is required legally to provide this oversight, it appears that this does not happen. This article is about this conundrum.
+
+The NMRA, established under Act No. 5 of 2015 has an absolute legal mandate for the authority to regulate all aspects of medicines, including quality assurance for both private and public sector imports. While recent procedural updates have transitioned some data collection to digital formats, the legal requirement for ensuring quality compliance remains strictly mandated by law. The question is whether the NMRA is exercising their legal mandate and ensuring the quality of drugs imported and manufactured in Sri Lanka meet the required quality compliance with as per the pharmacopeial specifications under which the drugs are manufactured and registered.
+
+NMRAs activities relating to the private sector imports appear to need more strengthening as per the findings of several independent studies. Intellectual honesty requires acknowledging that there is often a significant "implementation gap" between what an Act of Parliament (like the NMRA Act) commands and what happens in practice. Considering the criticality of quality compliance so that drugs consumed by patients are safe and effective, this article will examine this conundrum later in the document.
+
+The following sections of the NMRA Act, No. 5 of 2015 and associated regulations explicitly detail the authority's responsibilities:
+
+Mandate to ensure quality: Section 3(a) of the Act states the NMRA must "ensure the availability of efficacious, safe and good quality medicines" to the general public.
+
+Central regulator role: Section 3(b) designates the NMRA as the central regulator for all matters connected with registration, licensing, manufacture, and importation.
+
+Quality assurance responsibility: Section 14(c) empowers the authority to regulate the registration, licensing, and importation of medicines to ensure quality standards.
+
+Verification of batches: Section 52 specifically prohibits the sale of prescribed medicine unless the batch from which it is taken has been "approved as reliable".
+
+Mandatory technical reviews: Section 1.3.1 of NMRA procedural documents clarifies that the Medicines Evaluation Committee (MEC) uses registration and certification procedures to carry out technical reviews and surveillance of medicines to ensure quality and safety.
+
+Post-marketing surveillance: The Market Control Division is legally responsible for implementing market surveillance programs to monitor product quality throughout the supply chain and prevent the entry of substandard products.
+
+Requirements for importers (private and public) – Are these being complied with for all drugs entering the market?
+
+Contrary to the perception that requirements are optional, the NMRA is expected to maintain specific mandatory documentation for all medicinal products entering the market: The question that should be posed here is whether the following is being adhered to and if not why.
+
+Certificate of Analysis (CoA): For new registration or renewal, manufacturers must provide a Certificate of Analysis of the finished product.
+
+Evidence of importation: Under Section 65(d), the NMRA recently mandated that all Market Authorisation Holders submit evidence of importation and production for the past two years to ensure continuous availability and compliance.
+
+Batch-specific surveillance: The NMQAL is responsible for analysing imported medicines at different points in the distribution chain, using samples submitted for registration, complaints, and surveillance from both Government and private institutions.
+
+Manufacturer compliance: All manufacturers must conform to Good Manufacturing Practices (GMP), which the Act defines as the guidelines issued by the World Health Organisation (WHO).
+
+It is understood that the NMRA has recently introduced new measures to tighten control over imports, moving away from ad-hoc manual checks to systematic digital tracking:
+
+Mandatory labelling: Effective from 1 September 2024, a new labelling requirement (stickers) became compulsory for all batches released to the market to prevent falsified products.
+
+Digital data collection: In early 2024, the NMRA launched a mandatory data collection initiative requiring all local agents and importers to provide accurate information on all medicines imported since January 2023.
+
+Renewal grace period: A six-month grace period starting 1 January 2026, was granted for the renewal of foreign manufacturing premises. Sites for which renewal applications are not submitted will be discontinued.
+
+While the NMRA reportedly uses risk-based surveillance (testing samples rather than every single unit), they are legally required to verify that every imported product meets defined pharmacopeial or manufacturer specifications before and after it reaches the market. In recent times, various audits and high-level assessments have been done to examine the extent of compliance with the law pertaining to medicinal products The following are noteworthy. They have scrutinised the gap between the NMRA's legal mandate and its actual performance.
+
+The Auditor General of Sri Lanka has conducted several performance audits on the NMRA and the pharmaceutical supply chain (notably in 2022 and 2023). Key findings included:
+
+Backlog in registration: Audits found that the NMRA had a massive backlog of thousands of applications, leading to "provisional" registrations that bypassed full quality testing.
+
+The "Waiver of Registration" crisis: The most significant finding was the overuse of Section 109 of the NMRA Act (Emergency Waivers). Audits revealed that during the 2022–2023 crisis, the NMRA allowed hundreds of drugs to enter the country without the legally required quality checks.
+
+Failure of the NMQAL: The National Medicines Quality Assurance Laboratory (NMQAL) was found to be under-resourced, testing only a tiny fraction of the thousands of items imported by the private sector.
+
+The Parliamentary Committee (COPE) has summoned the NMRA multiple times between 2023 and 2025. Their assessments revealed:
+
+Missing data: A famous investigation into the NMRA Data Deletion incident highlighted that the authority lost critical digital records of importers and quality certificates, making it legally impossible to verify compliance for a period.
+
+Staffing shortages: COPE identified that the NMRA lacked the requisite number of Pharmacists and Quality Assessors to monitor the 4,000+ items imported by the private sector.
+
+In preparation for the $ 150 million PHSEP and the Digital Transformation Project, the World Bank and WHO conducted "Situational Analyses." They identified:
+
+Regulatory Capture: Concerns that the private sector’s "product listing" approach allows for brand proliferation without added therapeutic value.
+
+Information Asymmetry: Because the private sector operates on a "Market Authorisation" basis, the NMRA was found to be reactive (testing only after a complaint) rather than proactive.
+
+Institutional Capacity: The NMRA is required to regulate 4,000+ private items reportedly with a technical staff smaller than that of a single large private hospital.
+
+Regulatory "Blind Spots": The law requires quality assurance, but the regulations (the specific rules for how to do it) have not been updated since 2019 to reflect the surge in private imports.
+
+Budgetary Constraints: Testing a single drug batch at NMQAL is expensive; the NMRA’s fee structure is too low to cover the cost of testing 4,000+ items.
+
+To address these audit findings, the following "National Projects" are said to be underway:
+
+NMRA Act Reform: Discussions are ongoing to amend the Act to make post-market surveillance fees mandatory for private importers to fund their own quality testing.
+
+Digital NMRA (World Bank funded): This project aims to automate the verification of Batch Certificates so that no private shipment can be cleared by Customs without a digital link from the NMRA. While this sounds very modernistic, it is important to ascertain the functionality of this procedure and whether in fact it has been implemented and is a mandatory functionality as reported.
+
+To ensure a balanced perspective for anyone looking into this, the situation can be summarised as follows:
+
+The legal illusion: On paper, the NMRA is the powerful guardian of quality for all 4,000+ items. The above-mentioned findings seem to indicate that there are gaps in this guardianship, and all drugs do not go through with the mandated procedure. The terms and tenor of this guardianship may have to change as doing post shipment surveillance will be an impossible task for so many items and many imports. Pre shipment surveillance is a more practical option. Quality compliance certification prior to shipment, from the manufacturers own laboratory and also from an independent laboratory, and making the presentation of these documents to Customs in Sri Lanka could be made mandatory.
+
+The ground reality: In practice, the private sector operates with consequential independence arising from   NMRA lacking laboratory facilities to test the thousands of batches arriving for the private market, it therefore acts primarily as a "reactive" regulator—investigating after a problem is reported—rather than a "proactive" one that tests every batch before it hits the shelf. Testing every batch before release would be an impractical procedure to follow considering the number of imports and the number of batches imported.
+
+The SPC advantage: As noted, the SPC (State) sector has a much tighter net because its procurement is centralised and its contracts specifically mandate testing as a prerequisite for importation. The private sector's "Market Authorisation" model simply does not have an equivalent mandatory "pre-shipment" testing cycle for every individual shipment.
+
+The NMRA currently manages a Market Authorisation system for the private sector, which allows for massive brand proliferation (reportedly over 4000 items) as it does not have to comply with a formulary as the SPC which operates on a restrictive formulary (less than 1,000 items). The World Bank and World Health Organisation (WHO) have identified this lack of a National Private Sector Formulary as a primary driver of both regulatory failure and the high out-of-pocket expenditure for Sri Lankans.
+
+The World Bank has recommended a "tiered" restructuring of the NMRA to shift from being a "passive registrar" to an "active manager." Key reform recommendations include:
+
+Establishment of a "Private Sector Essential Medicines List": The World Bank has pushed for the NMRA to adopt a "Positive List" for the private sector. Instead of registering any brand that meets basic GMP, the NMRA would only prioritise the registration and surveillance of brands that fit into a National Formulary based on therapeutic need, mirroring the Essential Medicines List used in the public sector.
+
+Authors comment – The national formulary is a list of generic items and not a list of items by brand names. It is unlikely and could be regarded as unfair (for the would-be importers) for the NMRA to register items by brand names as the therapeutic need cannot be determined by the brand of a product. Therapeutic needs are ascertained based on the pharmacopeial specifications applicable to a generic product. If a particular brand of a generic product includes essential ingredients over and above what is specified in the pharmacopeial specification, then, it could be argued that it is a different generic product, and a question could be asked whether such a product should be included in the formulary or not. In such instances, the decision whether to include or not should be made by a set of independent professionals like pharmacologists.
+
+Mandatory "Health Technology Assessment" (HTA): The World Bank is funding the integration of HTA units within the Ministry of Health. The recommendation is that no new drug should be registered for the private sector unless it passes an "Economic and Therapeutic Value" test, which would naturally shrink the 4,000-item list over time.
+
+The Author's comment – The observations made in respect of the earlier point applies to this as well.
+
+The "Digital Gatekeeper" (NMRA e-Portal): Recognising the monitoring challenges mentioned, the Digital Transformation Project is funding a system where the Customs Department and NMRA are linked. If a drug is not on the approved formulary list, it fails to be allowed into the country.
+
+Author's comment – This is a good move provided the listing of items is based on the observations made about the earlier two points and inclusion of items is managed by an independent body of professionals as suggested. and it will be even better if this link can extend to the submission of quality certificates from the manufacturers and an independent authority.
+
+While these recommendations are on paper, the "expert methodology" for a private formulary , will face significant pushback from various quarters like the Private Pharmacy Importers' Association and various chambers of commerce, including some members of the medical profession, who will argue that it restricts consumer choice. The following statement underpins the necessity of finding a solution to ensure that legal and professional guardrails are there to ensure the quality of drugs consumed by the public.
+
+The Audit General's 2024 report noted that without this "narrowing" of the private sector list, the NMRA will remain legally liable but operationally incapable of ensuring safety.

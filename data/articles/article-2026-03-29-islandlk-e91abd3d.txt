@@ -1,0 +1,17 @@
+EWIS launches AI platform to tackle legacy system risk
+
+Sri Lankan technology firm EWIS has unveiled EWIS AEGIS, an AI-powered platform designed to de-risk the modernisation of mission-critical legacy systems.
+
+Targeting sectors such as banking, healthcare, and government, the platform addresses the high costs and operational disruptions traditionally associated with updating core infrastructure. EWIS AEGIS employs a simulation-first approach, utilising AI-driven code intelligence and digital twin technology to replicate and validate system behaviour before any changes are implemented.
+
+This proprietary system, for which a patent is pending, allows organisations to predict outcomes and identify risks in advance. EWIS Chairman Sanjeewa Wickramanayake stated the platform enables businesses to “move from uncertainty to control.”
+
+Engineered in Sri Lanka for global markets, EWIS AEGIS aims to deliver greater cost predictability and reduced downtime for enterprises undertaking large-scale digital transformation.
+
+Cap Snap Lanka secures six international certifications in six months
+
+ITC Ratnadipa presents Easter Brunch on April 5 at Indian Ocean Pavilion
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

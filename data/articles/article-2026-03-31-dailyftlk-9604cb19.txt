@@ -1,0 +1,155 @@
+Navigating Sri Lanka’s new VAT refund framework: Key compliance insights
+
+Sri Lanka’s transition to a risk-based Value Added Tax (VAT) refund system marks a significant shift in tax administration. The previous approach, where refunds were processed largely on the basis of statutory entitlement and prescribed timelines, has been replaced by a framework driven by compliance behaviour, risk profiling, and data integrity.
+
+Under the new system, VAT refunds are no longer processed uniformly for claimants. Instead, the approval and timing of refunds are closely linked to a taxpayer’s compliance history, the accuracy and consistency of submitted data, and the level of responsiveness to the Inland Revenue Department (IRD).
+
+For exporters and other eligible VAT registrants, securing refunds in a timely manner now requires proactive compliance management rather than passive filing. Taxpayers must ensure that returns, schedules, and supporting documentation are accurate, complete, and internally consistent. Discrepancies, omissions, or delays in responding to queries may result in refunds being deferred, suspended, or subjected to further review.
+
+The shift from the former Simplified Value Added Tax (SVAT) mechanism to the current risk-based refund model reflects a broader move toward data-driven tax administration. As a result, businesses must strengthen internal controls, perform regular reconciliations, and ensure alignment between financial records and tax filings.
+
+In this evolving environment, VAT refunds are no longer a routine administrative outcome but a compliance-sensitive process. Accordingly, taxpayers must adopt a structured and disciplined approach to compliance management to secure refunds efficiently and minimise the risk of delays, suspensions, or rejections under new VAT refund framework.
+
+This article outlines the key practical considerations taxpayers must address to secure VAT refunds efficiently and minimise the risk of delays, suspensions, or rejections under the new VAT refund system.
+
+Under the new risk-based VAT refund framework, taxpayers are eligible to claim refunds if they fall into any of the following categories:
+
+Exporters: Entities where direct exports account for more than 50% of total supplies in the preceding calendar year.
+
+Projects: Projects approved under Section 22(7) of the VAT Act.
+
+Suppliers to Projects: Suppliers to Special Projects (SP) and Strategic Development Projects (SDP), provided such supplies constitute more than 50% of their total supplies.
+
+The new framework is designed to ensure timely refunds for genuine exporters and eligible entities while strengthening controls against erroneous or inflated claims.
+
+Under the new VAT refund framework, eligible registrants are assigned a risk rating that determines the level of scrutiny that a registrant’s VAT return and schedules would be subject to when their refunds are being processed. This categorisation is based on compliance behaviour, including timely registration, accurate reporting, and payments by or before statutory due dates, using a statistically sound risk-assessment methodology.
+
+Under this scheme, refunds will be issued within 45 days from either the last day of the month following the end of the relevant taxable period, which is the statutory due date or the date of submission of a proper VAT return along with the required schedules for that period, whichever is later, depending on the VAT registrant’s risk categorisation.
+
+In cases where a notice (Notice 2) is issued for non-submission of schedules or errors in the schedules, the 45-day period will be counted from the date of compliance with Notice 2. Registrants are classified into three categories:
+
+Low risk: Refunds are generally processed promptly without prior verification; audits are conducted post-refund.
+
+Medium risk: Refunds are processed relatively quickly, with standard post-refund verification procedures.
+
+High risk: Refunds are subject to pre-verification before processing to ensure accuracy and compliance.
+
+The risk rating is effective from the taxable period commencing 01 October 2025 and will remain in effect until it is reviewed or cancelled. Ratings will be reviewed every six months, or earlier if deemed necessary. This system allows the IRD to prioritise resources efficiently while encouraging taxpayers to maintain strong compliance records for faster refunds.
+
+Refunds have already begun to be issued to eligible VAT registrants for taxable periods commencing on or after 01 October 2025. The IRD confirmed that up to 90% of the refunds for October 2025, which were scheduled for issuance on 15 January 2026, have been disbursed to all eligible VAT registrants, regardless of their risk rating. Taxpayers may rely on the existing provisions of the VAT Act to claim interest where the IRD fails to issue a refund within the 45-day period (in the absence of any fault on the part of the taxpayer). The taxpayer may invoke Section 59 of the VAT Act and claim interest from the relevant statutory trigger date until the date of payment.
+
+To secure VAT refunds efficiently under new risk-based system, taxpayers must proactively manage compliance and ensure accuracy across all filings and records. Key considerations include:
+
+Under the new risk-based system, VAT refunds are assessed primarily through a taxpayer’s overall compliance profile. Refund approvals now depend on multiple factors, including:
+
+Accuracy of returns and schedules: correctness of reported figures and supporting documentation.
+
+Responsiveness to IRD communications: promptness in providing requested clarifications or documents.
+
+Consistency of reported data across systems: alignment between accounting records, tax filings, and other regulatory submissions.
+
+In practice, even a single area of weak compliance can affect the processing of valid refund claims. Taxpayers should therefore approach VAT refunds as part of a continuous compliance lifecycle, rather than a one-off administrative transaction.
+
+A common cause of refund delays under the new system is the inconsistency between VAT returns and their supporting schedules. To minimize the risk of delays, taxpayers should ensure that:
+
+Input VAT on imports and local purchases is accurately reported.
+
+Export values declared in returns are fully aligned with Customs data.
+
+Even minor errors or mismatches can trigger system-generated notices, pausing the statutory refund timeline until the necessary corrections are made.
+
+Internal reconciliations should be completed before submission, rather than relying solely on automated system validations, to ensure consistency and accuracy.
+
+Accurate reconciliation of VAT returns with Customs data is critical for both imports and exports. Accurate alignment ensures valid input VAT claims, timely refunds, and mitigates audit risk.
+
+Input VAT on imported goods must be reconciled with Customs Declarations (CUSDEC), including invoice value, VAT paid, customs duties, importer TIN, and import date.
+
+Minor variances may be tolerated if documented and justifiable, but material discrepancies can trigger audits or disallowances.
+
+In practice, there are instances where the IRD may require that claims be reflected in the VAT return for the import period, even though the statutory 24-month window provides flexibility. Therefore, taxpayers should take proactive steps to include the claim in the VAT return without undue delay.
+
+Minor variances may be tolerated but can still impact risk ratings.
+
+Differences exceeding acceptable thresholds (typically above 10%) require formal reconciliation and explanation.
+
+Repeated mismatches may result in a high-risk classification and trigger pre-refund verification.
+
+Maintaining accurate import and export records and performing timely reconciliations is essential to ensure smooth and efficient VAT refund processing, mitigate risk, and align with the IRD’s practical compliance expectations.
+
+Under the new system, VAT refunds are increasingly documentation-driven. Taxpayers must be able to produce supporting documents on short notice, including:
+
+Poor document management often leads to repeated requests from the IRD and extended verification, even when claims are otherwise valid.
+
+Maintain refund-specific documentation folders (physical or digital) for each taxable period to ensure quick access and avoid last-minute retrieval issues.
+
+Under the new VAT refund system, input VAT claims are closely tied to the compliance status of suppliers. To safeguard claims, taxpayers should:
+
+Verify supplier registration to ensure they are valid VAT registrants.
+
+It is critical to verify that suppliers are currently registered for VAT before claiming input VAT. The current practice of the IRD is to place the burden of verification on the claimant (the purchaser), not the supplier. If a supplier is not VAT-registered or has been de-registered, the IRD may disallow the input VAT claim even though the supplier may have charged VAT incorrectly.
+
+Because of this, businesses must implement internal controls to proactively confirm supplier VAT status prior to claiming input VAT.
+
+i) Obtain a copy of the VAT Registration Certificate during vendor onboarding.
+
+ii) Check the IRD’s published list of inactive VAT registrants. Although the list is not updated on a monthly basis, it is revised periodically throughout the year. As the updates are not made in real time, businesses should not rely solely on a one-time review.
+
+iii) Ongoing Monitoring. A supplier’s VAT status may change over time, for example due to de-registration. Accordingly, businesses should implement periodic verification procedures as a matter of best practice.
+
+To support valid input VAT claims, tax invoices must strictly comply with the format and content requirements prescribed by the IRD. Non-compliant invoices may result in disallowed input VAT, even where VAT was charged and paid.
+
+Because the IRD places the responsibility on the claimant to substantiate input VAT claims, businesses must actively ensure invoice compliance before processing payments or claiming VAT.
+
+i) Request that their TIN (Taxpayer Identification Number) be correctly recorded in the supplier’s customer profile.
+
+ii) Confirm that invoices reflect the correct legal name and TIN of the purchasing entity.
+
+iii) Periodically review supplier records to ensure that all information is accurate and up to date.
+
+iv) A critical risk arises when suppliers use dummy, or incorrect numbers either on invoices or on the schedules submitted to the IRD along with the VAT returns. Even if the invoices appear correct, these fictitious numbers can create discrepancies between what the supplier reports and what the claimant has documented, putting the purchaser’s input VAT claim at risk. Since the IRD places the burden of proof on the claimant, it is essential to verify that all invoice numbers, TINs, and reference numbers are legitimate and match the supplier’s official records. Businesses should maintain full supporting documentation, communicate proactively with suppliers to prevent such issues, and flag repeated occurrences for enhanced monitoring to safeguard VAT claims.
+
+v) For suppliers issuing a large volume of invoices, conduct periodic sample reviews to ensure ongoing compliance. Proactive communication is particularly important when automated billing systems generate invoices in bulk, as systemic errors can impact hundreds of transactions.
+
+vii) As far as possible, record input VAT claims promptly rather than waiting until the end of the taxable period.
+
+Outdated taxpayer profiles are a common and avoidable cause of refund delays under the new system. Taxpayers should ensure that the following details are accurately maintained in Revenue Administration Management Information System (RAMIS):
+
+Missed notices or communications due to outdated information can result in suspended refunds, even when claims are otherwise valid.
+
+The VAT refund process is governed by strict procedural timelines. Taxpayers should be aware that:
+
+Requests for documents or clarifications typically allow only a limited response period.
+
+Failure to respond may result in refund rejection, rather than a simple delay.
+
+Assign clear responsibility for monitoring IRD communications daily to ensure timely responses and avoid unnecessary delays or disallowances.
+
+VAT refund claims are reviewed in the context of any outstanding tax balances. Key considerations include:
+
+Engaging proactively with the Tax Default Recovery Unit of the IRD can help clarify set-off positions and prevent unexpected deductions, ensuring smoother refund processing.
+
+Under the risk-based VAT refund system, taxpayers classified as high risk should anticipate additional verification measures, which may include:
+
+Refund delays often result not from the verification itself, but from incomplete or delayed responses during the process. Timely and thorough engagement is therefore essential for efficient refund processing.
+
+Overstated or inadequately documented refund claims significantly increase the likelihood of enhanced scrutiny under the risk-based system. Taxpayers should ensure they avoid:
+
+A well-supported, conservative claim is far more likely to be processed efficiently than an aggressive or poorly substantiated one, reducing the risk of delays, verification, or rejection.
+
+Even for compliant taxpayers, practical issues may arise during the VAT refund process due to system validations, data mismatches, or verification requirements. Knowing where to seek assistance can help resolve issues promptly and minimise delays.
+
+IRD website (www.ird.gov.lk): for VAT refund guides and system instructions.
+
+IRD Call Centre – 1944: for clarification on notices, document requests, and refund status.
+
+Consultation and Promotion Units at IRD Head Office or Regional Offices: for in-person guidance.
+
+Export Refund Processing Unit: for exporter-specific refund matters and prolonged verification cases.
+
+Maintaining proper records of all communications and submissions is essential when seeking assistance to ensure accountability and efficient resolution.
+
+Under Sri Lanka’s new risk-based VAT refund system, securing timely refunds depends less on statutory entitlement alone and more on effective practical compliance management. Key factors influencing refund processing now include:
+
+Taxpayers who proactively address these practical considerations are far more likely to enjoy faster refunds, fewer audits, and smoother interactions with the IRD. Conversely, a reactive approach increases the risk of prolonged delays, verification, or even rejection under the new system.
+
+(The author is Senior Manager – Tax and Business Advisory, Deloitte Sri Lanka.)
