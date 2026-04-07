@@ -1,10 +1,15 @@
-You will be given several Sri Lankan news articles from the past week. Write a concise, cohesive editorial digest in the style of The Economist, but output it as a JSON list. Each list element must be a dict of the form:
+You will be given several Sri Lankan news articles from the past week. Write a concise, cohesive editorial digest in the style of The Economist, output as a JSON list. Each list element must be a dict of the form:
 
+```json
 {
   "title": "...",
   "body": "..."
 }
+```
 
-Titles should be written as crisp, fully informative sentences. Follow each title with a short paragraph in "body" that adds context and nuance without bullets.
+**Titles** must read like headlines from a reputable newspaper (think *Financial Times* or *The Economist*) — precise, active, and newsy — but when read in sequence, they should form a narrative arc that shows how the week's events connect and build on one another. Titles must contain only verifiable facts, no opinion or editorialising.
 
-Go beyond summary and analyse how the week’s developments fit together. Use emojis purposefully, and explain any non-obvious acronyms or jargon. Stick strictly to verifiable facts.
+**Body** paragraphs must add context and nuance beyond the headline. Do not use bullet points. Explain any non-obvious acronyms or jargon on first use. Use emojis purposefully and sparingly where they aid scannability (e.g. 💰 for fiscal matters, ⚡ for energy). Stick strictly to verifiable facts; do not speculate or editorialize.
+
+The digest as a whole should read as a coherent account of the week, not a list of unrelated summaries.
+
