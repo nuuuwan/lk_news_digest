@@ -1,0 +1,55 @@
+Navigating the perfect storm: El Niño, input volatility, and seed strategy for survival
+
+Sri Lanka is currently navigating a "perfect storm" of converging crises that threaten to destabilise the agriculture sector and national food security. The looming El Niño event brings the dual threat of extreme heat and erratic rainfall—ranging from severe drought to excess storm water—while geopolitical tensions in the Gulf create profound uncertainty around fertiliser supplies. Simultaneously, volatility in fuel pricing is driving up production costs and constraining the country's capacity for adaptation and mitigation.
+
+As El Niño threatens to reduce water availability and cripple hydro-power generation—forcing a shift to expensive thermal power—the crisis is accelerating. This policy analysis examines the "poly-crisis" facing the island, highlighting how global advancements in climate-resilient seeds offer a critical pathway for survival. However, for these biological solutions to work, they must be integrated with pragmatic management of the country’s fuel and input shortages.
+
+Crucially, navigating this complexity requires a break from siloed operations. The Agriculture Ministry, Department of Irrigation, the Fertiliser Secretariat, the Department of Meteorology, Provincial Agriculture Departments, and the Power and Energy Ministry must align their efforts. Effective crisis management demands that these entities work in real-time, synchronising weather forecasts with energy release schedules and input distribution to ensure a unified response.
+
+The agricultural input supply chain is under significant strain due to logistical and geopolitical factors. A critical shipment of 25,000 MT of urea from Oman, scheduled for early April, remains at risk of delay due to escalating tensions in the Middle East near the Strait of Hormuz.
+
+While the National Fertiliser Secretariat reports 30,000 MT of urea released to the market and 68,000 MT in reserve, experts and the National Farmers’ Union dispute the adequacy of these figures. They estimate that 450,000 hectares of paddy require approximately 120,000 MT of urea, far exceeding the planned imports of 25,000–30,000 MT. To mitigate shortages, the state is attempting to acquire 65% of private stocks and enforce a price cap of Rs. 11,000 per bag against a market rate of Rs. 15,000–18,000.
+
+This scarcity is compounded by the rising cost of fuel, which makes the transport and distribution of whatever fertiliser is available significantly more expensive, creating a double-burden on the supply chain.
+
+The success of the upcoming Yala season is heavily dependent on the Summer Monsoon (May–September). In a "Slow-Decaying" El Niño scenario, where conditions persist into summer, Sri Lanka faces significantly drier and warmer weather, increasing drought risk particularly in the North, North Central, and North Western provinces.
+
+Heat stress is not merely an inconvenience; it is a biological limit. High temperatures during the "seed-filling" stage reduce the starch, protein, and mineral content of grains, while storage life is halved for every 10°C increase in temperature.
+
+Globally, agribusinesses are prioritising heat-tolerant hybrids, such as Argentina’s HB4 GM wheat and India’s Pusa Basmati 1692. However, for Sri Lanka, the path to adopting these solutions is complex. While these varieties offer high yields under stress, Sri Lanka’s current regulatory framework restricts the cultivation of Genetically Modified Organisms (GMOs). Therefore, the country must prioritise accessible, non-GMO heat-tolerant strains, such as ICARDA’s Jabal wheat or specific heat-tolerant rice hybrids developed in tropical climates.
+
+Sri Lanka is responding through its Climate-Smart Agriculture (CSA) frameworks. Researchers have released Bg 314, a short-duration rice variety maturing in 95–100 days to escape dry spells. Currently, 10 promising heat-tolerant rice lines and 8 drought-resistant crosses are "in the pipeline." The immediate policy priority is to accelerate the field testing and release of these specific lines to ensure they reach farmers in time for the planting window.
+
+Excess Water and Flood Resilience Conversely, a "Fast-Decaying" El Niño—characterised by a rapid transition to La Niña—leads to strong easterly wind anomalies. This scenario results in wetter conditions, increased moisture convergence, and potential flooding, particularly in the southwestern regions and the Wet Zone.
+
+To manage excess water, countries are adopting varieties with specific genetic traits, most notably the "Sub1" gene ("Scuba Rice"), which allows survival underwater for up to two weeks. Varieties like India’s Swarna-Sub1 and Bangladesh’s BRRI dhan51 are proven successes in the region.
+
+Sri Lanka possesses its own wealth of genetic resources in this regard. Traditional flood-tolerant rice varieties like Kurkaruppan, Goda Heenati, and Thavalu are naturally adapted to waterlogging. The Climate Smart Seeds Production Programme focuses on conserving these varieties. Furthermore, the Climate Smart Irrigated Agriculture Project (CSIAP) is restoring traditional tank systems to manage excess water during extreme rainfall events.
+
+Compounding these biological and climate threats is the sharp rise in fuel costs. Recent hikes of Rs. 80–90 per litre have triggered a sharp increase in operational costs, threatening the viability of the upcoming season.
+
+Paddy harvesting costs have risen to approximately Rs. 25,000 per acre, and ploughing costs are nearing Rs. 20,000 per acre. Hourly machinery charges have increased by Rs. 2,000–3,000. This creates a vicious cycle: drought-prone areas require more intensive irrigation (pumping water), which requires more diesel, exactly when prices are highest. Vegetable traders report severe transport cost hikes, and analysts predict rice prices may surge by over Rs. 10 per kilogram.
+
+This economic reality makes the "Seed Strategy" even more vital. Drought-resistant varieties that require less water effectively reduce the farmer's dependence on diesel-powered pumps, acting as an indirect fuel subsidy.
+
+Global Policy Benchmarks for Resilience Nations are implementing successful policies to distribute resilient varieties and manage volatility:
+
+India: Through the Indian Council of Agricultural Research (ICAR), India launched 109 high-yield, climate-resilient varieties in August 2024, with a goal to adopt these seeds on 25% of rice fields.
+
+Mozambique: An FAO-backed e-voucher system allowed over 31,000 households to purchase drought-tolerant seeds, strengthening local input markets.
+
+Vietnam: Promoting root and tuber crops like sweet potato, which show higher resilience than rice during extreme weather, alongside extensive public awareness campaigns.
+
+Sri Lanka’s formal approach is guided by the National Agriculture Policy (2021) and the CSA Investment Plan (2026). However, fragmented policies and limited access to finance persist. To navigate this perfect storm, the Government must move beyond general planning and execute specific, targeted interventions:
+
+1. Establish a real-time inter-ministerial task force: The Ministry of Agriculture, Irrigation, Fertiliser Secretariat, Meteorology Department, Provincial Agriculture offices, and the Ministry of Power and Energy must operate in a synchronised, real-time command structure. This ensures that weather data from the Met Department immediately triggers fuel allocation protocols from the Power Ministry and fertiliser release from the Secretariat.
+
+2. Scenario-based water management: Distinctly distinguish between Fast- and Slow-decaying El Niño scenarios. Prioritise drought relief and water pump fuel subsidies in the North/North Central provinces if the "Slow-Decay" persists, while preparing flood mitigation protocols for the Wet Zone.
+
+3. Supply chain transparency: Establish an independent audit to verify fertiliser stocks amidst the dispute between the National Fertiliser Secretariat and the National Farmers’ Union. Simultaneously, activate contingency planning for the Strait of Hormuz situation to secure alternative shipment routes.
+
+4. Fast-track biological resilience: Accelerate the release of the 10 pipeline heat-tolerant rice lines. Immediately scale up the distribution of Bg 314 for drought and traditional varieties like Kurkaruppan for floods through the CSIAP.
+
+5. De-bottleneck fuel access: Create a specific fuel allocation protocol for critical cultivation windows (ploughing and harvesting) to prevent administrative bottlenecks. This ensures that the high cost of fuel does not prevent the planting of climate-resilient seeds.
+
+While immediate actions are required to survive the upcoming season, it is vital to manage expectations: fully integrating these climate-smart recommendations into widespread farmer practice will realistically require a window of two to three seasons. The Government must therefore balance immediate crisis response with a sustained commitment to systemic change, ensuring that the seeds of survival planted today yield resilience for years to come.
