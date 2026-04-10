@@ -1,0 +1,45 @@
+The university bought AI, now it’s buying back the pencil
+
+Higher education spent 30 years going paperless. It digitised the lecture, the library, the exam hall and the staffroom. Then a student typed ‘write me an essay on Keynesian economics’ into a chatbot and handed it in. Now universities are doing something they have not done since the typewriter arrived: they are bringing back the pen.
+
+If you wanted to find the institution most thoroughly transformed by digital technology, over the past three decades, the university is a strong candidate. The library card catalogue, once a tactile index of civilisation, is a database accessible from a phone in bed. Essays are submitted through portals, graded on screen, returned with tracked-change comments. Research is conducted on platforms, published in digital journals, cited by algorithms. Administrative life, timetabling, enrolment, fees, complaints, is almost entirely online. The university is, in the most literal sense, a paperless institution.
+
+But the pen is coming back. And the reason is artificial intelligence, the very technology that was supposed to represent the final and irresistible triumph of digital over analogue in higher education.
+
+Digital technology entered universities promising to make assessment smarter, faster and more flexible. It has instead produced a crisis of academic integrity so acute that the most sophisticated educational institutions in the world are responding by retreating to the oldest assessment technology available: a human being, a piece of paper, a pen, and a room with a clock on the wall.
+
+In 2025, investigative reporting revealed that UK universities recorded nearly 7,000 confirmed cases of AI-assisted cheating in the 2023-24 academic year alone, roughly five cases per 1,000 students, five times the rate of the previous year. Experts quoted in the reporting were consistent in their view that confirmed cases represent a fraction of actual AI-assisted submissions. Nobody knows what the real number is. That, in itself, is the problem.
+
+A student who prompts a language model to draft an essay on Keynesian economics, then edits the output to match their own voice and argumentation style, may produce something that no detection tool can reliably identify as machine-generated. The model writes fluently, cites credibly and argues coherently. The student submits with a clear conscience, having persuaded themselves that they were ‘using a tool’, in the same way they might use a calculator or a spell-checker.
+
+Universities have responded with a spectrum of policies ranging from total prohibition of AI to the handwritten exam re-enters the story.
+
+5,000 cases of AI cheating confirmed in a single year in UK universities. Experts say that’s the tip of the iceberg. The pen is suddenly looking very attractive again.
+
+The move back is being driven not by a sudden rediscovery of pedagogical virtue but by the uncomfortable realisation that the alternatives, take-home essays, online submissions, project-based work submitted asynchronously, are now so vulnerable to AI assistance that they cannot reliably measure what the degree certificate claims to certify.
+
+There is an additional irony, familiar to readers of this series, in the fact that AI-based exam has itself been in retreat since 2024, after mounting evidence of privacy violations, algorithmic bias and the fundamental absurdity of software that flags a student as a potential cheat for looking away from the screen to think. The technology brought in to protect digital assessment from human dishonesty has been replaced, in an increasing number of institutions, by a human invigilator. The wheel has turned.
+
+The evidence is clear that open laptops in lectures serve, for a significant proportion of students, as gateways to everything except the lecture. Social media, news sites, messaging apps and casual browsing are the default destinations. The problem is not merely the student who disappears into their own digital world, research has documented a ‘second-hand distraction’ effect in which one student’s off-task screen use degrades the concentration of those seated nearby, whose peripheral vision catches the movement and brightness of the screen. A single open laptop in a lecture theatre affects not one student but several. The lecturer at the front of the room is competing, without knowing it, with whatever is trending on social media three rows back.
+
+The note-taking research is more nuanced, as this series has noted previously. The finding that handwritten notes produce better conceptual understanding than typed notes is real but context-dependent, and the effect is attenuated when laptop users are trained to take generative rather than transcriptive notes. The practical takeaway for university teaching is not ‘ban laptops universally’ but something more specific: that the design of teaching environments, the explicit instruction given about how to take notes.
+
+One student’s open laptop in a lecture degrades the concentration of every student seated nearby. The screen in your peripheral vision is not your problem. It’s everyone’s.
+
+Universities are too large, too diverse and too committed to digital infrastructure to undergo the kind of clean reversal visible in Nordic primary schools. They are not going to remove learning management systems, abandon online submission portals or stop using video conferencing for international collaboration. The digital transformation of higher education is, in most respects, real, useful and irreversible. The question is not whether to be digital, but which parts of university life benefit from being analogue.
+
+What is emerging, hesitantly and imperfectly, might be called critical hybridity: the deliberate combination of digital and analogue practices based on what each is genuinely good for, rather than on what is cheapest, most fashionable or most convenient for administrators. Digital tools are excellent for access to information, for collaboration across distance, for rapid feedback on low-stakes work, for accessibility accommodations. Analogue settings, the supervised exam, the handwritten essay, the seminar discussion, the laboratory session, are excellent for demonstrating individual capability under conditions that cannot be delegated, automated or faked.
+
+The universities of Finland, Sweden, Australia, the UK and their peers in the wealthy world have the institutional capacity, the data, the legal frameworks, the staff development resources, the research culture, to navigate this transition with some sophistication.
+
+Universities in lower-income systems face a different set of pressures. Many are still in the phase of building digital capacity, installing platforms, training staff to use them, extending online learning to students in geographically dispersed or underserved communities. For them, the digital transformation of higher education is still a project in progress, still a marker of institutional modernity, still a goal rather than a problem. The AI cheating crisis, visible and acute in well-resourced universities, is less immediately pressing in systems where AI tool access is still uneven and where examination culture has remained more traditional.
+
+But the AI tools are coming, and they are coming fast, and they are not arriving with an instruction manual explaining how to use them honestly. The universities that are grappling with this are acquiring knowledge that should, in principle, be shared. Whether it will be is the question this series will address in its final instalment: who learns from whom in global education, and who is always left holding the bill for everyone else’s experiments.
+
+SERIES ROADMAP Part I: From Ed-Tech Enthusiasm to De-Digitalisation | Part II: Phones, Pens & Early Literacy | Part III: Attention, Algorithms & Adolescents | Part IV: Universities, AI & the Handwritten Exam (this article) | Part V: A Critical Theory of Educational De-Digitalisation
+
+(The writer, a senior Chartered Accountant and professional banker, is Professor at SLIIT, Malabe. The views and opinions expressed in this article are personal.)
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
