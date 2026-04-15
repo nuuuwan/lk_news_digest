@@ -21,6 +21,7 @@ A few months ago I shared an experiment: using AI to digest Sri Lankan news into
 Since then, I've made two improvements:
 
 📰 RSS feed — you can now subscribe and get each week's digest delivered automatically.
+
 🧠 Improved prompt — the summaries are sharper, more contextual, and better at separating signal from noise.
 
 The goal hasn't changed: one coherent weekly read.
