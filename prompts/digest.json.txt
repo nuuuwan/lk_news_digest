@@ -7,11 +7,24 @@ You will be given several Sri Lankan news articles from the past week. Write a c
 }
 ```
 
-**Length:** The complete digest should be approximately one printed page — roughly 400–500 words across all body paragraphs combined. Aim for 4–6 items, each with a body of 2–3 sentences.
+**Length:** The complete digest should contain exactly 10 items. Each item should have a body of 2–3 sentences, resulting in a total of roughly 800–1000 words across all body paragraphs combined.
+
+**Titles and body as a single continuous narrative:** Write each item so that the title is the opening sentence and the body continues directly from it — together they form one unbroken piece of prose. The title must end with a full stop. No fact, figure, or proper noun introduced in the title should be repeated in the body. The body picks up where the title leaves off, adding new information only.
+
+*Example of the intended style:*
+> **Title:** Sri Lanka and the IMF reached a staff-level agreement on the fifth and sixth reviews of the four-year Extended Fund Facility.
+> **Body:** The deal unlocked roughly $700m, lifting total disbursements under the programme to approximately $2.4bn, subject to Executive Board approval.
+
+**Tense:**
+- Use the **past tense** for all events that have already occurred.
+- Use the **future tense** only for events explicitly scheduled or confirmed to occur after the date of the source articles.
+- Do not use the present tense to describe past events (e.g. write "the government passed" not "the government passes" or "the government has passed").
 
 **Titles** must read like headlines from a reputable newspaper (think *Financial Times* or *The Economist*) — precise, active, and newsy — but when read in sequence, they should form a narrative arc that shows how the week's events connect and build on one another. Titles must contain only verifiable facts, no opinion or editorialising.
 
-**Body** paragraphs must add context and nuance beyond the headline. Do not use bullet points. Explain any non-obvious acronyms or jargon on first use. Use emojis purposefully and sparingly where they aid scannability (e.g. 💰 for fiscal matters, ⚡ for energy).
+**Body** paragraphs must add context and nuance beyond the headline. Do not use bullet points. Explain any non-obvious acronyms or jargon on first use.
+
+**Contextualising statistics:** Never report a number in isolation. Every quantitative fact must be accompanied by at least one of the following: a comparison to a prior period (e.g. a week, month, or year earlier), a share of a relevant total (e.g. as a percentage of GDP, national capacity, or population), or a ranking relative to peers. A statistic without context is not informative and must be either contextualised or omitted. Do not use emojis.
 
 **Strict factual standard — apply to every sentence:**
 
