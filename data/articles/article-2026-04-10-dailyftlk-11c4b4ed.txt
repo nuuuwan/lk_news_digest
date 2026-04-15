@@ -1,0 +1,67 @@
+Notifiable data breaches:  How banks, regulators  and Central Bank all forgot to catch the ball
+
+Somewhere in a gleaming bank headquarters: marble floors, mahogany desks, framed ISO certificates on every wall, a data breach notification form is sitting in an inbox. It has been sitting there since Tuesday. Nobody is quite sure whose job it is to send it. The compliance officer says it’s IT. IT says it’s Legal. Legal says it’s the Central Bank. The Central Bank is in a meeting.
+
+Welcome, dear reader, to the magnificent, decades-in-the-making spectacle of Notifiable Data Breach (NDB) governance in Sri Lanka — a system so robust, so airtight, so brilliantly designed that when a breach happens, the only thing that definitely leaks is accountability.
+
+Let us set the scene. A customer — let’s call her Kumari — gets a midnight text. Her savings account, carefully tended like a prized vegetable garden, has been drained. Her card details, her national ID, her address — all of it now belongs to a gentleman in a country she has never visited, who is apparently very keen on luxury electronics.
+
+Kumari calls her bank. The bank expresses deep concern. The bank is so concerned, in fact, that it immediately initiates a 72-slide internal PowerPoint presentation titled ‘Incident Response Framework - Draft v4 (Pending Approval).’ Meanwhile, Kumari is still on hold. The hold music is a bossa nova version of the national anthem.
+
+The truly magnificent thing about NDB liability in Sri Lanka’s banking sector is the sheer athletic grace with which the ball is passed. It is a masterclass in institutional choreography. Allow us to trace the trajectory:
+
+The retail bank will tell you, with impressive confidence, that it is merely a data controller and that the breach occurred at a data processor level — the third-party fintech it quietly outsourced everything to in 2019, a decision memorialised in a vendor contract so vague it could apply to a bicycle repair shop.
+
+The third-party processor will then explain, at length, that it is merely a processor acting on bank instructions and that the bank, as controller, bears the notification obligation. The bank will then note that the processor’s contract contains an indemnity clause so comprehensive it appears to have been written by someone who was also a professional escape artist.
+
+And around and around we go. Kumari’s money is in Bratislava. The ball is still airborne.
+
+Act III: The legal landscape (Or: A desert with occasional mirages)
+
+Now, let us be fair!! devastatingly, brutally fair,  and examine what laws actually exist. Spoiler: there are some. They are also, in places, aggressively ambiguous.
+
+What is notable — and by “notable” we mean “maddening” — is the gap between the reporting obligation to regulators and the notification obligation to the people whose data was actually stolen. Banks are reasonably good at telling the Central Bank something bad happened. They are considerably less enthusiastic about telling Kumari, because Kumari asks follow-up questions and sometimes calls journalists.
+
+Act IV: The Central Bank enters (stage left, carrying Circular No. 47)
+
+We must now address the Central Bank of Sri Lanka — specifically and with great affection, its role as the referee of a football match in which it also sold the tickets, painted the pitch lines, and wrote the rulebook in a font size that required reading glasses it did not provide. The CBSL has issued multiple cybersecurity and IT risk management directions. What it has not issued, with equal enthusiasm, is consequences.
+
+The CBSL’s cybersecurity framework is not without merit. The 2-hour incident reporting window for material breaches is, in principle, admirably tight. The requirement for banks to maintain Business Continuity Plans, Security Operations Centres, and incident response teams reflects genuine regulatory intent.
+
+The problem is enforcement. Or rather, the problem is the performance of enforcement — that distinct institutional genre in which concerned letters are written, audits are conducted, and findings are noted, after which banks are given 90 days to remediate, after which an extension is granted, after which everyone agrees things are much better now and moves on.
+
+When a bank fails to notify affected customers within a reasonable timeframe, the penalty framework is, shall we say, uninspiring. When a processor fails to report to the bank, the chain of accountability becomes a game of Snakes and Ladders played on a board where all the squares are snakes. The CBSL has supervisory authority over licensed banks. It has considerably less authority over the ecosystem of fintechs, processors, and technology vendors that now handle a substantial portion of actual banking data — a gap so large you could park a server farm in it.
+
+Act V: The PDPA, a Law in search of its own enforcement body
+
+The Personal Data Protection Act of 2022 was, genuinely, a historic step. Sri Lanka joined the global movement toward codified data rights. The act establishes meaningful obligations: lawful basis for processing, data subject rights, and yes — breach notification. Articles dealing with security obligations require controllers to “take appropriate technical and organisational measures” and notify the Authority and affected individuals when breaches occur.
+
+There is just one small, administrative, entirely temporary complication: the Data Protection Authority of Sri Lanka, which is supposed to receive these notifications and enforce these provisions, spent considerable time in a state of not yet fully operational. Regulations needed to be Gazetted. Appointments needed to be made. Offices needed to be furnished. You understand.
+
+In the interim, banks — as data controllers — existed in a Schrödinger’s compliance state: the law applied to them, but the body empowered to say “you violated it” was in the administrative equivalent of a chrysalis. Which, from a bank’s perspective, is not the worst environment in which to operate.
+
+The intersection of the PDPA and the Banking Act also creates a charming jurisdictional two-step. If a bank breaches your data, does the PDPA Authority have jurisdiction, or the CBSL? The answer is both, theoretically. In practice, this means each regulator can, with perfect sincerity, express the view that the other is the primary enforcer, while both continue to issue strongly worded letters into the void.
+
+Act VI: What good actually looks like? (for comparison purposes)
+
+For context — purely academic, you understand — the GDPR requires breach notification to supervisory authorities within 72 hours and to affected individuals “without undue delay” when the breach poses high risk to their rights. Fines can reach 4% of global annual turnover. Australia’s Notifiable Data Breaches scheme requires notification to the Information Commissioner and affected individuals. Singapore’s PDPA mandates notification within 3 days for significant breaches.
+
+In these jurisdictions, when there is uncertainty about whether a breach is notifiable, the default position is notify. In Sri Lanka’s current operational reality, the default position appears to be convene a meeting about whether to notify, then have another meeting about the outcomes of the first meeting.
+
+Sri Lanka has the bones of a reasonable data protection and breach notification framework. It has the PDPA. It has CBSL cybersecurity directions. It has criminal law for payment fraud. What it does not yet have — fully, robustly, operationally — is the enforcement architecture, the regulatory coordination, and the cultural expectation that banks will proactively protect and notify their customers as a matter of course rather than as a last resort after every other option has been exhausted. Until the Data Protection Authority is fully operational, until penalties are meaningful enough to make compliance cheaper than non-compliance, and until the CBSL and PDPA Authority develop a coherent joint framework for financial data breaches, Kumari’s only real protection is luck. And her bank’s bossa nova hold music.
+
+1. The Data Protection Authority must be fully staffed, funded, and operational — not a statutory body in name only.
+
+2. The CBSL and DPA need a formal memorandum of understanding governing how financial data breaches are handled, with clear primary jurisdiction and mandatory information sharing.
+
+3. Notification timelines to consumers must be as enforceable and specific as those for regulators. Currently, regulators are told within hours; customers are told eventually, possibly, if the bank’s legal team agrees. This is backwards.
+
+4. Third-party vendor contracts must include mandatory breach notification clauses with defined timelines — the “it was the processor” defence should be a contractual impossibility, not a standard operating procedure.
+
+5. Real financial penalties. The kind that make CFOs sit up at quarterly reviews. The kind that make “invest in cybersecurity” a more attractive option than “hope nothing happens.”
+
+Until then, the ball remains airborne. The marble floors remain gleaming. The ISO certificates remain framed. And Kumari remains on hold. The bossa nova continues.
+
+Note: This article is satirical commentary on regulatory and institutional governance gaps. All named individuals are fictional composites for illustrative purposes. All regulatory references reflect publicly available legislation and directions. No banks, regulators, or central banking officials were harmed in the writing of this piece — emotionally, perhaps; legally, not at all.
+
+(The author is a Lawyer specialising in AI and IP Law, National Cyber Security, Human Rights, Digital Transformation in business, Digital Sociology, Anti Cyber Terrorism, and Data Privacy)
