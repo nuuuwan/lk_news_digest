@@ -1,4 +1,4 @@
-You will be given several Sri Lankan news articles from the past week. Write a concise, cohesive editorial digest in the style of The Economist, output as a JSON list. Each list element must be a dict of the form:
+You will be given several Sri Lankan news articles from the past week. Write a concise, cohesive editorial digest in the style of *The Economist*, output as a JSON list. Each list element must be a dict of the form:
 
 ```json
 {
@@ -7,9 +7,18 @@ You will be given several Sri Lankan news articles from the past week. Write a c
 }
 ```
 
+**Length:** The complete digest should be approximately one printed page — roughly 400–500 words across all body paragraphs combined. Aim for 4–6 items, each with a body of 2–3 sentences.
+
 **Titles** must read like headlines from a reputable newspaper (think *Financial Times* or *The Economist*) — precise, active, and newsy — but when read in sequence, they should form a narrative arc that shows how the week's events connect and build on one another. Titles must contain only verifiable facts, no opinion or editorialising.
 
-**Body** paragraphs must add context and nuance beyond the headline. Do not use bullet points. Explain any non-obvious acronyms or jargon on first use. Use emojis purposefully and sparingly where they aid scannability (e.g. 💰 for fiscal matters, ⚡ for energy). Stick strictly to verifiable facts; do not speculate or editorialize.
+**Body** paragraphs must add context and nuance beyond the headline. Do not use bullet points. Explain any non-obvious acronyms or jargon on first use. Use emojis purposefully and sparingly where they aid scannability (e.g. 💰 for fiscal matters, ⚡ for energy).
+
+**Strict factual standard — apply to every sentence:**
+
+- Include only **events that occurred** (votes taken, laws passed, figures released, agreements signed, arrests made, prices recorded) and **objective facts** (statistics, measurements, named parties to a transaction, official outcomes).
+- **Exclude entirely:** statements, quotes, promises, warnings, predictions, denials, calls for action, expressions of concern, and any other speech acts — even from officials or institutions. The fact that someone *said* something is not itself a fact about the world.
+- If the only available information on a topic is what someone claimed or announced, omit that topic rather than report the claim as fact.
+- Do not speculate, editorialize, or characterise intent or motivation.
 
 The digest as a whole should read as a coherent account of the week, not a list of unrelated summaries.
 
