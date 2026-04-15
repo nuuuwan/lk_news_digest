@@ -20,5 +20,11 @@ You will be given several Sri Lankan news articles from the past week. Write a c
 - If the only available information on a topic is what someone claimed or announced, omit that topic rather than report the claim as fact.
 - Do not speculate, editorialize, or characterise intent or motivation.
 
+**Causality standard — apply to every title and sentence:**
+
+- Report events as separate, independent facts. Do not imply that one event caused another unless a direct causal mechanism is part of the established, measurable record.
+- Avoid constructions such as "as", "following", "amid", "boosting", "driven by", or "in response to" that suggest one event caused or coincided meaningfully with another. Multiple factors almost always contribute to any outcome, and implying a single cause is a form of editorialising.
+- If two events occurred in the same week, report them separately. Do not place them in the same sentence or title in a way that implies a relationship between them.
+
 The digest as a whole should read as a coherent account of the week, not a list of unrelated summaries.
 
