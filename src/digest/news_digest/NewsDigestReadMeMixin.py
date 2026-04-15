@@ -9,6 +9,10 @@ class NewsDigestReadMeMixin:
     DIR_DATA_README_HISTORY = os.path.join("data", "readme_history")
     DIGEST_PATH = "README.md"
     MODEL_URL = "https://platform.openai.com/docs/models/gpt-5"
+    MODEL_PROMPT_URL = (
+        "https://github.com/nuuuwan/lk_news_digest"
+        + "/blob/main/prompts/digest.json.txt"
+    )
     URL_HISTORY = (
         "https://github.com"
         + "/nuuuwan/lk_news_digest"
@@ -69,13 +73,11 @@ class NewsDigestReadMeMixin:
         lines.append("")
         return lines
 
-    def get_lines_model_details(self, system_prompt) -> list[str]:
+    def get_lines_model_details(self) -> list[str]:
         return [
             f"## Model Prompt (for [{self.MODEL}]({self.MODEL_URL}))",
             "",
-            "```",
-            system_prompt,
-            "```",
+            f"[View model prompt]({self.MODEL_PROMPT_URL})",
             "",
         ]
 
@@ -91,13 +93,13 @@ class NewsDigestReadMeMixin:
         ]
 
     def get_lines(
-        self, used_articles, system_prompt, digest_article_list
+        self, used_articles, _system_prompt, digest_article_list
     ) -> list[str]:
         return (
             self.get_lines_header(used_articles)
             + self.get_lines_digest(digest_article_list)
             + self.get_lines_used_articles(used_articles)
-            + self.get_lines_model_details(system_prompt)
+            + self.get_lines_model_details()
             + self.get_lines_footer()
         )
 
