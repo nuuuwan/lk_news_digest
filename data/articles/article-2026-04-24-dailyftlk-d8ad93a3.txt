@@ -1,0 +1,91 @@
+Banks, Basel, compliance and governance
+
+This is a sequel to the article published in this column on 9 April 2026, titled Epstein, Bank of America, JPMorgan and Deutsche (https://www.ft.lk/columns/Epstein-Bank-of-America-JPMorgan-and-Deutsche/4-790649).
+
+I was certainly encouraged by the many messages seeking clarification and guidance on several matters in that article. Let me therefore provide an additional historical legal background, as well as elaborate upon the rationale for court awards, fines and interventions by regulatory institutions, so as to enhance learning outcomes.
+
+As a layman in law, yet having observed the impressive enforcements, prosecutions and awards in the banking and more particularly the capital market sector in the USA over many decades, I was taken aback when I learned that the US Department of Justice (DOJ) and the US Federal Bureau of Investigations (FBI) have been found wanting given the delayed investigations and prosecutorial failures which span decades. Here is a brief overview.
+
+Records now released under the Epstein Files Transparency Act reveal that survivor Maria Farmer reported Epstein's crimes to the FBI in 1996. This was nearly a decade before local Florida police began their investigations
+
+The FBI was subjected to congressional inquiries for failing to adequately investigate the allegations of the 1990's, which apparently included possession and distribution of child sexual abuse material.
+
+nSomewhere in 2005–2006 Police in Palm Beach, Florida, investigate Epstein after reports of molestation involving a 14-year-old girl.
+
+In 2008, Federal prosecutors in Florida, led by then-US Attorney Alexander Acosta signed a controversial non-prosecution agreement. This is referred to as the "Sweetheart Deal" which is said to have shut down a Federal sex trafficking investigation.
+
+The deal allowed Epstein to plead guilty to lesser state (rather than federal) charges in Florida, serving 13 months in a county jail with daily work-release privileges.
+
+A Federal judge later ruled that this "deal" violated the Crime Victims' Rights Act by intentionally keeping the victims in the dark about the plea deal.
+
+In 2018, The Miami Herald publishes a major investigation revealing the scope of the 2008 deal and new victim testimonies.
+
+In July 2019, Epstein is arrested in New York on new Federal sex trafficking charges, bringing national attention to his network.
+
+Epstein dies by "apparent" suicide in August 2019 at the Metropolitan Correctional Centre in New York while awaiting trial on Federal sex trafficking charges.
+
+A DOJ, Office of the Inspector General report found a combination of "negligence, misconduct, and outright job performance failures" by the Bureau of Prisons.  "Guards failed to perform required cell checks, falsified logs, and left Epstein alone with excess bed linens"
+
+Although the two guards directly responsible for monitoring Epstein the night of his death were criminally charged with falsifying records, they entered a deferred prosecution agreement with the DOJ and had their charges dismissed after completing community service. The DOJ declined to prosecute other prison staff who also falsified logs.
+
+A 2020 DOJ Office of Professional Responsibility report concluded that Acosta exercised "poor judgment" but stopped short of declaring it professional misconduct.
+
+In the 9 April issue, I discussed how, from 1998 to 2013, JPMorgan Chase served as Epstein's primary banker, processing over $1 billion in transactions through approximately 130 accounts, including large cash withdrawals and wire transfers later linked to his trafficking network.
+
+In June 2023, JPMorgan agreed to pay $ 290 million to victims. It also agreed to pay $ 75 million to the US Virgin Islands, bringing total settlements to $ 365 million.
+
+The payment of $ 75 million to the US Virgin Islands (USVI) was because the territory—where Jeffrey Epstein owned property and operated much of his network—brought a civil lawsuit alleging that the bank facilitated and benefited from his activities by failing to act on clear warning signs.
+
+The USVI’s claim was not just about individual victims, but about harm to the jurisdiction itself. The government argued that, JPMorgan enabled financial flows linked to Epstein’s operations in the Virgin Islands. The bank ignored repeated red flags, allowing suspicious payments and cash movements tied to activities occurring on Epstein’s private island. By maintaining him as a client, the bank contributed to a system that harmed vulnerable individuals within its territory. The failure to report or act appropriately undermined local law enforcement and regulatory oversight.
+
+The $ 75 million settlement (2023) was therefore, a resolution of the USVI’s civil claims (without admission of liability), a form of institutional accountability to the jurisdiction, separate from victim compensation, intended in part to support law enforcement, compliance strengthening, and remediation efforts within the territory. Put simply, JPMorgan paid the USVI not because the government was a “victim” in the traditional sense, but because it argued—and the bank chose to settle—that the institution’s compliance failures enabled unlawful activity within its borders and regulatory domain.
+
+Following JPMorgan’s exit, Deutsche Bank became Epstein’s primary bank from 2013 to 2018, during which it processed numerous high-risk transfers, including payments to women flagged in internal alerts. I like to share a simple procedure governed by the ethics code in my profession. A practising member accepting a new audit client necessarily has to inquire of the previous auditor, a fellow member, whether there were any "professional reasons" why the previous auditor declined to continue or was replaced. Accepting an audit without this step is considered ethically incomplete. Naturally banks may be adopting many similar practices, when on boarding customers. Nevertheless, in this case the bank reportedly ignored compliance warnings and failed to apply enhanced due diligence to a clearly high-risk client, ultimately acknowledging a “critical mistake” and agreeing in May 2023 to a $75 million settlement with victims.
+
+Subsequently, it was Bank of America who provided banking services to many among Epstein’s "network" during periods of heightened scrutiny. It was accused of failing to file timely Suspicious Activity Reports (SARs) on transactions involving millions of dollars between Epstein and high-net-worth individuals, including Leon Black. Consequently in March 2026, it agreed to a $72.5 million settlement, becoming the third major bank to incur penalties.
+
+Taken together, these cases underscore systemic lapses in anti-money laundering controls, deficient escalation of risk signals, and a recurring institutional failure to act decisively when confronted with clear indicators of financial misconduct.
+
+Beyond costs, this pattern conveys a message. Compliance frameworks remain structurally reactive, while financial networks operate dynamically. In this sense, the case challenges regulators and institutions alike to move beyond transaction monitoring toward behavioural pattern recognition, cross-institutional intelligence sharing, and early decisive action, recognising that in an interconnected system, the true risk is not merely what one bank misses—but what the entire network chooses not to confront.
+
+Within this ecosystem, it is important to appreciate the role of principal regulators. Let me discuss the regulatory framework in two western jurisdictions and ours in Sri Lanka.
+
+In the United Kingdom, the Financial Conduct Authority (FCA) is responsible for ensuring that financial markets function with integrity and that firms and their senior executives act honestly and transparently. It has the power to investigate individuals, impose fines, and ban them from holding senior roles in financial institutions. In that regard the following is an important component of the FCA 's role.
+
+Introduced in the United Kingdom in 2016 by the Financial Conduct Authority and the Prudential Regulation Authority, the "Senior Managers Regime" was a direct response to the failures exposed by the 2008 financial crisis and misconduct such as LIBOR manipulation. Backed by legislation under the Financial Services and Markets Act and subsequent reforms, its central purpose is to ensure clear individual accountability at the highest levels of financial institutions.
+
+The regime applies to banks, insurers, and most regulated financial firms, covering both senior executives and certain non-executive directors where they hold designated responsibilities. It requires that key decision-makers—designated as Senior Management Function (SMF) holders—be formally approved by regulators, have clearly documented “Statements of Responsibilities,” and be subject to a statutory “duty of responsibility,” meaning they can be held personally accountable if they fail to take reasonable steps to prevent regulatory breaches. Complemented by conduct rules and ongoing “fit and proper” assessments, the regime effectively shifts accountability from the institution alone to identifiable individuals, reinforcing the principle that governance failures are not faceless, but traceable to specific roles and decisions.
+
+Beyond national regulators, global banking oversight is also shaped by the Basel Committee on Banking Supervision, which operates under the Bank for International Settlements in Switzerland. The Basel Committee was established in 1974 by central banks and supervisors from major economies following a series of international banking disruptions, with the objective of strengthening the safety and soundness of the global financial system.
+
+Rather than acting as a regulator in its own right, it develops internationally accepted standards—most notably the Basel I, II, and III frameworks—which set out guidelines on capital adequacy, risk management, liquidity, and governance. These standards are not laws in themselves but are implemented by national regulators such as Central Banks, the Federal Reserve, and other supervisory authorities within their respective jurisdictions. Compliance with Basel principles therefore becomes embedded within domestic regulatory systems, influencing how banks manage risk, maintain capital buffers, and structure internal controls. In this sense, Basel provides the global blueprint for banking discipline, while national regulators are responsible for enforcing it. Yet, as the cases discussed illustrate, even where such frameworks exist, their effectiveness ultimately depends on how rigorously they are applied and enforced in practice.
+
+Compared with the UK, in the United States, oversight is more fragmented but robust in structure. The Federal Reserve supervises large bank holding companies and is concerned with the overall stability of the financial system.
+
+The Office of the Comptroller of the Currency (OCC) directly regulates national banks and ensures they operate safely and soundly, while the Securities and Exchange Commission (SEC) oversees listed companies and protects investors by enforcing disclosure and governance standards; and the Department of Justice (DOJ) handles criminal violations, including fraud and financial misconduct.
+
+Together, these bodies form a legally empowered oversight architecture—each with distinct but sometimes overlapping mandates—designed to monitor institutions, enforce compliance, and hold both organisations and individuals accountable. Yet, as recent cases demonstrate, the presence of multiple regulators does not automatically guarantee effective action. Rather, it highlights the complexity of modern financial supervision, where responsibility is shared, but not always seamlessly executed.
+
+It is equally important to understand the global framework that governs how financial information is prepared, audited, and assured. At the international level, bodies such as the International Federation of Accountants (IFAC) play a central role in promoting high-quality auditing, ethics, and education standards, while the International Accounting Standards Board (IASB) issues the International Financial Reporting Standards (IFRS), which are used widely across jurisdictions to ensure consistency and transparency in financial reporting.
+
+In Sri Lanka, the Sri Lanka Accounting and Auditing Standards Monitoring Board (SLAASMB) ensures compliance with locally adopted accounting and auditing standards. In the United States, oversight of public company audits is carried out by the Public Company Accounting Oversight Board (PCAOB), established in the wake of corporate scandals to enhance audit quality and independence, working alongside the Securities and Exchange Commission. In the United Kingdom, the Financial Reporting Council (FRC) performs a similar role, overseeing accounting, auditing, and corporate governance standards.
+
+Together, these institutions form the backbone of financial reporting integrity—setting the rules for how information is disclosed and independently verified. Their work intersects closely with banking regulation under frameworks such as Basel, because reliable financial reporting and robust audits are essential for regulators to assess capital adequacy, risk exposures, and the overall health of financial institutions. Without credible accounting and auditing, even the most sophisticated regulatory frameworks risk operating on incomplete or misleading information.
+
+Against the above legal and regulatory framework, at a local and global level, I believe it is necessary that I discuss a specific case of an individual bank official, and the role played by these institutions to investigate, enforce fines, penalties and bans. This I thought, will bring meaning to the existence of these legally enabled institutions.
+
+Despite clear red flags in transaction patterns, internal documents suggest that senior executives, including Jes Staley, failed to act, allowing the relationship with Epstein to continue due to its profitability. Here is a profile of the Jes Staley.
+
+Jes Staley, is an American banker whose career spanned more than four decades in global investment banking. He graduated from Bowdoin College and joined Morgan Guaranty Trust in 1979, which later became part of JPMorgan Chase. Over a 30-year career at JPMorgan, he held senior roles including head of private banking, chief executive of asset management, and ultimately head of the investment bank, overseeing global operations and client relationships at the highest level of the institution. In 2013, he left JPMorgan to join BlueMountain Capital, and in 2015 became Group Chief Executive of Barclays, one of the world’s major universal banks.
+
+The regulatory response to Jes Staley’s conduct was led decisively not from the United States, where much of his career and the underlying relationships originated, but by the Financial Conduct Authority in the United Kingdom, given his role as Group CEO of Barclays.
+
+Following an extensive investigation, the FCA concluded that Staley had approved communications to regulators that were misleading in downplaying the nature and extent of his relationship with Jeffrey Epstein.
+
+In 2023, the FCA imposed a £ 1.8 million fine and a ban from senior financial roles. In 2025, the Upper Tribunal upheld the finding of misconduct, confirming that Staley had acted with a lack of integrity, though the fine was later reduced to £ 1.1 million.
+
+The Tribunal affirmed a lifetime ban from senior management functions in UK financial services. The FCA’s position was that senior executives must demonstrate full transparency and integrity, especially in matters involving reputational and systemic risk exposure. The Staley case illustrates that modern regulatory enforcement is no longer limited to financial misconduct alone—it extends to integrity, disclosure, and governance judgment at the highest levels of banking leadership.
+
+In contrast, US authorities—including the Federal Reserve, the Office of the Comptroller of the Currency, the Securities and Exchange Commission, and the Department of Justice—have not, to date, imposed a corresponding personal prohibition on Staley that would universally bar him from serving on bank boards or as a director of a listed company in the United States. However, this absence of a formal, system-wide ban should not be misconstrued as clearance.  Rather, it reflects the jurisdictional and enforcement architecture of U.S. regulation, where such prohibitions are typically case-specific and contingent upon separate proceedings.
+
+In practical terms, the combination of the FCA’s findings, the reputational weight of the Epstein association, and the heightened expectations of global regulators and institutional investors creates a de facto barrier to re-entry into senior roles within regulated financial institutions. In an interconnected regulatory environment, accountability may be imposed in one jurisdiction, but its consequences are effectively global.

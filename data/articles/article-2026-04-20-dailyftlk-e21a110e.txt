@@ -1,0 +1,55 @@
+When systems fail: Data breaches, financial crime, and illusion of regulation
+
+To move forward, Sri Lanka must shift from fragmentation to integration. Financial intelligence, cyber risk monitoring, and law enforcement must converge
+
+Drawing from investigative experience, international engagement, and corporate insight, this article examines how financial crime, data breaches, and weak enforcement are converging into a systemic risk for Sri Lanka’s economy, national security, and global credibility. This analysis is not written from theory alone. It is shaped by experience of four years within Sri Lanka’s financial crime investigative framework, engagement with international financial intelligence counterparts, and ongoing discussions with senior leadership across some of the country’s leading corporate institutions
+
+Recent developments only reinforce these concerns. The reported Rs. 13.2 billion fraud at the National Development Bank PLC and the summoning of its senior officials to the Criminal Investigation Department (CID) is not an isolated incident, it is a symptom of a deeper systemic weakness. During this time, certain patterns became increasingly clear.
+
+Financial crime in Sri Lanka is evolving faster than the systems designed to detect and prevent it. Conversations with global financial intelligence units highlight how other jurisdictions are moving toward integrated, real-time responses to financial and data-related risks. In contrast, domestic systems still operate largely within institutional boundaries.
+
+Equally telling are the concerns expressed by corporate leadership. Across sectors, there is growing unease about data security, regulatory uncertainty, reputational exposure, and the absence of clear accountability when breaches and financial irregularities occur. These concerns are grounded in present-day developments within Sri Lanka’s financial and digital ecosystem.
+
+It is at the intersection of these experiences that a more concerning picture emerges: one where regulation exists, but enforcement is uneven; where responsibility is defined, but ownership is unclear; and where emerging risks are not addressed with the urgency they demand.
+
+Sri Lanka today faces a dangerous contradiction. On paper, we are regulated. In practice, we are exposed.
+
+From banking frauds to illicit financial flows, and increasingly from data breaches to cross-border laundering networks, a troubling pattern is evident. Financial crime is not merely slipping through regulatory cracks; it is operating within the system itself. This is no longer a series of isolated failures, but a structural weakness that threatens the economy, national security, and public trust.
+
+Sri Lanka has built what appears to be a robust regulatory framework. The Central Bank of Sri Lanka supervises financial institutions, while the Financial Intelligence Unit of Sri Lanka monitors suspicious transactions. Anti-money laundering frameworks aligned with the Financial Action Task Force standards are in place. The Personal Data Protection Act has also introduced a long-awaited legal basis for safeguarding personal information.
+
+Yet fraud persists, illegal transactions find pathways, and money laundering adapts with ease. The uncomfortable truth is this: Sri Lanka has developed a culture of compliance, but not a culture of enforcement.
+
+Institutions appear efficient on paper. Reports are filed, procedures are followed, and regulatory boxes are ticked. But criminal networks do not operate within frameworks. They exploit timing gaps, institutional silos, and weak accountability.
+
+One of the most serious weaknesses lies in the fragmentation of responsibility. Each institution performs its role, but largely in isolation. The Central Bank looks at systemic risk. The FIU analyses transactions. Law enforcement acts after crimes occur. Cyber units investigate breaches. What is missing is a unified mechanism that brings these strands together in real time. This fragmentation becomes even more dangerous in the context of data breaches.
+
+In Sri Lanka, data breaches are often treated as technical incidents or public relations challenges. Disclosure is cautious and sometimes limited. What is missing is a strong, visible enforcement authority that ensures accountability. A country seen as structurally compliant but operationally weak raises concerns about transparency and risk
+
+Data today is financial currency. When personal and banking data is exposed, it creates immediate opportunities for fraud, identity theft, and illicit transactions. In many cases, data breaches are the starting point of financial crime, not a separate issue.
+
+Yet in Sri Lanka, data breaches are often treated as technical incidents or public relations challenges. Disclosure is cautious and sometimes limited. What is missing is a strong, visible enforcement authority that ensures accountability. This highlights the urgent need for a fully operational and empowered Data Protection Commission.
+
+The Personal Data Protection Act provides the legal foundation, but law without enforcement is merely intention. A Data Protection Commission must have the authority to investigate breaches, mandate disclosures, impose penalties, and protect citizens’ rights in a digital economy.
+
+Without such an institution, accountability becomes diluted. Banks may point to vendors, vendors to systems, and regulators to processes. In this chain, the citizen remains the most vulnerable.
+
+At the same time, Sri Lanka’s growing reliance on digital platforms and outsourced services introduces new risks. Business Process Outsourcing (BPO) operations and fintech-linked services often handle sensitive financial data across jurisdictions. While economically beneficial, they operate in regulatory grey areas where oversight remains limited. These grey zones are precisely where sophisticated financial crime networks thrive.
+
+The implications extend far beyond individual fraud cases. Illicit financial flows erode State revenue, distort markets, and weaken economic planning. More importantly, they intersect with broader security concerns. Financial opacity has long been linked to organised crime, corruption, and extremist financing.
+
+There is also a critical international dimension. Sri Lanka’s engagement with the International Monetary Fund and its past experience with FATF grey-listing demonstrate that perception matters. Investors assess not just laws, but enforcement.
+
+A country seen as structurally compliant but operationally weak raises concerns about transparency and risk. The consequences are clear: reduced investor confidence, higher costs of capital, and missed opportunities. At the heart of this challenge lies a fundamental issue: no single institution owns the problem. Responsibility is dispersed, accountability is diluted, and enforcement is inconsistent.
+
+To move forward, Sri Lanka must shift from fragmentation to integration. Financial intelligence, cyber risk monitoring, and law enforcement must converge. Data breaches must trigger immediate financial and security responses. Oversight of digital and outsourced financial services must be strengthened.
+
+Most importantly, enforcement must become visible. Laws must not only exist they must be seen to work. The establishment of a strong Data Protection Commission would be a decisive step in this direction. It would signal that Sri Lanka is ready to treat data protection as a core pillar of governance, economic stability, and national security.
+
+Sri Lanka stands at a critical juncture. We can continue to rely on the appearance of regulation, or we can confront the reality that systems without enforcement will fail.
+
+Financial integrity, data protection, and national security are no longer separate domains. They are interconnected and inseparable. If we fail to act, the cost will not only be financial. It will be measured in eroded trust, weakened institutions, and diminished global standing.
+
+The system is not failing quietly. It is failing in plain sight. The question is whether we are ready to respond with the clarity, urgency, and resolve that this moment demands.
+
+(The author is a former senior law enforcement officer and national security analyst, with over four decades of experience in policing and intelligence, including serving as Head of Counter-Intelligence at the State Intelligence Service of Sri Lanka and a graduate of the Asia Pacific Center for Security Studies in Hawai, USA)

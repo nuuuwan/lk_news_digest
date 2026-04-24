@@ -1,0 +1,77 @@
+Symbolic governance and the cost of silence
+
+A bank does not lose billions overnight. It loses it in instalments - through unchallenged assumptions, unasked or unanswered questions, missed warning signals and the quiet comfort of believing that someone else is watching the controls.
+
+It is this timely but uncomfortable truth that the Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey captured with clinical precision, speaking at the CII Corporate Governance Summit in April 2026.
+
+“Boards are often well constituted, but not always equally effective. Information is available, but not always interrogated deeply. Independence exists in form, but may not always translate into independent perspective.”
+
+In this observation, Pandey was articulating a deep structural weakness that resonates across emerging markets, including Sri Lanka: the persistent triumph of Form over Substance in Corporate Governance.
+
+This phenomenon of symbolic governance – is now in sharp focus in Sri Lanka’s financial sector. Recent developments surrounding NDB Bank reveal what could be one of the most significant internal control failures in recent banking history.
+
+While the disclosures suggest a staggering exposure of Rs. 13.2 billion, the true significance of this episode lies not merely in its scale, but in what it reveals about how corporate governance is practiced and the lessons it can teach us.
+
+In an institution where information is not merely received but actively interrogated, a sharp increase in receivables within a relatively short period should have triggered immediate scrutiny. A sudden variance from historical norms is not just an accounting anomaly - it is a signal calling for action.
+
+This brings us to Pandey’s most piercing insight: “information is available, but not always interrogated deeply”
+
+For many boards, receipt of voluminous board packs satisfies the requirement of oversight in form. But governance, in substance, demands more requiring directors to ask uncomfortable questions, challenge the trends, and probe beneath the surface of reported numbers. Receiving the board pack is availability. Asking why a specific ledger entry has deviated from its historical norm is interrogation.
+
+Board and sub-committees - Audit and Risk in particular, should focus on interrogation and not availability. The distinction is critical. Availability of information is passive; interrogation is active. In the absence of interrogation, risks accumulate and compounds.
+
+Sri Lanka’s corporate governance framework, guided by listing rules and regulatory expectations, has largely succeeded in institutionalising the form of independence. Boards are populated with Independent Non-Executive Directors. Committees are constituted. Regular meetings are held. Disclosures are made.
+
+But as Pandey cautions, independence in structure does not always translate into independence in thought. In tightly networked business environments, familiarity can inadvertently dull skepticism. Collegiality can override challenge. Over time, a board culture may emerge where consensus is valued more than inquiry, and where dissent is subtly discouraged.
+
+True independence is not a legal status or conformity to set criteria, it is a state of mind that assumes nothing and verifies everything!
+
+It is the willingness to question, seek verification, and to resist the comfort of alignment when evidence suggests otherwise.
+
+Pandey’s most consequential observation is also his most uncomfortable: ‘’boards are often well constituted, but not always equally effective.”
+
+This is where failures of interrogation and independence converge. A board receiving extensive information may fail to interrogate it. It may satisfy formal requirements of independence yet lack the mindset to challenge. Resulting structure appears robust on paper, but underperforms in practice.
+
+Effectiveness in governance is not a function of composition but a function of contribution.
+
+Boards are often assembled with impressive credentials - distinguished careers, strong reputations, diverse backgrounds, top tier education. But governance does not operate on credentials; it requires intellectual friction and depends on engagement, judgment, and the ability to ask the right questions.
+
+A director with an impressive CV will add little value if they lack domain familiarity or confidence to interrogate complex risks. In specialised environments such as financial institutions, oversight requires more than general business acumen. Without sufficient understanding of systems and vulnerabilities, interrogation becomes superficial.
+
+Ineffectiveness is also about misalignment between expertise, availability and responsibility. When directors lack the capacity, are unwilling or simply too busy to engage deeply with the substance of the business, oversight becomes passive and governance ineffective.
+
+A board becomes ineffective not for lack of structure, but for lack of the will or ability to act.
+
+The cost of a failure event is first borne within the institution but it rarely remains confined there.
+
+At the organisational level, the impact is immediate and tangible. Financial losses erode capital, disrupt operations, and impede growth. More critically, reputational damage - often harder to quantify - can be far more enduring. Trust, once compromised, affects depositors, counterparties, investors, and employees alike. Leadership credibility is questioned, strategic momentum is lost, and the institution’s ability to compete is weakened.
+
+In corporate governance failures, financial loss is often the trigger but loss of trust is the multiplier.
+
+The cost does not stop at the institution. It is systemic and the consequences ripple outward across the entire economic and financial ecosystem.
+
+For both domestic and foreign investors, governance quality is inseparable from valuation. More importantly, investors price not just what they see—but what they fear may be unseen. Episodes of this nature reinforce a “governance discount,” where capital reflects not only macroeconomic and corporate fundamentals, but the credibility of oversight. When boards appear passive, markets assume risks are being discovered late rather than managed early.
+
+Institutions such as the Central Bank of Sri Lanka are being pushed beyond rule-based supervision toward assessing effectiveness and culture. However, regulation has limits. No framework can compensate for a board that does not ask the second question. Compliance can be enforced; engagement cannot. As governance becomes symbolic, the regulatory burden rises - but its ability to pre-empt failure does not.
+
+Such incidents expose the limits of traditional audit frameworks. Auditors are designed to verify, not suspect. Where anomalies are not escalated or interrogated at board level, even strong audit processes can miss emerging risks. If audit becomes a process of confirmation rather than challenge, it risks reinforcing the very silence it is meant to guard against.
+
+If symbolic governance is the problem, then the solution lies in embedding substance into boardroom practice. If we are to take Pandey’s signal seriously, Sri Lankan boardrooms must undergo a cultural shift.
+
+As Panday suggested, we need “domain-specific orientation.” A director on a bank board should have a detailed knowledge of banking and a working knowledge of related areas such as trade finance, forex, cyber-risk and digital transaction flows - not just a general understanding of business. You cannot interrogate what you do not understand.
+
+Companies must ensure that whistleblowing mechanisms are both protected and direct. Channels that allow escalation to board-level committees, independent of management are essential for early detection and institutional trust. If employees feel they must go to the press or the regulator before their own board, the board has already failed.
+
+Quarterly oversight cycles are increasingly inadequate in a real-time financial environment. Boards and risk committees should have access to dynamic dashboards that flag material deviations as they occur, enabling timely intervention rather than retrospective analysis.
+
+The formal recording of dissenting views within board deliberations and minutes can strengthen accountability. It shifts the focus from unanimous decisions to rigorously examined ones, ensuring that alternative perspectives are neither lost nor discouraged.
+
+Regulators must continue the transition toward risk-based and culture-focused supervision - where the emphasis is not only on adherence to rules, but on the effectiveness of governance practices in identifying and mitigating emerging risks.
+
+The NDB event is a wake-up call for the Sri Lankan corporate sector, exposing systemic weaknesses and proving that governance is not a matter of documentation or a symbolic performance. It is a matter of conduct - found in the daily, often invisible work of questioning, verifying and safeguarding stakeholder interests.
+
+We have reached the limits of symbolic Governance. The market now demands directors who are independent in thought, rigorous in interrogation, and unwavering in accountability.
+
+Active boardroom engagement is the next frontier of governance which will shift the director from observer to guardian.
+
+(The author is the Chairman of Navara Capital Ltd. He is a Chartered Banker and holds a PhD in Strategic Management and Master’s degrees in Commercial Law and in Business Administration with three decades Board experience across multiple Industries)

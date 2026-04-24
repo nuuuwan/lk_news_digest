@@ -1,0 +1,67 @@
+Sri Lanka’s banking sector: When narrative strength outpaces operational truth
+
+Sri Lanka’s banking sector has experienced a series of operational episodes — some publicly disclosed, others resolved internally — involving fraud exposure, internal control weaknesses, supervisory overrides, and system vulnerabilities. These incidents differ by institution and circumstance, but they share a common characteristic: they originate not from balance sheet weakness, but from failures in operational governance. This is not a coincidence. It is a signal
+
+The recent escalation of fraud exposure at National Development Bank PLC — from Rs. 380 million to Rs. 13.2 billion within days — has rightly drawn regulatory and public attention. Beyond the immediate financial implications, however, the episode raises a more fundamental question about the structure of Sri Lanka’s banking sector itself.
+
+The issue is not whether banks meet capital adequacy requirements or comply with regulatory ratios. The issue is whether the internal systems that prevent, detect, and escalate operational failures have kept pace with the sector’s growing complexity — or whether they are being increasingly masked by stronger communication and reputation management capabilities.
+
+This distinction matters because banking systems do not collapse suddenly. They erode quietly.
+
+By most conventional measures, Sri Lanka’s banking sector appears resilient. Capital buffers exceed minimum thresholds, liquidity positions are stable, and headline profitability has recovered from recent macroeconomic stress. On paper, this is reassuring.
+
+Yet paper strength can coexist with internal fragility. In complex organisations, particularly financial institutions, risk does not accumulate evenly. It concentrates in processes, people, and control blind spots long before it appears in financial statements.
+
+In recent years, Sri Lanka’s banking sector has experienced a series of operational episodes — some publicly disclosed, others resolved internally — involving fraud exposure, internal control weaknesses, supervisory overrides, and system vulnerabilities. These incidents differ by institution and circumstance, but they share a common characteristic: they originate not from balance sheet weakness, but from failures in operational governance.
+
+Modern banks are no longer primarily credit risk machines. They are high volume transaction processors, digital platforms, and custodians of data, systems, and trust. As this operational footprint expands, so does the surface area for failure.
+
+Today’s operational risk is not an abstract concept. It is embedded in:
+
+When these elements weaken — even marginally — institutions may function normally for extended periods. But when pressure is applied, weaknesses surface rapidly and expensively.
+
+One of the less discussed changes within the banking sector over the past 10 to 15 years has been the expansion of communication architecture. Across major institutions, there has been visible growth in corporate communications, marketing, brand management, digital engagement, and public relations capacity.
+
+This shift is neither unusual nor inherently problematic. Banking is built on confidence, and effective communication is essential during periods of uncertainty.
+
+However, it introduces an important structural consideration: has the growth in external narrative capability been matched by equivalent investment in internal control resilience?
+
+A review of publicly available annual reports over recent years suggests consistent increases in expenditure on branding, communication, and external engagement. By contrast, disclosures around investments in operational risk systems, fraud detection sophistication, internal audit independence, and staff capability building tend to receive less prominence and granularity.
+
+The relevant governance question is therefore not whether marketing spend has grown, but whether investments in control systems have grown at a proportional pace — and, critically, whether those investments are delivering real impact. In complex financial institutions, an imbalance between perception management and operational resilience can remain invisible for long periods, only to surface under stress.
+
+A common feature of financial sector incidents is their communication lifecycle. Initial disclosure is followed by structured reassurance, limited public follow up, and gradual disappearance from mainstream attention. This pattern is influenced by many factors: fast news cycles, legal constraints, editorial priorities, and institutional communication effectiveness.
+
+This is deeply concerning. While public visibility fades quickly, the underlying lessons, remedial actions, and accountability outcomes often remain opaque. Over time, this opacity risks eroding public confidence rather than reinforcing it.
+
+In the short term, narrative strength helps stabilise confidence. In the longer term, however, repeated opacity creates distrust. When stakeholders repeatedly see incidents appear, fade, and disappear without clear closure, confidence does not strengthen — it hollows out.
+
+This is especially relevant in banking, where trust is cumulative. Depositors, counterparties, and regulators do not require perfection. They require evidence that institutions learn, correct, and strengthen after failure.
+
+If that learning process remains invisible, the assumption becomes that little has changed.
+
+Sri Lanka’s regulators have made important progress in strengthening capital frameworks, governance codes, and reporting standards. These reforms have contributed meaningfully to the system wide stability.
+
+But operational risk does not announce itself through ratios. It appears through behaviour: overriding culture, ineffective escalation, delayed response to red flags, and tolerance of “known issues” that are never fully resolved.
+
+By the time an operational failure is visible externally, internal safeguards have already failed. Supervision in this environment must therefore focus less on post event investigation and more on whether internal systems are designed — and empowered — to surface uncomfortable truths early.
+
+Leadership stability can be an asset. It brings continuity, institutional memory, and strategic coherence. But in complex organisations, long tenures also carry hidden risks.
+
+Over time, power concentrates. Challenge weakens. Informal hierarchies solidify. Staff learn which issues advance careers and which ones stall them. In such environments, risks do not disappear — they become quieter.
+
+Without strong succession planning and genuine internal challenge, institutions can drift into a state where controls exist on paper, but not in practice.
+
+Sri Lanka’s banking sector is not collapsing. There is no indication of systemic failure. But it is clearly at an inflection point.
+
+These conditions demand stronger internal controls, more visible learning from failure, and governance frameworks that prioritise substance over reassurance.
+
+Banks must manage perception. They must communicate clearly and responsibly. But communication is not a substitute for control.
+
+The question the sector must now confront is simple, even if uncomfortable:
+
+Has the investment in managing how banks are seen grown faster than the investment in ensuring how banks actually function under stress?
+
+If so, the solution is not defensiveness. It is transparency, recalibration, and a willingness to confront governance weaknesses before they turn into balance sheet problems.
+
+(The author is a senior policy practitioner and financial sector professional with extensive experience in leadership development, labour market reform and gender responsive economic policy)

@@ -1,0 +1,41 @@
+Why systems thinking is the next step for clinical governance in Sri Lanka
+
+A child presents to a busy private clinic with persistent headaches. The consultation is brief. There is no structured documentation template, no escalation pathway and no system to ensure follow-up. Weeks later, the family seeks help elsewhere with worsening symptoms.
+
+Everyone involved is competent. Everyone is well-intentioned. Yet the system has failed the patient.
+
+In Sri Lanka, we often attribute such gaps to resource limitations. But many of our quality challenges are not purely about resources. They are about systems.
+
+In my previous Daily FT article, I argued that clinical governance is the missing piece in Sri Lanka’s private healthcare landscape. (See https://www.ft.lk/columns/Why-clinical-governance-is-missing-piece-in-Sri-Lanka-s-private-healthcare/4-783869). The response revealed something important: clinicians are not resistant to governance. They are uncertain about how to make it practical.
+
+Clinical governance should not sit in policy documents. It should live in workflows, accountability structures and everyday clinical decisions.
+
+Structured governance frameworks around the world demonstrate a simple principle: safety improves when responsibility is clear and feedback loops are embedded. Australia’s National Safety and Quality Health Service (NSQHS) Standards, for example, emphasise leadership accountability, incident management, documentation standards, continuous improvement and patient partnership. Their strength lies not in bureaucracy, but in clarity.
+
+Sri Lanka does not need to replicate another country’s framework. But we can benefit from adopting the underlying idea that systems, not individual vigilance alone, create reliability.
+
+In many private settings, excellent clinicians operate within loosely defined governance environments. Policies may exist, but monitoring processes, role clarity and review mechanisms are inconsistent. Improvement becomes personality-driven rather than system-driven.
+
+Even small clinics can implement foundational structures: a defined incident review process, clear escalation pathways, periodic documentation audits and regular quality discussions. These do not require extensive infrastructure. They require structure and commitment.
+
+Continuing Professional Development becomes far more meaningful when aligned with governance. When clinicians understand audit cycles, incident analysis, structured communication and risk management principles, they strengthen not only their own competence but the reliability of the system around them. Education, when connected to accountability, becomes a lever for safer care.
+
+Healthcare is often managed in silos. Incident reporting sits separately from risk management. Audits occur independently of patient feedback. Digital tools are introduced without integration into clinical workflows.
+
+Risks influence incidents. Incidents expose training gaps. Training shapes documentation. Documentation informs audits. Audits guide improvement. Patient feedback highlights blind spots. When one component is weak, the effects ripple across the system.
+
+Stronger governance depends on feedback loops; where data is reviewed, patterns are identified and improvement is deliberate rather than reactive. Technology can support this process, but structure must come first.
+
+Sri Lanka’s opportunity is not technological imitation, but structural integration. Even in resource-constrained environments, a basic governance ecosystem is achievable: clear accountability, standardised documentation, routine review of incidents and mechanisms to respond to patient concerns.
+
+The question many clinicians ask is simple: what does governance look like in my clinic tomorrow?
+
+It looks like defined roles and clear documentation standards. It looks like reviewing incidents collectively rather than privately absorbing them. It looks like asking not only “Who made the mistake?” but “What in the system allowed it?”
+
+Governance should not feel like an administrative burden. It should provide professional reassurance. When systems are clear, clinicians spend less time reacting and more time delivering safe, consistent care.
+
+Sri Lanka’s healthcare system has long been respected for its public health achievements. As private healthcare expands and patient expectations evolve, governance maturity must evolve alongside it.
+
+If we move from individual excellence to system reliability, and from reactive responses to proactive governance, Sri Lanka can strengthen not only patient safety- but trust in its healthcare system.
+
+(The author is a clinical governance educator and orthoptist trained at UTS, Australia. She is NSQHS-certified and has completed AI in Healthcare specialisation through Stanford Online. She is the Founder of Nivarya Consultancy, a boutique firm currently conducting pilot clinical governance reviews in Sri Lanka. With experience across Sri Lanka and Australia, she works with healthcare practices to strengthen systems for safety, compliance and continuous improvement. She can be reached at [email protected])

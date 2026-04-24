@@ -1,0 +1,103 @@
+Are banks making profits at the cost of the economy?
+
+Sri Lanka’s banking sector posted Rs. 539.2 billion in pre-tax profits in FY2025 — 1.65% of GDP — even as households pawned gold to survive. This investigation examines who bears the cost
+
+Douglas J. Elliott, in his 2009 Brookings essay Banks and the Recession, reminded us that the purpose of banking is not simply to generate profits, but to provide capital and create employment. Banks are meant to be intermediaries — mobilising savings, channeling them into productive investment, and supporting resilience and growth.
+
+Yet Sri Lanka’s banking scorecard in 2025 tells a different story.
+
+Yet in Sri Lanka today, banks earned Rs. 539.2 billion in profits — 1.65% of GDP — with nearly a third from fees. In an economy still limping from crisis, this raises a stark question: are bank profits coming at a cost to the economy?
+
+The numbers are not in dispute. What is in dispute is what they mean — and who pays for them.
+
+Across Sri Lanka’s licensed commercial banking sector, pre-tax profits for FY2025 reveal a sector that has, with remarkable speed, rebuilt its fortunes — not on the back of a recovering economy, but largely at its expense.
+
+The top ten banks recorded combined pre-tax profits of over Rs. 539 billion, with the two state-owned giants — Bank of Ceylon and People’s Bank — accounting for Rs. 164.3 billion between them. Meanwhile, the private sector leaders, Commercial Bank and HNB, posted returns on equity of 19.5% and 18.1% respectively. In an economy where GDP growth remains fragile and household debt distress is still acute, these are not modest numbers.
+
+What makes the data more pointed is the fee income column. Across the sector, fee and commission income contributed roughly Rs. 159 billion — nearly 30% of aggregate profits. This is income largely disconnected from the core function of financial intermediation. It does not reflect credit extended to a manufacturer, a farmer, or an exporter. It reflects charges — on transactions, on accounts, on services that a captive customer base has little choice but to absorb.
+
+The ROA figures deserve particular attention. A global benchmark for a healthy, competitive banking system sits around 1.0–1.5%. Sri Lankan banks are running at nearly double that — in a post-crisis economy. Either Sri Lankan banks are extraordinarily efficient, or the pricing power they enjoy over borrowers and depositors is doing the heavy lifting. The evidence, as this article will show, points firmly to the latter.
+
+Sri Lanka’s banks have, over the past decade, spent heavily on digital transformation. Mobile banking platforms, real-time payment rails, automated loan processing — the infrastructure of a modern financial system has been built. The promise, implicit in every annual report and every CEO address, was that technology would make banking cheaper, faster, and more accessible. For the banks, it has. For the customer, the evidence points stubbornly in the opposite direction.
+
+In FY2025, Sri Lanka’s banking sector collected approximately Rs. 159 billion in fee and commission income — representing 29.5% of total pre-tax profits. That is not a rounding error. Nearly one rupee in every three of banking profit was extracted not through the intermediation of credit, not through financing a factory or funding an export order, but through transaction charges, account maintenance fees, service levies, and penalty income imposed on a customer base that has nowhere else to go.
+
+The global context makes this figure indefensible. In mature banking markets and comparable emerging economies across Asia, fee income as a proportion of total banking profits runs between 15% and 22%. Sri Lanka’s 29.5% sits at the high end of any regional peer comparison — and in an economy only recently emerged from sovereign default, it demands explanation.
+
+The contrast with India is particularly instructive. India’s Unified Payments Interface — UPI — processed over 17 billion transactions a month in 2024, effectively at zero cost to the end user. Transaction fees on basic digital payments have been driven to near zero through regulatory design and competitive pressure. In Sri Lanka, banks continue to charge for transfers, for statements, for dormant accounts, and for the basic act of accessing one’s own money. Digitisation has automated the billing, not eliminated it.
+
+This matters most to the segment least able to absorb it: the small and medium enterprise. For an SME running on thin margins — a textile workshop in Ja-Ela, a hardware supplier in Kurunegala — banking fees are not an abstraction. They are a recurring tax on every transaction, every payroll run, every supplier payment. The SME has no pricing power over its bank. It cannot threaten to leave. It cannot self-finance. It pays what it is charged.
+
+The banks’ defence — that fee income reflects the cost of services rendered — does not survive scrutiny. The marginal cost of a digital transaction has collapsed. Processing a mobile transfer today costs a fraction of what it cost a decade ago. If banks were passing those efficiency gains to customers, fee income as a share of profits would be falling, not holding firm at 29.5%. It is not falling. Which means the efficiency dividend has been captured by shareholders, not returned to the economy.
+
+The double extraction — Spreads that punish, fees that compound
+
+In banking, the Net Interest Margin — the gap between what a bank charges borrowers and what it pays depositors — is the most fundamental measure of how much a financial system costs the economy it serves. A high NIM means borrowers pay more, depositors receive less, and the difference flows to bank shareholders. It is, in essence, a structural tax on productive activity.
+
+Sri Lanka’s banks operate with NIMs of 4.0% to 6.0% — among the highest in Asia by a considerable distance. This is not a minor outlier. It is a chasm.
+
+Read that table carefully. Singapore’s banks — operating in one of Asia’s most sophisticated financial centers, intermediating billions in trade and wealth management — run on NIMs of 1.5% to 2.0%. China’s state-owned banking giants, serving 1.4 billion people across the world’s second largest economy, operate on NIMs of around 2.0%. Bangladesh, at a comparable stage of development and facing its own macroeconomic pressures, manages 2.9%.
+
+Sri Lanka’s banks are charging between twice and three times the spread of Singapore and Hong Kong — not because Sri Lankan borrowers are riskier in any proportionate sense, but because the market structure allows it. There are no serious new entrants. There is no meaningful digital-only competitor compressing margins from below. There is no regulatory cap on lending spreads. The oligopoly holds, and the SME borrower — who cannot access capital markets, cannot issue bonds, cannot self-finance — simply pays whatever the lending window demands.
+
+What makes Sri Lanka’s position uniquely troubling is the combination. Most high-NIM banking systems in the region — Indonesia, Pakistan — at least operate with relatively modest fee income, implying the spread reflects genuine credit risk and cost of funding. Sri Lanka’s banks extract on both dimensions simultaneously. The NIM punishes the borrower. The fee income punishes the transactor. And the same customer — the SME, the small importer, the micro-exporter — is often both.
+
+There is no cleaner indictment of Sri Lanka’s banking model than the pawning portfolio. Across the sector, gold-backed lending has grown to an estimated Rs. 1.3 trillion — a number that should stop every policymaker and regulator in their tracks. Not because it represents systemic risk. Quite the opposite. It represents systemic exploitation.
+
+Consider what a pawning loan actually is. A household — typically rural, typically without access to formal credit, typically facing a medical bill, a school fee, a harvest that failed — brings in a gold chain, a wedding ring, jewellery accumulated over generations, and surrenders it as collateral for short-term cash. The collateral is physical, immediately realisable, and priced daily on global markets. The bank bears almost no credit risk. It faces no liquidity pressure. It requires no complex underwriting. The loan is, in the language of finance, as close to risk-free as retail lending gets.
+
+And yet the interest rate charged is among the highest in any bank’s product portfolio. NIMs on pawning facilities routinely run 400 to 600 basis points above what the same banks charge well-collateralised corporate borrowers. The security is better. The risk is lower. The borrower is poorer. And the rate is higher. That is not banking. That is a toll booth on poverty.
+
+The concentration of pawning in the state-owned banks — Bank of Ceylon and People’s Bank together hold upwards of Rs. 450–520 billion, representing 12–14% of their respective loan books — raises a question that goes beyond commercial banking practice. These are public institutions, owned by Sri Lankan taxpayers, mandated implicitly to serve the national interest. When 12 to 14 cents of every rupee they lend is backed by a desperate household’s gold jewellery, the question of whose interest they are actually serving becomes uncomfortably pointed.
+
+What the Rs. 1.3 trillion figure truly measures is the depth of household financial stress in post-crisis Sri Lanka. Gold pawning does not rise to this level in a healthy economy. It rises when formal credit is inaccessible, when microfinance has failed or exploited, when the only asset a family holds that a bank will accept is the gold it wore to a wedding. The crisis of 2022 stripped Sri Lankan households of savings, jobs, and income. The banks that emerged from that crisis with record profits did so, in part, by standing at the end of the queue when those same households came in clutching their jewellery.
+
+If Sri Lanka’s state banks are to justify their public ownership —  their implicit sovereign guarantees, their privileged access to government deposits — they must be asked to account for whether a Rs. 450 billion pawning book charging the highest rates in the portfolio is consistent with any definition of public purpose.
+
+The efficiency illusion — Profitable is not the same as productive
+
+When confronted with criticism, Sri Lanka’s bankers reach predictably for two metrics: Return on Assets and profit per employee. Both, they argue, demonstrate operational discipline. Both, examined in context, demonstrate something rather different.
+
+On ROA, the sector’s numbers are striking. HNB leads at 3.06%, Commercial Bank follows at 2.96%, NTB at 2.91%. Even the state banks — BOC and People’s Bank — clock in at 2.0%. The sector average sits comfortably above 2%, nearly double the 1.0–1.5% that global benchmarks identify as the threshold for a well-run commercial bank.
+
+A global ROA benchmark of 1.0–1.5% is not a floor for mediocrity — it is the ceiling achieved by well-run banks in competitive markets: Singapore’s DBS, Malaysia’s Maybank, India’s HDFC Bank. Sri Lanka’s top banks are generating returns on assets at twice that level. In a competitive, efficiently priced banking market, that would be impossible to sustain. Excess returns attract new entrants. New entrants compress margins. Margins normalise. That is how markets are supposed to work. That process has not occurred in Sri Lanka.
+
+The profit-per-employee data tells a similar story — but with an added dimension that the banks would prefer not to discuss.
+
+Commercial Bank generates Rs. 16 million in profit per employee. HNB, Rs. 14.6 million. These are not numbers that reflect a lean, technology-driven operation passing efficiency gains to customers. They are numbers that reflect a pricing environment in which each employee sits within a structure that extracts substantial margin from every transaction, every loan, every account they touch.
+
+The People’s Bank figure — Rs. 4.2 million per employee and just Rs. 57 million per branch — is revealing in the opposite direction. With 745 outlets and  approximately 9,000 staff serving 15.2 million active customers, People’s Bank carries the heaviest social infrastructure burden of any institution in the sector. That gap does not mean People’s Bank is badly run. It means it is doing something qualitatively different — maintaining rural branches that no private bank would touch, serving customers no private bank wants. Yet even People’s Bank, with its mandate and its network, charges those same rural customers the highest rates in its portfolio when they walk in with their gold.
+
+Efficiency, in banking, should mean the productive deployment of capital toward economic activity at the lowest possible cost to the borrower. By that definition — the only definition that matters for an economy still in recovery — Sri Lanka’s banks are not efficient at all. They are profitable. The two are not synonymous, and conflating them has allowed a decade of policy inaction to pass without serious challenge.
+
+The question is not rhetorical. It has a precise, multi-part answer — and each part implicates a different failure of market structure, regulatory design, or public policy.
+
+First: interest rate arbitrage. When the Central Bank raised rates aggressively to contain the inflation spiral of 2022–23, deposit rates rose — but not proportionately with lending rates. Banks absorbed cheap deposits from a public with nowhere else to put its savings, and deployed them at lending rates still elevated by sovereign risk premiums and inflation expectations. The spread — the NIM — widened. NTB posted a NIM of 6.05% in FY2025. HNB, 4.26%. These are not margins earned through sophisticated credit assessment or innovative product design. They are margins earned by sitting between a captive depositor and a borrower with no alternatives, and charging the maximum the traffic will bear.
+
+Second: credit allocation by design. Sri Lanka’s banks did not lend indiscriminately through the recovery. They lent carefully — to corporates with hard collateral, to pawning customers with gold in hand, to government via securities. What they did not do, in any scale proportionate to the economy’s need, was extend affordable working capital credit to the SME sector. The SME — the garment subcontractor, the IT services startup, the small-scale food processor trying to rebuild after the crisis — found bank credit either unavailable at reasonable rates or hedged behind collateral requirements that a recovering business simply could not meet. Banks protected profitability by concentrating exposure in low-risk, high-yield segments. The cost of that concentration was borne by the segment most critical to economic recovery and employment generation.
+
+The picture that emerges, taken in aggregate, is of a banking sector that has mastered the art of being in the right position when money moves — between the state and its creditors, between desperate households and formal credit, between corporate Sri Lanka and international trade finance — while consistently pricing that position at the maximum extractable rate. That is not intermediation in service of the economy. It is intermediation instead of the economy.
+
+The regulator’s retreat — When the watchdog became a spectator
+
+There was a time when the Central Bank of Sri Lanka understood its role differently. In the early 1990s, the CBSL published explicit floor and ceiling rates on lending — and crucially, differentiated them by sector. Agriculture received one rate. Export industries another. Housing, another. The logic was unambiguous: credit is not a neutral commodity. Directed at the right sectors at the right price, it is the most powerful instrument of economic development available to a small open economy. The Central Bank’s job was not merely to keep the banking system solvent. It was to ensure that the banking system served the national interest.
+
+That framework has been entirely dismantled. What replaced it is a model of inflation targeting and prudential oversight that treats the price of credit as a market outcome to be observed, not shaped. The CBSL today publishes the policy rate. It monitors capital adequacy. It issues macroprudential guidance. What it does not do is ask — with any regulatory force behind the question — whether the credit flowing through Sri Lanka’s banking system is going where the economy most needs it.
+
+The results of that abdication are visible in every table in this article. NIMs of 4–6% that no competitive pressure has corrected. Fee income at 30% of profits that no consumer protection framework has challenged. A Rs. 1.3 trillion pawning portfolio charging the highest rates in the book, secured against gold, extended to the poorest customers — and not a single regulatory instrument deployed to address the pricing asymmetry.
+
+Other central banks in the region have not been so passive. Bangladesh Bank has at various points imposed lending rate caps on specific sectors to protect SME borrowers. The Reserve Bank of India maintains priority sector lending requirements — mandating that a defined share of bank credit flows to agriculture, small enterprise, and housing. Bank Negara Malaysia actively monitors credit allocation by sector and publishes data that makes banks publicly accountable for where their lending goes. These are not radical interventions. They are the basic toolkit of a developmental central bank in an emerging economy.
+
+Sri Lanka’s IMF program has, understandably, focused the CBSL’s attention on monetary stabilisation, exchange rate management, and fiscal consolidation. These were urgent and necessary priorities. But stabilisation is not transformation. An economy that has stabilised its fiscal position while leaving its banking sector free to extract maximum rent from its most vulnerable borrowers has not recovered. It has merely stopped bleeding while the deeper wound remains unaddressed.
+
+The CBSL has the instruments. Section 76 of the Monetary Law Act gives the Central Bank broad powers to regulate interest rates and direct credit. What has been missing is not legal authority but regulatory will — the willingness to tell a highly profitable banking sector that profitability achieved at the expense of SME access to affordable credit, at the expense of households pawning gold at punitive rates, and at the expense of an economy that needs investment not extraction, is not a sign of a healthy financial system. It is a sign of a failed one.
+
+The purpose of a bank, in any economy, is to take the savings of those who have them and deploy them in service of those who need them — at a price that reflects real risk, real cost, and a fair return, not the maximum that a captive market will absorb before it breaks.
+
+Sri Lanka’s banks have posted Rs. 539.2 billion in pre-tax profits. Their NIMs are double those of Singapore. Their fee income share is 50% above the regional average. Their pawning portfolios have swelled to Rs. 1.3 trillion — a number that is not a measure of banking success but of household desperation. Their credit has flowed preferentially to corporates and government securities, while SMEs — the employers, the exporters, the rebuilders — have been rationed, priced out, or turned away.
+
+The banks will say they are well-run, well-capitalised, and essential to stability. They are not wrong on the first two counts. But a bank that is stable for its shareholders while remaining expensive, inaccessible, and extractive for the economy it is licensed to serve has confused its own interests with the public interest. That confusion, left uncorrected by a regulator that once knew better, is costing Sri Lanka the recovery it cannot afford to delay.
+
+Data sources: Bank annual reports FY2025, CBSL Financial System Stability Review, IMF Sri Lanka Article IV Consultation 2025, author calculations.
+
+(The author holding MBA Sri J; FIB, is a former senior banker, educationist, transformation strategist, and certified coach with extensive experience in both public and private  sector leadership. He has served on the boards of state and private institutions and was formerly Chief Operating Officer of a Public-Private Partnership unit, bringing a unique perspective on governance, institutional reform, and economic development in Sri Lanka)

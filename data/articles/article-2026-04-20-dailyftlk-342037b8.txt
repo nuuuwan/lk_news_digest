@@ -1,0 +1,91 @@
+End of corporate shadows: Mandatory Beneficial Ownership disclosure begins
+
+The new Beneficial Ownership regulations apply to every company incorporated or registered under the Companies Act, No. 07 of 2007, as well as those registered under any former written law relating to companies. This comprehensive coverage explicitly includes registered overseas companies and offshore companies incorporated outside Sri Lanka (Port City OffShore Companies as well as Offshore Companies registered in relation to companies incorporated in Sri Lanka, slip through the net due to an oversight in drafting)
+
+Sri Lanka is witnessing a landmark change in its corporate governance as the new beneficial ownership rules take effect. For decades, the true individuals pulling the strings of complex corporate structures could remain hidden behind layers of holding companies and nominee shareholders. That era of anonymity officially ends on 30 March  2026, as the Companies (Amendment) Act, No. 12 of 2025 and the Companies (Beneficial Ownership) Regulations, No. 01 of 2026 come into full operation.
+
+This legislative overhaul isn't just an administrative change; it is a powerful move toward global transparency standards, designed to combat money laundering, tax evasion, and the financing of illicit activities. For business owners, directors, and the general public, understanding these new rules is no longer optional, it is a matter of legal survival.
+
+The heart of the new regulation lies in the definition of a Beneficial Owner (BO). Under the new law, a BO is not necessarily the person whose name is printed on a share certificate. Instead, it is the natural person who ultimately owns or controls 10% or more of a company.
+
+This control can be direct or indirect. It covers voting rights and ownership interests, but it goes further to include anyone who exercises “effective control". This means if one has the ability to make strategic decisions, appoint or remove directors, or influence the general direction of the company through a chain of ownership, he/she is a Beneficial Owner and the details must be registered.
+
+The new Beneficial Ownership (BO) regulations apply to every company incorporated or registered under the Companies Act, No. 07 of 2007, as well as those registered under any former written law relating to companies. This comprehensive coverage explicitly includes registered overseas companies and offshore companies incorporated outside Sri Lanka (Port City OffShore Companies as well as Offshore Companies registered in relation to companies incorporated in Sri Lanka, slip through the net due to an oversight in drafting).
+
+The individuals covered under these rules are natural persons who ultimately own or control 10% or more of a company's shares or voting rights, or who exercise “effective control" through strategic decision-making, such as the power to appoint or remove directors.
+
+Conversely, legal entities and body corporates are not covered as beneficial owners themselves; the regulations require looking through such structures to identify the human beings at the end of the chain. Furthermore, natural persons are not covered by these disclosure requirements if they own less than 10% of the company and do not exercise effective control over its operations, business practices, or general direction.
+
+In a significant move to ensure traceability, the 2025 Amendment strictly prohibits the issuance of share warrants to bearer or bearer shares. These were instruments where ownership was determined simply by physical possession of a certificate, making them virtually untraceable.
+
+If a company currently has bearer shares, the clock is ticking. Within 60 days of the Act’s operation (by late May 2026), holders must notify the company of their details. Failure to do so will result in all associated rights being nullified. These instruments must be converted into registered shares to ensure every cent of capital has a clear, identifiable human owner.
+
+The Registrar of Companies (ROC) is no longer waiting for the Annual Return to learn about the owners. The new regulations impose strict, real-time reporting requirements:
+
+At the time of incorporation, every new company must file Form BO 1 to disclose its beneficial owners
+
+If shares are issued or transferred, the company has only 20 working days to notify the Registrar using Forms BO 2 or BO 3
+
+Every year, alongside the standard Annual Return, companies must submit Form BO 4 to confirm their BO status
+
+Any change to a BO’s personal details, be it a change of address, nationality, or passport number, must be reported within 14 working days via the eROC system.
+
+Every company is now required to appoint a natural person residing in Sri Lanka as its “Authorised Person". This individual carries a heavy weight; he or she is legally responsible for the safekeeping of the BO register and must make these details available to authorities like the Financial Intelligence Unit (FIU), the Attorney-General, or Tax officials upon request.
+
+Existing companies have a three-month window from March 30, 2026, to appoint this person and notify the ROC via Form BO 5.
+
+Transparency is only effective if it is accessible. The Registrar is now mandated to make BO details promptly accessible to the public, either physically or through the eROC portal.
+
+However, to balance privacy with transparency, the public "view" is limited to the owner’s full name, nationality, business address, and the extent of their ownership. Those requiring more sensitive data, such as residential addresses or NIC numbers, must navigate the formal channels of the Right to Information (RTI) Act.
+
+The Government has signaled that these are not "suggestions" but mandatory commands. The penalties for "knowingly" providing false information, withholding details, or failing to maintain a BO register are among the toughest in corporate law:
+
+Conviction can lead to a fine of up to one million rupees, imprisonment for up to 10 years, or both
+
+If a company breaks these rules, every director and officer is deemed to have committed the offence unless they can prove the crime happened without their knowledge or that they exercised all due diligence to prevent it.
+
+Even administrative delays are costly. Failing to follow a Registrar's directive to update the register within 7 days can trigger immediate legal action.
+
+The Director as primary duty-bearer: Personal liability under the BO framework
+
+The BO framework does not permit directors to adopt a posture of passive ignorance about their company’s ownership structure. Read together with the general directors’ duties under sections 187, 188, and 189 of the Companies Act No. 07 of 2007, a director is required to act in good faith and in the interests of the company, to comply with all statutory requirements, and to exercise the degree of skill and care reasonably expected of a person of their knowledge and experience. These obligations are not displaced by the BO Regulations ,  they are amplified by them.
+
+But there is something more concrete than general duties at work here. Every Form from BO 1 through BO 7 requires a “Presented by” declaration signed personally by a director or secretary, confirming that they have ensured the accuracy of the information and verified the identity and status of the beneficial owner using reliable, independent, sourced documents. This is not a secretarial formality. It is a signed, legally consequential attestation. A director who signs such a declaration without having actually conducted the underlying verification is exposed to liability for furnishing false information, which carries the full penalties available under the Amendment Act.
+
+The heart of the new regulation lies in the definition of a Beneficial Owner (BO). Under the new law, a BO is not necessarily the person whose name is printed on a share certificate. Instead, it is the natural person who ultimately owns or controls 10% or more of a company. This control can be direct or indirect
+
+The “Deemed Liability” trap: When the company’s offence becomes the liability of Director/Officer
+
+One of the most consequential features of the Amendment Act’s enforcement architecture is the deemed liability provision. Where a company commits an offence under the BO regime, whether by failing to file the required Forms, maintaining a false or incomplete register, or failing to notify the Registrar of changes within the prescribed windows , every director and officer is deemed to have personally committed that offence.
+
+The burden then shifts entirely to the individual director to prove either that the offence occurred without their knowledge or consent, or that they exercised all due diligence to prevent it. This reversal of the usual burden of proof is deliberate and significant. It places the compliance imperative squarely on the board, not on external advisors or secretarial staff. A director who cannot demonstrate active steps taken to ensure compliance, such as documented board resolutions initiating the BO identification process, written instructions to the company secretary, and verification of filings, is personally exposed to conviction and the penalties available under the Amendment Act.
+
+Under sections 130C–130I of the Companies Act, directors are not passive custodians of beneficial ownership records. Each BO form requires a director or secretary to personally attest to the accuracy of disclosures, backed by independent verification. To shield themselves from deemed liability, directors should adopt a formal compliance protocol: board resolutions initiating BO identification, documented verification of ownership chains, appointment of the authorised person within the statutory window, and oversight of all filings within the 20-day and 14-day deadlines. Reliance on advisors is permissible only under section 190 if exercised in good faith with proper inquiry. Delegation is not absolution—directors remain the ultimate duty-bearers.
+
+Due diligence as the only shield: What Directors must document
+
+Given the deemed liability framework, what constitutes adequate due diligence is of immediate practical importance to every director. The Regulations give clear signposts.
+
+At incorporation, a director or secretary must personally present Form BO 1 and sign the verification declaration. On every share issue, Form BO 2 must be filed within 20 working days, again with a director or secretary’s signed attestation. On every share transfer, Form BO 3 carries the same requirement, with both the transferor and transferee’s signatures also required. With every annual return, Form BO 4 must be filed with the same director or secretary declaration. Any change in BO personal details must be notified within 14 working days through the eROC system under Regulation 7.
+
+At a minimum, directors should be able to demonstrate: (a) a formal board-level decision to identify and register all beneficial owners before the relevant deadline; (b) an audit of the share register and group ownership structure against the 10% threshold; (c) formal appointment of the Authorised Person and notification to the Registrar via Form BO 5 within the three-month window; and (d) a clear internal protocol assigning ongoing filing obligations, including the 20-working-day windows, to a named officer with board-level oversight.
+
+Directors who rely on professional advisors remain responsible for monitoring compliance: reliance on expert advice under section 190 of the Companies Act requires good faith, proper inquiry, and no knowledge that such reliance is unwarranted. Delegation is not absolution.
+
+Enlightened readers will  recognise that these regulations are more than just "red tape." By requiring the disclosure of ultimate human controllers, Sri Lanka is making it significantly harder for "shell companies" to be used for predatory business practices or the siphoning of national wealth
+
+If the company was incorporated before March 2026,  it is not exempt. All existing entities have 6 months from the operational date to forward their BO details to the Registrar using Form BO 7.
+
+For listed companies, the responsibility is even more immediate. Depositories of licensed stock exchanges must verify and report details of any shareholder holding 10% or more within just 30 days of the new law taking effect.
+
+Enlightened readers will recognise that these regulations are more than just "red tape." By requiring the disclosure of ultimate human controllers, Sri Lanka is making it significantly harder for "shell companies" to be used for predatory business practices or the siphoning of national wealth.
+
+Furthermore, the law now dictates that “a claim to beneficial ownership will not be recognised for any lawful purpose” unless it is registered. If one is not on the register, the law may not recognise him/her as the owner when it matters most, such as during a legal dispute or a payout.
+
+The law now dictates that “a claim to beneficial ownership will not be recognised for any lawful purpose” unless it is registered. If one is not on the register, the law may not recognise him / her as the owner when it matters most, such as during a legal dispute or a payout
+
+The Companies (Beneficial Ownership) Regulations of 2026 represent a landmark moment in Sri Lankan governance. For the honest entrepreneur, it provides a fairer playing field and greater legal certainty. For the corporate strategist, it necessitates a swift audit of ownership structures.
+
+The message from the ROC is clear: “Transparency is no longer a choice; it is the new standard of doing business in Sri Lanka.” Companies are encouraged to begin their internal audits immediately, appoint their resident authorised persons, and prepare to step into the light. The shadows are officially closing.
+
+(The author, an Attorney-at-Law (LLB), FCMA(UK), CGMA, FCMA, was awarded Tax Practice Leader of the Year 2024 (ASPAC) by International Tax Review (ITR) and was a top-four finalist for Tax Litigation and Disputes Practice Leader of the Year -  ASPAC)
