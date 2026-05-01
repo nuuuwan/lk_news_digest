@@ -1,0 +1,17 @@
+Slack announces new capabilities
+
+Slack has announced new capabilities that make it easier for organisations to build, deploy and manage AI agents directly within the platform, helping businesses bring AI into the everyday flow of work.
+
+As companies in Sri Lanka and across the world continue to explore AI adoption, one of the key challenges is ensuring that AI tools are practical, secure and connected to the way teams already work. Slack’s latest updates aim to address this by bringing apps, automations and AI agents into a single collaborative workspace, rather than leaving them isolated across multiple tools.
+
+The new capabilities allow teams to orchestrate work through Slackbot, build and deploy agents faster, manage agents through Salesforce’s AgentExchange and Slack’s agent browser, and create richer AI experiences using Block Kit.
+
+With the upcoming Slackbot MCP Client and AgentExchange, Slackbot will act as a conversational interface for the enterprise, connecting apps and agents across the organisation. This means employees can make a request in Slack and have the right specialised agent respond, complete multi-step workflows and bring the output back into the same conversation.
+
+Slack is also making agent deployment simpler through updated developer tools and “Add to Slack” options from platforms such as Vercel and Lovable. This will allow both developers and non-developers to build agents externally and bring them into Slack with fewer technical barriers.
+
+AgentExchange will offer a unified marketplace for trusted agents from Salesforce, Slack, Agentforce and partners including Google, Anthropic and Box. Meanwhile, Slack’s consolidated agent browser will help users discover, manage and continue agent interactions within the platform.
+
+The company is also expanding Block Kit with components such as cards, alerts, carousels, data tables and charts, allowing AI responses to be more visual, structured and actionable.
+
+For businesses looking to move from AI experimentation to real workplace adoption, Slack said its enterprise-grade security, permission controls and audit logging will support safer deployment at scale.

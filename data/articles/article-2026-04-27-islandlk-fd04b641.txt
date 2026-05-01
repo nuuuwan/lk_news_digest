@@ -1,0 +1,31 @@
+ADB-backed grid upgrade tender signals next phase of Sri Lanka’s energy transition
+
+In a move that highlights Sri Lanka’s accelerating push toward a more resilient and renewable-powered electricity system, the National System Operator Private Limited (NSO) has called for international bids to modernise the country’s core grid management infrastructure.
+
+The tender—issued under the Power System Strengthening and Renewable Energy Integration Project (PSSREIP)—is backed by the Asian Development Bank (ADB), reflecting continued multilateral confidence in Sri Lanka’s energy reform trajectory despite recent economic headwinds.
+
+At the heart of the project is the integration of a Renewable Energy Management System (REMS) with a fully upgraded SCADA/EMS platform at the National System Control Centre. While technical in appearance, energy experts say the implications are far-reaching: this is the digital backbone required for managing a grid increasingly dominated by intermittent renewable sources.
+
+“This is not just another infrastructure upgrade—it’s a systems transformation,” a senior power sector analyst said. “Without this layer of intelligence, scaling up solar and wind becomes operationally risky.”
+
+Sri Lanka has in recent years expanded its renewable energy footprint, particularly in solar and wind. But the lack of advanced real-time forecasting and dispatch capabilities has often limited how much of that energy can be safely absorbed into the grid. The proposed REMS integration directly addresses that bottleneck.
+
+From a financial perspective, the project also highlights the continued role of concessional development financing in de-risking large-scale energy investments. The ADB’s involvement ensures not only funding support but also procurement discipline through its Open Competitive Bidding (OCB) framework—seen by analysts as a safeguard for transparency and technical quality.
+
+The tender sets a relatively high bar for bidders, requiring prior experience in similar large-scale contracts exceeding USD 6 million and a minimum average annual turnover of USD 16 million. This suggests the project is likely to attract major international engineering and energy technology firms, potentially opening the door for advanced grid solutions and knowledge transfer.
+
+Beyond its technical scope, the initiative comes at a critical time for Sri Lanka’s energy economy. Rising generation costs, fuel import pressures, and the need for tariff stability have intensified the urgency for efficiency gains within the system. A smarter grid—capable of optimising dispatch and reducing losses—could ease some of these structural pressures.
+
+Moreover, the project aligns with Sri Lanka’s broader climate commitments and long-term goal of increasing renewable energy penetration. Analysts note that without investments in grid intelligence and flexibility, renewable targets risk remaining aspirational rather than achievable.
+
+The deadline for bid submissions is May 14, 2026, with implementation expected to span approximately 18 months from contract award.
+
+If executed effectively, the NSO-led initiative could mark a decisive shift—from a conventional grid struggling with variability to a digitally enabled system capable of managing the complexities of a modern energy mix.
+
+For policymakers, investors, and consumers alike, the message is clear: the transition to clean energy is no longer just about adding megawatts—it is about building the intelligence to manage them.
+
+Powering through droughts and crises: Redesigning Sri Lanka’s energy resilience
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

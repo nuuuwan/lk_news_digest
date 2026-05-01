@@ -1,0 +1,49 @@
+Powering through droughts and crises: Redesigning Sri Lanka’s energy resilience
+
+* Sri Lanka’s energy insecurity is structural, rooted in climate‑volatile hydropower, fossil fuel dependence, and an ageing grid.
+
+* Solar adoption has grown quickly, but grid saturation and high storage costs limit further gains.
+
+* Low‑cost policy fixes such as storage support, shared microgrids, daytime use incentives, and smart meters can strengthen resilience in the near term.
+
+Sri Lanka has lived with energy insecurities for decades. Today, the crisis is a structural problem that is no longer limited to mere episodes. The country’s electricity system sits at the intersection of three converging vulnerabilities. Firstly, the system relies on a bimodal rainfall pattern that makes hydropower inherently boom-and-bust. Secondly, Sri Lanka has a near-total dependence on imported fossil fuels and limited use of other renewables, mainly rooftop solar, to fill the gaps. Thirdly, the country deals with an ageing grid infrastructure that is ill-equipped for the distributed energy future that could solve the problem.
+
+With the El Niño-driven drought intensification, recurring global crises, and geopolitical uncertainties, the urgency of the energy crisis becomes impossible to ignore, especially amid increasing demand. Additionally, demand for cooling energy will rise and become a necessity as the South Asia region becomes increasingly vulnerable to more frequent, intense, and prolonged heat extremes, driven by anthropogenic global warming, urbanisation, and El Niño.
+
+Sri Lanka’s electricity story begins and ends with water. Hydropower has historically provided the cheapest and cleanest baseload generation in the system. In good rainfall years, hydropower can supply 40–45% of national electricity needs. The south-west monsoon from May to September and the north-east monsoon from November to January produce predictable troughs. When the monsoon seasons underperform, as they do in some El Niño years, reservoir levels collapse, drinking and irrigation needs are prioritised, and the Ceylon Electricity Board (CEB) is forced to ramp up thermal generation at enormous cost.
+
+This is not a new pattern. Sri Lanka has navigated El Niño-driven drought cycles throughout history. Generally, these events occur in cycles of 3-7 years. First reported in 1876, the El Niño–Southern Oscillation (ENSO) sometimes suppresses rainfall, causing droughts, while other events bring more rainfall and floods, depending on the timing of the event.
+
+However, preparedness has historically been reactive in the form of emergency procurement, rolling power cuts, and public appeals to reduce consumption. The 2016 drought, 2019 dry spell, and 2022–23 episode triggered emergency diesel and fuel oil procurement, worsening the import bill amid strained foreign exchange reserves. In 2022, thermal plants accounted for roughly 47% of total electricity generation, with oil-based plants absorbing the shock of falling hydro output. Such situations increase costs, especially when they coincide with a global oil price spike. The 2022 crisis, compounded by the Russia–Ukraine war’s fuel price shock, left Sri Lanka unable to secure fuel shipments, mainly due to structural import dependence.
+
+Furthermore, the quality and cost dimensions of thermal generation increase emissions, reduce plant efficiency, and raise maintenance costs in the long run. Meanwhile, global oil price volatility, driven by geopolitical tensions in the Middle East, has made fuel-oil generation a financial wildcard. A prolonged global supply chain disruption will collapse the system.
+
+By 2024, solar’s share of the national electricity mix had reached approximately 7% and nearly doubled in 2025. Between 2020 and 2024, rooftop solar grew from a niche option (2%) to a genuine contributor to the national electricity supply (5%), generating approximately 867 GWh. In 2025, rooftop solar contribution to the national grid reached 9.5%. This growth has been slow yet remarkable. However, today it has encountered two hard constraints.
+
+, particularly the Western Province. The CEB has responded by restricting new rooftop solar connections in these areas, creating a situation in which the highest-demand, highest-income catchments are blocked, affecting the very households best placed to invest in solar. Energy curtailment is a key limitation in many parts of the world today, due to limited grid capacity, costly storage, and unpredictable generation.
+
+, relative to Sri Lankan household incomes. The economics of standalone battery systems have fallen sharply since 2020 and remain out of reach for most households without financial support mechanisms.
+
+However, many energy-dependent economies, including Germany, the UK, the Netherlands, Spain, Australia, and Malaysia, have effectively deployed solar energy and benefited from it during the current Middle East crisis.
+
+The solutions are partially deployed, increasingly affordable, and actionable through policy until the costly infrastructure is realised. A few policy interventions can deliver measurable impact in the near term, especially energy security from the ground up.
+
+* Create a targeted storage subsidy scheme for solar households. A co-financing mechanism covering around 20–30% of battery storage costs would significantly improve adoption among middle-income households. A successful programme would develop a local installation and maintenance industry, generating green employment.
+
+* Promote community microgrids with storage facilities in condominiums, industrial parks, and rural areas, rather than individual rooftop connections to a fragile grid. Most countries such as Germany and Spain are using “solar balconies” for condominiums and suggest using them for claddings or roofs of nearby schools and sports complexes instead of land.
+
+* Incentivising the use of daytime electricity is already practised and has recently been revised to accommodate the growing EV fleet through time-of-use tariffs. Alternatively, countries such as the UK urge consumers to use more electricity during the daytime to stabilise the grid, offering incentivised or free rates. This cuts storage needs and reduces payments for solar farms to turn off.
+
+* Accelerate smart meter deployment as a priority. The current rollout has been slow, partly due to procurement bottlenecks, lack of urgency at the policy level, and cost factors. Treating smart meters as critical energy infrastructure with dedicated funding and a statutory rollout target would unlock the full value of every other intervention. The lack of such measures negatively affects time-of-use pricing, demand response, and rooftop solar export measurement.
+
+Beyond these short-term measures lies the long-term challenge: the transition financing gap. Moving to a distributed, renewable system requires smart grid infrastructure and, potentially, an India–Sri Lanka power interconnection for regional balancing. Power sector reforms open the door to private investment, bridging the gap where government financing falls short. This is exactly where Sri Lanka’s involvement with multilateral climate finance becomes crucial for “climate and crisis resilience infrastructure,” with the widest social distribution of benefits.
+
+Every rooftop panel, every smart meter, every installed battery is a hedge against the next drought, El Niño, or Middle East price spike.
+
+Sri Lanka has always eventually recovered from its energy crises with the help of emergency procurement, IMF support, and the eventual return of the rains. But recovery is not resilience. The next drought, El Niño, and oil shock are all certainties. The opportunity now is to build a system that does not need rescuing.
+
+ADB-backed grid upgrade tender signals next phase of Sri Lanka’s energy transition
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

@@ -1,0 +1,65 @@
+Concept of living wage and cost of living
+
+The International Labour Organisation (ILO) now defines a living wage as the wage level necessary for workers and their families to afford a decent standard of living, given national circumstances, for normal hours of work. This standard of living is operationalised through the cost of essential goods and services, typically including food, housing, healthcare, education, transport, and a modest allowance for contingencies and social participation.
+
+In contrast, “cost of living” in economics is a broader price index concept that tracks the overall prices of a representative consumption basket but is not inherently normative about what constitutes decency or dignity.
+
+Living wage methodologies effectively translate a cost-of-living basket, specified for a given family size and living standard, into a monthly income requirement for workers, thereby linking real wages to human development objectives rather than only to market productivity.
+
+Most contemporary living wage estimates follow a structured “cost of a basic but decent life” approach built around three steps: defining a reference family, costing a normative consumption basket, and converting that cost into a wage per worker.
+
+The Anker methodology, widely used in global supply chains and in Sri Lanka, is a leading example: it defines a model family (e.g., 2 adults and approximately 2–3 children), estimates the cost of a low-cost nutritious diet, adequate housing, and non-food essentials, and then allocates that cost over expected number of full-time workers per family.
+
+Within the Anker framework, the food component is based on locally appropriate diets meeting caloric and nutritional norms, priced using local market surveys and adjusted for waste and home preparation.
+
+Housing costs are derived from standards for minimally acceptable housing (e.g., durable materials, sufficient space, basic services), using rents or imputed rental values from empirical fieldwork. Other essential expenditures, health, education, transport, clothing, and a small margin for unexpected events, are typically estimated as a percentage mark-up over food and housing costs, derived from national household survey data.
+
+Finally, the methodology sets a reference number of workers per family, divides total family living costs by this number to get a net living wage, and then adjusts to a gross living wage by adding payroll taxes and mandatory deductions. Periodic updates are made using consumer price indices (CPIs) to reflect inflation or deflation and, where necessary, new field surveys to capture structural shifts in prices and consumption patterns.
+
+Sri Lanka’s living wage estimates and their link to cost of living (Anker Methodology)
+
+Sri Lanka has been the subject of several living wage studies, notably for the tea estate sector and for urban and rural areas, using the Anker methodology.
+
+In the tea estate sector, an updated 2024 Anker report estimates the cost of a “basic but decent” standard of living for a typical family at about LKR 78,067 per month (approximately USD 260), implying a gross living wage of LKR 48,584 per month (USD 160) and a net, take-home living wage of LKR 44,357.
+
+For urban Sri Lanka, the Anker Living Wage Reference Value was originally set at LKR 84,231 per month in April 2022, corresponding to a net living wage of LKR 77,492 plus social security contributions. After cumulative inflation of about 36.9 percent between April 2022 and June 2025, the updated gross urban living wage is estimated at approximately LKR 115,291 per month (around USD 385), consisting of a net living wage of LKR 106,068 and social security contributions of LKR 9,223
+
+These Sri Lankan figures are explicitly derived from cost-of-living calculations: they incorporate the cost of food, housing, utilities, health, education, and other essentials at local prices and then convert these into wages per adult worker, assuming roughly 1.7–1.8 full-time earners per family. Because living wage estimates are indexed to actual price dynamics, periods of high inflation, as Sri Lanka experienced in 2022–2023, translate almost mechanically into sharp upward revisions in living wages, underlining the tight coupling between living wage levels and the evolving cost of living.
+
+Cross-country comparisons require careful normalisation because living wages reflect local prices, family structures, and social norms, but several datasets provide a structured basis for comparison. [asia.floorwage](https://asia.floorwage.org/living-wage/calculating-a-living-wage/)
+
+The Asia Floor Wage Alliance, for example, publishes a regional living wage benchmark expressed in purchasing power parity (PPP) terms, with a 2024 benchmark of 1,750.54 PPP dollars per month converted into local currencies using country-specific PPP exchange rates.
+
+Using this PPP-based approach, the 2024 living wage equivalent for Sri Lanka is estimated at around LKR 158,353 per month, assuming a PPP exchange rate of about 90.5 Sri Lankan rupees per PPP dollar.
+
+This PPP-normalised figure is substantially higher than the Anker 2024–2025 estate-sector and urban living wage estimates in nominal rupees, partly because the Asia Floor Wage benchmark is set to ensure a more harmonised standard across Asian garment-producing economies and uses a single PPP wage target.
+
+These figures indicate that, within this PPP-based framework, Sri Lanka’s living wage in local currency is relatively high compared to countries such as India and Bangladesh, but the comparison reflects both different PPP exchange rates and domestic price structures.
+
+From a cost-of-living perspective, this pattern is consistent with Sri Lanka being a lower-middle-income country with relatively higher prices for some essentials compared with low-income South Asian economies, especially after recent macroeconomic and inflationary shocks.
+
+Global datasets covering more than 200 countries show that typical-family living wage levels, whether calculated in PPP or nominal terms, tend to correlate positively with national income levels, with North America, Western Europe, and Australia displaying the highest living wage values.
+
+In this global distribution, living wages in middle- and low-income regions of Asia, Africa, and Latin America are lower in absolute terms, though the ratio of living wage to median wages or statutory minimum wages can be high, underscoring the gap between decent-work standards and prevailing labour market outcomes.
+
+Interestingly, some studies note that rural living wage estimates can be relatively high in poorer countries because limited infrastructure and service availability raise the cost of accessing a given standard of living, such as safe water, transport, and education.
+
+For Sri Lanka, rural Anker living wage benchmarks similarly reveal the importance of non-food costs, such as transportation to schools, health facilities, and workplaces, in shaping the total family budget, despite lower nominal rents in many rural areas.
+
+The emerging international consensus around a living wage is rooted in the human rights-based notion of a “decent life” rather than a subsistence minimum or an arbitrarily set statutory floor.
+
+From a social science perspective, incorporating living wage benchmarks into wage-setting institutions, collective bargaining, and social dialogue reorients labour markets toward social reproduction, intergenerational mobility, and social cohesion, rather than merely cost competitiveness.
+
+For Sri Lanka, where recent crises have eroded real wages and increased household vulnerability, living wage estimates such as the Anker urban and estate-sector benchmarks provide an analytically rigorous yardstick for evaluating whether current wage policies and social transfers are adequate relative to the actual cost of a basic but decent life.
+
+Comparisons with regional PPP-based benchmarks like the Asia Floor Wage suggest that, while Sri Lanka’s living wage requirement in local currency is relatively high, the country also faces significant affordability challenges, especially for low-paid workers in export sectors and informal employment, whose earnings often fall short of these normative thresholds.
+
+In policy terms, the living wage framework highlights the need for coordinated approaches that combine wage-setting reforms, inflation-sensitive social protection, and productivity-enhancing investments, so that rising living-cost-consistent wages do not simply translate into inflationary spirals or employment losses.
+
+For empirical research in Sri Lanka, these benchmarks open avenues for micro-level analysis of wage gaps, household coping strategies, gendered labour outcomes, and the distributional effects of macroeconomic adjustment, all anchored to a transparent and internationally recognised living wage methodology.
+
+(The writer, a senior Chartered Accountant and professional banker, is Professor at SLIIT, Malabe. The views and opinions expressed in this article are personal.)
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

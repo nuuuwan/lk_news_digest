@@ -1,0 +1,37 @@
+Women in Sri Lanka’s Boards: The glass ceiling persists
+
+Sri Lanka presents a striking paradox. Women consistently outperform men in higher education, with tertiary enrolment at 23% for women against 16% for men, yet their participation in the formal labour force hovers around 34%, and their presence at the top of corporate Sri Lanka remains deeply marginal.
+
+The numbers are stark. An analysis of the LMD 100 for 2024/25 found that women hold just 140 of 945 directorships across 100 listed companies, a mere 14.8%, barely changed from the previous year. Twenty-three of those companies remain all-male boards. The energy sector has no female directors at all. A voluntary progressive quota of 30% female board representation, introduced through the 2019 National Budget proposals, was supposed to be met by 2024. It has not been.
+
+Meanwhile, the World Economic Forum’s Global Gender Gap Report 2025 delivers an uncomfortable verdict: Sri Lanka is the only economy to have moved backwards since 2006, falling 7.5 percentage points in its overall score and ranking 128th for economic participation and opportunity. This is not a country making progress.
+
+The case for intervention is well-evidenced. A 2025 study published in Business Strategy & Development (Kaluarachchi, 2025), drawing on Sri Lankan listed companies from 2012 to 2022, finds that the inclusion of female directors is positively associated with improved financial performance. This is consistent with earlier IFC-commissioned research showing that Sri Lanka’s top-performing companies by gender diversity outperformed their peers on return on equity, return on total assets and price-to-earnings ratios. The governance benefits are also well-documented: diverse boards bring wider perspective, sharper risk oversight and stronger accountability, attributes of particular relevance in Sri Lanka’s banking and financial services sector.
+
+Yet the debate over how to achieve change is genuine, and the international evidence is instructive rather than straightforwardly prescriptive. Norway’s mandatory 40% quota, the first in the world, legislated in 2003 and enforced by 2008, did succeed in dramatically raising female representation. But it also generated unintended consequences. Firms appointed younger, less experienced directors, a small group of women accumulated multiple board seats (the so-called “golden skirts” phenomenon), and several firms converted from public to private to avoid compliance. Research by Bertrand et al. (2018) found that while the quota benefited those women who reached the boardroom, it did not translate into broader improvements in women’s earnings or their progression at lower levels of the organisation.
+
+This suggests that mandatory quotas, on their own, are not a silver bullet, particularly in Sri Lanka, where the deeper structural problem lies earlier in the talent pipeline. With just over a third of women in the formal workforce, and with no statutory paternity leave, limited childcare provision and persistent cultural norms that push women out of employment after childbirth, the supply-side constraints are real. Appointing more women to boards without addressing these foundations risks the very tokenism that quota opponents fear.
+
+A more credible path forward may be a structured “comply or explain” approach, operated through the Colombo Stock Exchange and reinforced by Securities and Exchange Commission guidance, requiring listed companies to set measurable diversity targets, report publicly on progress, and explain shortfalls. This has the advantage of creating transparency and market pressure, including from ESG-focused international investors who are increasingly voting against nomination committees at companies that fail to demonstrate adequate gender balance, without the compliance avoidance behaviours that hard quotas can trigger.
+
+But “comply or explain” without genuine accountability has failed before. Sri Lanka’s own voluntary 30% target, now overdue, is evidence of that. Whatever regulatory mechanism is chosen, it will require enforcement credibility.
+
+Sri Lanka has invested heavily in educating its women. It is overdue for the corporate sector to invest in them, too.
+
+(The writer is an academic attached to the University of Buckingham United Kingdom )
+
+Kaluarachchi, S. (2025). Breaking the Glass Ceiling: The Impact of Board Gender Diversity on Firm Financial Performance in Sri Lanka. Business Strategy & Development, 8(1). https://doi.org/10.1002/bsd2.70091
+
+Bertrand, M., Black, S., Jensen, S. and Lleras-Muney, A. (2018). Breaking the Glass Ceiling? The Effect of Board Quotas on Female Labour Market Outcomes in Norway. Review of Economic Studies, 86(1), pp.191–239. Available at: https://www.nber.org/papers/w20256
+
+Ahern, K.R. and Dittmar, A.K. (2012). The Changing of the Boards: The Impact on Firm Valuation of Mandated Female Board Representation. Quarterly Journal of Economics, 127(1), pp.137–197.
+
+International Finance Corporation (2021). Realizing Sustainability Through Diversity: The Case for Gender Diversity Among Sri Lanka’s Business Leadership. Washington, DC: IFC/World Bank. Available at: https://documents1.worldbank.org/curated/en/795301594621035366/pdf/Realizing-Sustainability-Through-Diversity-The-Case-for-Gender-Diversity-Among-Sri-Lanka-s-Business-Leadership.pdf
+
+LMD (2026). Board Balance 2024/25. LMD, February. Available at: https://lmd.lk/lmd100-board-balance-2024-25/
+
+World Economic Forum (2025). Global Gender Gap Report 2025. Geneva: WEF.
+
+Department of Census and Statistics, Sri Lanka (2025). Labour Force Survey Q1 2025.
+
+Silva, R. (2024). Does Gender Diversity Matter at the Board Level? Firm’s Financial Performance and Gender Diversity in Sri Lankan-Listed Firms. SSRN Working Paper. Available at: https://ssrn.com/abstract=4799607

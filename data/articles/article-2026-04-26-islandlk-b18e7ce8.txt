@@ -1,0 +1,17 @@
+Kaspersky finds 26 fake crypto wallets on Apple’s app store
+
+Kaspersky has discovered 26 fraudulent cryptocurrency wallet apps on Apple’s App Store, designed to drain users’ digital assets. The fake apps mimic popular wallets including MetaMask, Coinbase, Ledger, and Trust Wallet.
+
+Once opened, the apps redirect victims to phishing pages impersonating the App Store, tricking them into installing trojanized wallet software. The campaign has been active since at least fall 2025, with Kaspersky attributing it to the SparkKitty threat actors.
+
+Almost all phishing apps were available only to Chinese iOS users—since official crypto wallet apps are absent from China’s App Store—but the malware itself has no regional restrictions, potentially affecting victims worldwide.
+
+The malicious apps use deceptive “stub” functionality, such as games or calculators, to appear legitimate. They ultimately prompt users to install a developer profile, which allows a trojanized wallet to be downloaded. Depending on the wallet type, the malware either intercepts seed phrases (hot wallets) or directly phishes for them (cold wallets).
+
+“Users should be wary even on devices they consider safe, like iPhones,” said Sergey Puzan of Kaspersky. All malicious apps have been reported to Apple.
+
+Fintech startups urged to focus on innovation rather than replicating existing solutions
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

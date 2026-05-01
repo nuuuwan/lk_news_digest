@@ -1,0 +1,59 @@
+Is There An Adequate Bank Supervision In Sri Lanka?
+
+The National Development Bank PLC (NDB) fraud is a major internal financial scandal in Sri Lanka that came to light in early April 2026. It is considered one of the largest operational risk failures in the country’s banking history. According to news reports, the estimated financial loss is approximately Rs. 13.22 billion. It is alleged that the incident involved internal employees acting in collusion with external parties. Funds were reportedly transferred from General Ledger accounts (likely suspense accounts) to multiple other accounts over several years. It is also reported that audits highlighted systemic failures in internal controls, risk compliance, and delegated lending authorities within the credit department. The purpose of this article is not to explore the NDB fraud but to examine the adequacy of overall financial supervisory system in Sri Lanka.
+
+Sri Lanka’s financial supervisory system is a fragmented, multi-agency framework currently undergoing significant legislative updates following the 2022 economic crisis.
+
+The Central Bank of Sri Lanka (CBSL) is the apex regulator responsible for domestic price stability and financial system stability. It directly supervises licensed Commercial Banks (LCBs) and Licensed Specialised Banks (LSBs), Non-Bank Financial Institutions (NBFIs), including finance companies and leasing companies, Payment and Settlement Systems. CBSL also supervises the Securities and Exchange Commission (SEC), regulates the capital markets, including the Colombo Stock Exchange (CSE), stockbrokers, and investment managers. It has recently introduced a Central Counterparty (CCP) system to reduce settlement risks. In addition, CBSL is responsible for the Insurance Regulatory Commission of Sri Lanka (IRCSL) which supervises insurance companies and brokers. In early 2026, it signed a joint supervision agreement with the Financial Intelligence Unit (FIU) to strengthen anti-money laundering compliance.
+
+The Central Bank of Sri Lanka (CBSL) Act, No. 16 of 2023 and the subsequent Banking (Amendment) Act, No. 24 of 2024 introduced several major reforms to strengthen the independence and effectiveness of financial supervision within the central bank.
+
+Important aspects of the Act include the removal of government representation. The Act eliminates the representation of the Ministry of Finance from the newly established Governing Board and Monetary Policy Board. This is designed to insulate supervisory and monetary decisions from direct political and fiscal pressures. Apart from that the Act explicitly defines the Central Bank’s objectives as maintaining domestic price stability and securing financial system stability. This formalises the central bank’s accountability for the soundness of the banking sector.
+
+Furthermore, now there is a prohibition of monetary financing. It strictly limits and phases out the practice of the central bank printing money to finance government deficits, which historically undermined its focus on financial stability. In addition to this, mandatory financial stability reporting is required. Section 70(1) requires the Central Bank to prepare and publish an annual Financial Stability Review by 31 October each year, increasing transparency and public accountability for its supervisory performance.
+
+The followings are the additions to the Banking Act in 2024;
+
+Consolidated Supervision: The Central Bank gained broader powers to regulate not just individual banks but entire banking groups (solo and consolidated basis), allowing it to address risks arising from parent companies or subsidiaries.
+
+Fitness and Propriety: New provisions empower the Director of Bank Supervision to vet and approve the appointment of directors, CEOs, and key management personnel based on strict criteria.
+
+State-Owned Banks: It introduces merit-based, transparent, and independent nomination processes for the boards of state-owned banks.
+
+Early Intervention and Enforcement: The Central Bank can now issue directions regarding capital and liquidity levels and impose conditions on dividend payments or profit transfers if a bank’s financial health is at risk.
+
+Mandatory Subsidiary Status: The CBSL may direct foreign bank branches to incorporate as local subsidiaries if necessary to ensure better risk management and local capital adequacy.
+
+As of April 2026, the CBSL is under pressure to move from “reactive” to “real-time” monitoring. It has revived a consolidation plan where smaller banks failing to meet 60% of evaluation scores by 2027 may be forced to merge. Additionally, the country is preparing for a critical FATF financial integrity evaluation in 2026 to avoid being placed on the “grey list.”
+
+The NDB case shows that irrespective of many powers given to the CBSL, there are some ongoing issues within the financial system. Therefore, there is a case for a separate banking supervisory system in Sri Lanka. A new supervisory system should centre on the need for increased independence, specialized focus, and the mitigation of conflicts of interest inherent in the current model where the CBSL holds dual responsibility for monetary policy and financial supervision. I discussed this same issue earlier on a paper published on Colombo Telegraph (28-01-26) few months ago.
+
+The following points could be raised as important points for a separate supervisory body;
+
+Housing supervision within a central bank can lead to “regulatory forbearance,” where supervisors might be lenient toward failing banks to avoid disruptions to their own monetary policy goals or to prevent public panic. A separate body can focus strictly on the safety and soundness of individual institutions without being influenced by broader macroeconomic objectives like interest rate stability.
+
+Modern banking involves complex non-credit risks (liquidity, operational, and reputational) that require dedicated, high-level risk management skills. A specialized agency can attract and retain professionals with these specific skill sets more effectively than a generalist central bank cluster.
+
+Concentrating all financial oversight—from monetary policy to micro-prudential supervision—within the CBSL makes the institution exceptionally powerful, raising concerns about transparency and public accountability. A separate agency provides a clearer management structure, making it easier for the public and parliament to hold specific regulators accountable for failures.
+
+Sri Lanka has a history of political interference and “elite capture” in its economic areas. Statutory independence for supervisors can strengthen oversight beyond political economy constraints, which is particularly vital for state-owned banks that claim nearly half of the sector’s assets.
+
+While the case for a separate system is strong, several factors currently keep supervision within the Central Bank of Sri Lanka:
+
+Economies of Scale: In smaller economies like Sri Lanka, sharing infrastructure, data processing, and administrative costs within the CBSL is more cost-effective than funding a completely new entity.
+
+Information Synergies: The CBSL relies on banking data to gauge the impact of its monetary policy decisions on the industry. A separate agency could create a “reporting burden” or lead to information gaps if data sharing is not seamless.
+
+Recent Strengthening: Under the Central Bank Act (2023) and Banking Act amendments, the CBSL has gained significant autonomy and enhanced supervisory powers, addressing some historical weaknesses without full separation.
+
+Alternative Models: Some suggest a “hybrid” option where supervision remains under the CBSL’s umbrella but is elevated to a semi-independent status with its own dedicated board and budget.
+
+• Ensure operational and budgetary independence, with structured coordination mechanisms.
+
+• Build professional capacity in risk-based supervision and early warning systems.
+
+• Integrate supervision with deposit insurance and bank resolution frameworks.
+
+Sri Lanka’s recent banking-sector challenges demonstrate that sound monetary policy alone cannot ensure financial stability. Effective, independent supervision is essential. Establishing a separate banking supervisory authority would reduce conflicts of interest, enhance institutional credibility, and support sustainable economic recovery. This reform is not merely administrative—it is a critical pillar of long-term financial resilience.
+
+*Dr Piyadasa Edirisuriya – Former Academic, Monash Business School, Australia, email: pedirisuriya@gmail.com
