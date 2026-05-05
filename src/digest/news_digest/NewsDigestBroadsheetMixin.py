@@ -91,7 +91,7 @@ class NewsDigestBroadsheetMixin:
             # end date without year: e.g. "Tuesday the 5th of May"
             end_no_year = f"{end_dt.strftime('%A')} the {_ordinal(end_dt.day)} of {end_dt.strftime('%B')}"
             dateline_left = f"Week {week_num}, {year}"
-            dateline_center = f"Week ending {end_no_year}"
+            dateline_center = f"{end_no_year}"
             dateline_right = (
                 f"AI-generated summary of {len(used_articles):,} articles"
             )
