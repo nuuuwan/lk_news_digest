@@ -45,7 +45,7 @@ def _e(text):
 
 class NewsDigestBroadsheetMixin:
     DIR_BROADSHEETS = os.path.join("data", "broadsheets")
-    _OTHER_NEWS_WORD_BUDGET = 400
+    _OTHER_NEWS_WORD_BUDGET = 2000
 
     def _cap_level2_by_budget(self, articles):
         result, used = [], 0
@@ -102,8 +102,8 @@ class NewsDigestBroadsheetMixin:
         level0 = [a for a in digest_article_list if a.get("level") == 0]
         level1 = [a for a in digest_article_list if a.get("level") == 1]
         level2_all = [a for a in digest_article_list if a.get("level") == 2]
-        level2 = level2_all
-        level2_overflow = []
+        level2 = self._cap_level2_by_budget(level2_all)
+        level2_overflow = level2_all[len(level2):]
 
         # ── Layout planning ────────────────────────────────────────────────
         n_l1_rows = (len(level1) + 2) // 3 if level1 else 0
