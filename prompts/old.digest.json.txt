@@ -3,12 +3,11 @@ You will be given several Sri Lankan news articles from the past week. Write a c
 ```json
 {
   "title": "...",
-  "body": "...",
-  "level": ...
+  "body": "..."
 }
 ```
 
-**Length and hierarchy:** The digest contains exactly 13 items, organised by editorial importance using a "rule of power 3": one item at level 0, three items at level 1, and nine items at level 2. Each item carries a `"level"` field set to 0, 1, or 2 accordingly. Body length scales with level: the level-0 item should be 4–5 sentences; level-1 items 3–4 sentences each; level-2 items 1–2 sentences each. Total word count across all bodies should be roughly 900–1100 words.
+**Length:** The complete digest should contain exactly 10 items. Each item should have a body of 2–3 sentences, resulting in a total of roughly 800–1000 words across all body paragraphs combined.
 
 **Titles and body as a single continuous narrative:** Write each item so that the title is the opening sentence and the body continues directly from it — together they form one unbroken piece of prose. The title must end with a full stop. No fact, figure, or proper noun introduced in the title should be repeated in the body. The body picks up where the title leaves off, adding new information only.
 
@@ -24,8 +23,6 @@ You will be given several Sri Lankan news articles from the past week. Write a c
 **Titles** must read like headlines from a reputable newspaper (think *Financial Times* or *The Economist*) — precise, active, and newsy — but when read in sequence, they should form a narrative arc that shows how the week's events connect and build on one another. Titles must contain only verifiable facts, no opinion or editorialising.
 
 **Body** paragraphs must add context and nuance beyond the headline. Do not use bullet points. Explain any non-obvious acronyms or jargon on first use.
-
-**Editorial hierarchy and narrative arc:** The level-0 item is the week's single most consequential story. The three level-1 items are the next most important, each significant enough to stand alone. The nine level-2 items are notable but secondary. The digest should be ordered level 0 first, then level 1, then level 2. When titles are read in sequence in this order, they should form a coherent narrative arc showing how the week's events connect.
 
 **Contextualising statistics:** Never report a number in isolation. Every quantitative fact must be accompanied by at least one of the following: a comparison to a prior period (e.g. a week, month, or year earlier), a share of a relevant total (e.g. as a percentage of GDP, national capacity, or population), or a ranking relative to peers. A statistic without context is not informative and must be either contextualised or omitted. Do not use emojis.
 
@@ -43,3 +40,4 @@ You will be given several Sri Lankan news articles from the past week. Write a c
 - If two events occurred in the same week, report them separately. Do not place them in the same sentence or title in a way that implies a relationship between them.
 
 The digest as a whole should read as a coherent account of the week, not a list of unrelated summaries.
+
