@@ -6,13 +6,18 @@ from openai import OpenAI
 from utils import File, JSONFile, Log, Time, TimeFormat, TimeUnit
 
 from digest.article import Article
+from digest.news_digest.NewsDigestBroadsheetMixin import (
+    NewsDigestBroadsheetMixin,
+)
 from digest.news_digest.NewsDigestReadMeMixin import NewsDigestReadMeMixin
 from digest.news_digest.NewsDigestRSSMixin import NewsDigestRSSMixin
 
 log = Log("NewsDigest")
 
 
-class NewsDigest(NewsDigestReadMeMixin, NewsDigestRSSMixin):
+class NewsDigest(
+    NewsDigestBroadsheetMixin, NewsDigestReadMeMixin, NewsDigestRSSMixin
+):
     MAX_CONTENT_LEN = 1_000_000
     MAX_DAYS_OLD = 7
     MODEL = "gpt-5"
@@ -152,3 +157,4 @@ class NewsDigest(NewsDigestReadMeMixin, NewsDigestRSSMixin):
             used_articles, system_prompt, time_ts, digest_article_list
         )
         self.build_rss(used_articles, digest_article_list, ut, time_ts)
+        self.build_broadsheet(digest_article_list, date_ts, used_articles)
