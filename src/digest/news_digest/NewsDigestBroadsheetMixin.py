@@ -88,10 +88,18 @@ class NewsDigestBroadsheetMixin:
     @staticmethod
     def _article_block(article, title_class):
         title = _e(article["title"])
-        body = _e(article.get("body", ""))
+        bold_phrases = article.get("bold_phrases", [])
+        paragraphs = article.get("body_paragraphs") or (
+            [article["body"]] if article.get("body") else []
+        )
         html = f'<div class="article-title {title_class}">{title}</div>'
-        if body:
-            html += f'<div class="article-body">{body}</div>'
+        if paragraphs:
+            paras_html = "".join(
+                f"<p>{_apply_bold(_e(p), bold_phrases)}</p>"
+                for p in paragraphs
+                if p
+            )
+            html += f'<div class="article-body">{paras_html}</div>'
         return html
 
     def build_broadsheet(self, digest_article_list, ts, used_articles=None):
@@ -139,16 +147,28 @@ class NewsDigestBroadsheetMixin:
 
         # ── Main grid ──────────────────────────────────────────────────────
         headline_title = _e(level0[0]["title"]) if level0 else ""
-        headline_body = _body(level0[0]) if level0 else ""
         headline_bold = level0[0].get("bold_phrases", []) if level0 else []
-        body_chunks = self._split_text(headline_body, 3)
+        headline_paragraphs = (
+            level0[0].get("body_paragraphs")
+            or ([level0[0]["body"]] if level0[0].get("body") else [])
+            if level0 else []
+        )
+        # Distribute paragraphs across 3 columns; split flat text if needed
+        if len(headline_paragraphs) >= 3:
+            col_paras = [headline_paragraphs[:1], headline_paragraphs[1:2], headline_paragraphs[2:]]
+        elif headline_paragraphs:
+            flat = _body(level0[0]) if level0 else ""
+            col_paras = [[c] for c in self._split_text(flat, 3)]
+        else:
+            col_paras = [[], [], []]
 
         cells = []
         cells.append(f'<div class="headline-title">{headline_title}</div>')
-        for chunk in body_chunks:
-            cells.append(
-                f'<div class="headline-body">{_apply_bold(_e(chunk), headline_bold)}</div>'
+        for col in col_paras:
+            paras_html = "".join(
+                f"<p>{_apply_bold(_e(p), headline_bold)}</p>" for p in col if p
             )
+            cells.append(f'<div class="headline-body">{paras_html}</div>')
         for a in level1:
             cells.append(
                 f'<div class="l1-cell">'
