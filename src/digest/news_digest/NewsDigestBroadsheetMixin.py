@@ -7,10 +7,10 @@ from utils import Log
 log = Log("NewsDigestBroadsheetMixin")
 
 # Sri Lanka flag colour palette
-_MAROON  = "#8D153A"
+_MAROON = "#8D153A"
 _SAFFRON = "#FC8B00"
-_GREEN   = "#00534E"
-_BLACK   = "#000000"
+_GREEN = "#00534E"
+_BLACK = "#000000"
 
 
 def _ordinal(n):
@@ -35,9 +35,8 @@ class NewsDigestBroadsheetMixin:
     def _cap_level2_by_budget(self, articles):
         result, used = [], 0
         for article in articles:
-            words = (
-                len(article["title"].split())
-                + len(article.get("body", "").split())
+            words = len(article["title"].split()) + len(
+                article.get("body", "").split()
             )
             if used + words > self._OTHER_NEWS_WORD_BUDGET:
                 break
@@ -61,12 +60,12 @@ class NewsDigestBroadsheetMixin:
     @staticmethod
     def _article_block(article, title_class, body_pt):
         title = _e(article["title"])
-        body  = _e(article.get("body", ""))
-        html  = f'<div class="article-title {title_class}">{title}</div>'
+        body = _e(article.get("body", ""))
+        html = f'<div class="article-title {title_class}">{title}</div>'
         if body:
             html += (
                 f'<div class="article-body" style="font-size:{body_pt}pt">'
-                f'{body}</div>'
+                f"{body}</div>"
             )
         return html
 
@@ -76,25 +75,25 @@ class NewsDigestBroadsheetMixin:
             date_strs = sorted(a.date_str for a in used_articles)
             date_line = (
                 f"{_fmt_date(date_strs[0])}  to  {_fmt_date(date_strs[-1])}"
-                f"   \u00b7   Based on {len(used_articles):,} articles"
+                f"   \u00b7   AI-generated summary of {len(used_articles):,} articles"
             )
         else:
             date_line = ts
 
         # ── Article lists ──────────────────────────────────────────────────
-        level0     = [a for a in digest_article_list if a.get("level") == 0]
-        level1     = [a for a in digest_article_list if a.get("level") == 1]
+        level0 = [a for a in digest_article_list if a.get("level") == 0]
+        level1 = [a for a in digest_article_list if a.get("level") == 1]
         level2_all = [a for a in digest_article_list if a.get("level") == 2]
-        level2          = self._cap_level2_by_budget(level2_all)
-        level2_overflow = level2_all[len(level2):]
+        level2 = self._cap_level2_by_budget(level2_all)
+        level2_overflow = level2_all[len(level2) :]
 
         # ── Layout planning ────────────────────────────────────────────────
-        n_l1_rows             = (len(level1) + 2) // 3 if level1 else 0
-        last_row_filled       = len(level1) % 3
-        overflow_slots        = (3 - last_row_filled) % 3 if n_l1_rows else 0
-        overflow_in_last_row  = level2_overflow[:overflow_slots]
-        overflow_extra        = level2_overflow[overflow_slots:]
-        n_extra_rows          = (len(overflow_extra) + 2) // 3 if overflow_extra else 0
+        n_l1_rows = (len(level1) + 2) // 3 if level1 else 0
+        last_row_filled = len(level1) % 3
+        overflow_slots = (3 - last_row_filled) % 3 if n_l1_rows else 0
+        overflow_in_last_row = level2_overflow[:overflow_slots]
+        overflow_extra = level2_overflow[overflow_slots:]
+        n_extra_rows = (len(overflow_extra) + 2) // 3 if overflow_extra else 0
 
         total_content_rows = n_l1_rows + n_extra_rows
         if total_content_rows <= 1:
@@ -118,13 +117,11 @@ class NewsDigestBroadsheetMixin:
 
         # ── Main grid ──────────────────────────────────────────────────────
         headline_title = _e(level0[0]["title"]) if level0 else ""
-        headline_body  = level0[0].get("body", "") if level0 else ""
-        body_chunks    = self._split_text(headline_body, 3)
+        headline_body = level0[0].get("body", "") if level0 else ""
+        body_chunks = self._split_text(headline_body, 3)
 
         cells = []
-        cells.append(
-            f'<div class="headline-title">{headline_title}</div>'
-        )
+        cells.append(f'<div class="headline-title">{headline_title}</div>')
         for chunk in body_chunks:
             cells.append(
                 f'<div class="headline-body"'
@@ -147,9 +144,7 @@ class NewsDigestBroadsheetMixin:
             )
 
         main_html = (
-            '<main class="main-grid">\n'
-            + "\n".join(cells)
-            + "\n</main>"
+            '<main class="main-grid">\n' + "\n".join(cells) + "\n</main>"
         )
 
         # ── Full HTML ──────────────────────────────────────────────────────
@@ -157,10 +152,11 @@ class NewsDigestBroadsheetMixin:
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Sri Lanka This Week \u2013 {_e(ts)}</title>
+  <title>This Week in Sri Lanka \u2013 {_e(ts)}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap"
         rel="stylesheet">
+  <link href="https://fonts.cdnfonts.com/css/chomsky" rel="stylesheet">
   <style>
     :root {{
       --maroon:  {_MAROON};
@@ -180,18 +176,27 @@ class NewsDigestBroadsheetMixin:
     }}
     header.masthead {{
       text-align: center;
+      font-family: 'Chomsky', serif;
       font-size: clamp(28pt, 5vw, 72pt);
-      font-weight: bold;
+      font-weight: normal;
       color: var(--maroon);
       margin-bottom: 6pt;
       line-height: 1.1;
+    }}
+    .dateline-wrapper {{
+      margin: 6pt 0 14pt;
+    }}
+    .dateline-rule {{
+      border: none;
+      border-top: 2px solid var(--maroon);
+      margin: 4pt 0;
     }}
     .dateline {{
       text-align: center;
       font-size: clamp(9pt, 1.2vw, 14pt);
       font-style: italic;
       color: var(--saffron);
-      margin-bottom: 14pt;
+      padding: 4pt 0;
     }}
     .page-grid {{
       display: grid;
@@ -255,8 +260,12 @@ class NewsDigestBroadsheetMixin:
   </style>
 </head>
 <body>
-  <header class="masthead">SRI LANKA THIS WEEK</header>
-  <div class="dateline">{_e(date_line)}</div>
+  <header class="masthead">This Week in Sri Lanka</header>
+  <div class="dateline-wrapper">
+    <hr class="dateline-rule">
+    <div class="dateline">{_e(date_line)}</div>
+    <hr class="dateline-rule">
+  </div>
   <div class="page-grid">
     {sidebar_html}
     {main_html}

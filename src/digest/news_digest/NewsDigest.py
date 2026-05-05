@@ -110,7 +110,7 @@ class NewsDigest(
 
     @staticmethod
     def get_title() -> str:
-        return "# 🇱🇰 Sri Lanka This Week"
+        return "# 🇱🇰 This Week in Sri Lanka"
 
     @staticmethod
     def get_description(used_articles) -> str:
