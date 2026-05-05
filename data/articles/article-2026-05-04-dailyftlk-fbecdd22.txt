@@ -1,0 +1,67 @@
+Urban water crisis in Greater Colombo
+
+“Urban water security in Colombo and Greater Colombo will depend not on how much water we receive, but on how intelligently we store, transfer, and manage it.”
+
+Recent statements by the National Water Supply and Drainage Board (NWSDB) underscore the severity of the emerging water crisis in Greater Colombo. Based on current consumption patterns, the Labugama Reservoir is estimated to sustain supply for only about 50 days, while the Kalatuwawa Reservoir may last just 20 to 22 days. These figures, though indicative, reveal a rapidly tightening water balance.
+
+The consequences are already visible. Several areas across Greater Colombo are experiencing prolonged water cuts exceeding 12 hours per day, including Padukka, Homagama, Maharagama, and Piliyandala. While such measures may be necessary in the short term, they reflect a system operating under considerable stress.
+
+Prevailing El Niño–like conditions have further aggravated the situation. Extended dry weather has significantly reduced inflows to these rain-fed reservoirs, leaving little scope for immediate replenishment. Under such conditions, even strict demand management can only delay, rather than prevent, further depletion.
+
+This is not merely a seasonal shortage. It exposes a deeper structural weakness in Colombo’s water supply system: the heavy reliance on small, hydrologically vulnerable reservoirs to serve a rapidly expanding urban population. The present crisis is therefore both a warning and an opportunity, highlighting the combined pressures of climate variability and rising demand, while underscoring the need for a more resilient long-term strategy.
+
+The Labugama and Kalatuwawa reservoirs were constructed between 1882 and 1886, when the population of Colombo and its suburbs was approximately 120,000. Today, Greater Colombo supports over 2 million people, alongside a growing industrial base. This dramatic increase has placed immense strain on water infrastructure that has seen only incremental expansion over more than a century. The result is a widening gap between supply  and demand, one that becomes most evident during extended dry periods.
+
+Insight: Infrastructure development has not kept pace with urban growth.
+
+Colombo’s water supply depends on a delicate balance between river abstraction and limited reservoir storage. The Kelani River, via the Ambatale intake, provides nearly half of the city’s daily requirement, approximately 550,000 to 590,000 cubic metres per day. In contrast, the Labugama and Kalatuwawa reservoirs function primarily as supplementary buffers rather than reliable long-term storage.
+
+This imbalance creates a system heavily dependent on continuous river flow. Under normal conditions, it functions adequately. However, during low-flow periods or when salinity intrusion restricts intake, the system becomes highly vulnerable.
+
+The recurring shortages in Colombo reveal a fundamental paradox: proximity to a major river does not guarantee water security. During dry periods, flows in the Kelani River decline significantly. Reduced freshwater discharge allows saline water to move upstream, affecting the Ambatale intake. Meanwhile, urban demand remains relatively constant, typically between 600,000 and 800,000 cubic metres per day. With limited storage available, the system cannot compensate for reduced river intake. The result is inevitable: supply interruptions and prolonged water cuts.
+
+The rapid depletion of Labugama and Kalatuwawa is driven by several interconnected factors. These reservoirs depend on small catchments and short-duration rainfall events. They fill quickly during intense rains but lack the capacity to sustain supply through extended dry periods. High temperatures further accelerate evaporation losses, while the absence of buffering mechanisms, such as groundwater recharge or inter-basin transfers, leaves the system exposed.
+
+The imbalance between supply and demand remains both significant and persistent. Daily water demand in Greater Colombo is estimated at 600,000 to 800,000 cubic metres. While the Kelani River supplies a large share, reservoir contributions remain limited.
+
+In effect, Colombo operates with minimal reserve capacity. Even short-term disruptions in river supply quickly translate into shortages—highlighting the fragility of the system.
+
+This vulnerability is particularly striking in the broader hydrological context of Sri Lanka. During periods of heavy rainfall, rivers such as the Kelani and Kalu Ganga discharge vast volumes of water to the sea—often far exceeding immediate needs.
+
+Yet, in the absence of systems to capture and store this excess, urban reservoirs remain critically dependent on direct rainfall. The result is a paradox: water is abundant at the national scale, yet scarce where and when it is most needed.
+
+The Ambatale Water Treatment Plant, drawing from the Kelani River, supplies nearly half of Greater Colombo’s water, making it the system’s most critical node. Yet during low river flows, it remains highly vulnerable to salinity intrusion and pollution.
+
+Protection currently relies on a temporary sandbag barrier, an expedient but fragile solution that requires constant maintenance and offers limited security under prolonged dry conditions.
+
+A permanent gated salinity barrier has long been proposed. Detailed designs were completed under the Climate Resilience Improvement Project(CRIP), following a design contract awarded in 2019. However, construction has yet to begin. Until a permanent solution is implemented, Ambatale will remain a major risk point in Colombo’s water supply system.
+
+Addressing the crisis requires a combination of short-, medium-, and long-term interventions. In the short term, priority should be given to demand management, reduction of system losses, and improved supply scheduling. In the medium term, efforts must focus on expanding storage capacity, particularly through off-stream reservoirs linked to the Kelani River, along with improvements to distribution efficiency.
+
+In the long term, a fundamental transformation is required. This includes integrating river basins such as the Kelani and Kalu Ganga into a coordinated supply network, supported by inter-basin transfers and national-level planning.
+
+A forward-looking solution lies in integrating water and energy systems. During periods of low reservoir levels, river water can be pumped into storage reservoirs using surplus daytime solar energy. This approach effectively converts surplus energy into stored water, creating a “water battery” that enhances system resilience. Pumping water into reservoirs is not useful when both rivers and reservoirs are already full. Its real benefit comes during low-storage periods.
+
+“In a nation blessed with both rainfall and sunlight, the real challenge is not resource scarcity, but the ability to integrate water and energy systems for long-term resilience.”
+
+The growing stress on water resources calls for more integrated approaches to resource management. One such opportunity lies in better utilisation of Sri Lanka’s expanding solar energy capacity. Current restrictions on rooftop solar, due to excess daytime generation, reflect a narrow perspective. This surplus energy should instead be viewed as a strategic asset.
+
+A practical solution is to use excess solar energy to pump water into key reservoirs such as Labugama and Kalatuwawa, as well as larger multipurpose reservoirs like Samanalawewa, Kotmale, Randenigala, and Rajanganaya. This transforms surplus energy into stored water, stabilising supply during dry periods.
+
+Floating solar systems offer additional benefits if implemented in major reservoirs. They generate renewable energy without competing for land, reduce evaporation losses, and improve efficiency through natural cooling. The generated electricity can be used to pump water back to reservoir. Thus, the reservoir act as a “water battery”.
+
+Together, rooftop solar, floating solar, and pumped storage create a powerful synergy between water and energy systems. Excess solar energy can store water, while surplus river flows during wet periods can be conserved instead of being lost to the sea.
+
+The challenges facing Greater Colombo cannot be resolved through isolated interventions. A coordinated national strategy is essential bringing together water supply, irrigation, and energy sectors within a unified framework.
+
+A National Urban Water Security Master Plan is critical to guide this transition. Without such a framework, incremental improvements will continue to fall short.
+
+The rapid depletion of Labugama and Kalatuwawa is not due to insufficient rainfall, but to a system overly dependent on passive storage. In a country endowed with both water and solar energy, recurring shortages reflect a failure of integration rather than a lack of resources.
+
+Sri Lanka’s urban water crisis, particularly in Greater Colombo, is ultimately a question of management. The country possesses both water and energy resources. What is lacking is a system that connects them effectively.
+
+A shift toward integrated, energy-assisted water management offers a viable path forward. By capturing excess water, utilising surplus solar energy, and investing in storage and transfer infrastructure, Colombo can transition from vulnerability to resilience.
+
+The challenge is not scarcity, but the absence of a system that connects surplus with need.
+
+(The author holds a B.Sc. in Agricultural Engineering from Tokyo University and M.Sc. in Soil and Water Management. from University of Wageningen. He was a  former Director of Natural Resources Management Centre, Department of Agriculture, Sri Lanka.He has worked with FAO in Sri Lanka and Bangladesh)

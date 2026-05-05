@@ -1,0 +1,37 @@
+When AI breaks the news: Trust cannot be automated
+
+Ultimately, we have to decide who gets to control the infrastructure of information. It is unrealistic, and probably undesirable, to imagine technology being removed entirely from public life. We can, and we must rethink the role it plays, and whose interests it serves.
+
+This May, UNESCO World Press Freedom Day and RightsCon were supposed to come together in Zambia against a backdrop of deep anxiety about the future of journalism and about whether anything resembling a shared digital public space can survive the next decade. Puzzlingly, or perhaps tellingly, the 5,000-people conference about human rights and freedom of expression was cancelled at the last moment.
+
+There are many ways both human rights and freedom of expression could easily vanish. Generative AI is just the latest mechanism pulling journalism further away from sustainability, but it may be the most disruptive yet. Increasingly, AI systems sit between newsrooms and audiences, answering users directly rather than referring them to original reporting. In the process, they flatten difference, scrape content without consent, and mash fact, speculation and outright falsehood into outputs that are difficult to verify and easy to manipulate. For media outlets already struggling to reach audiences and be fairly remunerated, this further erodes trust, accountability and visibility.
+
+At the same time, the story is not a simple one. For resource poor newsrooms, particularly in low-and-middle income countries, AI can be genuinely useful. It can help editors analyse audience data at speed, translate content into more local languages, sift large datasets for investigative work, and automate labour intensive tasks that small teams simply do not have capacity to handle.
+
+These benefits matter. Media organisations across Africa, Asia and Latin America are already using AI in pragmatic, often cautious ways and they will continue to do so. Ignoring that reality would mean ceding the future of journalism to actors far less concerned with public interest or democratic accountability.
+
+But in an asymmetric information ecosystem, where media viability is being systematically and deliberately undermined by weak policy, extractive technology and sustained political attacks, generative and agentic AI risks shattering the already fragile ties between journalists and the communities they serve. Those relationships are where trust lives. When they are broken, journalism loses relevance, and public life loses a shared sense of reality. Creativity, individuality and nuance are pushed to the margins, just as journalism becomes more necessary, not less.
+
+There are many ways both human rights and freedom of expression could easily vanish. Generative AI is just the latest mechanism pulling journalism further away from sustainability, but it may be the most disruptive yet
+
+This is not simply a media problem. And all this is before we get to what this means for democracy, political participation and international diplomacy. The unchecked spread of AI generated misinformation and hate speech is already corroding political participation and international diplomacy. It hollows out the shared narratives societies need to confront challenges that do not respect borders: climate change, conflict, public health. Without trustworthy information, and without spaces where people feel heard, democratic decisionmaking becomes impossible.
+
+Ultimately, we have to decide who gets to control the infrastructure of information. It is unrealistic, and probably undesirable, to imagine technology being removed entirely from public life. But we can and we must rethink the role it plays, and whose interests it serves.
+
+Some of the solutions to these digital problems may well come from the analogue age. They lie in rebuilding individual relationships, understanding local needs, and investing time in community trust: slow work that cannot be automated.
+
+Editors at Balobaki Check, a fact-checking website operating across the conflict affected eastern Democratic Republic of Congo, realised this early on. Much of the information people relied on arrived via WhatsApp, often without any way to verify its accuracy. The team initially assumed that sharing reliable news into these groups would be enough. It wasn’t. Trust only began to build when journalists spent time talking to people individually, listening first, and earning the right to be believed. This kind of journalism does not scale neatly, and it does not sit comfortably with platform-driven models built on extraction and speed. But it is precisely what resilient information ecosystems require.
+
+Project Kontinuum is creating a global movement around this idea: that journalism grounded in human connection, inclusion and relevance is worth sustained support, from funders, policymakers and the public alike. It is about recognising that technology should strengthen, not weaken, the bonds between people and reliable information.
+
+It requires a whole society approach and media organisations cannot shoulder this alone. Policymakers must address content licensing, data protection and competition in ways that do not further entrench platform power. Technology companies must be pressed, and regulated, to account for the systemic harms their products cause. Funders should invest in the unglamorous, long-term work of maintaining pluralistic, ethical and safe digital public spaces.
+
+For resource poor newsrooms, particularly in low-and-middle income countries, AI can be genuinely useful
+
+There is also urgent work to be done within the media sector itself. Rather than just passively absorbing each new technological shock that comes its way, journalism needs to help actively shape how AI is developed and deployed. That includes supporting newsroom led AI tools to address mis and disinformation, funding for collaborations and grants that promote inclusion, embedding AI literacy in journalism education, and ensuring media voices are present in policy debates that will shape the next generation of information infrastructure.
+
+We must invest in environments where many voices can be heard, where people can make informed decisions about their own lives, and where independent journalism remains a civic and humanitarian lifeline.
+
+The future of information will involve AI but whether it serves democracy or corrodes it is still an open question. The answer will be found in the choices we all make: about investment, regulation, collaboration and, above all, the value we place on journalism that recognises people not as data points, but as citizens.
+
+(Meera Selva is the Executive Director of Internews Europe and Branko Brkic is the Founder of Project Kontinuum)

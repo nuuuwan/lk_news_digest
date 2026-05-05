@@ -1,0 +1,53 @@
+Fuel, fairness,  and the myth of equality
+
+There is a line in Gorge Orwell’s Animal Farm that has endured long after the politics it satirised faded into history. The line goes, “All animals are equal, but some animals are more equal than others.”
+
+It is a line that feels increasingly relevant in Sri Lanka today, particularly in the way we allocate one of our most precious and constrained resources — fuel. At a time when the country is still managing scarcity, the question we should be asking is not who deserves fuel, but where fuel delivers the greatest national value.
+
+A vehicle that runs all day transporting multiple passengers across the city is not the same as a vehicle that makes a single trip and returns to base empty of passengers. A digitally dispatched ride that minimises empty mileage is not the same as a vehicle circling aimlessly in search of a fare. A shared journey that replaces three separate trips is not equivalent to three individual vehicles on the road.
+
+Yet, our current system treats them as if they are. This is not just inefficient. It is economically irrational.
+
+What platforms like PickMe have quietly built over the years is not merely a business model. It is a real-time, data-driven transport network, one that optimises routes, reduces idle time, and maximises the number of passengers moved per litre of fuel consumed.
+
+In simple terms, it does more with less. And in an economy where fuel is both scarce and expensive, that should matter.
+
+The irony is that this model, often misunderstood as purely commercial, aligns closely with principles that have long underpinned state thinking. At its core, the shared economy is about maximising the use of existing assets, reducing waste, and improving collective efficiency. It is about ensuring that resources are not underutilised in private silos, but deployed where they serve the most people.
+
+If anything, it is a modern, digital expression of ideas that governments have historically championed; only now backed by data, transparency, and accountability.
+
+Every trip on a ride-hailing platform is recorded. Every kilometre is tracked. Every litre of fuel consumed can, in theory, be linked to actual economic output. This is not an informal system. It is one of the most measurable segments of the transport ecosystem.
+
+Sri Lanka has already demonstrated, through its QR-based fuel distribution system, that it can deploy digital tools at scale. The next logical step is to move from equal distribution to efficient distribution.
+
+At a time when institutions such as the World Bank are supporting Sri Lanka’s digital transformation through initiatives such as the recently approved $ 50 million Digital Transformation Project, the direction of travel is clear. The focus is on practical, people-centric digital solutions that improve service delivery, strengthen systems, and create new opportunities for innovation.
+
+As Gevorg Sargsyan, World Bank Group Country Manager for Sri Lanka and Maldives, noted in a press release issued on 19 December 2025, “Digital transformation is a powerful driver of inclusive growth and better services. By investing in core digital platforms and skills, this project will improve how services are delivered to people and businesses and create new opportunities for private sector-led innovation.”
+
+Without the willingness to apply these tools to real-world policy decisions, their impact remains limited.
+
+This means recognising a simple truth: fuel allocated to high-utilisation, shared transport vehicles generates significantly greater economic and social value than fuel allocated to low-utilisation, private use.
+
+The metric is not complicated. It is the number of passenger kilometres delivered per litre of fuel. If a platform vehicle is moving three to four times as many people using the same litre of fuel, then allocating fuel to that vehicle is not preferential treatment. It is sound economic management.
+
+More importantly, it is a form of indirect public transport.
+
+In cities where formal transport systems are strained, inconsistent, or limited in reach, ride-hailing platforms have become a critical layer of mobility. They connect neighbourhoods that buses do not reach, provide price transparency to both locals and tourists, and enable thousands of drivers to operate as micro-entrepreneurs within a structured, traceable system.
+
+This is not a fringe activity. It is infrastructure. And yet, policy has not caught up with this reality.
+
+The current approach, rooted in the idea of equal allocation, risks creating the very inefficiency it seeks to avoid. By failing to differentiate between high-productivity and low-productivity fuel use, we inadvertently reward underutilisation and penalise efficiency.
+
+In doing so, we are not protecting fairness. We are undermining it.
+
+The opportunity before Sri Lanka is not just to digitise systems, but to govern differently using the intelligence those systems provide. The same digital capabilities now being developed to improve public service delivery, support startups, and encourage innovation can also be applied to something as immediate and impactful as fuel allocation.
+
+Fuel allocation must evolve from a static entitlement model to a dynamic, performance-based system. Vehicles that demonstrate higher utilisation, verified through platform data, should receive proportionally higher access. This is not about favouring one company over another. It is about favouring outcomes that benefit the country.
+
+Such a system would not only improve fuel efficiency but also reduce congestion, lower emissions per passenger, and support a more resilient urban transport network.
+
+Sri Lanka does not lack innovation. What it sometimes lacks is the willingness to recognise innovation when it emerges outside traditional frameworks. The shared economy is no longer an experiment. It is a functioning, measurable, and scalable solution to some of the country’s most pressing challenges. But are we prepared to act on it?
+
+Because in a time of scarcity, equality is not about giving everyone the same; it is about using what we have in the smartest way possible. The real question is whether we have the will to do so.
+
+(The author is the founder and CEO of Digital Mobility Solutions Lanka Ltd., the most successful tech-based startup in the country, which introduced the “PickMe” digital mobility solution app to Sri Lanka. He has been part of several tech companies in the country, including Anything.lk, Zulfer won the National Silver Award at the FCCISL Sri Lankan Entrepreneur of the Year 2018, the FCCISL Young Entrepreneur of the Year Award (April 2004) and the ICTA Young IT Professional Award (May 2006) for his efforts in technopreneurship)
