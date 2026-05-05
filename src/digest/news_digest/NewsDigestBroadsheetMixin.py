@@ -102,8 +102,8 @@ class NewsDigestBroadsheetMixin:
         level0 = [a for a in digest_article_list if a.get("level") == 0]
         level1 = [a for a in digest_article_list if a.get("level") == 1]
         level2_all = [a for a in digest_article_list if a.get("level") == 2]
-        level2 = self._cap_level2_by_budget(level2_all)
-        level2_overflow = level2_all[len(level2) :]
+        level2 = level2_all
+        level2_overflow = []
 
         # ── Layout planning ────────────────────────────────────────────────
         n_l1_rows = (len(level1) + 2) // 3 if level1 else 0
@@ -318,8 +318,7 @@ class NewsDigestBroadsheetMixin:
     compiled from articles across multiple sources and condensed using large
     language models. It is intended as a quick overview and may not reflect the
     full context of each story. For more details, see
-    <a href="https://github.com/nuuuwan/lk_news_digest">https://github.com/nuuuwan/lk_news_digest</a>
-    or scan the QR code above.
+    <a href="https://github.com/nuuuwan/lk_news_digest">https://github.com/nuuuwan/lk_news_digest</a>.
   </footer>
 </body>
 </html>"""
