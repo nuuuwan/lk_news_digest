@@ -1,6 +1,10 @@
 # 🇱🇰 This Week in Sri Lanka
 
+<<<<<<< HEAD
 ![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--05_11:53:02-green)
+=======
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--05_11:51:36-green)
+>>>>>>> d231072 (Update README and broadsheet styles; adjust article color coding)
 [![RSS](https://img.shields.io/badge/RSS-Feed-orange)](https://raw.githubusercontent.com/nuuuwan/lk_news_digest/refs/heads/main/rss.xml)
 [![Broadsheet](https://img.shields.io/badge/Broadsheet-View-darkred)](https://nuuuwan.github.io/lk_news_digest)
 
@@ -165,9 +169,15 @@ The platform brings together companies and officials to promote sector‑specifi
 99. `2026-05-01` Joint Opposition Alliance seeks probe into diesel procurement deal, alleges irregularities and losses [dailyftlk](https://www.ft.lk/opinion/Joint-Opposition-Alliance-seeks-probe-into-diesel-procurement-deal-alleges-irregularities-and-losses/14-791338)
 100. `2026-05-01` Cyber-crimes and management weaknesses [dailyftlk](https://www.ft.lk/columns/Cyber-crimes-and-management-weaknesses/4-791337)
 101. `2026-05-01` RDA joins “Vehicle Testing Can Save Lives” campaign [islandlk](http://island.lk/rda-joins-vehicle-testing-can-save-lives-campaign/)
+<<<<<<< HEAD
 102. `2026-05-01` Rupee depreciation having stock investors worried [islandlk](http://island.lk/rupee-depreciation-having-stock-investors-worried/)
 103. `2026-05-01` Doc990 introduces cashless channeling with Softlogic Life for corporate policyholders [islandlk](http://island.lk/doc990-introduces-cashless-channeling-with-softlogic-life-for-corporate-policyholders/)
 104. `2026-05-01` ‘Electric three-wheelers gain attention’ [islandlk](http://island.lk/electric-three-wheelers-gain-attention/)
+=======
+102. `2026-05-01` ‘Electric three-wheelers gain attention’ [islandlk](http://island.lk/electric-three-wheelers-gain-attention/)
+103. `2026-05-01` Doc990 introduces cashless channeling with Softlogic Life for corporate policyholders [islandlk](http://island.lk/doc990-introduces-cashless-channeling-with-softlogic-life-for-corporate-policyholders/)
+104. `2026-05-01` Rupee depreciation having stock investors worried [islandlk](http://island.lk/rupee-depreciation-having-stock-investors-worried/)
+>>>>>>> d231072 (Update README and broadsheet styles; adjust article color coding)
 105. `2026-05-01` CEAT Kelani launches GRIPP X5 and ZOOM X5 premium motorcycle tyres for Sri Lankan roads [islandlk](http://island.lk/ceat-kelani-launches-gripp-x5-and-zoom-x5-premium-motorcycle-tyres-for-sri-lankan-roads/)
 106. `2026-05-01` Sri Lanka’s real estate leaders to chart a 10-yr vision at RIUNIT forum [islandlk](http://island.lk/sri-lankas-real-estate-leaders-to-chart-a-10-yr-vision-at-riunit-forum/)
 107. `2026-05-01` Sanctity, rights and politics [islandlk](http://island.lk/sanctity-rights-and-politics/)
@@ -217,8 +227,8 @@ The platform brings together companies and officials to promote sector‑specifi
 151. `2026-04-29` Marshad Barry appointed Chairman of Waqf Board [dailyftlk](https://www.ft.lk/news/Marshad-Barry-appointed-Chairman-of-Waqf-Board/56-791220)
 152. `2026-04-29` Vesak Poya on 30 May: Govt. [dailyftlk](https://www.ft.lk/news/Vesak-Poya-on-30-May-Govt/56-791219)
 153. `2026-04-28` Powering through droughts and crises: Redesigning Sri Lanka’s energy resilience [islandlk](http://island.lk/powering-through-droughts-and-crises-redesigning-sri-lankas-energy-resilience/)
-154. `2026-04-28` N10NT Digital launches Island Impact to reposition Sri Lanka [islandlk](http://island.lk/n10nt-digital-launches-island-impact-to-reposition-sri-lanka/)
-155. `2026-04-28` Investors agonizing over rising Brent crude oil prices [islandlk](http://island.lk/investors-agonizing-over-rising-brent-crude-oil-prices/)
+154. `2026-04-28` Investors agonizing over rising Brent crude oil prices [islandlk](http://island.lk/investors-agonizing-over-rising-brent-crude-oil-prices/)
+155. `2026-04-28` N10NT Digital launches Island Impact to reposition Sri Lanka [islandlk](http://island.lk/n10nt-digital-launches-island-impact-to-reposition-sri-lanka/)
 156. `2026-04-28` Cambridge Award Ceremony 2026 successfully concluded at IIT–PDU [islandlk](http://island.lk/cambridge-award-ceremony-2026-successfully-concluded-at-iit-pdu/)
 157. `2026-04-28` ComBank secures Global Finance Asia-Pacific regional award for Circular Economy Commitment [islandlk](http://island.lk/combank-secures-global-finance-asia-pacific-regional-award-for-circular-economy-commitment/)
 158. `2026-04-28` Sterling Steels wins Merit Award at SLIA Annual Product Awards 2026 [islandlk](http://island.lk/sterling-steels-wins-merit-award-at-slia-annual-product-awards-2026/)

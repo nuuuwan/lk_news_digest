@@ -122,7 +122,7 @@ class NewsDigestBroadsheetMixin:
 
         # ── Sidebar ────────────────────────────────────────────────────────
         sidebar_items = "".join(
-            self._article_block(a, "saffron", body_pt) for a in level2
+            self._article_block(a, "green", body_pt) for a in level2
         )
         sidebar_html = f"""
     <aside class="sidebar">
@@ -145,17 +145,17 @@ class NewsDigestBroadsheetMixin:
         for a in level1:
             cells.append(
                 f'<div class="l1-cell">'
-                f'{self._article_block(a, "green", body_pt)}</div>'
+                f'{self._article_block(a, "saffron", body_pt)}</div>'
             )
         for a in overflow_in_last_row:
             cells.append(
                 f'<div class="l1-cell overflow">'
-                f'{self._article_block(a, "saffron", body_pt)}</div>'
+                f'{self._article_block(a, "green", body_pt)}</div>'
             )
         for a in overflow_extra:
             cells.append(
                 f'<div class="l1-cell overflow">'
-                f'{self._article_block(a, "saffron", body_pt)}</div>'
+                f'{self._article_block(a, "green", body_pt)}</div>'
             )
 
         main_html = (
@@ -264,8 +264,8 @@ class NewsDigestBroadsheetMixin:
       line-height: 1.2;
     }}
     .article-title.maroon {{ font-size: clamp(18pt, 3vw, 48pt);  color: var(--maroon);  }}
-    .article-title.saffron {{ font-size: clamp(8pt,  0.9vw, 12pt); color: var(--saffron); }}
-    .article-title.green   {{ font-size: clamp(11pt, 1.6vw, 24pt); color: var(--green);   }}
+    .article-title.saffron {{ font-size: clamp(11pt, 1.6vw, 24pt); color: var(--saffron); }}
+    .article-title.green   {{ font-size: clamp(8pt,  0.9vw, 12pt); color: var(--green);   }}
     .article-body {{
       text-align: justify;
       margin-bottom: 10pt;
