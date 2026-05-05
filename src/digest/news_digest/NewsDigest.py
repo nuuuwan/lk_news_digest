@@ -121,21 +121,34 @@ class NewsDigest(NewsDigestReadMeMixin, NewsDigestRSSMixin):
         )
 
     def build(self):
+        ut = Time.now().ut
+        date_ts = TimeFormat.DATE_ID.format(Time(ut))
+        time_ts = TimeFormat.TIME_ID.format(Time(ut))
+
+        readme_history_path = self.get_history_path(time_ts)
+        if os.path.exists(readme_history_path):
+            log.info(f"README for {time_ts} already exists. Skipping.")
+            return
+
         news_article_content, used_articles = (
             self.__get_news_article_content__()
         )
         system_prompt = self.__get_system_prompt__()
-        ut = Time.now().ut
-        ts = TimeFormat.DATE_ID.format(Time(ut))
-        digest_path = os.path.join(NewsDigest.DIR_DIGESTS, f"digest.{ts}.json")
-        if os.path.exists(digest_path):
-            log.info(f"Digest for {ts} already exists. Skipping.")
-            return
-        digest_article_list = self.__get_digest_article_list__(
-            system_prompt, news_article_content, ts, digest_path
+
+        digest_path = os.path.join(
+            NewsDigest.DIR_DIGESTS, f"digest.{date_ts}.json"
         )
+        if os.path.exists(digest_path):
+            log.info(
+                f"Digest for {date_ts} already exists. Loading from file."
+            )
+            digest_article_list = JSONFile(digest_path).read()
+        else:
+            digest_article_list = self.__get_digest_article_list__(
+                system_prompt, news_article_content, date_ts, digest_path
+            )
 
         self.build_readme(
-            used_articles, system_prompt, ts, digest_article_list
+            used_articles, system_prompt, time_ts, digest_article_list
         )
-        self.build_rss(used_articles, digest_article_list, ut, ts)
+        self.build_rss(used_articles, digest_article_list, ut, time_ts)
