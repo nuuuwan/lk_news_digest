@@ -92,9 +92,7 @@ class NewsDigestBroadsheetMixin:
             end_no_year = f"{end_dt.strftime('%A')} the {_ordinal(end_dt.day)} of {end_dt.strftime('%B')}"
             dateline_left = f"Week {week_num}, {year}"
             dateline_center = f"{end_no_year}"
-            dateline_right = (
-                f"AI Summary of {len(used_articles):,} Articles"
-            )
+            dateline_right = f"AI Summary of {len(used_articles):,} Articles"
         else:
             dateline_left = ""
             dateline_center = ts
