@@ -73,15 +73,12 @@ class NewsDigestBroadsheetMixin:
         return chunks
 
     @staticmethod
-    def _article_block(article, title_class, body_pt):
+    def _article_block(article, title_class):
         title = _e(article["title"])
         body = _e(article.get("body", ""))
         html = f'<div class="article-title {title_class}">{title}</div>'
         if body:
-            html += (
-                f'<div class="article-body" style="font-size:{body_pt}pt">'
-                f"{body}</div>"
-            )
+            html += f'<div class="article-body">{body}</div>'
         return html
 
     def build_broadsheet(self, digest_article_list, ts, used_articles=None):
@@ -118,11 +115,9 @@ class NewsDigestBroadsheetMixin:
         overflow_extra = level2_overflow[overflow_slots:]
         n_extra_rows = (len(overflow_extra) + 2) // 3 if overflow_extra else 0
 
-        body_pt = 12
-
         # ── Sidebar ────────────────────────────────────────────────────────
         sidebar_items = "".join(
-            self._article_block(a, "green", body_pt) for a in level2
+            self._article_block(a, "green") for a in level2
         )
         sidebar_html = f"""
     <aside class="sidebar">
@@ -138,24 +133,21 @@ class NewsDigestBroadsheetMixin:
         cells = []
         cells.append(f'<div class="headline-title">{headline_title}</div>')
         for chunk in body_chunks:
-            cells.append(
-                f'<div class="headline-body"'
-                f' style="font-size:{body_pt}pt">{_e(chunk)}</div>'
-            )
+            cells.append(f'<div class="headline-body">{_e(chunk)}</div>')
         for a in level1:
             cells.append(
                 f'<div class="l1-cell">'
-                f'{self._article_block(a, "saffron", body_pt)}</div>'
+                f'{self._article_block(a, "saffron")}</div>'
             )
         for a in overflow_in_last_row:
             cells.append(
                 f'<div class="l1-cell overflow">'
-                f'{self._article_block(a, "green", body_pt)}</div>'
+                f'{self._article_block(a, "green")}</div>'
             )
         for a in overflow_extra:
             cells.append(
                 f'<div class="l1-cell overflow">'
-                f'{self._article_block(a, "green", body_pt)}</div>'
+                f'{self._article_block(a, "green")}</div>'
             )
 
         main_html = (
@@ -185,7 +177,7 @@ class NewsDigestBroadsheetMixin:
     *, *::before, *::after {{ box-sizing: border-box; margin: 0; padding: 0; }}
     body {{
       font-family: 'Lora', serif;
-      font-size: {body_pt}pt;
+      font-size: clamp(9pt, 1vw, 12pt);
       color: var(--black);
       background: #fff;
       max-width: 100%;

@@ -2,6 +2,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--05_11:53:02-green)
 =======
 ![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--05_11:51:36-green)
@@ -9,6 +10,9 @@
 =======
 ![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--05_11:53:56-green)
 >>>>>>> 3b7f21c (Update RSS feed and add news digest for May 5, 2026)
+=======
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--05_11:55:44-green)
+>>>>>>> 773e9f6 (Update README and RSS feed for May 5, 2026; adjust article block rendering in Broadsheet mixin)
 [![RSS](https://img.shields.io/badge/RSS-Feed-orange)](https://raw.githubusercontent.com/nuuuwan/lk_news_digest/refs/heads/main/rss.xml)
 [![Broadsheet](https://img.shields.io/badge/Broadsheet-View-darkred)](https://nuuuwan.github.io/lk_news_digest)
 
@@ -126,8 +130,8 @@ The programme featured the exchange of cooperation documents across several sect
 52. `2026-05-03` Elegant Mother’s Day brunch at Graze Kitchen [islandlk](http://island.lk/elegant-mothers-day-brunch-at-graze-kitchen/)
 53. `2026-05-03` Union Bank records strong start to 2026 with PBT of LKR 465 mn [islandlk](http://island.lk/union-bank-records-strong-start-to-2026-with-pbt-of-lkr-465-mn/)
 54. `2026-05-03` Nations Trust Bank completes transfer of HSBC Sri Lanka’s Retail Banking Business to its portfolio [islandlk](http://island.lk/nations-trust-bank-completes-transfer-of-hsbc-sri-lankas-retail-banking-business-to-its-portfolio/)
-55. `2026-05-03` Amana Takaful named Sri Lanka’s Most Awarded Insurance Company [islandlk](http://island.lk/amana-takaful-named-sri-lankas-most-awarded-insurance-company/)
-56. `2026-05-03` Fifty ninth ADB Annual Meet opens in Samarkand amid global uncertainty [islandlk](http://island.lk/fifty-ninth-adb-annual-meet-opens-in-samarkand-amid-global-uncertainty/)
+55. `2026-05-03` Fifty ninth ADB Annual Meet opens in Samarkand amid global uncertainty [islandlk](http://island.lk/fifty-ninth-adb-annual-meet-opens-in-samarkand-amid-global-uncertainty/)
+56. `2026-05-03` Amana Takaful named Sri Lanka’s Most Awarded Insurance Company [islandlk](http://island.lk/amana-takaful-named-sri-lankas-most-awarded-insurance-company/)
 57. `2026-05-03` May Day: From Workers’ Struggle To Political Spectacle — A Call To Reclaim Its True Spirit [colombotelegraphcom](https://www.colombotelegraph.com/index.php/may-day-from-workers-struggle-to-political-spectacle-a-call-to-reclaim-its-true-spirit/)
 58. `2026-05-03` Walk For Peace: An Eventful Week In Focus (21st – 28th April) – Part II [colombotelegraphcom](https://www.colombotelegraph.com/index.php/walk-for-peace-an-eventful-week-in-focus-21st-28th-april-part-ii/)
 59. `2026-05-03` Sri Lanka Cannot Keep Delaying Justice For The Forced Cremation Crime! [colombotelegraphcom](https://www.colombotelegraph.com/index.php/sri-lanka-cannot-keep-delaying-justice-for-the-forced-cremation-crime/)
@@ -137,12 +141,17 @@ The programme featured the exchange of cooperation documents across several sect
 63. `2026-05-02` Dialog Surpasses 1,000 5G Sites, Strengthening Nationwide 5G Coverage [islandlk](http://island.lk/dialog-surpasses-1000-5g-sites-strengthening-nationwide-5g-coverage/)
 64. `2026-05-02` How Online Shoppers Navigate Labels [islandlk](http://island.lk/how-online-shoppers-navigate-labels/)
 65. `2026-05-02` Pioneer of Sri Lankan Abstract Art [islandlk](http://island.lk/pioneer-of-sri-lankan-abstract-art/)
+<<<<<<< HEAD
 66. `2026-05-02` BALIFICATION: Interior designers in a dying garden [islandlk](http://island.lk/balification-interior-designers-in-a-dying-garden/)
 <<<<<<< HEAD
 67. `2026-05-02` Gaemi Pata art exhibitionin Colombo on May 16-17 [islandlk](http://island.lk/gaemi-pata-art-exhibitionin-colombo-on-may-16-17/)
 68. `2026-05-02` ‘Monks’ in Cartel and Our Hacked Republic [islandlk](http://island.lk/monks-in-cartel-and-our-hacked-republic/)
 =======
 67. `2026-05-02` ‘Monks’ in Cartel and Our Hacked Republic [islandlk](http://island.lk/monks-in-cartel-and-our-hacked-republic/)
+=======
+66. `2026-05-02` ‘Monks’ in Cartel and Our Hacked Republic [islandlk](http://island.lk/monks-in-cartel-and-our-hacked-republic/)
+67. `2026-05-02` BALIFICATION: Interior designers in a dying garden [islandlk](http://island.lk/balification-interior-designers-in-a-dying-garden/)
+>>>>>>> 773e9f6 (Update README and RSS feed for May 5, 2026; adjust article block rendering in Broadsheet mixin)
 68. `2026-05-02` Gaemi Pata art exhibitionin Colombo on May 16-17 [islandlk](http://island.lk/gaemi-pata-art-exhibitionin-colombo-on-may-16-17/)
 >>>>>>> 3b7f21c (Update RSS feed and add news digest for May 5, 2026)
 69. `2026-05-02` Presidential and parliamentary elections in 2010 [islandlk](http://island.lk/presidential-and-parliamentary-elections-in-2010/)
@@ -155,13 +164,13 @@ The programme featured the exchange of cooperation documents across several sect
 76. `2026-05-02` Key To NDB Fraud Is Disclosure Of Reason For Resignation Of Board Director Shanil Fernando [colombotelegraphcom](https://www.colombotelegraph.com/index.php/key-to-ndb-fraud-is-disclosure-of-reason-for-resignation-of-board-director-shanil-fernando/)
 77. `2026-05-02` Walk For Peace: An Eventful Week In Focus (21st – 28th April) [colombotelegraphcom](https://www.colombotelegraph.com/index.php/walk-for-peace-an-eventful-week-in-focus-21st-28th-april/)
 78. `2026-05-01` Pan Asia Bank partners in ‘Life to Our Beaches’ initiative [islandlk](http://island.lk/pan-asia-bank-partners-in-life-to-our-beaches-initiative/)
-79. `2026-05-01` SHEvolve ’26: Empowering conversations, inspiring change [islandlk](http://island.lk/shevolve-26-empowering-conversations-inspiring-change/)
-80. `2026-05-01` SINGER introduces the new Apple MacBook Neo Series [islandlk](http://island.lk/singer-introduces-the-new-apple-macbook-neo-series/)
-81. `2026-05-01` JXG debuts on CSE’s Main Board [islandlk](http://island.lk/jxg-debuts-on-cses-main-board/)
+79. `2026-05-01` SINGER introduces the new Apple MacBook Neo Series [islandlk](http://island.lk/singer-introduces-the-new-apple-macbook-neo-series/)
+80. `2026-05-01` JXG debuts on CSE’s Main Board [islandlk](http://island.lk/jxg-debuts-on-cses-main-board/)
+81. `2026-05-01` SHEvolve ’26: Empowering conversations, inspiring change [islandlk](http://island.lk/shevolve-26-empowering-conversations-inspiring-change/)
 82. `2026-05-01` Browns Hotels & Resorts raises the bar with Quintessential Bartender 2026 [islandlk](http://island.lk/browns-hotels-resorts-raises-the-bar-with-quintessential-bartender-2026/)
 83. `2026-05-01` CINEC invites students to build future careers as social scientists [islandlk](http://island.lk/cinec-invites-students-to-build-future-careers-as-social-scientists/)
-84. `2026-05-01` DFCC Bank strengthens Middle East remittance corridor [islandlk](http://island.lk/dfcc-bank-strengthens-middle-east-remittance-corridor/)
-85. `2026-05-01` POIA highlights economic importance of palm oil to Sri Lanka’s development agenda [islandlk](http://island.lk/poia-highlights-economic-importance-of-palm-oil-to-sri-lankas-development-agenda/)
+84. `2026-05-01` POIA highlights economic importance of palm oil to Sri Lanka’s development agenda [islandlk](http://island.lk/poia-highlights-economic-importance-of-palm-oil-to-sri-lankas-development-agenda/)
+85. `2026-05-01` DFCC Bank strengthens Middle East remittance corridor [islandlk](http://island.lk/dfcc-bank-strengthens-middle-east-remittance-corridor/)
 86. `2026-05-01` Where do funds come from? [islandlk](http://island.lk/where-do-funds-come-from/)
 87. `2026-05-01` In Memoriam – Suriya Wickremasinghe: A Life in Service Of Justice, Rights & Human Dignity [colombotelegraphcom](https://www.colombotelegraph.com/index.php/in-memoriam-suriya-wickremasinghe-a-life-in-service-of-justice-rights-human-dignity/)
 88. `2026-05-01` Govt. to hold 21 May Day rallies across island [dailyftlk](https://www.ft.lk/news/Govt-to-hold-21-May-Day-rallies-across-island/56-791351)
@@ -178,6 +187,7 @@ The programme featured the exchange of cooperation documents across several sect
 99. `2026-05-01` Joint Opposition Alliance seeks probe into diesel procurement deal, alleges irregularities and losses [dailyftlk](https://www.ft.lk/opinion/Joint-Opposition-Alliance-seeks-probe-into-diesel-procurement-deal-alleges-irregularities-and-losses/14-791338)
 100. `2026-05-01` Cyber-crimes and management weaknesses [dailyftlk](https://www.ft.lk/columns/Cyber-crimes-and-management-weaknesses/4-791337)
 <<<<<<< HEAD
+<<<<<<< HEAD
 101. `2026-05-01` RDA joins “Vehicle Testing Can Save Lives” campaign [islandlk](http://island.lk/rda-joins-vehicle-testing-can-save-lives-campaign/)
 <<<<<<< HEAD
 102. `2026-05-01` Rupee depreciation having stock investors worried [islandlk](http://island.lk/rupee-depreciation-having-stock-investors-worried/)
@@ -189,6 +199,10 @@ The programme featured the exchange of cooperation documents across several sect
 =======
 101. `2026-05-01` Doc990 introduces cashless channeling with Softlogic Life for corporate policyholders [islandlk](http://island.lk/doc990-introduces-cashless-channeling-with-softlogic-life-for-corporate-policyholders/)
 102. `2026-05-01` RDA joins “Vehicle Testing Can Save Lives” campaign [islandlk](http://island.lk/rda-joins-vehicle-testing-can-save-lives-campaign/)
+=======
+101. `2026-05-01` RDA joins “Vehicle Testing Can Save Lives” campaign [islandlk](http://island.lk/rda-joins-vehicle-testing-can-save-lives-campaign/)
+102. `2026-05-01` Doc990 introduces cashless channeling with Softlogic Life for corporate policyholders [islandlk](http://island.lk/doc990-introduces-cashless-channeling-with-softlogic-life-for-corporate-policyholders/)
+>>>>>>> 773e9f6 (Update README and RSS feed for May 5, 2026; adjust article block rendering in Broadsheet mixin)
 103. `2026-05-01` ‘Electric three-wheelers gain attention’ [islandlk](http://island.lk/electric-three-wheelers-gain-attention/)
 >>>>>>> 3b7f21c (Update RSS feed and add news digest for May 5, 2026)
 104. `2026-05-01` Rupee depreciation having stock investors worried [islandlk](http://island.lk/rupee-depreciation-having-stock-investors-worried/)
@@ -247,8 +261,8 @@ The programme featured the exchange of cooperation documents across several sect
 156. `2026-04-28` Cambridge Award Ceremony 2026 successfully concluded at IIT–PDU [islandlk](http://island.lk/cambridge-award-ceremony-2026-successfully-concluded-at-iit-pdu/)
 157. `2026-04-28` ComBank secures Global Finance Asia-Pacific regional award for Circular Economy Commitment [islandlk](http://island.lk/combank-secures-global-finance-asia-pacific-regional-award-for-circular-economy-commitment/)
 158. `2026-04-28` Sterling Steels wins Merit Award at SLIA Annual Product Awards 2026 [islandlk](http://island.lk/sterling-steels-wins-merit-award-at-slia-annual-product-awards-2026/)
-159. `2026-04-28` Aitken Spence Elevators and CINEC usher in a new era for Sri Lanka’s elevator industry [islandlk](http://island.lk/aitken-spence-elevators-and-cinec-usher-in-a-new-era-for-sri-lankas-elevator-industry/)
-160. `2026-04-28` Mattala Wildlife Unit to boost revenue, tourism and investor confidence [islandlk](http://island.lk/mattala-wildlife-unit-to-boost-revenue-tourism-and-investor-confidence/)
+159. `2026-04-28` Mattala Wildlife Unit to boost revenue, tourism and investor confidence [islandlk](http://island.lk/mattala-wildlife-unit-to-boost-revenue-tourism-and-investor-confidence/)
+160. `2026-04-28` Aitken Spence Elevators and CINEC usher in a new era for Sri Lanka’s elevator industry [islandlk](http://island.lk/aitken-spence-elevators-and-cinec-usher-in-a-new-era-for-sri-lankas-elevator-industry/)
 161. `2026-04-28` Buddhist philosophy and the path to lasting peace [islandlk](http://island.lk/buddhist-philosophy-and-the-path-to-lasting-peace/)
 162. `2026-04-28` Concept of living wage and cost of living [islandlk](http://island.lk/concept-of-living-wage-and-cost-of-living/)
 163. `2026-04-28` Stop mob intimidation [islandlk](http://island.lk/stop-mob-intimidation/)

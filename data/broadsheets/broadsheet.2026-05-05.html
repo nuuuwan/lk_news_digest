@@ -19,7 +19,7 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
       font-family: 'Lora', serif;
-      font-size: 12pt;
+      font-size: clamp(9pt, 1vw, 12pt);
       color: var(--black);
       background: #fff;
       max-width: 100%;
@@ -56,12 +56,12 @@
     .dateline-right { text-align: right;  flex: 1; }
     .page-grid {
       display: grid;
-      grid-template-columns: 25% 75%;
+      grid-template-columns: 75% 25%;
       gap: 0;
     }
     /* ── Sidebar ── */
     .sidebar {
-      padding: 0 1% 0 0;
+      padding: 0 0 0 1%;
     }
     .section-label {
       font-size: clamp(9pt, 1vw, 14pt);
@@ -74,7 +74,7 @@
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       column-gap: 1%;
-      padding-left: 1%;
+      padding-right: 1%;
     }
     .headline-title {
       grid-column: 1 / 4;
@@ -98,8 +98,8 @@
       line-height: 1.2;
     }
     .article-title.maroon { font-size: clamp(18pt, 3vw, 48pt);  color: var(--maroon);  }
-    .article-title.saffron { font-size: clamp(8pt,  0.9vw, 12pt); color: var(--saffron); }
-    .article-title.green   { font-size: clamp(11pt, 1.6vw, 24pt); color: var(--green);   }
+    .article-title.saffron { font-size: clamp(11pt, 1.6vw, 24pt); color: var(--saffron); }
+    .article-title.green   { font-size: clamp(8pt,  0.9vw, 12pt); color: var(--green);   }
     .article-body {
       text-align: justify;
       margin-bottom: 10pt;
@@ -141,25 +141,25 @@
   <div class="dateline-wrapper">
     <hr class="dateline-rule">
     <div class="dateline">
-      <span class="dateline-left">Week 19, 2026</span>
-      <span class="dateline-center">Week ending Tuesday the 5th of May</span>
-      <span class="dateline-right">AI-generated summary of 2 articles</span>
+      <span class="dateline-left"></span>
+      <span class="dateline-center">2026-05-05</span>
+      <span class="dateline-right"></span>
     </div>
     <hr class="dateline-rule">
   </div>
   <div class="page-grid">
+    <main class="main-grid">
+<div class="headline-title">Headline.</div>
+<div class="headline-body">Body Body Body Body Body Body Body Body Body Body Body Body Body</div>
+<div class="headline-body">Body Body Body Body Body Body Body Body Body Body Body Body Body</div>
+<div class="headline-body">Body Body Body Body Body Body Body Body Body Body Body Body Body Body</div>
+<div class="l1-cell"><div class="article-title saffron">Story A.</div><div class="article-body">Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail </div></div>
+</main>
     
     <aside class="sidebar">
       <div class="section-label">OTHER NEWS</div>
-      <div class="article-title saffron">Other</div><div class="article-body" style="font-size:12pt">Short.</div>
+      <div class="article-title green">Other.</div><div class="article-body">Short.</div>
     </aside>
-    <main class="main-grid">
-<div class="headline-title">Headline</div>
-<div class="headline-body" style="font-size:12pt">Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body</div>
-<div class="headline-body" style="font-size:12pt">Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body</div>
-<div class="headline-body" style="font-size:12pt">Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body Body</div>
-<div class="l1-cell"><div class="article-title green">Story A</div><div class="article-body" style="font-size:12pt">Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail Detail </div></div>
-</main>
   </div>
   <footer>
     <a href="https://github.com/nuuuwan/lk_news_digest">
