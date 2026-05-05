@@ -44,3 +44,17 @@ jobs:
           git commit -m "🤖 [build.yml] $(date '+%Y-%m-%d-%H%M')" || echo "No changes to commit"
 
           git push origin main
+
+      - name: 📄 Prepare GitHub Pages
+        run: |
+          mkdir -p /tmp/gh-pages
+          latest=$(ls -t data/broadsheets/broadsheet.*.html | head -1)
+          cp "$latest" /tmp/gh-pages/index.html
+
+      - name: 🚀 Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.REPO_DATA_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: /tmp/gh-pages
+          force_orphan: true
