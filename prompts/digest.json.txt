@@ -8,6 +8,10 @@ You will be given several Sri Lankan news articles from the past week. Write a c
 }
 ```
 
+**Source article eligibility:**
+- Only include content from articles published within the past 7 days. Discard any article that is older than one week relative to the current date.
+- Only include content from an article if it is genuinely informative to the general reader — i.e., it reports a concrete event, data point, policy change, or development that affects people's lives, the economy, public institutions, or the environment. Exclude articles whose primary purpose is promotional, advertorial, or product/event marketing — including sponsored content, press releases repackaged as news, corporate announcements framed as journalism, tourism promotions, and lifestyle features with no public-interest dimension. If an article contains a mix of promotional and genuinely informative content, extract and use only the informative elements, discarding the rest.
+
 **Length and hierarchy:** The digest contains exactly 13 items, organised by editorial importance using a "rule of power 3": one item at level 0, three items at level 1, and nine items at level 2. Each item carries a `"level"` field set to 0, 1, or 2 accordingly. Body length scales with level: the level-0 item should be 4–5 sentences; level-1 items 3–4 sentences each; level-2 items 1–2 sentences each. Total word count across all bodies should be roughly 900–1100 words.
 
 **Titles and body as a single continuous narrative:** Write each item so that the title is the opening sentence and the body continues directly from it — together they form one unbroken piece of prose. The title must end with a full stop. No fact, figure, or proper noun introduced in the title should be repeated in the body. The body picks up where the title leaves off, adding new information only.
