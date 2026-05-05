@@ -129,11 +129,6 @@ class NewsDigest(
         ut = Time.now().ut
         date_ts = TimeFormat.DATE_ID.format(Time(ut))
 
-        readme_history_path = self.get_history_path(date_ts)
-        if os.path.exists(readme_history_path):
-            log.info(f"README for {date_ts} already exists. Skipping.")
-            return
-
         news_article_content, used_articles = (
             self.__get_news_article_content__()
         )

@@ -175,12 +175,12 @@ class NewsDigestBroadsheetMixin:
       font-size: {body_pt}pt;
       color: var(--black);
       background: #fff;
-      width: 59.4cm;
-      padding: 2.54cm;
+      max-width: 100%;
+      padding: 2%;
     }}
     header.masthead {{
       text-align: center;
-      font-size: 72pt;
+      font-size: clamp(28pt, 5vw, 72pt);
       font-weight: bold;
       color: var(--maroon);
       margin-bottom: 6pt;
@@ -188,35 +188,36 @@ class NewsDigestBroadsheetMixin:
     }}
     .dateline {{
       text-align: center;
-      font-size: 14pt;
+      font-size: clamp(9pt, 1.2vw, 14pt);
       font-style: italic;
       color: var(--saffron);
       margin-bottom: 14pt;
     }}
     .page-grid {{
       display: grid;
-      grid-template-columns: 1fr 3fr;
+      grid-template-columns: 25% 75%;
+      gap: 0;
     }}
     /* ── Sidebar ── */
     .sidebar {{
-      padding-right: 14pt;
+      padding: 0 1% 0 0;
     }}
     .section-label {{
-      font-size: 14pt;
+      font-size: clamp(9pt, 1vw, 14pt);
       font-weight: bold;
-      color: var(--saffron);
+      color: var(--green);
       margin-bottom: 8pt;
     }}
     /* ── Main 3-column grid ── */
     .main-grid {{
       display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
-      column-gap: 14pt;
-      padding-left: 14pt;
+      grid-template-columns: repeat(3, 1fr);
+      column-gap: 1%;
+      padding-left: 1%;
     }}
     .headline-title {{
       grid-column: 1 / 4;
-      font-size: 48pt;
+      font-size: clamp(18pt, 3vw, 48pt);
       font-weight: bold;
       color: var(--maroon);
       line-height: 1.1;
@@ -235,9 +236,9 @@ class NewsDigestBroadsheetMixin:
       margin-bottom: 4pt;
       line-height: 1.2;
     }}
-    .article-title.maroon {{ font-size: 48pt; color: var(--maroon); }}
-    .article-title.saffron {{ font-size: 12pt; color: var(--saffron); }}
-    .article-title.green   {{ font-size: 24pt; color: var(--green);   }}
+    .article-title.maroon {{ font-size: clamp(18pt, 3vw, 48pt);  color: var(--maroon);  }}
+    .article-title.saffron {{ font-size: clamp(8pt,  0.9vw, 12pt); color: var(--saffron); }}
+    .article-title.green   {{ font-size: clamp(11pt, 1.6vw, 24pt); color: var(--green);   }}
     .article-body {{
       text-align: justify;
       margin-bottom: 10pt;
