@@ -103,6 +103,8 @@ class NewsDigestBroadsheetMixin:
         level1 = [a for a in digest_article_list if a.get("level") == 1]
         level2_all = [a for a in digest_article_list if a.get("level") == 2]
         level2 = self._cap_level2_by_budget(level2_all)
+        level2_left = level2[:3]
+        level2_sidebar = level2[3:]
         level2_overflow = level2_all[len(level2):]
 
         # ── Layout planning ────────────────────────────────────────────────
@@ -115,11 +117,10 @@ class NewsDigestBroadsheetMixin:
 
         # ── Sidebar ────────────────────────────────────────────────────────
         sidebar_items = "".join(
-            self._article_block(a, "green") for a in level2
+            self._article_block(a, "green") for a in level2_sidebar
         )
         sidebar_html = f"""
     <aside class="sidebar">
-      <div class="section-label">OTHER NEWS</div>
       {sidebar_items}
     </aside>"""
 
@@ -136,6 +137,11 @@ class NewsDigestBroadsheetMixin:
             cells.append(
                 f'<div class="l1-cell">'
                 f'{self._article_block(a, "saffron")}</div>'
+            )
+        for a in level2_left:
+            cells.append(
+                f'<div class="l1-cell">'
+                f'{self._article_block(a, "green")}</div>'
             )
         for a in overflow_in_last_row:
             cells.append(
@@ -215,6 +221,7 @@ class NewsDigestBroadsheetMixin:
       display: grid;
       grid-template-columns: 75% 25%;
       gap: 0;
+      align-items: start;
     }}
     /* ── Sidebar ── */
     .sidebar {{
