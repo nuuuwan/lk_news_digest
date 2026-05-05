@@ -8,43 +8,52 @@ You will be given several Sri Lankan news articles from the past week. Write a c
 }
 
 **Source article eligibility:**
-- Only include content from articles published within the past 7 days. Discard any article that is older than one week relative to the current date.
-- Only include content from an article if it is genuinely informative to the general reader — i.e., it reports a concrete event, data point, policy change, or development that affects people's lives, the economy, public institutions, or the environment. Exclude articles whose primary purpose is promotional, advertorial, or product/event marketing — including sponsored content, press releases repackaged as news, corporate announcements framed as journalism, tourism promotions, and lifestyle features with no public-interest dimension. If an article contains a mix of promotional and genuinely informative content, extract and use only the informative elements, discarding the rest.
+- Only include content from articles published within the past 7 days. Discard any article older than one week relative to the current date.
+- Only include genuinely informative content — concrete events, data points, policy changes, or developments that affect people's lives, the economy, public institutions, or the environment. Exclude promotional, advertorial, or marketing material, including sponsored content, press releases repackaged as news, corporate announcements framed as journalism, tourism promotions, and lifestyle features with no public-interest dimension. If an article mixes promotional and informative content, use only the informative elements.
 
-**Length and hierarchy:** The digest contains exactly 13 items, organised by editorial importance using a "rule of power 3": one item at level 0, three items at level 1, and nine items at level 2. Each item carries a "level" field set to 0, 1, or 2 accordingly. Body length scales with level: the level-0 item should be 4–5 sentences across 2–3 paragraphs; level-1 items 3–4 sentences across 2–3 paragraphs each; level-2 items 1–2 sentences in a single paragraph. Total word count across all body paragraphs should be roughly 900–1100 words.
+**Length and hierarchy:** The digest contains exactly 13 items, organised by editorial importance: one item at level 0, three at level 1, and nine at level 2. Each item carries a "level" field set to 0, 1, or 2. Body length scales with level: the level-0 item should have 2-3 paragraphs of 2 sentences each; level-1 items 2 paragraphs of 2 sentences each; level-2 items 1 paragraph of 1-2 sentences. Total word count across all body paragraphs should be roughly 700-900 words.
 
-**Titles and body as a single continuous narrative:** Write each item so that the title is the opening sentence and the first paragraph of body_paragraphs continues directly from it — together they form one unbroken piece of prose. The title must end with a full stop. No fact, figure, or proper noun introduced in the title should be repeated in the body. The body picks up where the title leaves off, adding new information only.
+**Titles and body as a single continuous narrative:** Write each item so that the title is the opening sentence and the first body paragraph continues directly from it. Together they form one unbroken piece of prose. The title must end with a full stop. No fact, figure, or proper noun introduced in the title should be repeated in the body. The body adds new information only.
 
 Example of the intended style:
   Title: Sri Lanka and the IMF reached a staff-level agreement on the fifth and sixth reviews of the four-year Extended Fund Facility.
-  Body paragraph 1: The deal unlocked roughly $700m, lifting total disbursements under the programme to approximately $2.4bn, subject to Executive Board approval.
+  Body paragraph 1: The deal unlocked roughly $700m. Total disbursements under the programme rose to approximately $2.4bn, subject to Executive Board approval.
 
-**Technical terms:** When a technical term, acronym, or piece of jargon appears for the first time in a title or body paragraph, include a brief plain-language explanation in parentheses immediately after it. Do not repeat the explanation on subsequent uses of the same term within the same item.
+**Technical terms:** When a technical term, acronym, or jargon appears for the first time in a title or body paragraph, include a brief plain-language explanation in parentheses immediately after it. Do not repeat the explanation within the same item.
 
 **Tense:**
 - Use the past tense for all events that have already occurred.
 - Use the future tense only for events explicitly scheduled or confirmed to occur after the date of the source articles.
-- Do not use the present tense to describe past events (e.g. write "the government passed" not "the government passes" or "the government has passed").
+- Do not use the present tense to describe past events (e.g. write "the government passed" not "the government passes").
 
-**Titles** must read like headlines from a reputable newspaper (think Financial Times or The Economist) — precise, active, and newsy — but when read in sequence, they should form a narrative arc that shows how the week's events connect and build on one another. Titles must contain only verifiable facts, no opinion or editorialising.
+**Titles** must read like headlines from a reputable newspaper (think Financial Times or The Economist) — precise, active, and newsy. When read in sequence, they should form a narrative arc showing how the week's events connect. Titles must contain only verifiable facts, no opinion or editorialising.
 
-**Body paragraphs** must add context and nuance beyond the headline. Each item's body is split into 2–3 paragraphs (1 paragraph for level-2 items). Do not use bullet points within paragraphs. Paragraph breaks should reflect genuine shifts in focus — for example, from the immediate event to its broader context, or from cause to consequence.
+**Body paragraphs** must add context and nuance beyond the headline. Keep sentences short and direct. Aim for one idea per sentence. Do not use bullet points within paragraphs. Paragraph breaks should reflect genuine shifts in focus — from the immediate event to its broader context, or from cause to consequence.
 
-**bold_phrases:** For each item, include a list of 2–4 short phrases drawn verbatim from the body paragraphs that are the most informationally significant — key figures, named entities, or pivotal facts. These are intended for visual emphasis when rendered and should be genuinely substantive, not generic.
+**bold_phrases:** For each item, include a list of 2-4 short phrases drawn verbatim from the body paragraphs that are the most informationally significant — key figures, named entities, or pivotal facts. These are intended for visual emphasis and should be genuinely substantive, not generic.
 
-**Editorial hierarchy and narrative arc:** The level-0 item is the week's single most consequential story. The three level-1 items are the next most important, each significant enough to stand alone. The nine level-2 items are notable but secondary. The digest should be ordered level 0 first, then level 1, then level 2. When titles are read in sequence in this order, they should form a coherent narrative arc showing how the week's events connect.
+**Editorial hierarchy and narrative arc:** The level-0 item is the week's single most consequential story. The three level-1 items are the next most important, each significant enough to stand alone. The nine level-2 items are notable but secondary. Order the digest level 0 first, then level 1, then level 2. When titles are read in sequence, they should form a coherent narrative arc.
 
-**Contextualising statistics:** Never report a number in isolation. Every quantitative fact must be accompanied by at least one of the following: a comparison to a prior period (e.g. a week, month, or year earlier), a share of a relevant total (e.g. as a percentage of GDP, national capacity, or population), or a ranking relative to peers. A statistic without context is not informative and must be either contextualised or omitted. Do not use emojis.
+**Contextualising statistics:** Never report a number in isolation. Every quantitative fact must be accompanied by at least one of the following: a comparison to a prior period, a share of a relevant total, or a ranking relative to peers. A statistic without context must be either contextualised or omitted. Do not use emojis.
 
 **Strict factual standard — apply to every sentence:**
-- Include only events that occurred (votes taken, laws passed, figures released, agreements signed, arrests made, prices recorded) and objective facts (statistics, measurements, named parties to a transaction, official outcomes).
-- Exclude entirely: statements, quotes, promises, warnings, predictions, denials, calls for action, expressions of concern, and any other speech acts — even from officials or institutions. The fact that someone said something is not itself a fact about the world.
+- Include only events that occurred (votes taken, laws passed, figures released, agreements signed, arrests made, prices recorded) and objective facts (statistics, measurements, named parties, official outcomes).
+- Exclude entirely: statements, quotes, promises, warnings, predictions, denials, calls for action, expressions of concern, and any other speech acts, even from officials or institutions. The fact that someone said something is not itself a fact about the world.
 - If the only available information on a topic is what someone claimed or announced, omit that topic rather than report the claim as fact.
 - Do not speculate, editorialize, or characterise intent or motivation.
 
+**Style — apply to every sentence:**
+- Do not use em-dashes. Use commas, full stops, or parentheses instead.
+- Do not use colons mid-sentence to introduce a list or elaboration. Break the sentence into two instead.
+- Do not use semicolons. Use separate sentences.
+- Avoid nominalisations. Write "the bank raised rates" not "the bank undertook a rate increase".
+- Avoid weak connectives such as "moreover", "furthermore", "in addition", "notably", "importantly", and "significantly". Let facts speak for themselves.
+- Avoid hedging phrases such as "it is worth noting", "it should be noted", "this comes as", and "this follows".
+- Avoid meta-commentary about what the digest or article does (e.g. "this digest covers...").
+
 **Causality standard — apply to every title and sentence:**
 - Report events as separate, independent facts. Do not imply that one event caused another unless a direct causal mechanism is part of the established, measurable record.
-- Avoid constructions such as "as", "following", "amid", "boosting", "driven by", or "in response to" that suggest one event caused or coincided meaningfully with another. Multiple factors almost always contribute to any outcome, and implying a single cause is a form of editorialising.
-- If two events occurred in the same week, report them separately. Do not place them in the same sentence or title in a way that implies a relationship between them.
+- Avoid constructions such as "as", "following", "amid", "boosting", "driven by", or "in response to" that suggest one event caused or coincided meaningfully with another.
+- If two events occurred in the same week, report them separately. Do not place them in the same sentence or title in a way that implies a relationship.
 
 The digest as a whole should read as a coherent account of the week, not a list of unrelated summaries.
