@@ -18,6 +18,7 @@ class NewsDigestReadMeMixin:
         + "/nuuuwan/lk_news_digest"
         + "/tree/main/data/readme_history"
     )
+    URL_BROADSHEET = "https://nuuuwan.github.io/lk_news_digest"
 
     def get_lines_header(self, used_articles) -> list[str]:
         time_updated = TimeFormat.TIME.format(Time.now())
@@ -30,6 +31,8 @@ class NewsDigestReadMeMixin:
             + f"/last_updated-{time_updated_for_badge}-green)",
             "[![RSS](https://img.shields.io/badge/RSS-Feed-orange)]"
             + f"({self.RSS_FEED_URL})",
+            f"[![Broadsheet](https://img.shields.io/badge/Broadsheet-View-darkred)]"
+            + f"({self.URL_BROADSHEET})",
             "",
             f"*{self.get_description(used_articles)}*",
             "",
