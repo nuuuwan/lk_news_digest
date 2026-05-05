@@ -128,11 +128,10 @@ class NewsDigest(
     def build(self):
         ut = Time.now().ut
         date_ts = TimeFormat.DATE_ID.format(Time(ut))
-        time_ts = TimeFormat.TIME_ID.format(Time(ut))
 
-        readme_history_path = self.get_history_path(time_ts)
+        readme_history_path = self.get_history_path(date_ts)
         if os.path.exists(readme_history_path):
-            log.info(f"README for {time_ts} already exists. Skipping.")
+            log.info(f"README for {date_ts} already exists. Skipping.")
             return
 
         news_article_content, used_articles = (
@@ -154,7 +153,7 @@ class NewsDigest(
             )
 
         self.build_readme(
-            used_articles, system_prompt, time_ts, digest_article_list
+            used_articles, system_prompt, date_ts, digest_article_list
         )
-        self.build_rss(used_articles, digest_article_list, ut, time_ts)
+        self.build_rss(used_articles, digest_article_list, ut, date_ts)
         self.build_broadsheet(digest_article_list, date_ts, used_articles)
