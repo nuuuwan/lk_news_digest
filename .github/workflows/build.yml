@@ -50,6 +50,7 @@ jobs:
           mkdir -p /tmp/gh-pages
           latest=$(ls -t data/broadsheets/broadsheet.*.html | head -1)
           cp "$latest" /tmp/gh-pages/index.html
+          cp -r images /tmp/gh-pages/images
 
       - name: 🚀 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

@@ -1,3 +1,4 @@
+import base64
 import html as _html
 import os
 from datetime import datetime
@@ -5,6 +6,20 @@ from datetime import datetime
 from utils import Log
 
 log = Log("NewsDigestBroadsheetMixin")
+
+_QR_PATH = os.path.join("images", "qr.png")
+
+
+def _qr_data_uri():
+    """Return the QR code as an inline base64 data URI."""
+    try:
+        with open(_QR_PATH, "rb") as f:
+            return (
+                "data:image/png;base64," + base64.b64encode(f.read()).decode()
+            )
+    except FileNotFoundError:
+        return ""
+
 
 # Sri Lanka flag colour palette
 _MAROON = "#8D153A"
@@ -73,12 +88,20 @@ class NewsDigestBroadsheetMixin:
         # ── Date line ──────────────────────────────────────────────────────
         if used_articles:
             date_strs = sorted(a.date_str for a in used_articles)
-            date_line = (
-                f"{_fmt_date(date_strs[0])}  to  {_fmt_date(date_strs[-1])}"
-                f"   \u00b7   AI-generated summary of {len(used_articles):,} articles"
+            end_dt = datetime.strptime(date_strs[-1], "%Y-%m-%d")
+            week_num = end_dt.isocalendar()[1]
+            year = end_dt.year
+            # end date without year: e.g. "Tuesday the 5th of May"
+            end_no_year = f"{end_dt.strftime('%A')} the {_ordinal(end_dt.day)} of {end_dt.strftime('%B')}"
+            dateline_left = f"Week {week_num}, {year}"
+            dateline_center = f"Week ending {end_no_year}"
+            dateline_right = (
+                f"AI-generated summary of {len(used_articles):,} articles"
             )
         else:
-            date_line = ts
+            dateline_left = ""
+            dateline_center = ts
+            dateline_right = ""
 
         # ── Article lists ──────────────────────────────────────────────────
         level0 = [a for a in digest_article_list if a.get("level") == 0]
@@ -95,15 +118,7 @@ class NewsDigestBroadsheetMixin:
         overflow_extra = level2_overflow[overflow_slots:]
         n_extra_rows = (len(overflow_extra) + 2) // 3 if overflow_extra else 0
 
-        total_content_rows = n_l1_rows + n_extra_rows
-        if total_content_rows <= 1:
-            body_pt = 16
-        elif total_content_rows == 2:
-            body_pt = 14
-        elif total_content_rows == 3:
-            body_pt = 13
-        else:
-            body_pt = 12
+        body_pt = 12
 
         # ── Sidebar ────────────────────────────────────────────────────────
         sidebar_items = "".join(
@@ -148,13 +163,15 @@ class NewsDigestBroadsheetMixin:
         )
 
         # ── Full HTML ──────────────────────────────────────────────────────
+        qr_uri = _qr_data_uri()
         full_html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <title>This Week in Sri Lanka \u2013 {_e(ts)}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap"
         rel="stylesheet">
   <link href="https://fonts.cdnfonts.com/css/chomsky" rel="stylesheet">
   <style>
@@ -167,7 +184,7 @@ class NewsDigestBroadsheetMixin:
     @page {{ size: A2 landscape; margin: 1in; }}
     *, *::before, *::after {{ box-sizing: border-box; margin: 0; padding: 0; }}
     body {{
-      font-family: 'Ubuntu', sans-serif;
+      font-family: 'Lora', serif;
       font-size: {body_pt}pt;
       color: var(--black);
       background: #fff;
@@ -192,12 +209,17 @@ class NewsDigestBroadsheetMixin:
       margin: 4pt 0;
     }}
     .dateline {{
-      text-align: center;
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
       font-size: clamp(9pt, 1.2vw, 14pt);
       font-style: italic;
       color: var(--saffron);
       padding: 4pt 0;
     }}
+    .dateline-left  {{ text-align: left;   flex: 1; }}
+    .dateline-center {{ text-align: center; flex: 2; }}
+    .dateline-right {{ text-align: right;  flex: 1; }}
     .page-grid {{
       display: grid;
       grid-template-columns: 25% 75%;
@@ -257,13 +279,38 @@ class NewsDigestBroadsheetMixin:
       color: var(--maroon);
     }}
     footer a {{ color: var(--maroon); text-decoration: none; }}
+    /* ── Masthead with QR ── */
+    .masthead-wrapper {{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 6pt;
+    }}
+    .masthead-wrapper header.masthead {{
+      margin-bottom: 0;
+      flex: 1;
+      text-align: center;
+    }}
+    .masthead-qr {{
+      width: clamp(40px, 6vw, 90px);
+      height: auto;
+      flex-shrink: 0;
+    }}
   </style>
 </head>
 <body>
-  <header class="masthead">This Week in Sri Lanka</header>
+  <div class="masthead-wrapper">
+    <img class="masthead-qr" src="{qr_uri}" alt="QR code">
+    <header class="masthead">This Week in Sri Lanka</header>
+    <img class="masthead-qr" src="{qr_uri}" alt="QR code">
+  </div>
   <div class="dateline-wrapper">
     <hr class="dateline-rule">
-    <div class="dateline">{_e(date_line)}</div>
+    <div class="dateline">
+      <span class="dateline-left">{_e(dateline_left)}</span>
+      <span class="dateline-center">{_e(dateline_center)}</span>
+      <span class="dateline-right">{_e(dateline_right)}</span>
+    </div>
     <hr class="dateline-rule">
   </div>
   <div class="page-grid">
