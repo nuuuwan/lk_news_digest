@@ -124,8 +124,8 @@ class NewsDigestBroadsheetMixin:
         level1 = [a for a in digest_article_list if a.get("level") == 1]
         level2_all = [a for a in digest_article_list if a.get("level") == 2]
         level2 = self._cap_level2_by_budget(level2_all)
-        level2_left = level2[:6]
-        level2_sidebar = level2[6:]
+        level2_left = level2[:3]
+        level2_sidebar = level2[3:]
         level2_overflow = level2_all[len(level2) :]
 
         # ── Layout planning ────────────────────────────────────────────────
