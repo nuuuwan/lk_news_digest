@@ -46,15 +46,16 @@ class NewsDigestReadMeMixin:
             digest_article_list, start=1
         ):
             title = digest_article["title"]
-            body = digest_article["body"]
-            lines.extend(
-                [
-                    f"## {i_article}. {title}",
-                    "",
-                    body,
-                    "",
-                ]
+            paragraphs = digest_article.get("body_paragraphs") or (
+                [digest_article["body"]] if digest_article.get("body") else []
             )
+            bold_phrases = digest_article.get("bold_phrases", [])
+            lines.append(f"## {i_article}. {title}")
+            lines.append("")
+            for para in paragraphs:
+                for phrase in bold_phrases:
+                    para = para.replace(phrase, f"**{phrase}**", 1)
+                lines.extend([para, ""])
 
         lines.extend(
             [

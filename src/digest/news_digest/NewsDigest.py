@@ -74,7 +74,9 @@ class NewsDigest(
         assert n_digest_articles > 0, "No items in digest data"
         first_item = digest_article_list[0]
         assert "title" in first_item, "No title in first item"
-        assert "body" in first_item, "No body in first item"
+        assert (
+            "body_paragraphs" in first_item or "body" in first_item
+        ), "No body in first item"
 
     @staticmethod
     def __get_digest_article_list__(

@@ -1,7 +1,11 @@
 import re
 from xml.dom import minidom
-from xml.etree.ElementTree import (Element, SubElement, register_namespace,
-                                   tostring)
+from xml.etree.ElementTree import (
+    Element,
+    SubElement,
+    register_namespace,
+    tostring,
+)
 
 from utils import Log, Time, TimeFormat
 
@@ -57,7 +61,11 @@ class NewsDigestRSSMixin:
         ):
             item = SubElement(channel, "item")
             SubElement(item, "title").text = digest_article["title"]
-            SubElement(item, "description").text = digest_article["body"]
+            body_text = " ".join(
+                digest_article.get("body_paragraphs")
+                or [digest_article.get("body", "")]
+            )
+            SubElement(item, "description").text = body_text
             SubElement(item, "pubDate").text = pub_time_str
             deep_link_title = self.get_deep_link_for_title(
                 digest_article["title"]

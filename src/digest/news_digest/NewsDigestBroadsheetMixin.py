@@ -43,6 +43,21 @@ def _e(text):
     return _html.escape(str(text))
 
 
+def _body(article):
+    """Return body as a single string, handling both body_paragraphs and body."""
+    if "body_paragraphs" in article:
+        return " ".join(article["body_paragraphs"])
+    return article.get("body", "")
+
+
+def _apply_bold(escaped_text, bold_phrases):
+    """Wrap bold_phrases in <strong> tags within already-escaped HTML text."""
+    for phrase in bold_phrases:
+        ep = _e(phrase)
+        escaped_text = escaped_text.replace(ep, f"<strong>{ep}</strong>", 1)
+    return escaped_text
+
+
 class NewsDigestBroadsheetMixin:
     DIR_BROADSHEETS = os.path.join("data", "broadsheets")
     _OTHER_NEWS_WORD_BUDGET = 2000
@@ -50,9 +65,7 @@ class NewsDigestBroadsheetMixin:
     def _cap_level2_by_budget(self, articles):
         result, used = [], 0
         for article in articles:
-            words = len(article["title"].split()) + len(
-                article.get("body", "").split()
-            )
+            words = len(article["title"].split()) + len(_body(article).split())
             if used + words > self._OTHER_NEWS_WORD_BUDGET:
                 break
             result.append(article)
@@ -126,13 +139,16 @@ class NewsDigestBroadsheetMixin:
 
         # ── Main grid ──────────────────────────────────────────────────────
         headline_title = _e(level0[0]["title"]) if level0 else ""
-        headline_body = level0[0].get("body", "") if level0 else ""
+        headline_body = _body(level0[0]) if level0 else ""
+        headline_bold = level0[0].get("bold_phrases", []) if level0 else []
         body_chunks = self._split_text(headline_body, 3)
 
         cells = []
         cells.append(f'<div class="headline-title">{headline_title}</div>')
         for chunk in body_chunks:
-            cells.append(f'<div class="headline-body">{_e(chunk)}</div>')
+            cells.append(
+                f'<div class="headline-body">{_apply_bold(_e(chunk), headline_bold)}</div>'
+            )
         for a in level1:
             cells.append(
                 f'<div class="l1-cell">'
