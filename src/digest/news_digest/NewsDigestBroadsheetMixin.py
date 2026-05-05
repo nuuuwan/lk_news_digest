@@ -124,8 +124,8 @@ class NewsDigestBroadsheetMixin:
         level1 = [a for a in digest_article_list if a.get("level") == 1]
         level2_all = [a for a in digest_article_list if a.get("level") == 2]
         level2 = self._cap_level2_by_budget(level2_all)
-        level2_left = level2[:3]
-        level2_sidebar = level2[3:]
+        level2_left = level2[:6]
+        level2_sidebar = level2[6:]
         level2_overflow = level2_all[len(level2) :]
 
         # ── Layout planning ────────────────────────────────────────────────
@@ -151,11 +151,16 @@ class NewsDigestBroadsheetMixin:
         headline_paragraphs = (
             level0[0].get("body_paragraphs")
             or ([level0[0]["body"]] if level0[0].get("body") else [])
-            if level0 else []
+            if level0
+            else []
         )
         # Distribute paragraphs across 3 columns; split flat text if needed
         if len(headline_paragraphs) >= 3:
-            col_paras = [headline_paragraphs[:1], headline_paragraphs[1:2], headline_paragraphs[2:]]
+            col_paras = [
+                headline_paragraphs[:1],
+                headline_paragraphs[1:2],
+                headline_paragraphs[2:],
+            ]
         elif headline_paragraphs:
             flat = _body(level0[0]) if level0 else ""
             col_paras = [[c] for c in self._split_text(flat, 3)]
@@ -303,6 +308,12 @@ class NewsDigestBroadsheetMixin:
     .article-body {{
       text-align: justify;
       margin-bottom: 10pt;
+    }}
+    .article-body p {{
+      margin: 0 0 6pt 0;
+    }}
+    .article-body p:last-child {{
+      margin-bottom: 0;
     }}
     .article-title.green ~ .article-body {{
       font-size: clamp(7pt, 0.8vw, 10pt);
