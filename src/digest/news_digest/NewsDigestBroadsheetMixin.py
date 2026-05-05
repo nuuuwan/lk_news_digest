@@ -93,7 +93,7 @@ class NewsDigestBroadsheetMixin:
             dateline_left = f"Week {week_num}, {year}"
             dateline_center = f"{end_no_year}"
             dateline_right = (
-                f"AI-generated summary of {len(used_articles):,} articles"
+                f"AI Summary of {len(used_articles):,} Articles"
             )
         else:
             dateline_left = ""
@@ -206,6 +206,7 @@ class NewsDigestBroadsheetMixin:
       align-items: baseline;
       font-size: clamp(9pt, 1.2vw, 14pt);
       font-style: italic;
+      text-transform: uppercase;
       color: var(--saffron);
       padding: 4pt 0;
     }}
@@ -262,9 +263,14 @@ class NewsDigestBroadsheetMixin:
       text-align: justify;
       margin-bottom: 10pt;
     }}
+    .article-title.green ~ .article-body {{
+      font-size: clamp(7pt, 0.8vw, 10pt);
+    }}
     /* ── Footer ── */
     footer {{
       margin-top: 14pt;
+      border-top: 1px solid var(--maroon);
+      padding-top: 6pt;
       text-align: center;
       font-size: 9pt;
       font-style: italic;
@@ -310,9 +316,12 @@ class NewsDigestBroadsheetMixin:
     {sidebar_html}
   </div>
   <footer>
-    <a href="https://github.com/nuuuwan/lk_news_digest">
-      https://github.com/nuuuwan/lk_news_digest
-    </a>
+    This broadsheet is an AI-generated weekly summary of news from Sri Lanka,
+    compiled from articles across multiple sources and condensed using large
+    language models. It is intended as a quick overview and may not reflect the
+    full context of each story. For more details, see
+    <a href="https://github.com/nuuuwan/lk_news_digest">https://github.com/nuuuwan/lk_news_digest</a>
+    or scan the QR code above.
   </footer>
 </body>
 </html>"""
