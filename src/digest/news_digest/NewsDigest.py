@@ -73,7 +73,7 @@ class NewsDigest(NewsDigestReadMeMixin, NewsDigestRSSMixin):
 
     @staticmethod
     def __get_digest_article_list__(
-        system_prompt, news_article_content, ts
+        system_prompt, news_article_content, ts, digest_path
     ) -> list[dict]:
 
         log.debug(f"Generating digest with MODEL={NewsDigest.MODEL}...")
@@ -97,7 +97,6 @@ class NewsDigest(NewsDigestReadMeMixin, NewsDigestRSSMixin):
         log.info(f"Generated digest with {len(digest_article_list)} items.")
 
         os.makedirs(NewsDigest.DIR_DIGESTS, exist_ok=True)
-        digest_path = os.path.join(NewsDigest.DIR_DIGESTS, f"digest.{ts}.json")
         digest_file = JSONFile(digest_path)
         digest_file.write(digest_article_list)
         log.info(f"Wrote {digest_file}")
@@ -127,9 +126,13 @@ class NewsDigest(NewsDigestReadMeMixin, NewsDigestRSSMixin):
         )
         system_prompt = self.__get_system_prompt__()
         ut = Time.now().ut
-        ts = TimeFormat.TIME_ID.format(Time(ut))
+        ts = TimeFormat.DATE_ID.format(Time(ut))
+        digest_path = os.path.join(NewsDigest.DIR_DIGESTS, f"digest.{ts}.json")
+        if os.path.exists(digest_path):
+            log.info(f"Digest for {ts} already exists. Skipping.")
+            return
         digest_article_list = self.__get_digest_article_list__(
-            system_prompt, news_article_content, ts
+            system_prompt, news_article_content, ts, digest_path
         )
 
         self.build_readme(
