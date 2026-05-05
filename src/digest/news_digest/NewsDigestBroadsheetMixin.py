@@ -222,12 +222,12 @@ class NewsDigestBroadsheetMixin:
     .dateline-right {{ text-align: right;  flex: 1; }}
     .page-grid {{
       display: grid;
-      grid-template-columns: 25% 75%;
+      grid-template-columns: 75% 25%;
       gap: 0;
     }}
     /* ── Sidebar ── */
     .sidebar {{
-      padding: 0 1% 0 0;
+      padding: 0 0 0 1%;
     }}
     .section-label {{
       font-size: clamp(9pt, 1vw, 14pt);
@@ -240,7 +240,7 @@ class NewsDigestBroadsheetMixin:
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       column-gap: 1%;
-      padding-left: 1%;
+      padding-right: 1%;
     }}
     .headline-title {{
       grid-column: 1 / 4;
@@ -314,8 +314,8 @@ class NewsDigestBroadsheetMixin:
     <hr class="dateline-rule">
   </div>
   <div class="page-grid">
-    {sidebar_html}
     {main_html}
+    {sidebar_html}
   </div>
   <footer>
     <a href="https://github.com/nuuuwan/lk_news_digest">
