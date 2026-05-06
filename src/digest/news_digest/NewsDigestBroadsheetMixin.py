@@ -54,7 +54,7 @@ def _apply_bold(escaped_text, bold_phrases):
     """Wrap bold_phrases in <strong> tags within already-escaped HTML text."""
     for phrase in bold_phrases:
         ep = _e(phrase)
-        escaped_text = escaped_text.replace(ep, f"<strong>{ep}</strong>", 1)
+        escaped_text = escaped_text.replace(ep, f"<u>{ep}</u>", 1)
     return escaped_text
 
 

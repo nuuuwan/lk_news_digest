@@ -54,7 +54,7 @@ class NewsDigestReadMeMixin:
             lines.append("")
             for para in paragraphs:
                 for phrase in bold_phrases:
-                    para = para.replace(phrase, f"**{phrase}**", 1)
+                    para = para.replace(phrase, f"<u>{phrase}</u>", 1)
                 lines.extend([para, ""])
 
         lines.extend(
