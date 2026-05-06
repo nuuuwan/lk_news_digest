@@ -127,7 +127,7 @@ class NewsDigestBroadsheetMixin:
         # ── Article lists ──────────────────────────────────────────────────
         level0 = [a for a in digest_article_list if a.get("level") == 0]
         level1 = [a for a in digest_article_list if a.get("level") == 1]
-        level2 = [a for a in digest_article_list if a.get("level") == 2]
+        level2 = [a for a in digest_article_list if a.get("level") == 2][:6]
 
         # ── Main grid ──────────────────────────────────────────────────────
         headline_title = _e(level0[0]["title"]) if level0 else ""

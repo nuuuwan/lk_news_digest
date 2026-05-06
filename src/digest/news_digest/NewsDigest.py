@@ -151,9 +151,7 @@ class NewsDigest(
 
         readme_history_path = self.get_history_path(date_ts)
         if os.path.exists(readme_history_path):
-            log.info(
-                f"README for {date_ts} already exists. Recreating."
-            )
+            log.info(f"README for {date_ts} already exists. Recreating.")
         self.build_readme(
             used_articles, system_prompt, date_ts, digest_article_list
         )
