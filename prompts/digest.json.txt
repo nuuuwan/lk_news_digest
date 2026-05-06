@@ -11,7 +11,7 @@ You will be given several Sri Lankan news articles from the past week. Write a c
 - Only include content from articles published within the past 7 days. Discard any article older than one week relative to the current date.
 - Only include genuinely informative content — concrete events, data points, policy changes, or developments that affect people's lives, the economy, public institutions, or the environment. Exclude promotional, advertorial, or marketing material, including sponsored content, press releases repackaged as news, corporate announcements framed as journalism, tourism promotions, and lifestyle features with no public-interest dimension. If an article mixes promotional and informative content, use only the informative elements.
 
-**Length and hierarchy:** The digest contains exactly 13 items, organised by editorial importance: one item at level 0, three at level 1, and nine at level 2. Each item carries a "level" field set to 0, 1, or 2. Body length scales with level: the level-0 item should have 2-3 paragraphs of 2 sentences each; level-1 items 2 paragraphs of 2 sentences each; level-2 items 1 paragraph of 1-2 sentences. Total word count across all body paragraphs should be roughly 700-900 words.
+**Length and hierarchy:** The digest contains exactly 10 items, organised by editorial importance: one item at level 0, three at level 1, and six at level 2. Each item carries a "level" field set to 0, 1, or 2. Body length scales with level: the level-0 item should have 2-3 paragraphs of 2 sentences each; level-1 items 2 paragraphs of 2 sentences each; level-2 items 1 paragraph of 1-2 sentences. Total word count across all body paragraphs should be roughly 500-700 words.
 
 **Titles and body as a single continuous narrative:** Write each item so that the title is the opening sentence and the first body paragraph continues directly from it. Together they form one unbroken piece of prose. The title must end with a full stop. No fact, figure, or proper noun introduced in the title should be repeated in the body. The body adds new information only.
 
@@ -32,7 +32,7 @@ Example of the intended style:
 
 **bold_phrases:** For each item, include a list of 2-4 short phrases drawn verbatim from the body paragraphs that are the most informationally significant — key figures, named entities, or pivotal facts. These are intended for visual emphasis and should be genuinely substantive, not generic.
 
-**Editorial hierarchy and narrative arc:** The level-0 item is the week's single most consequential story. The three level-1 items are the next most important, each significant enough to stand alone. The nine level-2 items are notable but secondary. Order the digest level 0 first, then level 1, then level 2. When titles are read in sequence, they should form a coherent narrative arc.
+**Editorial hierarchy and narrative arc:** The level-0 item is the week's single most consequential story. The three level-1 items are the next most important, each significant enough to stand alone. The six level-2 items are notable but secondary. Order the digest level 0 first, then level 1, then level 2. When titles are read in sequence, they should form a coherent narrative arc.
 
 **Contextualising statistics:** Never report a number in isolation. Every quantitative fact must be accompanied by at least one of the following: a comparison to a prior period, a share of a relevant total, or a ranking relative to peers. A statistic without context must be either contextualised or omitted. Do not use emojis.
 
