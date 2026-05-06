@@ -21,11 +21,12 @@ def _qr_data_uri():
         return ""
 
 
-# Sri Lanka flag colour palette
-_MAROON = "#8D153A"
-_SAFFRON = "#FC8B00"
-_GREEN = "#00534E"
+# Colour palette
+_MAROON = "#000000"
+_SAFFRON = "#000000"
+_GREEN = "#000000"
 _BLACK = "#000000"
+_HIGHLIGHT = "#EBEBEB"
 
 
 def _ordinal(n):
@@ -54,7 +55,9 @@ def _apply_bold(escaped_text, bold_phrases):
     """Wrap bold_phrases in <strong> tags within already-escaped HTML text."""
     for phrase in bold_phrases:
         ep = _e(phrase)
-        escaped_text = escaped_text.replace(ep, f"<u>{ep}</u>", 1)
+        escaped_text = escaped_text.replace(
+            ep, f'<span style="background-color:{_HIGHLIGHT};border-radius:3px;padding:0 2px">{ep}</span>', 1
+        )
     return escaped_text
 
 

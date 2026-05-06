@@ -1,6 +1,6 @@
 # 🇱🇰 This Week in Sri Lanka
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--06_09:19:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--06_09:22:47-green)
 [![RSS](https://img.shields.io/badge/RSS-Feed-orange)](https://raw.githubusercontent.com/nuuuwan/lk_news_digest/refs/heads/main/rss.xml)
 [![Broadsheet](https://img.shields.io/badge/Broadsheet-View-darkred)](https://nuuuwan.github.io/lk_news_digest)
 
@@ -8,43 +8,43 @@
 
 ## 1. Parliament took up a Bill to widen Value Added Tax coverage, cut thresholds, tax cross‑border digital services, and raise the rate on financial services to 20.5%.
 
-The draft law reduced the compulsory registration floor to <u>Rs. 36 million a year</u> and Rs. 9 million per taxable period, pulling many small and medium traders into the net compared with the current Rs. 60 million and Rs. 15 million levels. It also brought non‑resident online platforms into the regime from July 2026 while excluding business‑to‑business supplies that can be evidenced.
+The draft law reduced the compulsory registration floor to <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">Rs. 36 million a year</span> and Rs. 9 million per taxable period, pulling many small and medium traders into the net compared with the current Rs. 60 million and Rs. 15 million levels. It also brought non‑resident online platforms into the regime from July 2026 while excluding business‑to‑business supplies that can be evidenced.
 
-Banks and finance companies faced a higher levy on fee‑based activity under the special mechanism for the sector, taking the combined impost to <u>20.5%</u>. New compliance tools included a mandate for secured point‑of‑sale systems and stiffer penalties, with maximum fines lifted to Rs. 1 million and imprisonment possible for false refund claims.
+Banks and finance companies faced a higher levy on fee‑based activity under the special mechanism for the sector, taking the combined impost to <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">20.5%</span>. New compliance tools included a mandate for secured point‑of‑sale systems and stiffer penalties, with maximum fines lifted to Rs. 1 million and imprisonment possible for false refund claims.
 
 The revenue authority has been tasked with meeting a Rs. 2,402 billion collection target for 2026 after exceeding its 2025 goal by Rs. 42 billion. The Bill sits alongside joint audits with Customs and the rollout of some 12 million Taxpayer Identification Numbers (TINs) to broaden the file.
 
 ## 2. The Asian Development Bank signalled a strategic shift and said budget financing for Sri Lanka was under internal consideration.
 
-Its President outlined at the <u>59th Annual Meeting</u> in Samarkand that support would be framed around energy security, food systems and fiscal stability, with no figures disclosed. He also announced a <u>US$ 70 billion programme</u> to strengthen regional power grids and digital links by 2035, targeting about 20 gigawatts of cross‑border renewables.
+Its President outlined at the <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">59th Annual Meeting</span> in Samarkand that support would be framed around energy security, food systems and fiscal stability, with no figures disclosed. He also announced a <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">US$ 70 billion programme</span> to strengthen regional power grids and digital links by 2035, targeting about 20 gigawatts of cross‑border renewables.
 
-A new joint initiative with Japan, <u>ACCEL (Action for Creating Energy Security for Long‑term Resilience)</u>, was launched to help small and medium‑size firms (SMEs, smaller businesses with limited access to finance) cope with high fuel costs while scaling investment in efficiency and clean power. The lender said growth and inflation paths across developing Asia had worsened amid Middle East conflict, and it would use fast‑disbursing instruments and guarantees more flexibly.
+A new joint initiative with Japan, <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">ACCEL (Action for Creating Energy Security for Long‑term Resilience)</span>, was launched to help small and medium‑size firms (SMEs, smaller businesses with limited access to finance) cope with high fuel costs while scaling investment in efficiency and clean power. The lender said growth and inflation paths across developing Asia had worsened amid Middle East conflict, and it would use fast‑disbursing instruments and guarantees more flexibly.
 
 ## 3. Colombo consumer inflation accelerated to 5.4% year‑on‑year in April, breaching the Central Bank’s 5% point target.
 
-The CCPI (Colombo Consumer Price Index, a monthly price basket for the capital) recorded a <u>2.99% month‑on‑month</u> increase, driven mainly by <u>transport costs</u> linked to higher energy. Food prices rose 2.8% on an annual basis after near‑zero readings in February and March, while non‑food items climbed 6.8%.
+The CCPI (Colombo Consumer Price Index, a monthly price basket for the capital) recorded a <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">2.99% month‑on‑month</span> increase, driven mainly by <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">transport costs</span> linked to higher energy. Food prices rose 2.8% on an annual basis after near‑zero readings in February and March, while non‑food items climbed 6.8%.
 
-The Central Bank said the earlier low inflation provided space to absorb energy pass‑through and that the medium‑term outlook remained around the target band of <u>3% to 7%</u> if policies held. It warned the path was uncertain given the Middle East war’s impact on oil and freight, and that rates would respond if expectations de‑anchored.
+The Central Bank said the earlier low inflation provided space to absorb energy pass‑through and that the medium‑term outlook remained around the target band of <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">3% to 7%</span> if policies held. It warned the path was uncertain given the Middle East war’s impact on oil and freight, and that rates would respond if expectations de‑anchored.
 
 ## 4. Sri Lanka and the Maldives exchanged seven MoUs, expanding cooperation in defence, education, tourism, health and archives.
 
-The agreements followed a State visit by <u>President Mohamed Muizzu</u>, with both sides also discussing a Bank of Maldives presence and premium fisheries exports into Sri Lanka. Leaders described the relationship as entering a new phase, with <u>reciprocal land allocation</u> for High Commissions and a business forum to pursue investment.
+The agreements followed a State visit by <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">President Mohamed Muizzu</span>, with both sides also discussing a Bank of Maldives presence and premium fisheries exports into Sri Lanka. Leaders described the relationship as entering a new phase, with <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">reciprocal land allocation</span> for High Commissions and a business forum to pursue investment.
 
-Shared Indian Ocean security concerns featured alongside plans for youth and sports exchanges and <u>defence education</u> links with General Sir John Kotelawala Defence University. Colombo said the Maldives remained its third‑largest SAARC export market and highlighted scope in boat‑building and twin‑destination tourism.
+Shared Indian Ocean security concerns featured alongside plans for youth and sports exchanges and <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">defence education</span> links with General Sir John Kotelawala Defence University. Colombo said the Maldives remained its third‑largest SAARC export market and highlighted scope in boat‑building and twin‑destination tourism.
 
 ## 5. The Bar Association of Sri Lanka raised concern over a presidential remark referring to an upcoming court decision.
 
-The lawyers’ body said <u>judicial independence</u> is an intangible constitutional heritage and cited <u>Article 111C</u>, which makes interference an offence. It added that <u>public confidence</u> could be eroded if statements suggested prior knowledge of verdicts and pledged to act to safeguard the rule of law.
+The lawyers’ body said <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">judicial independence</span> is an intangible constitutional heritage and cited <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">Article 111C</span>, which makes interference an offence. It added that <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">public confidence</span> could be eroded if statements suggested prior knowledge of verdicts and pledged to act to safeguard the rule of law.
 
 ## 6. A group of 26 Opposition MPs accused the President of undermining judicial independence in a joint statement.
 
-They objected to a May Day reference inviting applause for a verdict expected on <u>25 May</u>, saying it implied prior awareness. The lawmakers argued that <u>justice must be seen to be done</u> and urged a withdrawal of the comment.
+They objected to a May Day reference inviting applause for a verdict expected on <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">25 May</span>, saying it implied prior awareness. The lawmakers argued that <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">justice must be seen to be done</span> and urged a withdrawal of the comment.
 
 ## 7. Nations Trust Bank completed the transfer of HSBC Sri Lanka’s retail banking business effective 1 May 2026.
 
-About <u>200,000 customer accounts</u> moved, covering deposits, cards, loans and a high‑net‑worth segment joining Nations Trust Bank <u>Private Banking</u>. The footprint expanded to <u>96 branches</u>, with seven former HSBC sites in Colombo designated as private banking centres and others in Nugegoda, Jaffna and Kandy.
+About <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">200,000 customer accounts</span> moved, covering deposits, cards, loans and a high‑net‑worth segment joining Nations Trust Bank <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">Private Banking</span>. The footprint expanded to <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">96 branches</span>, with seven former HSBC sites in Colombo designated as private banking centres and others in Nugegoda, Jaffna and Kandy.
 
-The bank said multiple channels were kept open during the migration, including extended weekend support and a <u>24‑hour help desk</u>, as well as a dedicated microsite for FAQs. Staff of the acquired business were onboarded to ensure continuity.
+The bank said multiple channels were kept open during the migration, including extended weekend support and a <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">24‑hour help desk</span>, as well as a dedicated microsite for FAQs. Staff of the acquired business were onboarded to ensure continuity.
 
 ## 8. Police arrested more than 120 foreign nationals in Rajagiriya over alleged financial fraud operations.
 
@@ -52,23 +52,23 @@ The suspects, from several Asian and African countries, were detained across mul
 
 ## 9. Cabinet cleared rules empowering the Central Bank to collect statistics with administrative sanctions for non‑compliance.
 
-The framework under the 2023 <u>Central Bank Act</u> set formats, confidentiality provisions and penalty powers, and will be tabled in Parliament. Ministers also approved submitting the Bank’s <u>2025 audited financial statements</u> and operational report to the legislature.
+The framework under the 2023 <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">Central Bank Act</span> set formats, confidentiality provisions and penalty powers, and will be tabled in Parliament. Ministers also approved submitting the Bank’s <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">2025 audited financial statements</span> and operational report to the legislature.
 
 ## 10. Parliament’s finance committee heard that a new insolvency law could unlock over Rs. 30 billion in distressed assets.
 
-Witnesses said a <u>rescue‑first regime</u> would allow <u>time‑bound</u> creditor‑approved restructurings instead of near‑automatic liquidations, easing bank balance sheets and attracting special‑situation capital. Stakeholders flagged tax clarity and court capacity as <u>execution risks</u> and urged alignment with company law and future limited liability partnership rules.
+Witnesses said a <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">rescue‑first regime</span> would allow <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">time‑bound</span> creditor‑approved restructurings instead of near‑automatic liquidations, easing bank balance sheets and attracting special‑situation capital. Stakeholders flagged tax clarity and court capacity as <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">execution risks</span> and urged alignment with company law and future limited liability partnership rules.
 
 ## 11. Menzies Aviation won a three‑year ground handling contract for SriLankan Airlines in Sydney worth AUD 8.32 million.
 
-The award followed limited international bidding after the previous agreement expired on 30 April 2026, and starts from 1 May. The Cabinet spokesman said the company was the <u>substantially responsive lowest bidder</u> recommended by the standing committee.
+The award followed limited international bidding after the previous agreement expired on 30 April 2026, and starts from 1 May. The Cabinet spokesman said the company was the <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">substantially responsive lowest bidder</span> recommended by the standing committee.
 
 ## 12. Sri Lanka sent its largest‑ever delegation to the SelectUSA summit, with 14 firms pursuing US‑linked investment.
 
-The US Embassy said the group was building networks across <u>healthcare, manufacturing and digital services</u> to deepen bilateral commercial ties. Organisers aim to connect foreign investors with state and regional agencies for site selection and incentives.
+The US Embassy said the group was building networks across <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">healthcare, manufacturing and digital services</span> to deepen bilateral commercial ties. Organisers aim to connect foreign investors with state and regional agencies for site selection and incentives.
 
 ## 13. Russia’s Health Minister arrived in Colombo for a three‑day visit for talks on pharmaceuticals, training and hospital links.
 
-The programme included meetings with the Health and Mass Media Minister and the Foreign Affairs Minister, and visits to the <u>National Hospital</u> and the University of Colombo’s <u>Faculty of Medicine</u>. Both sides planned to explore academic exchanges and cooperation in Ayurveda, health tourism and specialist training.
+The programme included meetings with the Health and Mass Media Minister and the Foreign Affairs Minister, and visits to the <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">National Hospital</span> and the University of Colombo’s <span style="background-color:#EBEBEB;border-radius:3px;padding:0 2px">Faculty of Medicine</span>. Both sides planned to explore academic exchanges and cooperation in Ayurveda, health tourism and specialist training.
 
 ---
 
@@ -118,8 +118,8 @@ The programme included meetings with the Health and Mass Media Minister and the 
 40. `2026-05-04` Institutional investors dominate CSE trading; buying interest spikes [islandlk](http://island.lk/institutional-investors-dominate-cse-trading-buying-interest-spikes/)
 41. `2026-05-04` “To make coal white, it’s foolish to wash it in milk’’ [islandlk](http://island.lk/to-make-coal-white-its-foolish-to-wash-it-in-milk/)
 42. `2026-05-04` ‘South Asia’s first flagship store at One Galle Face’ [islandlk](http://island.lk/south-asias-first-flagship-store-at-one-galle-face/)
-43. `2026-05-04` ADB signals strategic shift amid global turbulence, eyes budget support for Sri Lanka [islandlk](http://island.lk/adb-signals-strategic-shift-amid-global-turbulence-eyes-budget-support-for-sri-lanka/)
-44. `2026-05-04` Sri Lankan Food Festival 2026 [islandlk](http://island.lk/sri-lankan-food-festival-2026/)
+43. `2026-05-04` Sri Lankan Food Festival 2026 [islandlk](http://island.lk/sri-lankan-food-festival-2026/)
+44. `2026-05-04` ADB signals strategic shift amid global turbulence, eyes budget support for Sri Lanka [islandlk](http://island.lk/adb-signals-strategic-shift-amid-global-turbulence-eyes-budget-support-for-sri-lanka/)
 45. `2026-05-04` Dubai scene … opening up [islandlk](http://island.lk/dubai-scene-opening-up/)
 46. `2026-05-04` Unforgettable evening … with Rukshan [islandlk](http://island.lk/unforgettable-evening-with-rukshan/)
 47. `2026-05-04` Motherhood Unfiltered: From Needles To Nipples [colombotelegraphcom](https://www.colombotelegraph.com/index.php/motherhood-unfiltered-from-needles-to-nipples/)
@@ -152,29 +152,29 @@ The programme included meetings with the Health and Mass Media Minister and the 
 74. `2026-05-03` Time to get ready to face power [islandlk](http://island.lk/time-to-get-ready-to-face-power/)
 75. `2026-05-03` From Coal to Solar: China’s sunken mines power a Green Revolution: Lessons for Sri Lanka [islandlk](http://island.lk/from-coal-to-solar-chinas-sunken-mines-power-a-green-revolution-lessons-for-sri-lanka/)
 76. `2026-05-03` Omega Line secures top honours at Best Management Practices Company Awards 2026 [islandlk](http://island.lk/omega-line-secures-top-honours-at-best-management-practices-company-awards-2026/)
-77. `2026-05-03` LOLC Finance strengthens nationwide network with new Angunakolapalassa branch [islandlk](http://island.lk/lolc-finance-strengthens-nationwide-network-with-new-angunakolapalassa-branch/)
-78. `2026-05-03` The multifaceted Abeyesundere family of Galle [islandlk](http://island.lk/the-multifaceted-abeyesundere-family-of-galle/)
+77. `2026-05-03` The multifaceted Abeyesundere family of Galle [islandlk](http://island.lk/the-multifaceted-abeyesundere-family-of-galle/)
+78. `2026-05-03` LOLC Finance strengthens nationwide network with new Angunakolapalassa branch [islandlk](http://island.lk/lolc-finance-strengthens-nationwide-network-with-new-angunakolapalassa-branch/)
 79. `2026-05-03` Elegant Mother’s Day brunch at Graze Kitchen [islandlk](http://island.lk/elegant-mothers-day-brunch-at-graze-kitchen/)
 80. `2026-05-03` Union Bank records strong start to 2026 with PBT of LKR 465 mn [islandlk](http://island.lk/union-bank-records-strong-start-to-2026-with-pbt-of-lkr-465-mn/)
 81. `2026-05-03` Nations Trust Bank completes transfer of HSBC Sri Lanka’s Retail Banking Business to its portfolio [islandlk](http://island.lk/nations-trust-bank-completes-transfer-of-hsbc-sri-lankas-retail-banking-business-to-its-portfolio/)
-82. `2026-05-03` Fifty ninth ADB Annual Meet opens in Samarkand amid global uncertainty [islandlk](http://island.lk/fifty-ninth-adb-annual-meet-opens-in-samarkand-amid-global-uncertainty/)
-83. `2026-05-03` Amana Takaful named Sri Lanka’s Most Awarded Insurance Company [islandlk](http://island.lk/amana-takaful-named-sri-lankas-most-awarded-insurance-company/)
+82. `2026-05-03` Amana Takaful named Sri Lanka’s Most Awarded Insurance Company [islandlk](http://island.lk/amana-takaful-named-sri-lankas-most-awarded-insurance-company/)
+83. `2026-05-03` Fifty ninth ADB Annual Meet opens in Samarkand amid global uncertainty [islandlk](http://island.lk/fifty-ninth-adb-annual-meet-opens-in-samarkand-amid-global-uncertainty/)
 84. `2026-05-03` May Day: From Workers’ Struggle To Political Spectacle — A Call To Reclaim Its True Spirit [colombotelegraphcom](https://www.colombotelegraph.com/index.php/may-day-from-workers-struggle-to-political-spectacle-a-call-to-reclaim-its-true-spirit/)
 85. `2026-05-03` Walk For Peace: An Eventful Week In Focus (21st – 28th April) – Part II [colombotelegraphcom](https://www.colombotelegraph.com/index.php/walk-for-peace-an-eventful-week-in-focus-21st-28th-april-part-ii/)
 86. `2026-05-03` Sri Lanka Cannot Keep Delaying Justice For The Forced Cremation Crime! [colombotelegraphcom](https://www.colombotelegraph.com/index.php/sri-lanka-cannot-keep-delaying-justice-for-the-forced-cremation-crime/)
 87. `2026-05-03` Sovereignty At Stake: Why Foreign Debt Execution Must Return To The Central Bank [colombotelegraphcom](https://www.colombotelegraph.com/index.php/sovereignty-at-stake-why-foreign-debt-execution-must-return-to-the-central-bank/)
 88. `2026-05-03` Sri Lanka: Maritime Matters In A Month Of Choke Points [colombotelegraphcom](https://www.colombotelegraph.com/index.php/sri-lanka-maritime-matters-in-a-month-of-choke-points/)
 89. `2026-05-03` From Efficiency to Resilience: Why a Neutral Hub in South Asia is Crucial for the Region and the GCC - and Why Port City Colombo Fits That Role [dailyftlk](https://www.ft.lk/business/From-Efficiency-to-Resilience-Why-a-Neutral-Hub-in-South-Asia-is-Crucial-for-the-Region-and-the-GCC-and-Why-Port-City-Colombo-Fits-That-Role/34-791361)
-90. `2026-05-02` Dialog Surpasses 1,000 5G Sites, Strengthening Nationwide 5G Coverage [islandlk](http://island.lk/dialog-surpasses-1000-5g-sites-strengthening-nationwide-5g-coverage/)
-91. `2026-05-02` How Online Shoppers Navigate Labels [islandlk](http://island.lk/how-online-shoppers-navigate-labels/)
+90. `2026-05-02` How Online Shoppers Navigate Labels [islandlk](http://island.lk/how-online-shoppers-navigate-labels/)
+91. `2026-05-02` Dialog Surpasses 1,000 5G Sites, Strengthening Nationwide 5G Coverage [islandlk](http://island.lk/dialog-surpasses-1000-5g-sites-strengthening-nationwide-5g-coverage/)
 92. `2026-05-02` Pioneer of Sri Lankan Abstract Art [islandlk](http://island.lk/pioneer-of-sri-lankan-abstract-art/)
-93. `2026-05-02` Gaemi Pata art exhibitionin Colombo on May 16-17 [islandlk](http://island.lk/gaemi-pata-art-exhibitionin-colombo-on-may-16-17/)
+93. `2026-05-02` BALIFICATION: Interior designers in a dying garden [islandlk](http://island.lk/balification-interior-designers-in-a-dying-garden/)
 94. `2026-05-02` ‘Monks’ in Cartel and Our Hacked Republic [islandlk](http://island.lk/monks-in-cartel-and-our-hacked-republic/)
-95. `2026-05-02` BALIFICATION: Interior designers in a dying garden [islandlk](http://island.lk/balification-interior-designers-in-a-dying-garden/)
+95. `2026-05-02` Gaemi Pata art exhibitionin Colombo on May 16-17 [islandlk](http://island.lk/gaemi-pata-art-exhibitionin-colombo-on-may-16-17/)
 96. `2026-05-02` Presidential and parliamentary elections in 2010 [islandlk](http://island.lk/presidential-and-parliamentary-elections-in-2010/)
 97. `2026-05-02` ‘Where the Kingfisher Waits’ — A Collection of Poems [islandlk](http://island.lk/where-the-kingfisher-waits-a-collection-of-poems/)
-98. `2026-05-02` Treasury Fraud turns into Personal Tragedy [islandlk](http://island.lk/treasury-fraud-turns-into-personal-tragedy/)
-99. `2026-05-02` Vesak-Thoughts Self – Kamma and Anatta [islandlk](http://island.lk/vesak-thoughts-self-kamma-and-anatta/)
+98. `2026-05-02` Vesak-Thoughts Self – Kamma and Anatta [islandlk](http://island.lk/vesak-thoughts-self-kamma-and-anatta/)
+99. `2026-05-02` Treasury Fraud turns into Personal Tragedy [islandlk](http://island.lk/treasury-fraud-turns-into-personal-tragedy/)
 100. `2026-05-02` A worker watches May Day circuses [islandlk](http://island.lk/a-worker-watches-may-day-circuses/)
 101. `2026-05-02` Twenty-Five Years of Not Looking Away [islandlk](http://island.lk/twenty-five-years-of-not-looking-away/)
 102. `2026-05-02` Vesak not on May 1? [islandlk](http://island.lk/vesak-not-on-may-1/)
@@ -182,9 +182,9 @@ The programme included meetings with the Health and Mass Media Minister and the 
 104. `2026-05-02` Key To NDB Fraud Is Disclosure Of Reason For Resignation Of Board Director Shanil Fernando [colombotelegraphcom](https://www.colombotelegraph.com/index.php/key-to-ndb-fraud-is-disclosure-of-reason-for-resignation-of-board-director-shanil-fernando/)
 105. `2026-05-02` Walk For Peace: An Eventful Week In Focus (21st – 28th April) [colombotelegraphcom](https://www.colombotelegraph.com/index.php/walk-for-peace-an-eventful-week-in-focus-21st-28th-april/)
 106. `2026-05-01` Pan Asia Bank partners in ‘Life to Our Beaches’ initiative [islandlk](http://island.lk/pan-asia-bank-partners-in-life-to-our-beaches-initiative/)
-107. `2026-05-01` SINGER introduces the new Apple MacBook Neo Series [islandlk](http://island.lk/singer-introduces-the-new-apple-macbook-neo-series/)
+107. `2026-05-01` JXG debuts on CSE’s Main Board [islandlk](http://island.lk/jxg-debuts-on-cses-main-board/)
 108. `2026-05-01` SHEvolve ’26: Empowering conversations, inspiring change [islandlk](http://island.lk/shevolve-26-empowering-conversations-inspiring-change/)
-109. `2026-05-01` JXG debuts on CSE’s Main Board [islandlk](http://island.lk/jxg-debuts-on-cses-main-board/)
+109. `2026-05-01` SINGER introduces the new Apple MacBook Neo Series [islandlk](http://island.lk/singer-introduces-the-new-apple-macbook-neo-series/)
 110. `2026-05-01` Browns Hotels & Resorts raises the bar with Quintessential Bartender 2026 [islandlk](http://island.lk/browns-hotels-resorts-raises-the-bar-with-quintessential-bartender-2026/)
 111. `2026-05-01` CINEC invites students to build future careers as social scientists [islandlk](http://island.lk/cinec-invites-students-to-build-future-careers-as-social-scientists/)
 112. `2026-05-01` POIA highlights economic importance of palm oil to Sri Lanka’s development agenda [islandlk](http://island.lk/poia-highlights-economic-importance-of-palm-oil-to-sri-lankas-development-agenda/)
@@ -204,9 +204,9 @@ The programme included meetings with the Health and Mass Media Minister and the 
 126. `2026-05-01` Ranasinghe Premadasa: A milestone in turning point of Malayaha Tamils’ lives [dailyftlk](https://www.ft.lk/columns/Ranasinghe-Premadasa-A-milestone-in-turning-point-of-Malayaha-Tamils-lives/4-791339)
 127. `2026-05-01` Joint Opposition Alliance seeks probe into diesel procurement deal, alleges irregularities and losses [dailyftlk](https://www.ft.lk/opinion/Joint-Opposition-Alliance-seeks-probe-into-diesel-procurement-deal-alleges-irregularities-and-losses/14-791338)
 128. `2026-05-01` Cyber-crimes and management weaknesses [dailyftlk](https://www.ft.lk/columns/Cyber-crimes-and-management-weaknesses/4-791337)
-129. `2026-05-01` ‘Electric three-wheelers gain attention’ [islandlk](http://island.lk/electric-three-wheelers-gain-attention/)
+129. `2026-05-01` Doc990 introduces cashless channeling with Softlogic Life for corporate policyholders [islandlk](http://island.lk/doc990-introduces-cashless-channeling-with-softlogic-life-for-corporate-policyholders/)
 130. `2026-05-01` Rupee depreciation having stock investors worried [islandlk](http://island.lk/rupee-depreciation-having-stock-investors-worried/)
-131. `2026-05-01` Doc990 introduces cashless channeling with Softlogic Life for corporate policyholders [islandlk](http://island.lk/doc990-introduces-cashless-channeling-with-softlogic-life-for-corporate-policyholders/)
+131. `2026-05-01` ‘Electric three-wheelers gain attention’ [islandlk](http://island.lk/electric-three-wheelers-gain-attention/)
 132. `2026-05-01` RDA joins “Vehicle Testing Can Save Lives” campaign [islandlk](http://island.lk/rda-joins-vehicle-testing-can-save-lives-campaign/)
 133. `2026-05-01` CEAT Kelani launches GRIPP X5 and ZOOM X5 premium motorcycle tyres for Sri Lankan roads [islandlk](http://island.lk/ceat-kelani-launches-gripp-x5-and-zoom-x5-premium-motorcycle-tyres-for-sri-lankan-roads/)
 134. `2026-05-01` Sri Lanka’s real estate leaders to chart a 10-yr vision at RIUNIT forum [islandlk](http://island.lk/sri-lankas-real-estate-leaders-to-chart-a-10-yr-vision-at-riunit-forum/)
