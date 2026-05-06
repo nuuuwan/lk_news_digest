@@ -127,28 +127,7 @@ class NewsDigestBroadsheetMixin:
         # ── Article lists ──────────────────────────────────────────────────
         level0 = [a for a in digest_article_list if a.get("level") == 0]
         level1 = [a for a in digest_article_list if a.get("level") == 1]
-        level2_all = [a for a in digest_article_list if a.get("level") == 2]
-        level2 = self._cap_level2_by_budget(level2_all)
-        level2_left = level2[:3]
-        level2_sidebar = level2[3:]
-        level2_overflow = level2_all[len(level2) :]
-
-        # ── Layout planning ────────────────────────────────────────────────
-        n_l1_rows = (len(level1) + 2) // 3 if level1 else 0
-        last_row_filled = len(level1) % 3
-        overflow_slots = (3 - last_row_filled) % 3 if n_l1_rows else 0
-        overflow_in_last_row = level2_overflow[:overflow_slots]
-        overflow_extra = level2_overflow[overflow_slots:]
-        n_extra_rows = (len(overflow_extra) + 2) // 3 if overflow_extra else 0
-
-        # ── Sidebar ────────────────────────────────────────────────────────
-        sidebar_items = "".join(
-            self._article_block(a, "green") for a in level2_sidebar
-        )
-        sidebar_html = f"""
-    <aside class="sidebar">
-      {sidebar_items}
-    </aside>"""
+        level2 = [a for a in digest_article_list if a.get("level") == 2]
 
         # ── Main grid ──────────────────────────────────────────────────────
         headline_title = _e(level0[0]["title"]) if level0 else ""
@@ -159,44 +138,23 @@ class NewsDigestBroadsheetMixin:
             if level0
             else []
         )
-        # Distribute paragraphs across 3 columns; split flat text if needed
-        if len(headline_paragraphs) >= 3:
-            col_paras = [
-                headline_paragraphs[:1],
-                headline_paragraphs[1:2],
-                headline_paragraphs[2:],
-            ]
-        elif headline_paragraphs:
-            flat = _body(level0[0]) if level0 else ""
-            col_paras = [[c] for c in self._split_text(flat, 3)]
-        else:
-            col_paras = [[], [], []]
 
         cells = []
         cells.append(f'<div class="headline-title">{headline_title}</div>')
-        for col in col_paras:
-            paras_html = "".join(
-                f"<p>{_apply_bold(_e(p), headline_bold)}</p>" for p in col if p
-            )
-            cells.append(f'<div class="headline-body">{paras_html}</div>')
+        paras_html = "".join(
+            f"<p>{_apply_bold(_e(p), headline_bold)}</p>"
+            for p in headline_paragraphs
+            if p
+        )
+        cells.append(f'<div class="headline-body">{paras_html}</div>')
         for a in level1:
             cells.append(
-                f'<div class="l1-cell">'
+                f'<div class="col-cell">'
                 f'{self._article_block(a, "saffron")}</div>'
             )
-        for a in level2_left:
+        for a in level2:
             cells.append(
-                f'<div class="l1-cell">'
-                f'{self._article_block(a, "green")}</div>'
-            )
-        for a in overflow_in_last_row:
-            cells.append(
-                f'<div class="l1-cell overflow">'
-                f'{self._article_block(a, "green")}</div>'
-            )
-        for a in overflow_extra:
-            cells.append(
-                f'<div class="l1-cell overflow">'
+                f'<div class="col-cell">'
                 f'{self._article_block(a, "green")}</div>'
             )
 
@@ -263,28 +221,11 @@ class NewsDigestBroadsheetMixin:
     .dateline-left  {{ text-align: left;   flex: 1; }}
     .dateline-center {{ text-align: center; flex: 2; }}
     .dateline-right {{ text-align: right;  flex: 1; }}
-    .page-grid {{
-      display: grid;
-      grid-template-columns: 75% 25%;
-      gap: 0;
-      align-items: start;
-    }}
-    /* ── Sidebar ── */
-    .sidebar {{
-      padding: 0 0 0 1%;
-    }}
-    .section-label {{
-      font-size: clamp(9pt, 1vw, 14pt);
-      font-weight: bold;
-      color: var(--green);
-      margin-bottom: 8pt;
-    }}
     /* ── Main 3-column grid ── */
     .main-grid {{
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      column-gap: 1%;
-      padding-right: 1%;
+      column-gap: 2%;
     }}
     .headline-title {{
       grid-column: 1 / 4;
@@ -295,10 +236,13 @@ class NewsDigestBroadsheetMixin:
       margin-bottom: 10pt;
     }}
     .headline-body {{
+      grid-column: 1 / 4;
       text-align: justify;
       margin-bottom: 14pt;
+      column-count: 3;
+      column-gap: 2%;
     }}
-    .l1-cell {{
+    .col-cell {{
       margin-top: 10pt;
     }}
     /* ── Article title variants ── */
@@ -368,10 +312,7 @@ class NewsDigestBroadsheetMixin:
     </div>
     <hr class="dateline-rule">
   </div>
-  <div class="page-grid">
-    {main_html}
-    {sidebar_html}
-  </div>
+  {main_html}
   <footer>
     This broadsheet is an AI-generated weekly summary of news from Sri Lanka,
     compiled from articles across multiple sources and condensed using large
