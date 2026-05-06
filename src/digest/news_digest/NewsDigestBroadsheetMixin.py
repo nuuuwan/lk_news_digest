@@ -56,7 +56,9 @@ def _apply_bold(escaped_text, bold_phrases):
     for phrase in bold_phrases:
         ep = _e(phrase)
         escaped_text = escaped_text.replace(
-            ep, f'<span style="background-color:{_HIGHLIGHT};border-radius:3px;padding:0 2px">{ep}</span>', 1
+            ep,
+            f'<span style="background-color:{_HIGHLIGHT};border-radius:3px;padding:0 2px">{ep}</span>',
+            1,
         )
     return escaped_text
 
@@ -211,7 +213,7 @@ class NewsDigestBroadsheetMixin:
   <title>This Week in Sri Lanka \u2013 {_e(ts)}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap"
+  <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap"
         rel="stylesheet">
   <link href="https://fonts.cdnfonts.com/css/chomsky" rel="stylesheet">
   <style>
@@ -224,7 +226,7 @@ class NewsDigestBroadsheetMixin:
     @page {{ size: A2 landscape; margin: 1in; }}
     *, *::before, *::after {{ box-sizing: border-box; margin: 0; padding: 0; }}
     body {{
-      font-family: 'Lora', serif;
+      font-family: 'PT Serif', serif;
       font-size: clamp(9pt, 1vw, 12pt);
       color: var(--black);
       background: #fff;
