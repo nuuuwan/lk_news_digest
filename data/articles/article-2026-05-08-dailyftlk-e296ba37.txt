@@ -1,0 +1,71 @@
+The $ 2.5 m disconnect: Systems transition, national confusion, and future of debt management
+
+The $2.5 million Australia incident is a wake-up call for a nation in transition. It is not, as some would suggest, a simple case of internal robbery. Rather, it is a sophisticated exploitation of a technical gap created by the migration of debt management from the Central Bank to the Treasury. It reflects procedural and technical shortcomings rather than any inherent ethical breakdown. Therefore, it is both inaccurate and unjust to characterise the Government as a ‘robber’ on this basis
+
+“In a time of turbulence and change, it is truer than ever that knowledge is power.”
+
+The recent diversion of $ 2.5 million intended for Australia has triggered a national firestorm. While the political opposition decries it as theft and the public laments it as gross incompetence, these labels—though understandable in an atmosphere of high tension—fail to capture the structural reality of what has actually occurred.
+
+What the country is currently experiencing is less a crisis of intent and more a profound national confusion born from a lack of technical clarity. To understand this incident, one must look past the headlines and examine the complex intersection of a sophisticated cyber-heist and a massive institutional realignment. Specifically, we are witnessing the growing pains of a historic transition: the shifting of debt management responsibilities from the Central Bank of Sri Lanka (CBSL) to the newly established Public Debt Management Office (PDMO) under the Ministry of Finance.
+
+This transition period has created an inevitable “procedural twilight zone.” While the legal framework has moved toward centralisation, the legacy workflows of bilateral loan repayments—which involve intricate coordination between the External Resources Department (ERD) and the Treasury—remain in flux. This gap in operational effectiveness has provided a window for external vulnerabilities to be exploited. This article draws its strength and credibility from my nearly two decades of service at the Central Bank, where I engaged extensively with the subject at both policy and operational levels. The insights presented here are therefore not theoretical, but grounded in long-standing, first-hand experience.
+
+The primary source of confusion among the public lies in the nature of the “disappearance.” In traditional narratives of corruption, funds are siphoned through shell companies or kickbacks over a long period. However, my understanding is that the $2.5 million Australia scandal bears the hallmarks of a sophisticated Business Email Compromise (BEC)—a form of cyber-heist that targets the most vulnerable link in any financial chain: the human-to-human communication.
+
+In this instance, evidence suggests that hackers did not “break into a vault”; they intercepted a digital conversation. By compromising official communication channels, they were able to impersonate Australian debt-recovery authorities, providing “updated” banking details for a portion of a larger $22.9 million settlement. When the Treasury executed the payment, they did so under the assumption that they were fulfilling a verified diplomatic instruction. This was a “Man-in-the-Middle” attack of sovereign proportions, where the weapon was not a physical key, but a flawlessly forged digital identity. To call this “theft” in the traditional sense misses the point—it was an external predatory strike on a system in transition. This is my understanding.
+
+To grasp why this gap occurred, we must look at the Public Debt Management Act, No. 33 of 2024. This landmark legislation was designed to correct decades of fragmented debt management by consolidating all functions—negotiation, recording, and repayment—under a single, independent Public Debt Management Office (PDMO) within the Ministry of Finance.
+
+However, we need to understand the fact that the “legal” creation of an office and its “operational” reality often exist years apart. For decades, the Central Bank was the sole agent responsible for the “servicing” of debt. The migration of this massive administrative machinery to the Treasury is a Herculean task involving  (i) the transfer of thousands of records, (ii) secure communication protocols, and (iii) specialised staff. During this migration, an “operational lag” occurred. The old safeguards of the Central Bank were being phased out, while the new, centralised systems of the PDMO were not yet fully hardened. It is within this vacuum that the $2.5 million was diverted. Again, this is my understanding.
+
+Critics have rightly asked: Why was the External Resources Department (ERD) involved at all? Traditionally, the ERD is the negotiator, not the payer. Yet, the ERD remains the custodian of the Commonwealth Secretariat Debt Recording and Management System (CS-DRMS).
+
+Because bilateral debt (Government-to-Government) is inherently diplomatic, the ERD remains the primary liaison for foreign nations. Australia, like many bilateral creditors, still had the ERD listed as its primary correspondent. This created a bottleneck: the ERD held the «data» and the «relationship,» but the Treasury held the «money.» The hackers targeted the ERD because they knew that any instruction originating from the department that manages the loan agreements would be treated as gospel by the Treasury. The ERD was the «functional gateway» that the hackers exploited, highlighting a dangerous overlap that the transition had not yet resolved.
+
+There is a fundamental difference between paying a sovereign bond (ISB) and paying a bilateral loan. Market-based debt is largely automated, moving through encrypted institutional portals like Euroclear or Clearstream. It is «low-touch» and highly secure.
+
+Bilateral debt, however, is «high-touch.» It often involves the exchange of diplomatic notes, letters of credit, and specific payment schedules that are confirmed via official email or correspondence. This reliance on human-to-human verification is the Achilles› heel of the system. The $2.5 million Australia repayment was a bilateral settlement. The very «personal» and «diplomatic» nature of these payments allowed hackers to mimic the tone and formatting of Australian officials, bypassing the skepticism that usually accompanies automated financial transactions.
+
+The current «firestorm» is largely a result of an information vacuum. When the public hears that $2.5 million is «missing» and an official has tragically died, the mind naturally jumps to the worst possible conclusions. However, there is a significant discrepancy between public perception and technical reality.
+
+The Government has struggled to explain that «missing» does not mean «stolen by a clerk.» It means «diverted to a fraudulent account via an external cyber-attack.» Because the details of the investigation involve international agencies like the Australian Federal Police and the CID, the Government has been forced into a bit of a defensive silence. This silence, however, has fueled the confusion. “The public must clearly understand that this was a failure of digital protocol and systems governance—not a failure of national morality. It reflects procedural and technical shortcomings rather than any inherent ethical breakdown. Therefore, it is both inaccurate and unjust to characterise the Government as a ‘robber’ on this basis. Such claims risk misinforming the public and undermining institutional credibility. What is required instead is a measured, evidence-based assessment, followed by corrective action to strengthen systems, enhance transparency, and ensure that such lapses are not repeated. Accountability must be pursued with precision—not driven by mischaracterisation or emotion.
+
+As I clearly see, one of the most concerning aspects of this case is the reported failure of a 14-tier approval process. To the layperson, 14 levels of checks should be impenetrable. To a management expert, 14 levels often signal a “diffusion of responsibility.”
+
+When a document must be signed by 14 people, each individual often assumes that the other 13 have done the rigorous work of verification. In a period of institutional transition, this becomes even more dangerous. Staff at the Treasury may have assumed the ERD had verified the bank details, while staff at the ERD may have assumed the Treasury’s security protocols would catch any anomalies. So this “responsibility gap” is a classic vulnerability that occurs when a system is in flux, and it is precisely what was exploited in this heist.
+
+Please note that when I served at the Central Bank of Sri Lanka, all processes and verifications were conducted with absolute individual accountability. There was no room for dependency, complacency, or the transfer of responsibility. Every officer was personally responsible for ensuring accuracy, compliance, and integrity in every transaction and decision. We stood fully accountable for our actions—100%. It was precisely this uncompromising culture of responsibility and professional discipline that safeguarded the credibility and reputation of the institution.
+
+In view of the current confusion and the clear operational gaps exposed by this incident, it is essential to reconsider the institutional division of labor. While the Public Debt Management Act correctly places the policy and strategy functions within the Treasury/PDMO, there is a strong case for returning the repayment execution function to the Central Bank (CBSL).
+
+The Central Bank possesses the specialised technical infrastructure, the secure SWIFT gateways, and the decades of institutional memory required for the “back-office” execution of foreign payments. By allowing the Treasury to focus on the “Policy Function” (negotiation, strategy, and fiscal planning) and returning the “Execution Function” (the actual movement of funds) to the CBSL, we create a necessary system of checks and balances.
+
+The CBSL remains the “payer” and the “executor.” This separation of powers ensures that no single entity holds both the instruction and the execution, thereby closing the door on the type of communication breaches we saw in the Australia case.
+
+To move beyond this crisis, the Government must adopt a structured roadmap for reform. The framework identifies eight challenges and solutions that provide a way out of the current confusion:
+
+Neutralising the “Deep State” via digitisation: We must replace email-based payment instructions with end-to-end encrypted, automated dashboards.
+
+Overcoming decision-making paralysis: Officials need clear, rule-based protocols so they can act with confidence rather than fear.
+
+The productivity roadmap: Our focus must shift from “managing debt” to “exporting our way out of debt,” reducing the frequency of these high-pressure settlements.
+
+Ending the “Begging Bowl” mentality: Moving toward self-reliance reduces our vulnerability to external financial predators.
+
+Formalising the revenue base: A digital, transparent revenue system will provide the “fiscal buffer” needed to manage such shocks.
+
+Geopolitical neutrality: Professionalising our debt liaison offices would ensure that bilateral debt repayments are handled strictly as technical and contractual obligations, rather than being influenced by political relationships, diplomatic pressure, or changing geopolitical interests. This would strengthen credibility, consistency, and international confidence in Sri Lanka’s financial governance.
+
+Managing the “Honeymoon Period”: The Government must provide transparent “quick-win” clarifications to maintain public trust during these system shifts.
+
+The Presidential Delivery Unit: There must be an executive “muscle” to ensure that the PDMO is not just a name on a building, but a fully operational, secure fortress.
+
+The $2.5 million Australia incident is a wake-up call for a nation in transition. It is not, as some would suggest, a simple case of internal robbery. Rather, it is a sophisticated exploitation of a technical gap created by the migration of debt management from the Central Bank to the Treasury.
+
+The confusion gripping the country today is the result of a system that tried to modernise its laws without simultaneously hardening its workflows. To “cool down” the situation and safeguard the Government’s integrity, we must move toward Digital Structuralism—replacing human-centric, email-based approvals with rule-based, automated digital systems. Furthermore, by returning the execution of debt payments to the Central Bank while retaining policy control at the Treasury, we can restore the institutional safeguards that have historically protected our national wealth.
+
+It reflects procedural and technical shortcomings rather than any inherent ethical breakdown. Therefore, it is both inaccurate and unjust to characterise the Government as a ‘robber’ on this basis.
+
+The path forward requires technical courage. By embracing the framework and clarifying the facts of this transition, we can transform this moment of confusion into a catalyst for the most secure and transparent debt management system in Sri Lanka’s history. Knowledge is indeed power; it is time to give that power back to the people and the institutions-the Government and its arms that serve them.
+
+(The writer, among many served as the Special Adviser to the Office President of Namibia from 2006 to 2012 and was a Senior Consultant with the UNDP for 20 years, and a Senior Economist with the Central Bank of Sri Lanka (1972-1993). He can be reached at [email protected].)

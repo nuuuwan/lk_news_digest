@@ -1,0 +1,51 @@
+Where banking fraud hides
+
+The greater risk is not always a spectacular cyberattack or a single rogue employee. Often, the real danger grows quietly inside ordinary processes: in weak reconciliations, unexplained balances, delayed escalation, poor oversight, and a culture that treats warning signs as temporary irritants rather than serious threats. That is how small irregularities become large losses
+
+Sri Lanka is making a dangerous mistake. It is still treating banking fraud as a series of isolated scandals, each to be explained away, contained, and forgotten. That approach no longer matches the reality of how fraud works in a modern financial system.
+
+The greater risk is not always a spectacular cyberattack or a single rogue employee. Often, the real
+
+danger grows quietly inside ordinary processes: in weak reconciliations, unexplained balances, delayed escalation, poor oversight, and a culture that treats warning signs as temporary irritants rather than serious threats. That is how small irregularities become large losses.
+
+This is why the present crisis should not be seen as the problem of one institution alone. It should be read as a warning about the structure of the financial system itself. If similar weaknesses exist elsewhere, then the issue is not one fraud case but a much broader vulnerability.
+
+A modern commercial bank is not just a place that accepts deposits and grants loans. It sits inside a tightly connected network of payment systems, treasury activity, trade finance, customer transfers, interbank dealings, non-bank financial entities, and counterparties that may be visible only in fragments. Once a serious control weakness emerges in one part of that network, the damage may not remain where it started. It can spread.
+
+That is the real concern. One institution’s unexplained outgoing item can become another institution’s quietly accepted incoming item. If both sides are protected by delay, indifference, or collusion, the system can carry hidden losses long before anyone is willing to admit that fraud may be involved.
+
+The public often imagines bank fraud in simple terms: stolen customer funds, forged documents, fake loans, or phishing attacks. Those risks are real, but they are only part of the picture. The deeper danger lies in the routine machinery of banking itself. A suspicious balance in a temporary account is ignored because someone assumes another department is checking it. A treasury mismatch is left open because the books look broadly acceptable at a high level. A manual adjustment is allowed through because it comes from a trusted senior hand. An exception report is tabled, politely discussed, and then left to age.  That is how losses grow in silence.
+
+The greatest risk is not always the original act of fraud. It is the ease with which it can be concealed. Money can be shifted through settlement accounts, collateral balances, nostro accounts, suspense entries, receivables, payables, and other temporary categories that rarely attract public attention.
+
+When departments work in silos and no one is forced to assemble the full picture, concealment becomes easier than detection.
+
+Sri Lanka now faces a simple choice. It can continue to treat each revelation as a separate event, issue familiar assurances, and hope the next problem does not surface too soon. Or it can accept that the real issue may be structural: weak reconciliation discipline, weak board challenge, poor visibility across institutions, and too much faith in appearance over verification
+
+Trade finance creates another opening. False invoices, duplicate financing, circular shipments, shell entities, and related-party accounts can all create the appearance of legitimate business while masking the movement or extraction of value. Once such transactions pass through connected institutions, what began as one bank’s problem can quickly become a system problem.
+
+This is why the issue can no longer be described simply as bank fraud. It is better understood as networked financial fraud: misconduct that can move through banks, non-bank entities, payment channels, and connected counterparties while each participant sees only a slice of the pattern.
+
+So why do such problems survive for so long? The answer is uncomfortable. In many institutions, controls exist more convincingly on paper than in practice. Management assumes operations have checked the numbers. Operations assumes the treasury understands the break. The Treasury assumes finance will raise the alarm. Finance assumes an audit will catch anything serious. Audit assumes the matter is already known. Boards assume management would not keep them in the dark. Regulators assume institutions are reporting faithfully. In that chain of assumptions, fraud finds room to breathe.
+
+This is not merely a control failure. It is a governance failure. Thick policy manuals, polished dashboards, committee packs, and carefully worded board papers do not protect stakeholders by themselves. They matter only if the people reading them know what to question, what to verify, and what must never be allowed to sit unresolved. Governance is not the production of comfort. It is the discipline of challenge.
+
+That is why the response cannot be another narrow review of one institution at a time. What is needed is a broader, coordinated examination across the banking system and the connected financial sector.
+
+At a minimum, regulators and Boards should insist on simultaneous reviews of key balances and transaction flows across treasury, collateral, nostro, suspense, settlement, trade finance, and interbank accounts. They should require direct confirmation of large treasury and settlement positions with counterparties rather than relying only on internal records. Manual journal entries, reversals, overrides, late adjustments, and long-outstanding exceptions should receive special scrutiny.
+
+Beneficiaries and related accounts across banks and non-bank entities should be mapped to understand where funds are actually moving.
+
+They should also pay closer attention to the quieter technical areas where abuse often begins. That includes weak monitoring of varying counterparty credit limits, poor discipline over overnight placements and call money exposures, repeated dependence on temporary internal accounts, and unresolved balances that are allowed to age without escalation. These may sound like specialist matters, but when neglected they can become fertile ground for concealment and misuse.
+
+Cyber review and financial-control review must also be connected. Fraud does not respect reporting silos. A suspicious payment event, a user-access issue, an unusual balance movement, and an unexplained accounting adjustment may all be parts of the same story. Treating them separately is one more way to miss the whole picture.
+
+Most importantly, material unresolved items should not remain buried inside management papers. Once clear thresholds are crossed, they should move automatically to board audit committees, risk committees, and regulators. If a system waits for embarrassment before it acts, it has already waited too long.
+
+Some will say this level of scrutiny is excessive, disruptive, or bad for confidence. The truth is the opposite. Stakeholder interests are not protected by reassuring language, carefully managed optics, or polite delay. Depositors, investors, pension funds, borrowers, counterparties, employees, and the wider public are protected only by early detection, honest escalation, real accountability, and systems that do not allow small anomalies to mature into major losses.
+
+Sri Lanka now faces a simple choice. It can continue to treat each revelation as a separate event, issue familiar assurances, and hope the next problem does not surface too soon. Or it can accept that the real issue may be structural: weak reconciliation discipline, weak board challenge, poor visibility across institutions, and too much faith in appearance over verification.
+
+The real question is not whether every bank is compromised. It is whether there are enough unexamined pathways in the system for serious fraud to be occurring, concealed, or shifted across institutions without timely detection. That possibility is grave enough to demand action now, not after the next disclosure.
+
+(The author is a retired serial entrepreneur and senior business leader with several decades of experience across Sri Lanka, the US and the UK, spanning technology, logistics, banking, finance and trading. He has led pioneering digital payments and transaction infrastructure projects, built global commercial relationships, and served at executive, Board and chairman level with responsibility for strategy, governance, risk and compliance)

@@ -1,0 +1,81 @@
+Beyond symbolic governance: The accountability illusion
+
+An unintended consequence of regulatory evolution is the increased emphasis on form over substance of engagement
+
+A governance failure is rarely the result of complete neglect. More often, it emerges from overlapping oversight without clear ownership, a system where multiple actors are present, yet accountability is diluted across many layers.
+
+We are familiar with this structure. Operations execute. Systems and controls track. Management directs, decides, and reports. Committees and Boards review. Auditors verify. Regulators supervise.
+
+Yet, even where governance exists in form, a familiar and troubling question surfaces when failure occurs: If everyone was watching, why did no one act?
+
+In a recent column, “Symbolic Governance and the Cost of Silence: The Triumph of Form over Substance in Corporate Governance” I argued that corporate governance failures stem less from inadequate frameworks and more from the absence of interrogation, independent thought and intellectual friction. The discussions that followed revealed a deeper concern: while governance structures are well defined, the lines of responsibility within them are often not. Views differed on where accountability should reside and the role of auditors and regulators within that structure.
+
+This article examines that lack of clarity, and the risks that arise when responsibility is assumed rather than explicitly owned.
+
+The presence of oversight creates confidence in control, while masking the absence of accountability. This is the paradox at the heart of modern corporate governance.
+
+Reflecting on the 2008 global financial crisis, Mervyn King, who led the Bank of England (BOE) through that period, observed that one of the most dangerous features of failed institutions was that “no one was in charge.”  Unfortunately, the same pattern continues to surface in contemporary governance failures.
+
+In most cases including the recent fraud at NDB, systems existed, information flowed, and multiple layers of oversight were in place. Yet intervention did not occur in time to prevent the loss. The issue was not the absence of control, but the absence of ownership when control fails.
+
+Risk does not accumulate in darkness - it accumulates in ambiguity
+
+Corporate governance frameworks have evolved to distribute responsibility across distinct roles - management, executive directors, independent directors, board committees, auditors and regulators.
+
+In theory, this layered system is expected to create resilience, but in practice, it often leads to ambiguity.
+
+The Financial Stability Board (FSB), created by the G20 to strengthen oversight of the global financial system, has repeatedly cautioned that governance failures stem less from weak frameworks and more from insufficient board level challenge and diffused accountability.
+
+When responsibility is shared, accountability is diluted. When accountability is diluted, action is deferred. When each actor operates within a mandate, critical risks can fall in the spaces in between. Risk does not accumulate in darkness - it accumulates in ambiguity.
+
+A key element of the governance structure is a delicate relationship between the independent directors and the executive directors/management. Governance assumes a natural tension where management drives performance while independent directors challenge risk. But in practice, this tension is often softened. Independent directors depend on management for information, interpretation, and operational context. Over time, this dependence can evolve into deference. Executive directors, positioned between management and the board, may - intentionally or otherwise - filter and frame issues in ways that reduce friction rather than provoke it. The result is not collusion, but something more subtle: alignment without interrogation.
+
+SEBI Chairman Pandey, recently addressed this concern. Independence in boardrooms, he noted, often remains procedural, failing to translate into effective oversight, and called for a culture of constructive dissent. Without tension, oversight becomes symbolic.
+
+provide assurance on what is presented, not on what is concealed or insufficiently questioned - and assurance without ownership becomes a false comfort
+
+Board committees, particularly Audit and Risk committees, are designed to deepen scrutiny. Yet they too can reinforce the accountability illusion. Issues are reviewed, noted, and reported. But where does ownership ultimately reside? When risks are discussed within committees, they may be technically examined but not always escalated with urgency or owned with consequence. In the instance of NDB the question isn’t whether the committees met; it is weather technical reporting transitioned into an ownership of underlying risk.
+
+The process is fulfilled, but accountability remains diffused. Process can create the appearance of control without delivering its substance. Oversight becomes structured - but not necessarily effective.
+
+Auditors play a critical role, but one that is inherently constrained. They are often perceived as fraud detectors, yet auditing standards such as ISA240/SLAuS240 make clear that the primary responsibility for the prevention and detection of fraud rests with management and those charged with governance i.e., the board. Auditors are mostly designed to verify, not to anticipate. They assess based on available evidence and defined thresholds but not on emerging patterns that require deeper interrogation.
+
+This creates a subtle but dangerous gap: boards may assume auditors will detect issues, while auditors assume boards are actively interrogating underlying risks. Between these assumptions lies a critical void where risk is neither owned nor acted upon.
+
+Auditors provide assurance on what is presented, not on what is concealed or insufficiently questioned - and assurance without ownership becomes a false comfort.
+
+The board owns the risk - collectively and unequivocally. Independence is not neutrality - it is constructive disruption. Executive directors must drive clarity and candor - not comfort and consensus
+
+Regulators form the outer layer of governance - but they cannot substitute for internal accountability.
+
+As Pandey, has emphasised, regulation alone cannot prevent governance failures. Compliance can be enforced - but judgment, engagement, and responsibility cannot.
+
+An unintended consequence of regulatory evolution is the increased emphasis on form over substance of engagement. While these frameworks are necessary, they can create a perception of control without ensuring its effectiveness. Even as supervision evolves toward risk-based and culture-focused models, it remains fundamentally external and periodic. Governance, by contrast, must be internal and continuous.
+
+Regulation can compel compliance but it cannot compel conviction, it can regulate structure but cannot regulate vigilance.
+
+At its core, the accountability illusion is behavioral. When multiple capable individuals are present, a silent assumption emerges: If this were truly a problem, someone else would have raised it. This is not negligence. It is a diffusion of responsibility.
+
+As Mark Carney, Former Chair of the FSB and Governor of BOE, has observed, “culture is what people do when no one is watching.” In governance terms, this underscores a critical truth: even the most well-structured systems cannot compensate for the absence of accountability in behavior. In such environments, consensus replaces challenge, process substitutes for judgment and presence is mistaken for ownership. Governance appears active, but accountability remains absent.
+
+Across the corporate sector, governance is not merely a matter of best practice. It is increasingly codified through listing rules, governance codes, and regulatory frameworks that assign clear responsibility for internal controls and risk oversight to boards and management.
+
+In Sri Lanka’s banking sector, these expectations are even more explicit. Central Bank directions on corporate governance, together with the CSE Listing Rules and the Sri Lankan Code of Best Practice on Corporate Governance, place clear responsibility on boards for the integrity of internal controls and the effective management of risk.
+
+Yet, as recent events demonstrate, the existence of rules does not eliminate gaps in accountability.
+
+The accountability illusion is therefore not a failure of frameworks, but a failure of ownership within those frameworks. If governance is to move beyond being symbolic, responsibility must be re-centered and made explicit.
+
+Management executes, Committees review. Auditors assure. Regulators enforce. However - The board owns the risk - collectively and unequivocally. This ownership must extend beyond formal oversight to active engagement, ensuring that material risks are not only reviewed, but understood, challenged, and resolved.
+
+Independence is not neutrality - it is constructive disruption. It is their responsibility to provide the intellectual friction on the board. Without challenge, independence becomes symbolic. With challenge, governance becomes effective
+
+Executive directors sit at the critical intersection between management and the board. Their role is not to mediate discomfort, but to ensure that information flows transparently, risks are fully recognised, and issues are not softened in translation. They shape not only what the board sees, but how it sees it. Executive directors must drive clarity and candor - not comfort and consensus.
+
+When this role of an executive director becomes one of filtering rather than enabling, oversight is weakened at its source.
+
+For every material risk, ownership must be explicit. There should be no room for ambiguity regarding who is responsible, by when, based on what evidence, Etc. Without clear ownership, issues tend to drift, and silence prevails. What is not owned is not acted upon.
+
+The evolution of corporate governance has brought increasing sophistication in structure, but not always clarity in responsibility. We have built systems where everyone has a role, but not always a clear point of accountability. Recent events serve as reminders that governance fails in systems where responsibility is diffused and action is assumed rather than owned. Oversight does not fail in the absence of people. It fails in the absence of ownership. Where form exists but ownership does not, accountability will remain an illusion and governance a matter of form, not substance.
+
+(The author is the Chairman of Navara Capital Ltd. He is a Chartered Banker and holds a PhD in Strategic Management and Master’s degrees in Commercial Law and in Business Administration with three decades Board experience across multiple Industries)

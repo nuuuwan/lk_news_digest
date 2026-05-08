@@ -1,0 +1,51 @@
+The real enemy is already logged in.  A wake-up call for Sri Lanka’s boardrooms
+
+The massive bank fraud, the Treasury leak, the postal service transfer, these are not isolated incidents. They are symptoms of a systemic disease
+
+Over the last three months, Sri Lanka has witnessed a series of financial disasters that should keep every CEO awake at night. A major commercial bank loses Rs. 13.2 billion through a sophisticated internal fraud. Nearly $ 2.5 million mysteriously vanishes from the national treasury. Another $ 650,000 is siphoned from a key state postal service.
+
+These are not the work of foreign hackers in hoodies. These are failures of governance, process, and oversight.
+
+Let me state this with absolute certainty: The most dangerous threat to your organisation is not outside your firewall. It is already logged in.
+
+After dissecting these incidents and drawing on decades of work across industries, I have identified three critical vulnerabilities that boards continue to ignore.
+
+1. Obsession with external threats – while the insider works undisturbed
+
+Most companies obsess over phishing emails, ransomware gangs, and foreign cyberattacks. Yet the internal threat is far more lethal. Your employees have direct access to your data, systems, and money.
+
+Before a disgruntled employee even submits their resignation, they can delete critical files, transfer funds, or copy sensitive data to competitors. Add to that the careless computer user who clicks every link and falls for every malicious code.
+
+The recent banking fraud did not involve a sophisticated cyberattack. It involved someone who identified a system flaw, exploited weak processes, and operated in the complete absence of a whistleblowing culture.
+
+2. Security bought like office furniture – lowest quote wins
+
+Most companies in Sri Lanka do not invest properly in cyber security assessments. When they do, they chase the lowest quotation, compromise the security outcome, and treat the exercise as a compliance checkbox. Some don’t even read the assessment results to rectify identified gaps.
+
+Do not perform a cybersecurity assessment just to be compliant. Have the genuine need to be secure. When you are truly secure, compliance becomes an automatic by-product.
+
+Strategic investment in cyber security is not a cost. It is an investment to avoid fraud, regulatory penalties, and irreparable reputational damage.
+
+Almost every organisation is now on a digital platform. But here is my hard question: How many members of your board are genuinely tech-savvy? How many are even aware of cyber and process risks?
+
+For 12 years, CICRA has partnered with Daily FT to run an annual Cyber Security Summit. One of our most impactful sessions is titled “Why Cyber Security Should Be a Boardroom Discussion.” In the 2025 session, we highlighted the critical need for tech-savvy board members who can evaluate cyber risk and process risk, identify vulnerabilities, and crucially, ask the right questions of the management committee.
+
+If you cannot ask “Who reviewed the access logs?” or “What is our insider threat detection protocol?” then you are not governing. You are just attending a meeting.
+
+The massive bank fraud, the Treasury leak, the postal service transfer, these are not isolated incidents. They are symptoms of a systemic disease.
+
+So how do we cure it? I believe the time has come to build a cyber-resilient Sri Lanka.
+
+You must look at cyber risk from both internal and external perspectives. Organisations need proper system checks and processes, not merely buying software tools and appliances after something happens. You must view your business operations holistically, aligned with your strategic growth plans.
+
+Stop hiring vendors who sell you boxes. Hire vendor-bias consultants who give proper guidance to become truly cyber resilient.
+
+Stop treating cyber security as a regulatory burden. Start treating it as a strategic enabler. You do not become secure by buying a firewall and filing a report. You become secure through continuous assessment, employee training, insider threat programs, and genuine board oversight.
+
+Hire tech-savvy board members. Or train your existing directors on how the world has changed. Teach them how to ask the right questions of the management team.
+
+A cyber-resilient board is not a luxury. It is a necessity. Be safer than sorry.
+
+Your organisation’s digital footprint is its most valuable asset. Protecting it requires courage, investment, and leadership.
+
+Do not wait for your own Rs. 13 billion headline. The leak is already inside.
