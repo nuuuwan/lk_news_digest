@@ -1,0 +1,51 @@
+SC’s determination on Inland Revenue (Amendment) Bill 2026: What it means for taxpayers
+
+The determination carries several practical consequences for taxpayers and practitioners
+
+The Inland Revenue (Amendment) Bill 2026, published in the Government Gazette of 20 February 2026 and placed before Parliament on 17 March 2026, proposed several significant changes to the Inland Revenue Act No. 24 of 2017.
+
+Five petitions were filed before the Supreme Court challenging the constitutionality of certain clauses, heard on 2 April 2026 by a bench comprising Justices Janak De Silva, Arjuna Obeyesekere, and Sampath K.B. Wijeratne.
+
+The determination, delivered in S.C. (S.D.) Nos. 12–16/2026, provides important guidance on the constitutional boundaries of fiscal legislation in Sri Lanka and touches directly on taxpayer rights. Tax practitioners, corporates, and compliance professionals should take careful note of its findings.
+
+Taxpayers with disputed assessments should ensure that formal review or appeal processes are initiated promptly to secure this protection
+
+At the outset of proceedings, the Deputy Solicitor General (DSG) informed the Court that following stakeholder consultations and current economic considerations, the Government had decided to withdraw Clauses 4, 9, and 28 from the Bill at the Committee Stage. A Cabinet Memorandum dated 27 March 2026, approved by Cabinet on 30 March 2026, confirmed this decision, and the Legal Draftsman had already transmitted the relevant Committee Stage amendments.
+
+Clause 4 proposed changes to the thin capitalisation rules under Section 18, specifically addressing negative reserves in debt calculations. Clause 9 sought amendments to Section 67 governing the taxation of life insurance businesses. Clause 28 introduced a controversial evidence exclusion mechanism under Section 122, which would have permanently barred documents not produced within stipulated time frames from being used in any legal or appeal proceedings against an assessment.
+
+The withdrawal of Clause 28 was particularly consequential. The petitioners had argued forcefully that it would have armed the Commissioner-General with the unilateral power to permanently shut out evidence tendered by taxpayers in their own defence , an outcome they characterised as a fundamental violation of the principles of natural justice, the audi alteram partem rule, and the Constitution. Following the Government’s announcement, petitioners in S.C.S.D. Nos. 13, 14, and 15 of 2026 withdrew their applications, which were accordingly dismissed pro forma.
+
+The Court’s most significant finding concerned Clause 31(4). The Court acknowledged that the Bill’s objective, improving tax collection in a jurisdiction where Sri Lanka’s tax effort ranks among the lowest globally, is a legitimate and pressing policy goal
+
+Petitioners in S.C.S.D. Nos. 12 and 16 of 2026 pressed forward with challenges to Clause 31(4) and Clause 34 of the Bill.
+
+Clause 31(4) proposed new Sections 163(4A) to (4H), introducing a mechanism enabling the Commissioner-General to submit a certificate of default to the Magistrate’s Court, whereupon the tax in default would be deemed a fine for a criminal offence. Critically, the proposed Section 163(4C) barred the Magistrate from questioning the correctness of the certificate, and Section 163(4H) declared the certificate to be conclusive evidence of the assessment and default , even where an appeal was pending before the Tax Appeals Commission (TAC).
+
+Clause 34 introduced a new Chapter XVIIA creating Section 185A, criminalising failures to file returns, register for a Tax Identification Number, appear before the Commissioner-General, or furnish required statements , with conviction carrying fines up to Rs. 400,000 or imprisonment up to six months.
+
+Before turning to the specific clauses, the Court undertook a careful and comprehensive review of its constitutional jurisdiction over fiscal legislation. Drawing on a substantial body of Sri Lankan and Indian jurisprudence, the Court reaffirmed that Parliament enjoys a wide discretion in enacting tax legislation. Courts should not second-guess legislative policy choices in fiscal matters unless those choices are manifestly unreasonable or manifestly discriminatory.
+
+The Court also rejected the petitioners’ invitation to apply proportionality as a free-standing test for all fiscal legislation. While proportionality is relevant where a Bill restricts a fundamental right, the Court was emphatic that it does not apply simply because an alternative legislative measure might have been less burdensome. To hold otherwise, the Court observed, would draw the judiciary into the domain of law-making , what it colourfully described as kritarchy or krytocracy, the rule of unelected judges. This is a clear and important signal to practitioners: policy choices in tax legislation will not be struck down merely because they are harsh or because gentler alternatives exist.
+
+The Court’s most significant finding concerned Clause 31(4). The Court acknowledged that the Bill’s objective, improving tax collection in a jurisdiction where Sri Lanka’s tax effort ranks among the lowest globally, is a legitimate and pressing policy goal. It further accepted that the State is entitled to reverse prior policy and reintroduce criminal or quasi-criminal recovery procedures, even if the IRA 2017 had moved away from that model. The mere fact that a previous legislative framework favoured civil recovery does not render a return to Magistrate’s Court proceedings unconstitutional.
+
+However, the Court drew a critical distinction. Under the existing framework, Section 142 of the IRA 2017 already permits tax to remain due and recoverable even where an administrative review under Section 139 or an appeal to the TAC under Section 140 is pending. This was not challenged in earlier proceedings because, at that time, recovery proceedings were purely civil in nature and carried no penal consequences.
+
+Clause 31(4) changed that equation fundamentally. Under the proposed provisions, the Commissioner-General could submit a certificate to the Magistrate , whose hands were tied from examining its correctness and the taxpayer could ultimately face imprisonment, all while a bona fide appeal remained pending before the TAC. The Court held that this was arbitrary and irrational, and therefore contrary to Article 12(1) of the Constitution. It further held that in its current form, Clause 31(4) could only be passed by the special majority required under Article 84(2).
+
+The inconsistency, however, is curable. The Court specified that it will cease upon two targeted amendments: first, inserting a proviso to proposed Section 163(4A)(a) to the effect that no certificate shall be submitted where an administrative review under Section 139 or an appeal to the TAC under Section 140(1) is pending; and second, deleting the words “by reasons only of the fact that an appeal is pending against the assessment in respect of which the tax in default is charged” from proposed Section 163(4C).
+
+The determination also reaffirms, in definitive terms, that Sri Lanka’s courts will not lightly intervene in fiscal policy, but will act decisively where legislative provisions cross the line from firmness into arbitrariness.
+
+The challenge to Clause 34, which criminalised certain compliance failures under the new Section 185A, was rejected by the Court. The Court found no constitutional inconsistency, noting that criminal proceedings could only be initiated after a formal warning notice was served and thirty days allowed for compliance. This two-step process, the Court concluded, was a sufficient procedural safeguard. Clause 34 may therefore be passed by a simple majority.
+
+The determination carries several practical consequences for taxpayers and practitioners. The withdrawal of Clause 28 preserves the status quo on document admissibility in appeal proceedings, a significant taxpayer protection.
+
+The Court’s ruling on Clause 31(4) means that where an administrative review or TAC appeal is pending, the new Magistrate’s Court recovery mechanism cannot be triggered. Taxpayers with disputed assessments should ensure that formal review or appeal processes are initiated promptly to secure this protection.
+
+Clause 34 compliance offences, once enacted, will carry real criminal exposure, reinforcing the need for timely filing and registration practices across all entities.
+
+The determination also reaffirms, in definitive terms, that Sri Lanka’s courts will not lightly intervene in fiscal policy, but will act decisively where legislative provisions cross the line from firmness into arbitrariness.
+
+(The author is an Attorney-at-Law (LLB), FCMA(UK), CGMA, FCMA, and was awarded Tax Practice Leader of the Year 2024 (ASPAC) by International Tax Review (ITR) and was a top-four finalist for Tax Litigation and Disputes Practice Leader of the Year Asia Pacific)

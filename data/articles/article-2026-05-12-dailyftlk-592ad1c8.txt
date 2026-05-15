@@ -1,0 +1,69 @@
+When auditors join the Boardroom
+
+Sri Lanka’s next banking scandal may not begin with a bad loan or a hidden related-party exposure. It may instead start with a polite board paper, an overworked audit team, and an “independent” director whose independence deserves closer inspection. As the CBSL tightens supervision, the audit sector is entering a severe test of capacity and credibility. The issue is no longer only whether the major audit firms have technical competence. E&Y, KPMG, Deloitte and BDO clearly do. The deeper question is whether a highly concentrated audit market can withstand tougher regulation, compressed reporting deadlines, higher fraud risk, and growing public suspicion about professional capture.
+
+The banking audit market is concentrated in a few firms because banking audits are complex. That is understandable. Banks require specialist knowledge in IFRS 9 impairment, treasury valuation, credit staging, regulatory capital, IT controls, AML systems, related-party lending and core banking platforms. Smaller firms may struggle to field such teams at scale.
+
+But concentration has a cost. When the same few firms audit most licenced commercial banks, capacity pressure inside those firms becomes a systemic governance issue. If several banks close their accounts at the same time, the same limited pool of banking audit partners, managers, IT auditors, valuation specialists and regulatory experts is stretched across the sector. That pressure is felt most sharply during the provisional audit stage, when audit queries must be cleared before final accounts reach the Audit Committee and Board.
+
+This is where audit quality can quietly weaken. Not because the auditors are incompetent, but because deadlines, client pressure and resource constraints collide.
+
+A stronger CBSL regime will make this harder. Audit teams will need better training, stronger forensic awareness, deeper banking specialisation and better technology. Firms will need to invest in data analytics, credit model review, fraud detection, cybersecurity assurance and regulatory reporting expertise. Banks will need to pay more and prepare better.
+
+This matters even more under the President Anura Kumara Dissanayake administration. The Government has built much of its political credibility on anti-corruption, accountability and system reform. But financial-sector reform cannot survive if the audit ecosystem appears conflicted, overstretched or too close to the institutions it examines
+
+This will not be cheap. But weak audit is far more expensive.
+
+The cost of weak audit appears later: delayed loss recognition, manipulated collateral values, hidden connected lending, poor recoveries, regulatory breaches, public mistrust and eventually political fallout. Fraud is not a rounding error. It is a tax on honest depositors, borrowers, shareholders and taxpayers.
+
+Now a more uncomfortable discovery must be added to the debate: several banks appear to have former senior heads or senior partners of audit firms sitting on their Boards.
+
+This is not automatically improper. Former audit leaders can bring valuable technical experience. They understand financial reporting, controls, audit discipline and regulatory expectations. A bank Board benefits from that knowledge.
+
+But let us not be naive. When a former senior figure from an audit firm sits on the Board of a bank, and that same firm or professional network is active in the banking audit market, the independence question becomes serious. Formal independence is not enough. The test must be independence in substance and independence in appearance.
+
+A former audit-firm leader may have long-standing relationships with current partners. They may understand the firm’s commercial pressures. They may influence auditor appointment, reappointment, audit fees, audit scope or the handling of disputes between management and the external auditor. Even if they act properly, the perception is dangerous.
+
+Banking depends on confidence. If stakeholders begin to believe that auditors, Boards and audit committees are part of the same closed professional circle, public trust will erode.
+
+This is the revolving-door risk. It is not always illegal. It is often worse: it is respectable, technical, well-documented and approved by committees. Yet it can still weaken challenge.
+
+A bank director who was formerly a senior partner of the current external auditor should not be casually described as independent without full disclosure. The annual report should clearly state the former firm, former role, retirement date, whether the person worked on the bank’s audit, whether any financial ties remain, and whether they participate in auditor appointment or fee discussions.
+
+If such a director sits on the Audit Committee, the scrutiny must be even higher. If they chair the Audit Committee, the question becomes unavoidable: who is truly challenging whom?
+
+CBSL should treat this as a supervisory issue. Fit-and-proper approval should not stop at qualifications and reputation. It should ask whether the appointment creates actual, potential or perceived impairment of auditor independence. Banks should be required to disclose former audit-firm links prominently, not bury them in biographical language.
+
+There should also be mandatory recusals. A former partner of the current audit firm should not participate in decisions on auditor appointment, reappointment, audit fees, non-audit services, audit disputes, auditor performance assessment or recommendations to shareholders. These recusals should be minuted.
+
+Cooling-off periods should also be strengthened. A senior audit-firm partner should not move too quickly from auditing or supervising bank audits into governing a bank audited by the same firm. In banking, perception risk is systemic risk.
+
+The cost of weak audit appears later: delayed loss recognition, manipulated collateral values, hidden connected lending, poor recoveries, regulatory breaches, public mistrust and eventually political fallout. Fraud is not a rounding error. It is a tax on honest depositors, borrowers, shareholders and taxpayers
+
+This matters even more under the President Anura Kumara Dissanayake administration. The Government has built much of its political credibility on anti-corruption, accountability and system reform. But financial-sector reform cannot survive if the audit ecosystem appears conflicted, overstretched or too close to the institutions it examines.
+
+Political opponents do not need much material to build a damaging narrative. A delayed audit. A fraud case. A former audit-firm head on a bank Board. A related-party exposure. A soft regulatory response. Put these together and the story writes itself: the old system continues under new slogans.
+
+That would be politically damaging. More importantly, it would be economically dangerous.
+
+The finance sector cannot continue to absorb the cost of fraud committed by corrupt individuals exploiting unplugged loopholes. These loopholes are not merely legal gaps. They are failures of audit challenge, Board vigilance, regulatory follow-through and professional courage.
+
+Audit firms must invest before CBSL forces them to. Banks must stop treating audit fees as a cost to be minimised. Audit committees must track unresolved audit queries before Board approval. CBSL must examine auditor capacity, not merely auditor eligibility. Directors with former audit-firm links must be disclosed, scrutinised and recused where appropriate.
+
+The central question is no longer whether Sri Lanka has reputable audit firms. It does.
+
+The question is whether those firms, bank Boards and regulators can prove that reputation is matched by independence, capacity and courage.
+
+Sri Lanka has had enough of professional respectability masking institutional weakness.
+
+If the same small circle audits the banks, advises the banks, joins the Boards of banks, and then assures the public that everything is independent, the public has every right to ask a sharper question: Is the system being governed, or merely circulated among insiders?
+
+Because the next banking failure will not be excused by saying the auditor was famous, the director was qualified, or the Board paper was approved.
+
+Sri Lanka has had enough of professional respectability masking institutional weakness.
+
+If the same small circle audits the banks, advises the banks, joins the Boards of banks, and then assures the public that everything is independent, the public has every right to ask a sharper question: Is the system being governed, or merely circulated among insiders?
+
+(The author is a retired serial entrepreneur and senior business leader with several decades of experience across Sri Lanka, the U.S. and the U.K., spanning technology, logistics, banking, finance and trading. He has led pioneering digital payments and transaction infrastructure projects, built global commercial relationships, and served at executive, board and chairman level with responsibility for strategy, governance, risk and compliance)
+
+Sri Lanka now needs a harder model of banking governance. Audit firms must invest before CBSL forces them to. Banks must stop treating audit fees as a cost to be minimised. Audit committees must track unresolved audit queries before Board approval. CBSL must examine auditor capacity, not merely auditor eligibility. Directors with former audit-firm links must be disclosed, scrutinised and recused where appropriate

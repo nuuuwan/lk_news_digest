@@ -1,0 +1,15 @@
+Doc990 implements digital queue system for pharmacy services at Galle National Hospital
+
+Doc990, Sri Lanka’s pioneering digital health solutions provider operated by Digital Health (Pvt) Ltd — a subsidiary of Dialog Axiata PLC — announced the introduction of a digital queue management system at Galle National Hospital, focused on pharmacy service counters. The implementation addresses high patient volumes at one of Sri Lanka’s busiest healthcare institutions in the Southern Province, where structured queue management is essential for efficient service coordination.
+
+The system enables patients to receive a queue number upon arrival and track their position through digital screens placed in the counter premises. The solution supports improved visibility in patient flow while reducing congestion around pharmacy service counters.
+
+Hospital staff are supported through real-time backend capabilities that allow queue management and coordination of services, enabling more efficient handling of patient volumes across pharmacy operations.
+
+Speaking about the initiative, Janitth Pieris, CEO of Doc990, stated, “As Doc990 continues to digitise Sri Lanka’s healthcare landscape, we reaffirm our commitment to putting health at your fingertips. This digital queue system at Galle National Hospital exemplifies how accessible, real-time information and streamlined service delivery can transform patient experiences while strengthening public health infrastructure across the country.”
+
+Artists for Autism Awareness: Merak 2026 celebrates the power of creative collaboration
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

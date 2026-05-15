@@ -1,0 +1,65 @@
+Oil prices rise like rockets, fall like feathers (if you’re lucky)
+
+Crude oil is the lifeblood of the global industrial economy, yet the journey from a subterranean reservoir to a litre of petrol at the forecourt involves a cascade of physical transformations, commercial transactions, and fiscal interventions that profoundly shape who bears the cost, and how much. A sudden shift in the world market price of crude, whether triggered by OPEC+ supply discipline, geopolitical disruption, or a demand shock, does not translate uniformly into consumer prices across the globe. The consequences are systematically different, depending on a country’s tax policy, exchange rate, efficiencies in refining processes, distribution processes and dependence on energy imports.
+
+Crude oil is a naturally occurring mixture of hydrocarbons and its chemical composition varies by field: Heavy sour crudes from Venezuela, or Saudi Arabia, require additional processing, raising refining costs by USD 2–5 per barrel. One standard barrel contains approximately 159 litres.
+
+Crude oil is preheated to approximately 370–400°C and the operating principle exploits differences in boiling points. The resulting fractions, collected from top to bottom, include: light petroleum gases (LPG) boiling below 40°C; naphtha and gasoline fractions in the 40–205°C range; kerosene and jet fuel between 175°C and 275°C; diesel and gas oil from 250°C to 350°C; and atmospheric residue above 350°C which is then processed in a vacuum distillation unit to recover further distillates, including lubricating oil base stocks.
+
+Primary distillation alone is insufficient to meet market demand. Gasoline demand far exceeds the natural yield of the distillation cut. A modern complex refinery achieves the following approximate product yields from a light sweet crude: petrol/gasoline ~45%; diesel/gasoil ~25%; kerosene/jet fuel ~10%; LPG ~5%; heavy fuel oil ~10%; and other by-products ~5%. These ratios shift with crude quality and refinery configuration, and response differently to crude price changes.
+
+An accounting perspective reveals a waterfall of costs, each layer added by a distinct economic actor and subject to a distinct set of market forces and regulatory interventions. A companion of the approximate cost structure for a litre of petrol at the retail level, assuming a crude oil price of USD 70 per barrel (approximately USD 0.44 per litre of crude equivalent), between advanced and emerging economies, can be explained in four layers:
+
+The foundation of every fuel product is the crude oil acquisition cost. At USD 70/barrel, the raw material cost embedded in one litre of refined petrol is approximately USD 0.44. This figure includes wellhead lifting costs, field operating expenses, royalties, and sovereign resource taxes paid to the producing country, as well as freight and insurance for ocean tanker shipment.
+
+For emerging economies, without domestic refining capacity, or with currencies that are not freely convertible, this layer is doubly exposed: a crude price increase is compounded by any simultaneous depreciation of the local currency.
+
+The gross refining margin, measured by the industry’s standard 3-2-1 crack spread;
+
+Crack Spread (gross refining margin) = (2×Gasoline Price) + (1×Diesel Price) − (3×Crude Price)
+
+Critically, this gross figure must not be confused with profit. A refinery typically uses 6–8% of its own crude input as process fuel, and significant variable operating costs. This gross refining margin, the difference between the value of products produced and the cost of crude, varies considerably with market conditions.
+
+In advanced economies with large, integrated refinery systems, these margins are moderated by competition and long-term supply contracts. In emerging economies, dependent on a single import refinery or on product imports rather than crude, refining costs are effectively set by the international product market, leaving little domestic control over this cost layer.
+
+Refined products must travel from the refinery gate to the consumer through a distribution network involving primary pipelines or product tankers, regional storage terminals, secondary truck distribution, and retail fuel stations. In advanced economies, this infrastructure is mature, privately operated, and highly efficient, contributing a relatively stable USD 0.05–0.10 per litre to the retail price. In many emerging economies, the distribution infrastructure is fragmented, underdeveloped, or state-controlled, introducing additional costs, quality inconsistencies, and opportunities for rent-seeking. In Sri Lanka, for instance, the state-owned Ceylon Petroleum Corporation has historically cross-subsidised distribution costs, masking the true economic cost until subsidy withdrawal forced rapid price adjustments in 2022.
+
+Rent-Seeking is extracting value without creating value; essentially corruption and inefficiency
+
+Licensing corruption:Limited fuel station licenses create artificial scarcity; Licenses sold/traded at premiums; Political connections needed to obtain licenses
+
+Quality adulteration: Consumers pay for “petrol” but get lower-quality mix
+
+Quota manipulation:Subsidised kerosene (meant for poor households) diverted to diesel mixing; Creates black markets during shortages
+
+Taxation is the most variable, politically sensitive, and analytically important layer in the cost structure. In advanced economies a high tax bases serve a dual purpose: generating substantial fiscal revenue and acting as an automatic price stabiliser. When crude rises, the absolute tax component remains constant, so the percentage of the price attributable to crude increases less than proportionately at the retail level.
+
+In contrast, emerging economies historically imposed low fuel taxes or active subsidies, particularly for diesel, LPG, and kerosene used by low-income households. Sri Lanka’s fuel tax component, prior to the 2022 crisis, was, they claim, effectively negative in real terms due to administered pricing below cost.
+
+The Impact of a Crude Price Increase: Advanced vs. Emerging Economies
+
+For example, if crude oil rises from USD 70 to USD 85 per barrel, an increase of approximately 21.4%. The mechanisms by which this shock is transmitted to consumers, and the capacity of economies to absorb or redistribute it, diverge dramatically along the advanced/emerging economy divide (Table 1).
+
+Advanced economies possess well-established fiscal frameworks that enable them to absorb temporary commodity shocks through tax relief, targeted transfers, or direct subsidies without compromising fiscal sustainability. Research by the Center for Global Development (2026) estimates the median fiscal cost of shielding consumers from the crude price increase of USD 15 scenario at approximately manageable cost of 0.4% of GDP for advanced economies.
+
+Emerging economies face median fiscal costs of approximately 0.9% of GDP — effectively double. For Sri Lanka, entering the 2022 energy crisis with near-zero foreign reserves, even a temporary subsidy was fiscally impossible, forcing an immediate and politically destabilising pass-through of the full price increase to consumers. The lesson is stark: the ability to smooth out a commodity price shock across time is itself a function of prior fiscal strength, making the poor more vulnerable precisely because their governments are already under strain.
+
+The second transmission mechanism operates through the consumer price index and central bank behaviour. In advanced economies, fuel typically represents 3–5% of the CPI basket, and central banks enjoy high credibility in anchoring inflation expectations.
+
+In emerging economies, fuel and food together often constitute 40–60% of CPI baskets, and central banks have historically struggled to maintain credible inflation targets. A 21% crude price increase translates into a far larger initial CPI shock. Worse, the loss of inflation credibility means that workers and businesses adjust wages and prices preemptively, generating persistent second-round inflation (> Double). To defend its inflation target, the emerging economy central bank must raise interest rates aggressively, simultaneously raising the cost of borrowing for businesses and governments, a painful policy dilemma in an economy already under stress.
+
+The third and perhaps most structurally significant difference lies in the current account and foreign exchange dynamics. The advanced economies hold large reserve currencies and deep financial markets that allow them to finance import cost increases without immediate exchange rate pressure.
+
+Sri Lanka, by contrast, allocated approximately 23% of its total import bill to petroleum products. A USD 15/barrel price increase instantly widens the current account deficit of these economies, depleting foreign exchange reserves. As reserves fall, currency markets anticipate further depreciation, precipitating speculative selling of the domestic currency. The resulting exchange rate depreciation, potentially 5–15% in a shock scenario,  multiplies the cost of crude imports in local currency terms. A 21% USD price increase thus becomes a 28–39% local currency price increase at the refinery gate, before any refining, distribution, or tax component is added. This vicious cycle; crude price rise → reserve depletion → currency depreciation → amplified import cost → further reserve depletion, is a hallmark of emerging economy energy crises, and Sri Lanka’s 2022 experience illustrated it in extreme form.
+
+Countries that have historically subsidised fuel face a double bind when crude rises: the subsidy bill expands sharply (as the gap between subsidised price and market cost widens), while fiscal space contracts. The International Monetary Fund has consistently recommended subsidy reform, allowing fuel prices to reflect market cost while protecting the poor through direct cash transfers, as the fiscally sustainable path. Sri Lanka’s forced price liberalisation in 2022 (under IMF programme conditions) illustrate both the political difficulty and the macroeconomic necessity of this adjustment.
+
+The Asymmetry of Oil Price Responses: Advanced vs. Emerging Economies
+
+Advanced economies enjoy bidirectional flexibility in responding to oil price volatility; prices rise and fall with crude markets, leaving fiscal positions largely neutral. Emerging economies, by contrast, face a structural trap: when crude rises, subsidy bills explode, draining public finances; when crude falls, governments retain windfall savings to offset accumulated deficits rather than passing relief to consumers. Sri Lanka’s cycle from collapse to liberalisation to renewed subsidies illustrates this vividly. Underlying this is a political economy ratchet, price hikes are unavoidable, but reductions are politically captured, making permanent reform structurally elusive.
+
+is a professor at SLIIT, Malabe. Views expressed in this article are personal.)
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

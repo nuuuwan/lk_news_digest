@@ -1,0 +1,53 @@
+From fragility to fortitude: Can Sri Lanka emerge stronger from the Middle East crisis?
+
+The world in 2026 is grappling with a triple threat. We are at the intersection of the 3rd Industrial Revolution (AI), the return of geopolitics, and the accelerating reality of climate change. These forces are not theoretical; they are currently reshaping the survival odds of every company world-wide.
+
+Recent escalations in the Middle East and their immediate repercussions across Asia are a stark testament to this. For Sri Lanka, a nation already in a delicate recovery, these global shifts have become a double whammy. Yet, we need to contend that Sri Lanka is a resilient nation and has a proven track record of overcoming challenges. Sooner the country can adapt to the ‘new world norm’, faster it can put things back in place.
+
+The disruption of critical maritime arteries like the Strait of Hormuz and the Red Sea has hit Sri Lanka’s core export engines—tea and apparel with unprecedented shock waves.
+
+The logistical bottleneck: Recent reports from the History of Ceylon Tea and the Atlantic Council highlight that hundreds of containers have been stranded at sea, with shipping lines rerouting or suspending services.
+
+Cost spikes: Freight costs and insurance premiums have surged. There is an increased cost of sales, significant increases in food and other essentials. Logistics costs for Sri Lankan exporters and importers have risen by 35% to 40% as of late March 2026. In some extreme cases, combined freight and insurance costs have reportedly doubled.
+
+Energy crisis 2.0: On March 15 this year, the government was forced to reintroduce mandatory fuel rationing after physical supply constraints from the Gulf crippled local stocks.
+
+Expected results: Higher inflation, lower growth, higher corporate defaults. But for how long? The Institute of Policy Studies (IPS) and ADB suggest that if the disruption remains semi-persistent, headline inflation could spike to 8% – 10% by late 2026 due to the 38.9% shock in fuel futures and a projected 15% surge in food prices. Besides, Credit analysts warn of a potential 12% to 15% increase in Non-Performing Loans (NPLs) within the industrial sector by Q4 2026 if fuel rationing extends beyond June.
+
+The financial fallout is visible in the data. According to Allianz Trade, global insolvencies are expected to peak in 2026, with Asia driving half of the global increase. While the region shows a forecast rise of 6% (NB: numbers are pre-crisis), specific trade hubs are seeing much sharper spikes.
+
+In Sri Lanka, the risk is a ‘liquidity trap’ for SMEs. Coface and the World Bank note that while the economy grew by 5% in 2024/25, the Middle East conflict is now dampening that recovery. For Sri Lankan banks, the danger is acute: they have largely reached their MSME lending quotas. Forcing further credit into weak, high-risk SMEs could trigger a domino effect on bank balance sheets. With non-performing loan (NPL) ratios being sensitive to these shocks—and Tier 1 capital ratios already under scrutiny, a wave of SME defaults would inevitably weaken the credit ratings of the country’s largest financial institutions.
+
+Importantly, those SMEs are quite often the suppliers for the corporates. Furthermore, corporates are exposed to the environmental risks carried by their respective supplier chains. According to McKinsey research, a single supplier getting impacted can cost up to 42% of a buyer’s annual profits. A considerable number of suppliers getting impacted can quickly turn into an economic and human nightmare. This indeed will be a challenge for Sri Lanka and its biggest companies; ‘how to efficiently monitor the suppliers?’
+
+To survive this, a simple methodology can be tabled to support organisations, moving beyond reactive firefighting towards proactive monitoring and corrective measures:
+
+1. Comprehensive Risk Assessment: Assess across the Exco members what are the key risks the company and its suppliers are the most exposed to.
+
+The double-materiality framework by the European Financial Reporting Advisory Group (EFRAG) for the European Sustainability Reporting Standards (ESRS)/ Corporate Sustainability Reporting Directive (CSRD) regulation can be a good guide to start with.
+
+2. Factor correlation: Identify how those risks overlap. Simplifying these correlations allows companies to focus on the most important risks to monitor, while keeping it simple for everyone to understand, monitor, and act on.
+
+3. Filling information gaps: Turning those risks into concrete questions/KPIs for the suppliers is essential. This will avoid self-declaratory questionnaires. Most importantly, data needs to be backed by checked evidence, and it needs to be auditable.
+
+4. Materiality ranking: Not all suppliers are created equal. Hence, there are often different questions for different groups of suppliers. They need to be ranked based on their potential impact on profits, and the probability of the occurrence. Crossing both will give the priority risk ranking a company needs to address.
+
+5. Dynamic contingency planning: For each high-risk supplier, establish a clear playbook: Support (operational, technical, financial aids), Exit (problem cannot be addressed for the supplier), or Do-Nothing (calculated risk-taking). In any case, companies need to monitor over time what progress is made by their suppliers and ensure that they are moving in the direction desired by the buyers. In terms of other suppliers, they need to be monitored too as risks and opportunities can change fast.
+
+The biggest challenge is motivating an exhausted SME to share data and improve performance. There is a $7 trillion global SME funding gap, and this can be leveraged in a robust mechanism which will benefit both the suppliers and the buyers.
+
+In that context, a new form of partnership, based on financial solidarity, is required between a buyer and a supplier. Let’s be clear: it is not about getting buyers to guarantee the debt of their partners. It is about aligning their mutual priorities through better transparency: how can the buyer offer faster payments at costs below ban pricing in exchange for greater access to the supplier KPIs (Key Performance Indicators) to better manage their operational risks and reporting obligations? Such a new approach would be based on three pillars:
+
+1. The incentive:  Providing supplier financing, at a cost linked to the performance of the supplier on those KPIs.
+
+2. The live action: Monitoring of suppliers’ data sharing and performance promptly rather than waiting for reports quarterly or annually. This will support taking corrective actions to manage stakeholder-expectations as and when the updates occur throughout the year. Here, already a process is established globally to collect financial data throughout the year. This model will become the template to emulate for ESG reporting, which is currently done once a year.
+
+3. Coaching: In order to get the best from suppliers, it is essential to ensure suppliers are properly guided on the KPIs that are expected from them. What do they mean? How to secure them? What is the process of improving them? Buyers often benefit from the expert support of consultants in their transformation exercises. Unfortunately, suppliers often do not have the means and access to consultants. And suppliers are so numerous that it is impossible to provide each of them with human consulting support. An AI-based platform is then indispensable to bridge that gap and offer affordable and scalable expertise to all suppliers.
+
+Operational and financial risks are no longer separate departments; they are two sides of the same coin. By leveraging finance as the ultimate motivator, supply-chain ‘contingency planning’ can move from a defensive cost-center into a high-performance profit-driver.
+
+In the volatile landscape of 2026, survival is reserved for the proactive—those who do more than just monitor their supply chain but actively incentivise it to transform. History has proven that a chain is only as strong as its weakest link; today’s political crisis serves as a brutal reminder of just how deep those links go and how central every supplier is to our shared success.
+
+The time for ‘wait and see’ has passed. We must turn corporate solidarity into a concrete, immediate engine for resilience and profitability. By doing so, we don't just protect our bottom line—we can fortify Sri Lanka’s position as a formidable and unshakable player on the global stage.
+
+(Sumedha Wijesekera is Director Stredge Sri Lanka and Middle East, specialising in consultancy for business and people transformation.  Alex Lheritier is the Co-founder and Chairman of Koaloo.Fi which is a Paris-based fintech specialising in supply chain performance and sustainability.)

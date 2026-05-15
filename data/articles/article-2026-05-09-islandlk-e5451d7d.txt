@@ -1,0 +1,59 @@
+Application of AI in Logistics in Sri Lanka can improve efficiency, reduce cost and enhance decision making
+
+“AI increases profits while reducing un ethical intervention which is proven by Successful Global Business Models”
+
+Artificial Intelligence(AI) is still only a buzz word in the Sri Lankan society, though many wanted to have an awareness of the concept the resources are scares, even still the IT industry has not formulated any awareness programs or a Degree yet to cope with the development. But world education warns that there want be any IT based jobs in future without learning the AI. AI has multiple use in any discipline and it has the ability to increase the efficiency of the work intern cut down the product or the service cost. Below description is how the application of AI can smoother the function of Logistic or the Supply Chain Management.
+
+Using Artificial Intelligence (AI) in logistics can greatly improve efficiency, reduce costs, and enhance decision-making in simple enhance the profit margins. Below is a structured overview of how AI can be used in logistics, including key applications, tools, and real-world examples. Machine Learning(ML) is the foundation to AI but subsequently develops the capability of absorbing the information from the cloud (IT environment) and produce future behavior or trends by analyzing the fed data to the computers on a certain period of time. In some occasions vendors offer unbelievable discounts by using ML or AI, because it clearly understands the market behavior, human behavior, expiration and many other variables that gives the profits or losses to the product or the service.
+
+AI can analyze historical data, market trends, and external factors (like weather or news) to:
+
+Tools: Machine learning models (e.g., time series forecasting) and IT platforms/software like Amazon Forecast, Prophet by Meta. These are the software applications that helps to understand the future trends.
+
+Traditional forecasting methods typically rely on statistical modeling, but software like “Chronos” that treats time series data (data collected during a certain period of time) as a language to be modeled and uses a pre-trained FM (forecast Models) to generate forecasts, which similar to how “Large Language Models” (LLMs) generate texts helps you achieve accurate predictions faster, significantly reducing development time compared to traditional methods.
+
+Prophet is a very efficient and accurate procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. This software adds many social, cultural and geographical variables other than internal information to decision making.
+
+AI-powered systems can calculate the most efficient delivery routes in real-time using:
+
+Example: UPS (one of the largest Logistic companies in the world) uses its ORION system (AI-based) to save millions of gallons of fuel per year.
+
+The “Route4Me” IT platform automates and integrates mission-critical last mile workflows, empowering route planners, dispatchers, drivers, and managers to take the business to the next level. Distribution networks, passenger transportation networks can achieve much cost reduction by using above platforms. This is a good platform for the Sri Lanka passenger industry to reduce the overheads for the population. In Sri Lanka “Pick me” and “Uber” uses similar platforms in their transportation industry. Whole three wheeler industry can be regulating with this kind of software and transfer benefits to the passengers.
+
+Traditionally, goods are moved around a distribution center using a conveyor system  or by human-operated machines (such as forklifts). In Kiva’s approach, items are stored in portable storage units. When an order is entered into the Kiva database system, the software locates the closest automated guided vehicle to the item and directs it to retrieve it. The mobile robots navigate around the warehouse by following a series of computerized bar-code stickers on the floor. Each drive unit has a sensor that prevents it from colliding with others. When the drive unit reaches the target location, it slides underneath the pod(Pallet) and lifts it off the ground through a corkscrew action. The robot then carries the pod to the specified human operator to pick up the items or subsequently hand over to the “drone” to deliver to the customer. Human intervention is minimal and accordingly overheads are reduced, Sri Lanka needs to achieve this kind of operational level in order to par with the international markets.
+
+Traditionally Sri Lankans are week in maintenance, they basically wait until the machine stops in the other way bureaucratic too are much restrict on the maintenance and the procurement procedure. Applying this kind of maintenance software will eradicate all of these lethargies and the bureaucratic blocks. Subsequently continuing the smooth operations and productions.
+
+Tools: IoT(internet of things as cameras, sensors, GPS etc.) sensors + ML models (e.g., anomaly detection), IT platforms like IBM Maximo.
+
+“From equipment to factories, from fleets to infrastructure, Maximo Application Suite empowers users across verticals to coordinate maintenance and management for a broad range of asset classes”.
+
+📦 Example: DHL (Logistic Company) uses AI to forecast transit delays and offer dynamic ETA updates.
+
+This is an ideal tool for cargo management, ideal for sea ports and the air ports in Sri Lanka. This is one of the grave gray areas in the port system, though the port system is lacking the required information due to that the client has to pay the demurrages and warehouse cost for the ports. Also, cut down unnecessary delays and reduce bribes and corruption at all levels.
+
+Tools: ERP (Entrepreneur Resource Planning) systems with embedded AI (e.g., SAP, Oracle), custom ML models.
+
+These systems drastically reduce the human intervention and speedup the Supply management process.
+
+“Dialogflow” is a natural language understanding IT platform that makes it easy to design and integrate a conversational user interface into the mobile app, web application, device, bot, interactive voice response system, and so on. Using Dialogflow, establishments can provide new and engaging ways for users to interact with the product. Dialogflow can analyze multiple types of input from the customers, including text or audio inputs (like from a phone or voice recording). It can also respond to the customers in a couple of ways, either through text or with synthetic speech.
+
+Above IT platforms control the human intervention and reduce the cost of employees. Chatbots are basically efficient than the humans due to the high memory power for the standard customer inquiries. Application to Government sector will reduce the burden for the general public.
+
+“KPMG Clara” is an AI-powered IT platform offering supply chain analytics, risk detection, and compliance management.
+
+“Geo Analysis” (AI based) IT platform in Supply Chain Access Control
+
+Above IT platform Monitor access patterns across cross-border freight hubs, regional warehouses, and remote carrier logins. “Geo analysis” for supply chain authentication identifies impossible travel, geo-inconsistencies, and spoofed IPs to reduce credential abuse and unauthorized entry into logistics systems. This important IT platform can reduce corruption and many unethical practices, ideal tool for the Sri Lankan Government sector that can curb the mal practices.
+
+Artificial Intelligence (AI) is a remarkable IT tool which can apply in almost all the sectors that can reap the Efficiency and Accuracy. In above paragraphs I have described the application in different stages of the Logistic or the Supply Chain Management. Application of AI tools can be done on stages as initially find the specific pain points pertaining to the supply chain and then, prepare data from the GPS, inventory systems, sales forecasts and supplier records. Subsequently can understand the specific AI platforms and ML models to suit the SCM operation. Further, can apply in a small scale as a pilot project and analyze impact as cost savings or efficiency gains. Once understand the model can roll out to other areas of operations in the establishment.
+
+Final outcome will be “15% reduction in fuel cost, 20% faster deliveries, Increased customer satisfaction”
+
+There may be many negative lobbies since this is new to the many sectors in the country and further ability to proof the corruption but proper education and understanding the world AI based business models, establishments can reach the required goal.
+
+Citizenship, Devolution, Land and Language: The Vicarious Legacies of SJV Chelvanayakam
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

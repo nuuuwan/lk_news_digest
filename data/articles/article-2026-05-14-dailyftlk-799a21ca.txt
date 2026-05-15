@@ -1,0 +1,37 @@
+Sri Lanka’s withholding tax among world’s lowest: Verité Research
+
+Sri Lanka raised its withholding tax (WHT) on interest income from 5% to 10% in April 2025. “That sounds like a big move. In global terms, it is not. Even after the increase, Sri Lanka remains in the bottom 10% of countries that tax interest income. That leaves room to raise the rate further,” economic policy think tank Verité Research said.
+
+It said: Data from the KPMG Global Withholding Taxes Summary 2024 show that Sri Lanka’s 10% rate is low by both income-group and regional standards. The average tax rate is 16%, both among middle-income countries and among South Asian peers. Sri Lanka sits well below both averages, making its WHT rate an outlier.
+
+The gap is even clearer when looking at individual countries. India and Bangladesh tax interest income at 20%. Many high-income countries apply rates above 30%.
+
+Among the countries included in the analysis, Sri Lanka’s rate ranks at the bottom, with only six of 98 countries having a lower rate than Sri Lanka’s.
+
+WHT is deducted at source, before the income reaches the taxpayer. In case of interest income, for instance, that means the tax is collected by the bank, before the recipient receives the interest payment to their account. It is one of the most efficient ways for a government to collect income taxes, especially in contexts where there is low compliance in individuals paying their due share of income taxes.
+
+This matters because many forms of income can be hard to monitor and easier to under-report. A WHT helps the Government capture some part of income tax early, without relying only on accurate tax filing and effective enforcement. It acts as a first line of collection.
+
+Importantly, WHT does not create an additional tax burden: when filing taxes, it is recorded as a pre-payment and can be offset against the total tax owed when the annual return is filed.
+
+When the WHT rate is low, that first line is weak. For example, if the WHT rate is 10% but a person’s marginal income tax rate is 30%, the Government collects only a portion upfront and must rely on the taxpayer to declare and pay the rest later. In the context of low compliance, this is not only slower, it is also less effective. Even when the person’s marginal tax rate is lower than the WHT rate, the WHT helps in yet another way. Because the taxpayer can claim credit for the tax already paid, if they are not normally filing returns, it motivates them to now do so and thereby expands the tax net and improves tax compliance.
+
+Sri Lanka has improved tax collection in recent years, but total Government revenue, relative to GDP, remains low compared to other countries in South Asia. Income tax registration levels are especially low compared to improving income tax compliance, therefore, the country needs a tax system that collects more efficiently and more predictably. A stronger WHT on interest income would help do both.
+
+Sri Lanka collected Rs. 175 billion in 2025 from interest income at a 10% rate. The estimated collection for 2026 at the 10% rate is Rs. 185 billion. A 15% rate could increase revenue by 50%, to about Rs. 278 billion. That would mean an additional Rs. 93 billion.
+
+Raising the WHT rate on interest income from 10% to 15% would be a modest but sensible reform. It would move Sri Lanka closer to the norm among comparable countries. It would improve collection at source. And it would generate additional revenue through an existing tax instrument rather than through a more complex reform.
+
+KPMG Global Withholding taxes Summary 2024, available at : https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2025/global-withholding-taxes-guide-2024-kpmg.pdf
+
+PublicFinance.LK Sri Lanka’s Personal Income Taxpayer Base Lags Behind South Asian Peers Despite Recovery. Available at: https://publicfinance.lk/en/topics/sri-lanka-s-personal-income-taxpayer-base-lags-behind-south-asian-peers-despite-recovery-1755239541
+
+PublicFinance.LK Sri Lanka’s Personal Income Taxpayer Base Lags Behind South Asian Peers Despite Recovery. Available at: https://publicfinance.lk/en/topics/sri-lanka-s-personal-income-taxpayer-base-lags-behind-south-asian-peers-despite-recovery-1755239541
+
+PublicFinance.LK Sri Lanka in South Asia: 2nd in GDP, 5th in government revenue share. Available at: https://publicfinance.lk/en/topics/sri-lanka-s-government-revenue-is-lower-despite-comparatively-higher-income-1751022783
+
+Countries with tax on interest income based on KPMG Global Withholding taxes Summary 2024, were selected for the analysis.
+
+Income Classification was based on World Bank Income Classification. The breakdown is based on 2024 Gross National Income (GNI) per capita. The thresholds for the classifications are as follows:
+
+WHT payments can be set off against income tax. Therefore, the additional revenue collected during the year from WHT may be partly offset by lower final income tax collections.
