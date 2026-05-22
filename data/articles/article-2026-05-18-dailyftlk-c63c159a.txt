@@ -1,0 +1,75 @@
+VAT on digital services: Sri Lanka’s entry into the global digital tax regime
+
+Sri Lanka’s VAT Amendment Bill of April 2026 marks a watershed moment in the evolution of its indirect tax framework, with the introduction of a dedicated regime for taxing digital services supplied by non-resident providers. The insertion of Chapter IIIC into the VAT Act represents a decisive policy shift: the recognition that value creation in a modern economy is increasingly digital, borderless, and difficult to capture through traditional tax rules.
+
+With effect from 1 July 2026, Sri Lanka formally enters a growing group of jurisdictions that have expanded VAT to capture cross-border digital services, aligning its tax system with global best practices.
+
+At the heart of the reform lies a fundamental departure from traditional tax principles. Historically, taxation of services depended largely on physical presence or a fixed place of business. The new provisions, however, establish a “digital nexus”, allowing Sri Lanka to impose VAT on services supplied through electronic platforms.
+
+The law defines digital services broadly as services supplied by a non resident person to a person in Sri Lanka through an “electronic platform”. An electronic platform means, “any online system, website, mobile application, or other digital interface operating through the internet that enables one or more service providers to supply services to service recipients;”.
+
+This ensures that a wide range of services—streaming platforms, software subscriptions, cloud services, digital education platforms, and online marketplaces—fall within the scope of VAT where consumed in Sri Lanka.
+
+The new regime places the VAT liability squarely on non-resident service providers supplying digital services to persons in Sri Lanka.
+
+A non-resident provider is required to register for VAT where:
+
+Once the threshold is exceeded, registration must be completed within three months of liability arising.
+
+One of the critical challenges in taxing digital services is identifying the jurisdiction of consumption. The Sri Lankan framework adopts a multi-factor test, deeming a recipient to be located in Sri Lanka where two or more indicators are present, including:
+
+Payment made through a Sri Lankan bank or financial institution
+
+This approach reflects international OECD-aligned principles and reduces the risk of avoidance through artificial structuring of transactions.
+
+A crucial design feature of the regime is the exclusion for business-to-business (B2B) transactions ( supplies to VAT registered parties).
+
+Where digital services are supplied by a non-resident provider to a VAT-registered person in Sri Lanka, VAT is not required to be charged by the supplier.
+
+Alternatively, the Sri Lankan recipient may claim it as input tax, subject to normal rules
+
+In B2B cases, India uses a reverse charge mechanism, where the domestic business accounts for tax, ensuring neutrality and reducing compliance burdens on foreign providers. Sri Lanka’s B2B carve-out achieves a similar outcome, reinforcing the principle that VAT remains a consumption tax borne ultimately by the final consumer.
+
+Recognising the practical challenges of taxing non-resident entities, the Bill introduces a simplified compliance framework, heavily reliant on digital processes.
+
+Ability to comply either directly or through an appointed representative
+
+In addition, all communication between the tax authority and non-resident taxpayers is conducted electronically, reflecting a fully digital compliance environment.
+
+Even where VAT is not charged—particularly under the B2B exclusion—non-resident providers are required to submit simplified statements detailing such supplies.
+
+Failure to comply may attract penalties of up to Rs. 50,000 highlighting the emphasis on transparency and reporting integrity.
+
+The amendments to the First Schedule further clarify the scope by explicitly referencing categories such as:
+
+This signals a deliberate intent to future-proof the legislation by capturing evolving digital business models.
+
+The supply of the following services through an electronic platform by a non-resident person are VAT exempt.
+
+Digital education and training platforms :educational services including online courses, seminars, training, digital education platforms, virtual classrooms, learning management systems and courses in marketplaces;
+
+Online healthcare and telemedicine services :healthcare services including online consultations, digital prescriptions, AI-assisted diagnostic, digital health tracking and telemedicine;
+
+services supplied to an organisation or to the diplomatic missions to the extent specified under any relevant written laws or in accordance with any written agreement entered into with or on behalf of the Government of Sri Lanka.”.
+
+For the policy maker and the Administrator, the introduction of a digital VAT regime offers a new and potentially significant revenue stream, particularly in the context of rapidly expanding digital consumption. It also strengthens tax equity by ensuring that non-resident digital service providers are subject to similar tax treatment as domestic businesses.
+
+However, the success of this regime will largely depend on the Inland Revenue Department’s ability to:
+
+Notwithstanding these opportunities, enforceability remains a key challenge. The Inland Revenue Department must therefore implement a robust compliance and monitoring framework to ensure the effectiveness of the regime.
+
+At the same time, policymakers should carefully balance enforcement with market accessibility. Overly complex or burdensome digital VAT rules may discourage non-resident providers from servicing the Sri Lankan market, potentially limiting local consumers’ access to global digital services
+
+From a business perspective, global digital service providers must now carefully assess their exposure to the Sri Lankan market, establish appropriate compliance frameworks, and continuously monitor applicable registration thresholds. For smaller and medium-sized providers, navigating local regulatory requirements and administrative processes may present practical challenges, particularly where familiarity with Sri Lanka’s tax system is limited.
+
+End-users in Sri Lanka are likely to bear the economic incidence of the tax, as foreign service providers may pass on VAT through increased prices.
+
+The introduction of VAT on digital services marks a significant shift in Sri Lanka’s tax framework—from one traditionally anchored in physical presence to one that is better positioned to capture value created in an increasingly digital economy.
+
+While the proposed framework is broadly aligned with emerging international standards, its effectiveness will ultimately hinge on robust enforcement, enhanced taxpayer awareness, and administrative efficiency. As highlighted by the OECD, the collection of VAT from non-resident, remote suppliers are inherently complex and necessitates well-designed administrative systems, supported by effective international cooperation.
+
+Sri Lanka could enhance enforceability by adopting platform liability mechanisms, as recommended by the OECD. This approach shifts VAT collection responsibilities to digital platforms that facilitate transactions, making compliance more efficient. By targeting a smaller number of large platforms instead of numerous non-resident suppliers, tax authorities can improve compliance, reduce revenue leakage, and align with emerging international best practices
+
+At present, the taxation of digital services is incorporated within the proposed VAT Bill and remains subject to the legislative process. In this context, it would be prudent for the Commissioner General of Inland Revenue to provide further clarity—potentially through an updated Gazette under the new legislative framework—to replace the existing guidance on digital VAT.  The VAT on digital service will be effective from 1 July subject to the VAT Bill be legally enforceable pursuant to the Constitutional process being followed in Parliament.
+
+(The author’s qualifications include MBA, FCMA, CGMA, FCIT, ACA, B.Com)

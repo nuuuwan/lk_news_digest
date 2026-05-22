@@ -1,0 +1,33 @@
+Building AI enterprises can rely on
+
+Artificial Intelligence has moved from experimentation to business solutions faster than most anticipated. While the global race for AI supremacy in infrastructure layer often focuses on model parameter size, reasoning and speed, a new challenge has emerged for the modern enterprise which is the confidence gap that inhibits moving AI from experimental “innovation labs” to critical business operations.
+
+Over the past six months, a clear pattern has emerged in markets such as Norway, where AI adoption remains deliberate and measured. This is not due to a lack of interest, but a lack of confidence. Many organisations are still unable to consistently demonstrate immediate business value from AI systems. Questions around transparency persist, and in many cases, there are limited ways to measure outcomes in a way that aligns with business goals. This gap between capability and confidence is becoming one of the defining challenges of the AI era.
+
+For years, the success of AI was measured through technical metrics such as accuracy, efficiency, and scale. While these remain important, enterprises today are asking a different set of questions. Can these systems reliably support business process outcomes? Can decisions be explained clearly? Can outcomes be measured in a way that aligns with operational goals?
+
+What begins as a promising pilot often struggles to transition into production. Inconsistent outputs, lack of explainability, and unpredictable behaviour make it difficult for organisations to rely on AI systems at scale. Trust, in this context, is no longer a mere concern. It is a business requirement.
+
+Despite the hype, enterprise AI adoption remains more measured than expected.  Inconsistent outputs and a lack of clear ownership have kept many promising pilots from reaching production. Drawing from deep experience in mature markets like Norway, 99x highlights a shift toward measurable AI systems. In these markets, AI adoption is balanced with a rigorous focus on transparency, ensuring that every system decision is traceable and aligned with tangible business outcomes before scaling.
+
+To help organisations ride the AI wave with the best possible ROI, one must look at how AI systems are engineered and ownership of the project outcome:
+
+Measurability First: Moving beyond technical accuracy to focus on “Success Rates” and “Cost Efficiency” to justify scaling.
+
+Continuous Observability: Utilising result evaluation methods to detect ‘drift’ and anomalies like hallucinations before they impact production users while maintaining responsible AI aspects.
+
+Ownership: Forward deployed engineers who can own the business outcome and drive the project.
+
+These principles reflect a broader shift in how AI systems are evaluated in enterprise environments. Beyond technical performance, organisations are increasingly focused on how systems behave in production, how outcomes can be measured consistently, and how accountability is maintained across teams.
+
+In practice, this requires strong foundations in observability, explainability, and traceability. Logging & observability platforms, and structured interaction frameworks enable teams to monitor performance, understand model behaviour, and maintain control over outputs as systems scale. Using another AI agent to observe results along with guardrails makes it easier to scale and reduce human intervention.
+
+Solution providers are racing to deliver quantifiable, automated business processes leveraging agentic workflows. At the centre of this approach is Xians.ai, 99x’s Agentic AI accelerators for production grade business process automation and AI enablement for software product and platforms. By combining accelerators, forward deployed engineers with AI oriented delivery processes 99x is able to support organisations in a responsible AI transformation. This approach enables organisations to move beyond experimentation and build AI systems that can be trusted to operate reliably within real business environments.
+
+The next phase of AI will be defined by whether organisations can build systems that enterprises are willing to rely on. Trust will be the ultimate differentiator, grounded in the technology, processes, intentions, and accountability behind it.
+
+As privacy and AI leaders often point out, ‘Trust in AI is lost when decisions are unclear, ownership is missing, or systems fail to deliver consistently.’ Organisations that embed transparency, traceability, and measurable outcomes into their systems from the outset will be better positioned to enter and scale within mature enterprise markets. For Sri Lanka, this presents both a challenge and an opportunity. As AI adoption accelerates locally, there is a chance to set high standards early embedding ethics, transparency, and accountability into emerging systems. This approach allows Sri Lankan companies to deliver AI solutions that are innovative, responsible, and respected on the global stage.
+
+Building AI that earns trust requires vigilance, collaboration, and discipline. It demands a shift in mindset: from creating intelligent systems to creating systems that can be trusted to perform consistently in real business environments. When every model, every deployment, and every decision reflects this commitment, AI becomes a force for confidence, fairness, and lasting impact.
+
+(The author is the Chief AI Officer at 99x, a global product engineering company with roots in Sri Lanka and a strong presence in Norway and Europe. With over 20 years of experience in the software industry, he has designed and developed solutions across a wide range of domains and platforms. In his current role, Chatura leads AI strategy and customer success initiatives, helping organisations build responsible, trustworthy AI systems)

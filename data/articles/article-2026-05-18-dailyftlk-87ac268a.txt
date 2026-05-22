@@ -1,0 +1,37 @@
+Future-proofing digital trust in quantum era
+
+For many years, the digital world has relied on encryption as the invisible foundation of trust. It protects our identity systems, banking platforms, government services, health records, digital signatures and online transactions. Most people never see it, but they depend on it every day.
+
+The rise of quantum computing is expected to challenge the encryption methods that secure much of today’s digital infrastructure. While fully capable quantum computers may not be widely available yet, the risk is no longer distant or theoretical. Governments, financial institutions, healthcare systems and digital identity platforms need to begin preparing now, because the transition to safer systems will take years.
+
+The concern is simple. Many current digital systems rely on public-key encryption methods such as RSA and ECC. These are difficult for normal computers to break, which is why they have been trusted for decades. But quantum computers could solve these mathematical problems far faster. Once that happens, systems that appear secure today could become vulnerable.
+
+This matters deeply for Digital Public Infrastructure, or DPI. DPI refers to the core digital systems that allow citizens, governments and businesses to interact. It includes digital identity platforms, payment systems, public service portals and verifiable credentials. When these systems are trusted, people can access services safely and efficiently. When trust in them breaks, the damage can spread across entire economies and societies.
+
+One of the biggest risks is known as “Harvest Now, Decrypt Later”. In this scenario, an attacker collects encrypted data today and stores it until quantum computers become powerful enough to decrypt it later. This is especially serious for identity systems because the data involved can include biometric information such as fingerprints, facial data or iris scans. Unlike a password, biometric data cannot be changed. Once compromised, the exposure is permanent.
+
+Another risk is even more damaging. Digital signatures are used to prove that a document, credential or transaction is genuine. If quantum computers are eventually able to break the private keys behind these signatures, attackers could create fake credentials that appear valid. This could lead to fraudulent identity documents, false benefit claims, illegal access to services, or impersonation at national scale.
+
+In other words, the issue is not only about data privacy. It is about the integrity of public trust.
+
+The world has already begun responding. In August 2024, the US National Institute of Standards and Technology finalised its first post-quantum cryptography standards. These standards are designed to withstand attacks from quantum computers. They include new methods for secure key exchange and digital signatures, which are directly relevant to identity systems, digital documents and secure communications.
+
+For DPI systems, the priority is not to replace everything overnight. A practical path is to begin with a hybrid approach. This means using existing encryption methods together with new post-quantum methods. Such an approach allows systems to remain compatible with current infrastructure while gradually building resilience against future threats.
+
+However, technology alone will not solve the problem. Institutions need to understand exactly where vulnerable encryption is being used. Many organisations do not have a full view of the algorithms embedded across their software, hardware, APIs, vendors and service providers. This is why a Cryptographic Bill of Materials is becoming important. It allows organisations to map their digital environment and identify where risks exist.
+
+Digital systems also need cryptographic agility. This means designing platforms so that encryption methods can be changed without rebuilding the entire system. In a fast-changing security environment, agility is not optional. It is a core requirement for resilience.
+
+Other practical steps include shorter certificate lifetimes, stronger key rotation, secure communication channels, pilot programs for post-quantum identity systems, and updated procurement rules that require vendors to align with emerging global standards.
+
+The most important point is timing. Cryptographic migrations are complex. They require planning, testing, coordination, legal alignment, vendor readiness and public sector capacity. Previous transitions in global encryption standards took many years. Waiting until quantum computers become a direct threat would mean starting too late.
+
+For countries building or expanding DPI, this is a critical moment. Digital identity and public service systems are not just technology projects. They are trust systems. Citizens use them because they believe their information is safe, their credentials are valid, and the services they access are reliable.
+
+The cost of preparing will be significant. It will require investment, technical discipline and long-term planning. But the cost of inaction would be far greater. A compromised identity system, exposed biometric data, or forged national credentials could damage public confidence in ways that are difficult to repair.
+
+The post-quantum era does not require panic. It requires preparation. The standards are emerging. The tools are becoming available. The risks are better understood. What is needed now is the decision to act.
+
+For governments, institutions and technology providers responsible for Digital Public Infrastructure, quantum safety should become an operational priority from 2026 onwards. The future of digital trust depends on decisions being made today.
+
+(The writer is the Adviser – Technology Strategy at Connect to Care.)

@@ -1,0 +1,15 @@
+ComBank teams up with Bancstac to strengthen digital payment infrastructure
+
+The Commercial Bank of Ceylon has announced that it has entered into a long-term Technology Services Master Agreement with Bancstac, to deploy a secure, compliant, scalable and fully bank-controlled payment processing infrastructure, reinforcing the Bank’s leadership in digital financial services.
+
+Commercial Bank will instruct merchants to integrate with its Internet Payment Gateway (IPG) and associated technology modules to process online and card-not-present transactions. The solution establishes a direct, secured and encrypted connection between the Bank’s core systems and Bancstac’s payment infrastructure, with no reliance on third-party intermediaries. Both authorisation of transactions and the settlement of funds will continue to be routed through the Commercial Bank switch, a product of Euronet Worldwide, ensuring that transaction processing remains under the Bank’s full visibility and governance.
+
+The Commercial Bank IPG currently supports Visa, Mastercard and UnionPay, and will be enhanced to include JCB and Sri Lanka’s own National Card Schemes. It also supports LankaQR and other non-card payment methods, reinforcing the Bank’s strategy to expand e-commerce, QR acceptance and alternative digital payment channels.
+
+Through this single integration, Commercial Bank gains access to a comprehensive Bancstac technology suite with 24/7 monitoring, proactive alerting, operational support, issues resolution, merchant integration assistance, and continuous system maintenance and upgrades covering merchant onboarding and administration tools, advanced fraud mitigation and risk management capabilities, compliance enhancements for continuous regulatory and payment network participation obligations, refund and chargeback handling, tokenisation, hosted payment pages, scheduled payments, simplified e-commerce features and batch payment processing.
+
+Ceylon Chamber of Commerce to host Sri Lanka Climate Summit 2026
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

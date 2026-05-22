@@ -1,0 +1,49 @@
+EY says proposed VAT changes may raise business costs, increase tax disputes
+
+Flags ambiguities in digital services tax and treatment of passive investment income
+
+Concerns raised over fair value treatment of employee benefits under VAT on financial services
+
+Ernst & Young (EY) Sri Lanka has warned that several provisions in the proposed Value Added Tax (VAT) amendments could widen tax exposure, increase compliance costs and create uncertainty for businesses, particularly in relation to digital services, financial services and passive investment income.
+
+In a tax update analysing the proposed VAT (Amendment) Bill published through Gazette Notification dated 24 April 2026, EY said ambiguities in the draft legislation may lead to differing interpretations and higher costs of doing business if not clarified before enactment.
+
+The report, titled “Sounding Off of a Bill to Amend the Value Added Tax Act,” was authored by EY Sri Lanka Partner – Tax Shehani Paranavitane, EY Sri Lanka & Maldives Partner and Head of Tax Sulaiman Nishtar, and EY Sri Lanka Principal – Tax Shakthivel Velauthapillai.
+
+A major concern identified in the report relates to the proposed VAT framework for non-resident digital service providers. Under the Bill, foreign digital service providers supplying services to Sri Lankan customers through electronic platforms would be required to register for VAT if supplies exceed Rs. 36 million over a 12-month period or Rs. 9 million in a single quarter.
+
+However, EY noted that the Bill does not provide a detailed definition of “digital services” and relies on broader terminology that could create uncertainty in determining tax liability.
+
+The report said there are two possible interpretations regarding the application of VAT on digital services, one of which could significantly widen the scope of the tax.
+
+“If this second interpretation is adopted, the costs of doing business in Sri Lanka will increase significantly as non-residents are most likely to pass on this tax cost to the service recipients,” the report stated.
+
+EY also warned that payments subject to VAT on digital services may additionally attract withholding tax obligations, increasing tax costs and administrative burdens for businesses, particularly software service providers.
+
+The analysis further raised concerns over the treatment of passive investment income under VAT on Financial Services (FS). While the Bill seeks to clarify that dividend income earned by non-financial businesses should not form part of VAT on FS calculations where business income is not derived from specified financial services such as lending, EY said ambiguities remain.
+
+According to the report, the wording of the proposed provision may still give rise to differing interpretations in situations where holding companies engage even occasionally in financing activities.
+
+EY also noted that the continued requirement for holding companies and investors to maintain VAT on FS registration could result in VAT being applied to both realised and unrealised gains arising from share investments.
+
+The report observed that such treatment appears to extend beyond the conventional application of VAT, which is generally associated with value addition arising from the supply of goods and services rather than passive investment income.
+
+The proposed revision to the definition of “emoluments payable” for VAT on FS calculations was identified as another area likely to create practical difficulties for financial institutions.
+
+Under the proposed framework, gains and profits from employment would be assessed at fair market value. EY said this may broaden the VAT base by bringing non-cash employee benefits into tax calculations.
+
+The report referred to benefits such as vehicle facilities, uniforms and refreshments provided to employees, noting that uncertainty over fair market valuation could increase VAT liabilities and lead to disputes.
+
+The proposed increase in the VAT on FS rate from 18% to 20.5% from 1 July 2026, alongside the removal of the Social Security Contribution Levy (SSCL) on FS, may also affect income tax calculations for banks and financial institutions.
+
+EY noted that SSCL on FS was previously deductible in computing income tax liabilities, raising questions over whether the revised framework would maintain tax neutrality.
+
+The Bill also proposes mandatory use of CGIR-approved electronic point-of-sale machines for all VAT-registered persons, requiring businesses to implement electronic transaction monitoring systems within three months from the prescribed date.
+
+In addition, the mandatory VAT registration threshold is proposed to be reduced to Rs. 9 million per quarter or Rs. 36 million annually from 1 July 2026, bringing a larger segment of SMEs into the VAT net.
+
+While this would allow SMEs to claim input VAT credits, EY noted that it would also increase filing, record-keeping and compliance obligations.
+
+The report also highlighted tougher penal provisions proposed under the Bill, including fines of up to Rs. 1 million and imprisonment for up to six months for offences relating to false refund claims, misleading information and failure to furnish valid tax documentation.
+
+EY said further legislative clarification and implementation guidance would be necessary to ensure consistency in interpretation and reduce uncertainty for taxpayers.

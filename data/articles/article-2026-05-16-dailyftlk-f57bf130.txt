@@ -1,0 +1,17 @@
+Doc990 rolls out digital queue system for GNH pharmacy services
+
+Representatives from Digital Health Ltd, together with Galle National Hospital officials
+
+Doc990, Sri Lanka’s pioneering digital health solutions provider operated by Digital Health Ltd. — a subsidiary of Dialog Axiata PLC — announced the introduction of a digital queue management system at Galle National Hospital (GNH) focused on pharmacy service counters.
+
+The implementation addresses high patient volumes at one of Sri Lanka’s busiest healthcare institutions in the Southern Province, where structured queue management is essential for efficient service coordination.
+
+The system enables patients to receive a queue number upon arrival and track their position through digital screens placed in the counter premises. The solution supports improved visibility in patient flow while reducing congestion around pharmacy service counters.
+
+Hospital staff are supported through real-time backend capabilities that allow queue management and coordination of services, enabling more efficient handling of patient volumes across pharmacy operations.
+
+Doc990 CEO Janitth Pieris said: “As Doc990 continues to digitise Sri Lanka’s healthcare landscape, we reaffirm our commitment to putting health at your fingertips. This digital queue system at Galle National Hospital exemplifies how accessible, real-time information and streamlined service delivery can transform patient experiences while strengthening public health infrastructure across the country.”
+
+Galle National Hospital Deputy Director Dr. Lakmali Wijerathne said: “This initiative marks a meaningful step towards reducing congestion at our pharmacy service counters by enhancing crowd management and improving overall patient flow. By streamlining access to pharmacy services, it significantly minimises waiting times while offering greater convenience to patients.”
+
+This implementation marks another step in Doc990’s ongoing efforts to strengthen digital healthcare infrastructure across Sri Lanka. By equipping high-demand hospitals with practical and user-friendly digital solutions, Doc990 continues to expand access to connected healthcare services for patients nationwide.
