@@ -1,0 +1,71 @@
+Sri Lanka’s energy crisis is not  a shortage of resources
+
+The smart meter question also needs to be treated as an implementation issue, not just a policy slogan. A serious program must decide whether installation should be handled through the utility's own staff, through conventional procurement, or through specialised metering entities; an investment-based model, in which suppliers finance the rollout and recover costs through annuity-style payments, may allow deployment to move faster without placing an immediate burden on consumers
+
+In the previous article published on 24 May 2026, the case was made for why Sri Lanka must move urgently on energy transition, and what that transition must cover. The response from engineers, officials, and industry professionals pointed to a more difficult set of questions: why, specifically, is the gap between electricity demand and supply widening now, and why is the supply side still failing to keep pace despite years of plans, approved projects, and stated policy commitments?
+
+The answer is that Sri Lanka is not facing an energy problem caused by a shortage of resources, technology, or investor interest. It is facing a crisis of systems that are no longer fit for purpose: forecasting models that have fallen behind reality, procurement processes designed for another era, institutions that pull in different directions, and policy frameworks that are not applied with consistency. Until those failures are fixed, fresh announcements and ambitious targets will continue to underdeliver.
+
+Conventional tendering in the energy sector routinely takes years from decision to contract. The process moves through multiple institutional layers, each of which can delay progress, and this structure was built for an era of large thermal plants rather than a renewable transition where projects are smaller, more numerous, and more sensitive to financing windows and technology cost changes. A procurement system that takes several years to close cannot deliver the pace of transition that Sri Lanka now requires
+
+The supply problem cannot be understood without first understanding how quickly the demand picture has changed. When Sri Lanka's planners made their projections for 2025, GDP growth was expected at 4%, but the actual outcome was above 5%, and that difference translated into more industrial activity, higher commercial consumption, more construction, and faster household appliance uptake than the system had anticipated. The electricity system felt that shift before the planning models fully registered it.
+
+Rising household electricity use is also not a temporary post-crisis spike. Sri Lanka is urbanising, more families are moving into apartments, air conditioning is spreading beyond offices and hotels into middle-income homes, and appliances such as refrigerators, washing machines, and water heaters are becoming standard rather than aspirational. Each of these trends adds to base load and evening peak demand, which means planning must treat them as structural changes, not short-term deviations.
+
+A further problem is that current forecasting tools are not adequately capturing rapid technology adoption, including rooftop solar, inverter air conditioners, and electric vehicles, or making sufficient use of real-time analytics and AI-based forecasting methods now common in comparable systems. As a result, Sri Lanka's Long-Term Generation Expansion Plan risks being built on assumptions the real world has already outgrown. Planning on the basis of yesterday's conditions is a reliable way to remain behind.
+
+Sri Lanka does have a published National Energy Policy and Strategies framework, but when institutions diverge from that framework without transparent revision or accountability, investor confidence weakens, disputes multiply, and future commitments lose credibility. In an energy sector where financing depends on long-term predictability, uncertainty is not a side issue; it is a barrier to investment itself
+
+Before turning to the supply side, it is important to note that managing demand is cheaper and faster than building new supply. Sri Lanka already has access to practical demand-side tools, yet these remain largely unused: there is no effective smart meter rollout, no meaningful time-of-use tariff for higher-consuming households, and no broad consumer incentive program for peak reduction.
+
+These are not experimental ideas. They have been implemented successfully in systems at a similar stage of grid development, and they could reduce peak demand, defer new peaking capacity, and lower system operating costs within a relatively short period. The choice not to deploy them is itself a policy decision, and it is proving costly.
+
+The smart meter question also needs to be treated as an implementation issue, not just a policy slogan. A serious program must decide whether installation should be handled through the utility's own staff, through conventional procurement, or through specialised metering entities; an investment-based model, in which suppliers finance the rollout and recover costs through annuity-style payments, may allow deployment to move faster without placing an immediate burden on consumers.
+
+All professionals must discuss the way forward for this energy transition without bringing politics into the discussion, and to work together to develop immediate and practical solutions. The most important thing is that we should not divide ourselves based on politics or individual opportunities. Instead, we should make this energy transition an opportunity for all professionals and investors, rather than allowing it to become dominated by political interests. If we properly articulate these solutions and present them professionally and collectively, no Government will be able to reject them
+
+If the demand picture has changed faster than expected, the supply picture is more troubling still. Sri Lanka has approved projects, awarded contracts, signed PPAs, and attracted investor interest, yet capacity continues to move too slowly from approval to commissioning because the obstacle lies in process rather than in resources or technology.
+
+Conventional tendering in the energy sector routinely takes years from decision to contract. The process moves through multiple institutional layers, each of which can delay progress, and this structure was built for an era of large thermal plants rather than a renewable transition where projects are smaller, more numerous, and more sensitive to financing windows and technology cost changes. A procurement system that takes several years to close cannot deliver the pace of transition that Sri Lanka now requires.
+
+Policy inconsistency compounds the delay. Sri Lanka does have a published National Energy Policy and Strategies framework, but when institutions diverge from that framework without transparent revision or accountability, investor confidence weakens, disputes multiply, and future commitments lose credibility. In an energy sector where financing depends on long-term predictability, uncertainty is not a side issue; it is a barrier to investment itself.
+
+The institutional picture is equally difficult. Responsibility is spread across the Ministry, the Ceylon Electricity Board, the Public Utilities Commission, the Sustainable Energy Authority, and the Treasury, but there is no single entity clearly accountable for driving projects from approval to completion. The result is delay at every interface and uncertainty for investors trying to understand who decides, how decisions are made, and how long the process will take.
+
+Demand forecasting must become continuous and data-driven; smart meters and time-of-use pricing must move from discussion to deployment; procurement must be streamlined for the renewable era; policy must either be followed as gazetted or formally revised; institutional mandates must be clarified; PPAs must become bankable; and the LNG pathway must be resolved with a credible implementation plan
+
+Beneath the renewable energy bottlenecks lies an unresolved question about the future role of LNG and thermal generation. Sri Lanka has debated LNG strategy for years, yet the country still lacks a stable, clearly published long-term framework that gives planners, investors, and grid operators confidence about the future fuel mix. Too often, the focus has been on selecting investors rather than establishing a durable national framework, and that pattern has contributed to repeated delays similar to those seen in battery projects, refinery projects, and large renewable procurements.
+
+What should change now is not mysterious, Demand forecasting must become continuous and data-driven; smart meters and time-of-use pricing must move from discussion to deployment; procurement must be streamlined for the renewable era; policy must either be followed as gazetted or formally revised; institutional mandates must be clarified; PPAs must become bankable; and the LNG pathway must be resolved with a credible implementation plan.
+
+Every month of delay carries a real cost: diesel burned in plants that should already have been retired, foreign exchange spent on imported fuel that domestic renewables could have displaced, investment that chooses other markets, and a burden ultimately borne by households and businesses through tariffs and reliability risks. Sri Lanka does not lack sunlight, wind, water, or technical talent What it has lacked is the institutional discipline to put those assets to work, and fixing that deficit is now at least as important as adding the next megawatt of capacity.
+
+One of the fastest and most practical solutions available to Sri Lanka is the introduction of a properly designed Feed-in Tariff (FiT) mechanism for Solar + BESS systems, particularly for projects below 10 MW, to shift existing solar generation into the night peak period.
+
+At the same time, for projects above 10 MW, competitive open tenders should be introduced for Solar + BESS projects capable of supplying power for 16 hours continuously, while charging the battery systems during the daytime 8-hour solar generation period. This approach will help add new firm energy capacity to cater to future electricity demand growth.
+
+To replace a single 350 MW thermal power plant — assuming it operates only during periods when solar energy is unavailable — at least 1,400 MW of Solar + BESS capacity would be required. In such a system, batteries must be charged during the daytime over approximately 8 hours and discharged continuously over 16 hours as a firm energy source.
+
+Therefore, replacing a thermal power plant with renewable energy is not a simple task and requires significant planning, investment, and time. The immediate action is necessary, together with properly identified implementation models such as those discussed above.
+
+Sri Lanka has already demonstrated the success of Feed-in Tariff mechanisms through the rooftop solar program. Extending a similar model to storage-integrated systems is therefore a logical next step.
+
+More importantly, this does not necessarily require entirely new legislation. What is required is:
+
+The real challenge lies in converting approved projects into operational power plants within a reasonable timeframe.
+
+Many renewable energy projects already approved or awarded continue to experience delays due to:
+
+Globally, many renewable energy projects are commissioned within 18–24 months. Sri Lanka must aim to achieve similar timelines if it is serious about ensuring long-term energy security.
+
+The country must now move from “project discussions” to “project execution.”
+
+Finally, I request all professionals to discuss the way forward for this energy transition without bringing politics into the discussion, and to work together to develop immediate and practical solutions.
+
+The most important thing is that we should not divide ourselves based on politics or individual opportunities. Instead, we should make this energy transition an opportunity for all professionals and investors, rather than allowing it to become dominated by political interests.
+
+If we properly articulate these solutions and present them professionally and collectively, no Government will be able to reject them.
+
+One of the fastest and most practical solutions available to Sri Lanka is the introduction of a properly designed Feed-in Tariff (FiT) mechanism for Solar + BESS systems, particularly for projects below 10 MW, to shift existing solar generation into the night peak period
+
+(The author is a Professor in the Department of Electrical Engineering, University of Moratuwa, and a former Secretary to the Ministry of Energy, Sri Lanka)

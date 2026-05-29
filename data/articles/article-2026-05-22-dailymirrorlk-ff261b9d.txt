@@ -1,0 +1,93 @@
+Almost 1.2 billion people living with mental disorders worldwide as case numbers nearly double since 1990
+
+ABC - Globally, mental health disorders have nearly doubled since 1990, with new research finding almost 1.2 billion people worldwide are living with a mental health condition.
+
+The surge over the last three decades means mental health disorders now account for more than 17 per cent of all disability worldwide, according to a report published this week.
+
+The peer-reviewed study by researchers at the Institute for Health Metrics and Evaluation (IHME) and the University of Queensland has been published in medical journal The Lancet.
+
+In 1990, there were an estimated 599 million cases of mental health disorders globally.
+
+Thirty-three years later, in 2023, there were an estimated 1.17 billion cases around the world.
+
+Of the 12 mental disorders assessed, anxiety disorders and major depressive disorders were the most common.
+
+The number of anxiety disorder cases increased from 182 million in 1990 to 470 million in 2023, an increase of more than 47 per cent after accounting for population growth.
+
+Major depressive disorders increased by 24 per cent, from 102 million cases in 1990 to 236 million cases in 2023.
+
+The report's lead author, Dr Damian Santomauro, is an associate professor at the Queensland Centre for Mental Health Research and an affiliate assistant professor at IHME.
+
+"Addressing this growing challenge will require sustained investment in mental health systems, expanded access to care, and coordinated global action to better support populations most at risk."
+
+The report looked at the data available for a dozen different mental disorders, including anxiety disorders, schizophrenia, bipolar disorder, anorexia and bulimia.
+
+The data came from the IHME's 2023 Global Burden of Disease study, the largest and most comprehensive study of health to date.
+
+Comparing the number of cases also allowed researchers to calculate the "disability-adjusted life-years", or DALYs.
+
+Mental disorders were the fifth leading cause of DALYs globally in 2023, up from 12th place in 1990.
+
+In total, they accounted for 171 million lost years of life globally in 2023.
+
+"Declining mortality rates from communicable, maternal, nutritional and neonatal diseases over the past 30 years have allowed many more individuals to live longer," the report said.
+
+"But [that is] not without increasing occurrences of chronic and disabling illnesses such as mental disorders.
+
+"However, [Global Burden of Disease study] 2023 findings suggest that we are entering an even more concerning phase of worsening mental disorder burden globally."
+
+The report also found both the number of cases and DALYs were not distributed equally.
+
+Anxiety disorders and major depressive disorders made up the largest portion of the mental disorder burden.
+
+Both disorders were also among the 20 leading causes of DALYs in 152 of the 204 countries featured in the Global Burden of Disease study.
+
+Despite its lower case numbers, schizophrenia was the third-leading cause of mental disorder DALYs globally "due to its high severity".
+
+People at every stage of life were affected, according to the report, but the type of mental health disorder varied by age.
+
+Co-author Dr Alize Ferrari is an honorary associate professor at the Queensland Centre for Mental Health Research, in partnership with the University of Queensland, and an affiliate assistant professor at IHME.
+
+"Our findings show that mental disorder burden peaks among 15–19-year-olds, which is a critical development period that can shape trajectories for education, employment, and relationships," she said.
+
+All 12 of the disorders reviewed were present among the 15–19-year age group, "the age at which anxiety disorders and major depressive disorder became most prevalent", according to the report.
+
+The DALY rate remained high between 20 and 39 years of age, before slowly declining from age 40 onwards.
+
+"Overall, these trends highlight the need to promote mental wellbeing across the life course, with prevention and early intervention to improve outcomes for children, families, and communities into adulthood."
+
+Women were also disproportionately affected, with 620 million globally living with a mental disorder in 2023.
+
+This was compared to 552 million men of all ages living with a mental disorder at the same time.
+
+Women also had a higher overall burden of mental illness — totalling 92.6 million DALYs, compared to 78.6 million among men.
+
+"Compared with males, females experience lower self-esteem, greater tendency towards body-related shame, and higher rates of domestic violence and sexual abuse," the report said.
+
+It said more research was needed to investigate the factors contributing to the split between men and women.
+
+The results were "not surprising", according to Professor Philip Batterham, co-head of the Australian National University's Centre for Mental Health Research.
+
+But he stressed the need for caution when estimating the rate of mental disorders.
+
+"It has gone up markedly, but so has the population over that period from 1990 to 2023," he told the ABC.
+
+"If you're looking at the age-standardised rates, that's a better indicator of how much it's going up in terms of proportions."
+
+The report noted it had attempted to minimise error caused by different case definitions and data collection strategies, something Dr Batterham also raised as a potential limitation.
+
+"So people would report what symptoms they're experiencing and then from that we can infer whether they might meet criteria for a mental disorder.
+
+"But this isn't the same as being diagnosed with a mental disorder, so in some cases you do get overestimates."
+
+He added different cultural understandings of mental disorders could also influence case numbers.
+
+"There are global trends towards greater inequity, greater globalisation that may lead to changes within different cultures and potentially increasing levels of mental ill health [in those regions].
+
+"Because mental health is such a complex sort of health condition, it's influenced by all sorts of factors.
+
+"As we've seen more global changes such as war and economic challenges … things like technology use and changes to employment can also have impacts at an individual level.
+
+"A range of factors there in terms of relationships, things like sleep habits, lifestyle habits can also impact on mental health.
+
+"When you put all those together, there's potential for these global drivers … as well as more local and individual factors that might influence these numbers we're seeing."

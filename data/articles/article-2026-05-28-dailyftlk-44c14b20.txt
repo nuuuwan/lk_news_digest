@@ -1,0 +1,21 @@
+Huawei presents new principle for guiding future development of semiconductor industry
+
+At the 2026 IEEE International Symposium on Circuits and Systems (ISCAS), Huawei Executive He Tingbo delivered a keynote speech titled “New Semiconductor Path in Practice”.
+
+In her speech, she presented the Tau (τ) Scaling Law, a new principle for guiding the future development of the semiconductor industry. This law proposes replacing geometric scaling with time (τ) scaling as a new guiding principle for the evolution of both semiconductors and electronic systems. Based on this principle, innovative technologies such as LogicFolding can be used to continuously compress signal propagation delay and steadily improve transistor density, which will drive the ongoing evolution of semiconductors and electronic systems.
+
+In recent years, Moore’s Law – which has guided the semiconductor industry for more than five decades – has faced severe physical limits and diminishing economic returns. The global industry has been increasingly constrained by the slowdown in the geometric scaling of transistors and the erosion of cost-per-transistor benefits. The industry must now tackle the urgent and common challenge of overcoming the physical constraints of traditional processes and finding a new, sustainable evolution path that can match surging computing demands. This is where the τ Scaling Law comes into play.
+
+Based on this law, Huawei has developed innovative core technologies like LogicFolding and established a multi-level co-optimisation mechanism that spans semiconductor devices, circuits, chips, and systems. This mechanism aims to systematically shorten the time constant τ in order to drive up performance, energy efficiency, and transistor density at each level in the following ways:
+
+At the device level: Optimising the resistance and parasitic capacitance of transistors and interconnects to minimise the device-level time constant τ at the underlying physical layer
+
+At the circuit level: Adopting the LogicFolding architecture to break down the physical boundaries of traditional circuit layouts, significantly shortening critical-path wiring, effectively reducing the resistive and capacitive load of signal propagation, and ultimately boosting transistor density and circuit performance
+
+At the chip level: Employing full-stack coordinated design of software, architecture, and silicon to achieve fine-grained, workload-driven control over instruction and data flows, enhancing system-level parallelism and efficiency, and significantly reducing end-to-end execution time
+
+At the system level: Redefining interconnect protocols for computing systems with UnifiedBus to achieve unified memory addressing and native memory semantics for SuperPoDs, significantly reducing system communications latency
+
+In her keynote speech, He Tingbo elaborated on Huawei’s application of the τ Scaling Law to smartphones and AI computing. Over the past six years, Huawei has designed and mass-produced 381 chips based on the τ Scaling Law, serving a wide range of industries, sectors, and markets. The Kirin chips scheduled to launch in Fall 2026 will be the first ever to adopt the LogicFolding architecture, which will considerably enhance the chips’ performance. By 2031, the high-end chips Huawei designs based on the τ Scaling Law are expected to feature a transistor density that is equivalent to 14 Å (1.4 nm) processes.
+
+Looking ahead, He Tingbo noted, “We believe that openness and collaboration are key to driving ongoing progress in the semiconductor industry. No single company can independently find all the answers along the path of semiconductor evolution. With the τ Scaling Law, we look forward to working closely with scientists, engineers, and industry partners around the world to drive the sustainable development of the semiconductor and electronics industries.”
