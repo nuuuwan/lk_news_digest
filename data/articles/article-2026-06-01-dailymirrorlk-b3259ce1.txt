@@ -1,0 +1,59 @@
+Work on a vaccine for latest Ebola variant is in progress
+
+A healthcare worker sprays a room during the funeral of a person suspected of dying of Ebola in  the Democratic Republic of Congo
+
+Called the “Bundibugyo Ebolavirus”, the latest strain of Ebola is very contagious, but not very much of a killer
+
+A new type of Ebola called the “Bundibugyo ebolavirus” is spreading rapidly in Central Africa, worrying international health organisations as there is no vaccine for it yet. Work on a vaccine is in progress in the UK, US and India, but it will be a while before the vaccine can be used on humans.  Since the first Ebola outbreak in 1976 in what’s now the Democratic Republic of Congo (DRC) and South Sudan, the virus has killed over 15,000 people across this  part of Central Africa. In the latest episode, about  1000 people may have died, according to estimates.
+
+Called the “Bundibugyo Ebolavirus”, the latest strain of Ebola is very contagious, but not very much of a killer. The latest outbreak occurred in the Ituri province in northeastern Democratic Republic of Congo (DRC), a war-torn area that borders Uganda and South Sudan.
+
+The first known patient, a health worker, had developed symptoms including fever and vomiting on April 24 and died. According to the World Health Organisation (WHO), the virus spread further after that individual’s virus-ridden body was transported home for burial.
+
+In the last count, there are at least 930 suspected cases and 349 deaths in the DRC, and seven cases with one death in Uganda. This region is a major commercial hub and mining centre and is densely populated. Two million people had been displaced and 10 million face acute hunger here. Armed conflict has intensified over the past two months, making it difficult to get health assistance to the area.
+
+On May 17, the WHO declared the current Ebola epidemic a “Public Health Emergency of International Concern”, and days later, warned that it could be months before the outbreak was contained.
+
+There are four types of Ebola virus (within the genus Orthoebolavirus) that cause Ebola disease in  Zaire, Sudan, Bundibugyo and Tai Forest. The Zaire virus is the cause of most human outbreaks, including the historic 2014-16 outbreak in West Africa and other smaller outbreaks in countries including the DRC and Gabon.
+
+The Sudan virus has caused several outbreaks around South Sudan, Uganda, and the DRC. The Tai Forest virus is very rare — there’s only one report of a single infection in Cote d’Ivoire in 1994.
+
+The Bundibugyo virus—the cause of the ongoing outbreak—has been reported as the cause of two previous outbreaks, with the current outbreak being the third. All have been around the DRC and Uganda border.
+
+According to Maya Brownstein of the Harvard T.H. Chan School of Public Health, Ebola is a “zoonotic disease” - that originates in animals and can then, in what’s called a “spillover”, be transmitted to humans.
+
+Ebola is carried by fruit bats. People get infected either through contact with fruit bats or through contact with nonhuman primates that were themselves infected through contact with fruit bats. Once spillover occurs, human-to-human transmission begins.
+
+The virus can be transmitted from an infected person—or someone who recently died from the virus—when their bodily fluids, such as urine, saliva, faeces, vomit, breast milk, and sweat, come into direct contact with another person’s mucus membranes or a break in their skin.
+
+People caring for those sick with Ebola, whether clinicians or family members, are at serious risk of infection. Transmission is also associated with funeral rites that involve washing and preparing for burial the bodies of those who died of Ebola.
+
+Some survivors of Ebola can continue to carry the virus for some time—particularly in areas of the body with less immune activity, such as the eye, brain, and testes. How often this happens and in which people,  is not clear.
+
+To understand why Ebola is so lethal, one must look at what happens inside the body. According to the literature available on the internet, after entering through broken skin, mucous membranes, or bodily fluids, the virus targets the immune system.  Instead of triggering a normal, controlled immune response, Ebola manipulates cells to become virus factories, spreading infection throughout the body.
+
+This sets off a catastrophic chain reaction. The body releases massive amounts of inflammatory molecules in an uncontrolled attempt to fight the virus. This “storm” damages blood vessels, causing them to leak.  Platelets, which help blood clot, become dysfunctional, leading to both clotting in some parts of the body and uncontrolled bleeding in others.  Blood clots are semisolid or gel-like masses that form in one’s arteries and veins. They help control bleeding. But they may also cause serious issues, including deep vein thrombosis, pulmonary embolism and heart attack. A pulmonary embolism is a blood clot that blocks and stops blood flow to an artery in the lung.
+
+The liver, kidneys, and other organs suffer severe damage due to Ebola, impairing their function. As fluids leak out of blood vessels and blood pressure plummets, the body goes into shock. Without rapid intervention, death often follows.
+
+Ebola belongs to a group of viral “haemorrhagic” fever diseases.  Haemorrhagic fever combines bleeding (haemorrhaging) and fever. Fatality rates vary among the four Ebola viruses. In the absence of any treatment, the fatality rates are up to 90% for the Zaire Ebola virus, 50% for the Sudan virus, and 30% for the Bundibugyo virus.
+
+As regards treatment, the mainstay is supportive care, keeping patients hydrated, and managing their symptoms while their immune systems hopefully fight the virus successfully.
+
+There are drugs available to treat the Zaire Ebola virus. But that’s not the case for the Bundibugyo virus that’s circulating now.
+
+Prevention is through avoiding contact with the bodily fluids of those who are infected or who recently died from the virus. It’s incredibly important that caregivers have access to personal protective equipment—masks, gowns, gloves.
+
+Identifying cases is critical, as is contact tracing, quarantines, and communicating with local communities about how the virus transmits, the possible delay between when one is infected and when one develops symptoms, and the precautions that are needed to prevent transmission.
+
+Betsy McKay, writing in “The Wall Street Journal” notes that vaccines and therapies on hand were developed for the Zaire strain, not the one that’s circulating. Work on a vaccine for the “Bundibugyo ebolavirus” is still in progress in the UK, US and India, she adds.
+
+The rVSV-ZEBOV vaccine, first tested in Guinea in 2015, proved highly effective in preventing infection from Zaire ebolavirus. It works by using a harmless virus engineered to express Ebola proteins, stimulating the immune system without causing disease.
+
+This vaccine has since been deployed in outbreak zones using a “ring vaccination” strategy: vaccinating contacts of confirmed cases, and the contacts of those contacts, creating a protective barrier around the virus. The result has been a remarkable ability to contain outbreaks more quickly and prevent wider spread, McKay says.
+
+Vaccine researchers at the University of Oxford are working with the Serum Institute of India, the world’s largest vaccine manufacturer, on a potential Bundibugyo vaccine, which could be available in two or three months, said Dr.Vasee Moorthy of the WHO. But that shot has yet to be tested even on animals.
+
+Mapp Biopharmaceutical has a potential treatment that protected against the Bundibugyo strain in preclinical studies, and an early-stage clinical trial showed it is safe in humans. It is developed with US government funding.
+
+Gilead Sciences’ investigational antiviral, “obeldesivir” is predicted to be active against the Bundibugyo strain, a spokesperson said, and the company is working with global public-health authorities. Its drug “remdesivir”, which was used to treat COVID, also inhibited the Bundibugyo strain in one lab study, according to WSJ.

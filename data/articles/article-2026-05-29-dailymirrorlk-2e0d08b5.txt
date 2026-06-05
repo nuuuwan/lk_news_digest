@@ -1,0 +1,85 @@
+Humanoid robots ’the future’ of car making, says BMW
+
+BBC - For the first time, BMW will use humanoid robots for car manufacturing in Europe. Two robots, made by Hexagon Robotics, are planned to work in production from the summer. They're currently in a test deployment at the Leipzig factory.
+
+"This will be the future of automotive production," says Michael Nikolaides, head of process management and digitalisation at BMW.
+
+Robot arms and other automation have been used by the car industry for decades.
+
+"If you have a humanoid form, you can pretty much set it to any workplace where a human is working today because it has the same size and the same capabilities," says Nikolaides.
+
+The cost of robots has fallen while it remains expensive to redesign the assembly line. As a result, it's more cost-effective to use robots that fit in with existing human processes.
+
+"When a robot costs 17 million, you'd re-organise your factory around the robot, but it doesn't anymore," says Bill Ray, distinguished VP analyst at Gartner.
+
+"So now you want to fit it into your existing way of working."
+
+Named Aeon, the Hexagon robot is shaped like a person and stands 1.65m (5ft 5in) tall, weighing 60kg (9 stone 6lbs).
+
+They have a top speed of 2.4m/second and can carry 15kg for short periods, or 8kg continuously.
+
+Aeon is equipped with 21 sensors including cameras, radar, a microphone, and force and torque sensors for manipulation.
+
+At BMW the robots were trained using a combination of teleoperation (sensors on humans) and simulation in a digital twin of the factory using software from Nvidia.
+
+The robot in the simulation was given a task and repeatedly simulated it to identify the most promising solutions, an approach called reinforcement learning.
+
+Teleoperation was used for tasks such as picking up a part, so the physical robot could learn the range of different ways a human carries that out.
+
+The training of robots is undergoing rapid development - the quicker you can train a robot the better.
+
+One of the most exciting aspects of the application of AI to the physical world (physical AI) is imitation learning, according to Arnaud Robert, the president of robotics at Hexagon.
+
+That is where the robot learns how to do a task by looking at how the task is done, either using videos from multiple angles or movement sensors on the human. Robert says imitation learning can cut the time taken to train the robot from months to days.
+
+"The best translation [from the human to the robot] is when the teacher and the student have the same form factor."
+
+So, could the robot just watch someone packing boxes for a bit and then join in?
+
+"That's the ultimate scenario," says Robert. "You're describing probably something that's a year or two out."
+
+Ray at Gartner estimates that within three to five years a robot will be able to take simple voice instructions to carry out a task effectively.
+
+Aeon only has a battery life of three hours, but a shift lasts for eight hours, so the robot has been designed to swap its own battery in about three minutes, including travelling to and from the charging station.
+
+The robots' jobs at BMW will be to feed parts to manufacturing tools and to carry out pick-and-place tasks for battery assembly. Although the robots are multi-functional, they, like factory workers, are not expected to change their tasks frequently.
+
+Nikolaides says that the robots have the potential to help with work that is repetitive or physically challenging for people to carry out and can also address a labour shortage.
+
+"We know that staff will be short in a matter of years, and humanised robots help," says Nikolaides.
+
+"When we automised the production of cars in the '70s, everybody said this will lead to a lot of job losses, but the opposite was the case," he says. "There were new jobs created by this new technology, and that's the way we look at [humanoid robots]."
+
+Other carmakers are also taking a keen interest in modern robotics.
+
+Toyota for example, plans to use Digit humanoid robots from Agility Robotics following a successful trial. China's Xiaomi has tested two of its own humanoid robots in electric vehicle production.
+
+Hyundai is using Spot robots for industrial inspection and has announced plans to use Atlas humanoid robots, both made by Boston Dynamics in which Hyundai is a majority shareholder.
+
+BMW has already had some experience using humanoid robots in Spartanburg, US, where the Figure O2 robot has helped to build 30,000 model X3 cars. It worked at the same pace as a human.
+
+One observation from the US was that AI-based robots cope much better with variance than previous machinery. "If you changed the position of the sheet metal a little bit or you shift it, or you tilt it, with a standardised industry robot, you would have a failure," says Nikolaides. "These humanoid robots can analyse that and they will just keep on working."
+
+A key difference between the Figure and Aeon robots is that Figure walks, but Aeon has wheels instead of feet.
+
+"It makes more sense on a shop floor [to have wheels] because Aeon can roll around from one place to the other," says Nikolaides.
+
+BMW has also used a Boston Dynamics Spot robot, which is shaped like a dog, as a maintenance watchdog.
+
+"He had to be able to walk stairs," says Nikolaides. "He was able to go down to the basement where a lot of machinery was."
+
+The robots have been welcomed by staff, Nikolaides says. He imagines people will give them names, as they have done for older non-humanoid robots.
+
+"If it doesn't have a name, it's a machine," says Gartner's Ray. "If it gets it wrong, it's broken. If it has a name, then people expect it to make mistakes. People forgive it. One of the things we say to companies is to give your robots names."
+
+Aeon doesn't have a human face but does have a display area on the front of its head, which shows symbols, such as a line when performing a task and a circle when listening.
+
+"We're still working on that [visual language], but we feel very strongly that Aeon needs to be signalling in a way that's natural to humans," says Robert.
+
+Humanoid robots are starting to enter workplaces alongside humans, but Ray believes the robots have been overhyped, especially with high profile demonstrations.
+
+"The primary use case for a humanoid robot today is to walk on stage and artificially inflate your share price," he says. "Robots dancing or whatever: That's not that difficult to do."
+
+There's a risk of people overestimating a robot's capabilities, he says.
+
+"When you see a humanoid robot walking, you assume it can run, it can climb, it can jump. It can't do any of those things, but your brain fills in those gaps. We're having unrealistic expectations when people deploy these robots."

@@ -1,0 +1,63 @@
+Realities of gig work:  Six reasons why Sri Lanka must shape a fairer deal
+
+This week’s International Labour Conference will be significant for gig workers around the world, including in Sri Lanka. The 114th Session of the International Labour Organisation (ILO) takes place in Geneva (1-12 June) and will feature a second and near-final discussion on a ‘Convention on Decent Work in the Platform Economy’. If adopted, it will become the first international standard governing the conditions under which ride-hailing drivers, delivery riders, and digital freelancers work.
+
+Platforms’ greatest promise is that they have created new freedoms for work – that gig workers get to work how they want, when they want, and earn as they like. But increasingly, this elegant outlook is being tested, as a more nuanced understanding has emerged on this type of work, and several countries have introduced new laws and protections.
+
+Platform work has increasingly become embedded within the realities of economic survival in Sri Lanka, especially following the COVID-19 pandemic and the country’s economic crisis. Ride-hailing and delivery platforms such as Uber and PickMe have seen major increases in worker registrations during - and since - the crisis period.
+
+Sri Lanka’s labour market was already highly informal before the rise of platform work. The Department of Census and Statistics reported that 56.9% of total employment is informal, of which 45.9% is in non-agricultural jobs (DCS, 2025). So, digital labour platforms have not emerged in a vacuum - they have entered an economy where millions of workers already operate outside formal labour protections.
+
+Sri Lanka’s 2025 National Social Protection Strategy has included gig work considerations extensively throughout the document. It refers to ‘expanding social protection coverage for emerging worker groups’ including gig workers, and even refers to platform companies like PickMe and Uber by name as partners the government would work with to enroll workers.
+
+Two reports published by the Centre for a Smart Future - a 2024 research brief on ‘Algorithms at Work: The Management of Gig Work in Sri Lanka’, and a 2025 study titled ‘Flexibility and Fairness in Platform Labour: Navigating Gig Work in Colombo’ - document findings that are worth considering. Drawing from that work, we present six considerations for platform companies and labour authorities in Sri Lanka, in the context of the forthcoming ILO global standard.
+
+Labour safeguards needed as ‘gig work’ becomes ‘full-time’ for some
+
+A CSF study found that 75% of interviewed gig workers operate on these platforms full time, challenging the conventional wisdom that these are “side hustles” or “gigs”. For many, it has become their primary livelihood. A Solidarity Centre survey during 2023-2024 of 100 gig workers found that nearly all of them worked more than eleven hours a day; over one-third worked more than sixteen hours a day. Yet they remain classified as independent contractors, invisible in formal employment statistics, and without access to protections that workers in other sectors may have.
+
+Sri Lanka's Factories Ordinance No. 45 of 1942 caps factory workers at nine hours a day and 48 hours a week. Some platform companies cap their drivers at 12 hours a day, while at least one major platform imposes no limit at all. If a driver works 12 hours a day, seven days a week, that amounts to 84 hours - nearly double what labour law permits for a factory worker.
+
+Like how workers in most settings in Sri Lanka are afforded a minimum level of Occupational Safety and Health (OSH), there needs to be regulations pertaining to OSH for gig workers in consultation with platform companies and health professionals. During CSF’s advocacy engagements with labour authorities, it was encouraging to here that these are now being looked at.
+
+Workers who try to achieve platform targets while holding other jobs described it as nearly impossible. Every aspect of a gig worker's on-platform day - which rides or deliveries they receive, how their performance is evaluated, how much they earn per trip, and whether they are blocked or deactivated - is determined by algorithms they cannot see and whose logic is never explained to them.
+
+Scholar Hatim Rahman has called these opaque algorithms that determine performance incentives and bonus structures the "invisible cage". It is a system in which the criteria for success are unpredictable, workers have limited transparency on what determines their earnings, and the only rational response is to work longer and hope for the best.
+
+To navigate this opacity, workers rely on trial and error, and each other - WhatsApp groups, and Facebook forums with hundreds of members where experiences are shared, advice is sought, and help is crowd-sourced.
+
+The proposed ILO Convention would require platform companies to disclose how their algorithms make decisions about work allocation, pay, and termination. Spain's Riders Law of 2021 and Karnataka’s Platform-Based Gig Workers Act of 2024 already do this. Karnataka explicitly requires platforms to explain algorithmic criteria for work allocation and rating.
+
+The Factories Ordinance also mandates reasonable temperatures in workrooms. No equivalent protection exists for a delivery rider on a motorbike at 1pm in Colombo in April. The Ordinance is not some anachronistic relic: it reflects a considered view that working conditions need minimum standards to prevent exploitation. The question Sri Lanka's Ministry of Labour must consider is why those minimum standards should apply to a man welding in a factory but not to a woman delivering food in a city with poor air quality, through extreme heat, on a motorcycle.
+
+The intersection of climate change and gig work receives almost no policy attention in Sri Lanka. Temperatures regularly exceed the threshold considered safe for sustained outdoor work and this is projected to worsen significantly by 2050, with eight to nine hours a day becoming unsafe for outdoor labour.
+
+Our latest research on gig workers in Colombo focusses specifically on climate impacts – especially heat. During the hotter months, riders/drivers navigate daily maximum temperatures of 36°C or more as the city is getting hotter and also face heavy rains and flooded roads as climate impacts become more unpredictable. A female delivery rider interviewed by CSF put it simply: “There is no such thing as sun or rain. We continue to do our deliveries”. Another described reducing her working hours during peak heat, staying just long enough to earn something before going home. Some reported developing skin rashes from prolonged sun exposure, others described driving through flood waters high enough to obscure road damage, unable to cancel rides for fear of a low rating or account deactivation.
+
+Unlike in any other work setting, they receive no equivalent protection and no guidance from the platforms they work for.
+
+Meanwhile, the adaptation cost - protective clothing, vehicle modifications for shade, paying for toilet facilities because no public infrastructure exists - is borne entirely by workers. Platform companies in several Asian cities have begun to respond; UberEats has piloted ‘refresh points’ in Colombo in partnership with a local retailer. But this remains a small, voluntary gesture against a structural problem.
+
+Geographically-tethered gig work in Sri Lanka is overwhelmingly male. The largest platform in Sri Lanka - PickMe - reported in 2024 that it had around 1,000 female drivers and riders of a total of over 100,000 registered drivers (FY 24/25). Following an early-stage investment in ride-hailing by World Bank Group’s private sector arm, IFC noted in a study that “increasing the number of women drivers would improve women riders' perceptions of safety”, and that in Sri Lanka there was a “high demand for gender segregated transport”.
+
+Yet, more needs to be done to change perceptions and lived realities of female platform-based gig workers. Interviewed female delivery workers described not operating after dark, selecting delivery areas based on personal assessments of risk, and carrying improvised safety tools. One described wearing so many layers that male co-workers addressed her as "aiiyye" - older brother - when she wore her helmet, because it helped her feel safer.
+
+The proposed ILC gender equality agenda, running alongside the proposed platform economy Convention, makes this doubly relevant. Decent work in the gig economy is also a gender equality question: as long as geographically-tethered gig work is structurally unsafe for women, the digital economy cannot be genuinely inclusive.
+
+India's Code on Social Security 2020 formally recognises gig and platform workers for the first time, requiring platforms to contribute 1-2% of their annual turnover to a Social Security Fund financing accident insurance, health and maternity benefits, and pension schemes. But national implementation has been slow, so states have moved faster. Rajasthan became the first state to pass a dedicated platform worker law in July 2023, establishing a Gig Workers Welfare Board, a welfare fund, and a "welfare cess" levied on platform transactions. By August 2025, Karnataka, Bihar, and Jharkhand had each passed similar laws.
+
+Rather than forcing full employment reclassification (which platforms fight hard), Rajasthan, Karnataka, and India's national code all use a transaction-level welfare cess - platforms pay a small percentage of each transaction into a state welfare fund. This is less disruptive to platform business models while still creating a funding base for worker benefits.
+
+South Africa is in the process of introducing legal amendments where expanded definitions of employer and employee could extend labour and social protections to platform workers, including minimum wages, paid leave, social security, occupational health and safety coverage, and the right to collectively bargain.
+
+From the European Union's Platform Workers Directive, and Spain's Riders Law, to Singapore's Platform Workers Act and Malaysia's Gig Workers Act, there are signs of a global shift. The ILC Convention under consideration in Geneva this week further reinforces that the era of platform companies self-regulating is closing, and the world is demanding better standards.
+
+The argument for worker protection is sometimes framed as being in tension with the flexibility that platform-based gig work genuinely offers - and which workers themselves value. The workers are integral to the functioning of the platform companies – without them, there is no service on offer. So why is it that the companies profiting off this labour choose to classify them as “partners” and not offer basic minimum labour safeguards like pension schemes, sick or paid leave, comprehensive insurance coverage, or adequate grievance redressal mechanisms? The future of work in our cities will increasingly be shaped by these new forms of labour, and to strip away worker rights that are ironically enjoyed by the management of the platform companies themselves is problematic.
+
+CSF's research - now spanning four years of primary fieldwork with gig workers in Sri Lanka - provides a foundation of evidence for a progressive conversation. Our view is clear - the goal is not to formalise gig work in ways that fully eliminate its distinctive character and the opportunities it affords, but to ensure that flexibility does not become a cover for the absence of any protection at all.
+
+A worker should not have to choose between income and working in 36°C outdoor heat with no protective gear. A worker should not lose their livelihood due to an automated and anonymous decision they cannot query or appeal.
+
+With an ILO standard on decent platform work being agreed on globally, Sri Lanka must now shape a meaningful path forward through collaboration among labour authorities, platform companies, workers, and rights groups.
+
+(Centre for a Smart Future is a public policy think tank that cares about shaping a just and sustainable economy. This article draws on CSF's research since 2021, and continuing to-date, including for organisations like ILO and LirneAsia FutureWorks. This work cuts across three of CSF’s thematic pillars: ‘Inclusive Technology and Innovation’, ‘Urbanisation and Cities’, and ‘Nature, Climate and the Economy’.  For full citations, refer the online version of this article at csf-asia.org/knowledge-insights)

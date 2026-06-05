@@ -1,0 +1,23 @@
+Largest battery energy storage program to boost grid stability and accelerate renewable energy integration
+
+Discharge up to 10MW to the national grid during evening peak demand periods
+
+The deployment will introduce grid-forming battery storage technology across 13 substation sites
+
+Directly supports Sri Lanka’s target of achieving 70% renewable energy generation by 2030
+
+Sri Lanka is set to commission battery energy storage capacity across 16 substation sites nationwide, marking the country’s largest energy storage program to date. The initiative represents a significant step in strengthening the national grid and supporting the country’s transition toward a cleaner and more resilient energy system.
+
+Each Battery Energy Storage System (BESS) is designed to store 40MWh of energy during daytime hours and discharge up to 10MW to the national grid during evening peak demand periods. By shifting energy from periods of high renewable generation to periods of peak consumption, the systems will help optimise the use of solar and wind resources while reducing reliance on conventional fossil-fuel-based generation during peak demand.
+
+As Sri Lanka continues to expand its renewable energy capacity, energy storage is becoming an increasingly important component of the power system. The deployment will introduce grid-forming battery storage technology across 13 substation sites, enabling active support for grid frequency and voltage regulation. These capabilities are essential for maintaining system stability as higher levels of solar and wind power are integrated into the national electricity network.
+
+The programme directly supports Sri Lanka’s target of achieving 70% renewable energy generation by 2030. Beyond increasing renewable energy utilisation, the project is expected to strengthen energy security by reducing dependence on imported fossil fuels, improving grid flexibility, and supporting a more reliable and affordable electricity supply for consumers and businesses.
+
+Windforce PLC and Vidullanka PLC secured the project through an international competitive tender process in July 2025 and subsequently selected Huawei as their technology provider following a comprehensive vendor evaluation. Together, the partners will deploy grid-forming BESS technology across 13 of the project’s sites as part of the Government’s national clean energy program.
+
+Delivering energy storage infrastructure at this scale requires strong collaboration between project developers and technology providers. Through the partnership between Windforce PLC, Vidullanka PLC and Huawei, the program combines local renewable energy expertise with advanced battery storage technology.
+
+As the primary technology provider for the majority of the project’s deployments, Huawei contributes proven energy storage solutions, technical expertise and project implementation experience gained from similar energy storage and grid modernisation projects across Asia, including the Philippines and Cambodia.
+
+As Sri Lanka advances toward its renewable energy ambitions, projects of this scale demonstrate the growing role of battery energy storage in enabling a more resilient, efficient and sustainable power system. By combining renewable energy generation with modern grid-support technologies, the program represents an important step toward building a cleaner, more secure and future-ready energy infrastructure for the country.

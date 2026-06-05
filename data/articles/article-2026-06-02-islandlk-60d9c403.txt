@@ -1,0 +1,55 @@
+I just wanted to get it stamped: A seven-hour stamp at DIE
+
+There is a short story by Gabriel García Márquez, Nobel laureate, master of the human comedy and its agonies, called “I Just Want to Use the Telephone.” A woman breaks down on a Spanish highway, hitches a lift to the nearest town, and simply wants to make a telephone call to tell her husband she will be late. What follows is a Kafkaesque nightmare of misunderstanding, and catastrophic bureaucratic misinterpretation that swallows her whole life. She ends up committed to an asylum. She never makes the call.
+
+Another Nobel laureate, Milan Kundera’s The Joke, in which a Czech student writes a postcard with a harmless witticism, and the machinery of misinterpretation grinds his entire existence to dust. Two writers, two languages, two very different political contexts, and the same essential theme: the terrifying consequences of systems that refuse to think, administered by officials who refuse to listen, imposed on individuals who simply wanted something simple and ordinary.
+
+I thought of both of them, sitting in Room 20 of the Department of Immigration and Emigration (DIE) in Battaramulla, on a perfectly ordinary morning, waiting. I just wanted to get it stamped.
+
+The matter was, on its face, trivially simple. My passport carries an information page stating it is valid until 30 March 2028. It also carries, on the following page, an endorsement, a condition, restricting the passport’s validity to five years, expiring 30 March 2023. This restriction had been imposed, I was informed, because at the time of issuance I did not possess a National Identity Card (NIC) issued by the Department of Registration of Persons (DRP). Once I obtained the NIC, I was told, the condition could be cancelled by a simple further stamp. A straightforward administrative correction. A bureaucratic afterthought.
+
+So, I arrived at the Department of Immigration and Emigration, the DIE, an acronym one cannot help but notice carries its own dark poetry, with the relevant form, the relevant fee, and my NIC. I submitted my application at approximately nine o’clock in the morning. The officer directed me to wait. I waited.
+
+Modern technology is a mercy in such moments. The smartphone, that great time killer, allows us to read, to write, to attend to correspondence, to think. I attended to productive work. The waiting room filled and thinned and filled again around me. The morning gave way to afternoon.
+
+The call came at around four o’clock in the afternoon, a full seven hours, hungry, thirsty, anxious waiting, for a stamp. My NIC had been referred for verification to the DRP which is located in the same building, different floor though, the verification had taken seven hours to travel vertically between floors and return. My passport was finally stamped. The restricting condition was cancelled. I was free to go. Seven hours. One building. Two floors. A stamp.
+
+Let us be precise about the geometry of this situation, because precision is what bureaucracy demands of citizens while refusing it for itself.
+
+The information that one department needed from the other, confirmation that a national identity card bearing a specific number belonged to a specific person, is information that both departments already hold, in files, in databases, in the digital records that both institutions have been building for years.
+
+That information was not retrieved electronically. It was not confirmed through an intranet query that would have taken thirty seconds. It was not verified through any of the digital systems that Sri Lanka’s Digital National Strategy 2030 promises to build, or that the World Bank’s $50 million Digital Transformation Project, approved in December 2025, is supposed to finance, or that President Dissanayake, who is himself the minister responsible for digitisation, has repeatedly pledged to accelerate. The information was physically transported, on paper or on foot or through some process that consumed seven hours, between two offices in the same building.
+
+I am not alone in this observation, and I am not the first to make it in print. A well-known retired banker wrote to the letters pages of a national newspaper not long ago with a complaint that has since circulated widely among the professional and business community. His concern was the unnecessary duplication of bureaucratic processes in Sri Lanka’s government agencies, the requirement to submit the same information repeatedly to different departments that have no mechanism for sharing it with each other.
+
+His example was instructive: a company that changes its registered address must deal separately with the Registrar of Companies (RC) and the Inland Revenue Department (IRD), resubmitting information that both institutions already hold. Two forms, two queues, two sets of fees, two sets of officials who will each process the same fact, that the company has moved, in complete ignorance of the other’s proceedings. He contrasted this with South Korea, where customs efficiency and trade facilitation have been systematically modernised, and where single-window processes allow firms to submit information once and have it flow automatically to all relevant authorities.
+
+The contrast is not merely between administrative cultures. It is between two different philosophies of what government is for. In the South Korean conception, and in Singapore’s, and in Estonia’s, and in the many countries that have successfully digitised their public services, government exists to process the citizen’s legitimate needs with minimum friction. In the Sri Lankan conception, as it is actually practised rather than rhetorically proclaimed, the citizen exists to process the government’s requirements, repeatedly, in person, in queues, with multiple original documents, at multiple counters, on multiple occasions, regardless of how many times the same information has already been submitted.
+
+This is not a trivial inconvenience. It is a structural tax on every productive citizen and every legitimate enterprise in the country.
+
+Digitalisation is, on paper, precisely the intervention that would have prevented my seven-hour wait: a delay that a single intranet query, a database check, or a digital confirmation could have eliminated. The technology is not exotic. The conceptual framework already exists. The international funding is arriving (USD50 Mn from the World Bank). The President has made the speeches.
+
+That lagging did not happen because Sri Lanka lacked talent, the Senior Advisor to the President on Digitalization, Dr. Hans Wijayasuriya, has stated that Sri Lanka already possesses 75% of the necessary skills to build a strong digital economy. It happened because institutional culture, interdepartmental rivalry, and the chronic prioritisation of process over outcome have conspired to keep the citizen in the queue long after the queue should have ceased to exist.
+
+Here is the cruellest feature of the Sri Lankan bureaucratic condition, and the one that García Márquez and Kundera both understood with novelist’s precision: the systems are designed, or have calcified into designs, that punish the innocent for the sins of the guilty.
+
+The five-year restriction on my passport existed because some applicants, in the past, had submitted fraudulent identity documents to obtain passports. The solution was to restrict all passports issued without NIC verification, regardless of the individual applicant’s circumstances, regardless of whether there was any evidence of fraud, regardless of the disproportionate cost imposed on genuine citizens. A few bad actors found a loophole. The system’s response was to close the loophole by inconveniencing everyone else, permanently, until they proved themselves worthy of having the loophole closed in their particular case.
+
+This is the bureaucratic logic that produced the waiting room in Battaramulla. It is also the logic that produced the multiple-submission requirement for company address changes, and the interminable queue at every government counter in every district of the island. The system never trusts the citizen. The citizen must always prove, again and again, what has already been proved. And the cost of that proof, in time, in money, in lost productive hours, in the quiet erosion of civic dignity, is paid not by the officials who designed the system, nor by the fraudsters whose behaviour prompted it, but by the ordinary person who just wanted something simple.
+
+There is a measure used by international organisations to assess the quality of governance in a given country. It asks, among other things, how many days it takes to start a business, how many procedures are required to register property, how many agencies a citizen must visit to accomplish a routine administrative task. Sri Lanka’s scores on these measures have been a source of persistent embarrassment.
+
+The first is genuine inter-agency data sharing, not a pilot project, not a working committee, not a memorandum of understanding that sits unimplemented, but a functioning intranet infrastructure through which the DRP’s identity records are accessible to the DIE, through which the RC’s records are accessible to the IRD, through which the citizen’s information, once submitted anywhere in the system, does not need to be submitted again. The World Bank project promises exactly this. It must be delivered.
+
+The second is a single-window principle applied without exception to all citizen services. If a process requires verification from another agency, that verification is the government’s problem to obtain, not the citizens’. The citizen submits once. The system talks to itself.
+
+The third, and this is the hardest, because it requires not technology but culture, is the genuine subordination of process to outcome. The process exists to serve the citizen’s legitimate need. When it ceases to do so, the process is broken, not the citizen.
+
+(The writer, a senior Chartered Accountant and professional banker, is Professor at SLIIT, Malabe. The views and opinions expressed in this article are personal.)
+
+Sri Lanka’s vanishing wetlands put elusive otter under growing threat
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
