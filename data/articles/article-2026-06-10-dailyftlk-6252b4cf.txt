@@ -1,0 +1,71 @@
+Inland Revenue (Amendment) Act No. 11 of 2026: A comprehensive income tax reform
+
+The Inland Revenue (Amendment) Act No. 11 of 2026 is both wide-ranging and consequential, signaling the continued momentum of Sri Lanka’s post-IMF reform agenda—focused on broadening the tax base, strengthening compliance, enhancing enforcement, and addressing gaps within the principal Act
+
+The Inland Revenue (Amendment) Act No. 11 of 2026 was certified by the Speaker on 3 June 2026 and published via Gazette on 5  June 2026. The Act was made available to the public on 8 June 2026.
+
+It is one of the most substantive amendments to the Inland Revenue Act No. 24 of 2017 since that Act's enactment — introducing changes across capital gains taxation, withholding tax, compliance obligations, enforcement powers and residency rules. Notably, the Act incorporates outcomes from Supreme Court determinations made during the Bill's passage.
+
+One of the most consequential changes is the upward revision of capital gains tax (CGT) rates, effective from the date of enactment. Individuals and partnerships, previously taxed on capital gains at 10%, are now subject to CGT at 15%. For trusts, unit trusts, mutual funds and non-governmental organisations, the rate has increased more significantly — from 10% to 30%.
+
+With effect from 1 April 2026, an enhanced capital allowance of 100% applies to investments in depreciable assets (excluding intangibles) between $ 250,000 and $ 3 million, anywhere in Sri Lanka, subject to Board of Investment approval for the expansion of an existing undertaking. This provision targets mid-scale capital expansion across all sectors.
+
+Carry forward of unutilised qualifying payments: Where a taxpayer's assessable income is insufficient to absorb qualifying payments made to specified Government institutions, the unutilised portion may now be carried forward to the immediately succeeding or subsequent years of assessment. This addresses a longstanding inequity where taxpayers who made payments to Government institutions in years of low income received no benefit from those payments.
+
+Donations to approved charitable institutions: Donations to institutions incorporated or registered under legislation governing social service organisations that provide healthcare in collaboration with Government healthcare or education services will now qualify as qualifying payments, subject to statutory limits. Such institutions will also receive a tax credit for the cost of services provided, subject to CGIR approval.
+
+A new sub section is introduced under S.52A for excluding life insurance receipts from income: Amounts received from a life insurance policy upon death, maturity or surrender will no longer be included in calculating assessable income. However, this exclusion does not extend to payments treated as employment or business income, nor to annuities, pensions or superannuation benefits.
+
+With effect from the date of enactment, every company incorporated or registered in Sri Lanka must register with the Commissioner-General of Inland Revenue (CGIR) within 30 days.
+
+From 1 April 2026, specified officials must verify TIN possession before permitting transactions including opening a bank account, obtaining a credit card, registering a motor vehicle, obtaining building plan approval or transferring shares.
+
+As per the Amending Act, a TIN will no longer be treated as confidential information, enabling its use as a universal identifier.
+
+While this move is intended to strengthen compliance and improve traceability within the tax system, the author notes a degree of caution. Given the increasing prevalence of cybercrime and data misuse, making the TIN more widely accessible could potentially expose individuals to risks of identity-related fraud. In this context, policymakers may wish to carefully reassess whether treating the TIN as non-confidential strikes the appropriate balance between administrative efficiency and data protection, and whether additional safeguards are required to mitigate potential misuse.
+
+Taxpayer information may now be shared with the Financial Intelligence Unit, the Sri Lanka Police and the Sri Lanka Accounting and Auditing Standards Monitoring Board for financial crime prevention purposes, subject to ongoing confidentiality obligations.
+
+The withholding tax (WHT) net has been considerably widened. Effective from the enactment, WHT obligations now extend to a broad range of professionals and service providers — including auditor, modeller, personal trainer, coach, valuer, artist, actor, dancer, singer, musician, event organiser, photographer, videographer, therapist, counsellor, beautician, cook, electrician, dentist, veterinarian, social media specialist, brand ambassador, sports person, specialist for information technology, advertising agent, advisor, translator, writer, debt collector etc.
+
+The CGIR has the power to prescribe further. Accordingly, where a person (a person carrying on a business) is making a payment to a resident individual in the above professions it will be subject to 5% deduction. The payer as the withholding agent has to remit the same to the Inland Revenue Department. The recipient can claim the credit when filing the individual return of income based on the withholding tax certificates.
+
+This reflects the growing significance of the gig economy and the Revenue's intent to capture income earned in these sectors.
+
+Withholding agents are now required to issue WHT certificates to payees at no cost. Non-compliance with WHT certificate requirements, or the submission of false or misleading declarations, may attract penalties of up to Rs. 200,000 per year. The CGIR has been authorised to prescribe mandatory procedures and formats for the filing of annual and quarterly WHT statements.
+
+Interest or discount on deposits paid to resident individuals with no taxable income will not attract AIT, provided a self-declaration is submitted — effective from 1 April 2025.
+
+With the introduction of more stringent enforcement powers, taxpayers should take careful note of their obligations. For businesses, immediate priorities include reassessing withholding tax (WHT) obligations in light of the expanded scope and preparing for the revised instalment payment framework. Greater attention must also be given to the timely settlement of outstanding taxes, given the enhanced powers vested in the Commissioner-General of Inland Revenue
+
+From 1 April 2026, the Statement of Estimated Tax (SET) has been discontinued. Instalment payments must now be computed on the taxable income of the immediately preceding year. Where a taxpayer had no taxable income in the prior year, or expects lower income in the current year, payments may be based on an estimated current-year liability as specified by the CGIR.
+
+Return filing exemptions have been clarified: individuals with only employment income under APIT and interest income below Rs. 5,000 are not required to file. Senior citizens may file in writing or electronically.
+
+A provision reintroduced from the Inland Revenue Act No. 10 of 2006 allows individual income tax returns to be accepted as filed — without further assessment — where tax paid equals at least 120% of the prior year's liability, no refund is sought and an affidavit confirms no fraud or willful default. This relief being introduced may not be appropriate given that capital gains tax is now embedded in the Inland Revenue Act. The provision can be misused, and the policy makers must revisit as to the purpose of this section being introduced.
+
+A further enforcement measure, effective from 1 April 2026, empowers the CGIR to submit a certificate to the Magistrate's Court where a taxpayer has failed to pay taxes due. The certificate sets out the particulars of the defaulter and enables the unpaid tax to be recovered through court proceedings.
+
+This provision was, however, subject to challenge before the Supreme Court, which determined that no such certificate may be submitted while the taxpayer has an administrative review or an appeal before the Tax Appeals Commission pending. This safeguard — now expressly incorporated into the Act — ensures that taxpayers who are actively contesting an assessment through the proper channels are not exposed to Magistrate's Court proceedings in the interim. In practical terms, taxpayers facing disputed assessments should ensure that any appeal or review is formally lodged and on record, as this will provide the necessary protection against premature enforcement action.
+
+From 1 April 2025, non-citizens employed on ships in Sri Lanka are taxed only on income from that employment. Individuals departing for overseas employment under a contract of at least one year with an unrelated employer are treated as non-resident from the start of the year of departure until the contract ends. The 'Golden Paradise Residence Visa' reference has been updated to 'Investor Category Residence Visa', the holders of which remain non-residents for income tax purposes.
+
+The CGIR has been empowered to write off interest on underpayments and late payments outstanding up to the year of assessment ending 31 March 2025 subject to the tax liability being settled within a period of six months from the date of operation.
+
+Beyond the court certificate mechanism, the Act introduces a new and significant enforcement tool through Section 185A. From the date of enactment, failure to comply with key statutory obligations including failure in filing returns, submitting annual statements, registering for a TIN, or failure to attend meetings when required by the IRD may now trigger criminal prosecution. The procedure requires the CGIR to first issue a written notice giving the defaulter 30 days to rectify the non-compliance. Only where the person fails to act without reasonable cause does the matter constitute an offence.
+
+On conviction, the penalties are substantial: a fine of up to Rs. 400,000, imprisonment for a term not exceeding six months, or both. The constitutionality of this provision was challenged before the Supreme Court, which upheld it as consistent with the Constitution, noting that the mandatory 30-day compliance window provides an adequate safeguard against arbitrary enforcement. For businesses and individuals alike, this provision serves as a pointed reminder that tax compliance obligations under the IRA 2017 are not merely administrative in nature — non-compliance now carries the prospect of criminal liability.
+
+Given the breadth and, in some instances, retrospective nature of these amendments, taxpayers are encouraged to closely review the provisions applicable to them and take proactive steps to ensure compliance
+
+Five petitions challenging the Bill were heard by the Supreme Court on 2 April 2026. Three proposed amendments were withdrawn as a result. The broadening of the thin capitalisation 'Reserves' definition — to include negative retained earnings, accumulated losses or deficits — was withdrawn, as was a set of amendments to the computation of life insurance business gains (on grounds of drafting imprecision involving phrases such as 'any amounts' and 'other similar form'). A proposal imposing mandatory document-production timelines of six and nine months was also withdrawn.
+
+The Inland Revenue (Amendment) Act No. 11 of 2026 is both wide-ranging and consequential, signaling the continued momentum of Sri Lanka’s post-IMF reform agenda—focused on broadening the tax base, strengthening compliance, enhancing enforcement, and addressing gaps within the principal Act.
+
+With the introduction of more stringent enforcement powers, taxpayers should take careful note of their obligations. For businesses, immediate priorities include reassessing withholding tax (WHT) obligations in light of the expanded scope and preparing for the revised instalment payment framework effective 1 April 2026—particularly with the first quarterly payment for the Year of Assessment 2026/27 due on or before 15 August 2026. Greater attention must also be given to the timely settlement of outstanding taxes, given the enhanced powers vested in the Commissioner-General of Inland Revenue.
+
+Individuals, especially those with overseas employment arrangements, investment income (including exposure to revised capital gains tax rates), expanded WHT coverage, or life insurance policies, will also find several provisions directly relevant.
+
+Given the breadth and, in some instances, retrospective nature of these amendments, taxpayers are encouraged to closely review the provisions applicable to them and take proactive steps to ensure compliance.
+
+(The author is a Principal - Tax & Regulatory at KPMG in Sri Lanka. This article is based on the Inland Revenue (Amendment) Act No. 11 of 2026 as enacted. It is intended for general informational purposes only and does not constitute legal or tax advice)

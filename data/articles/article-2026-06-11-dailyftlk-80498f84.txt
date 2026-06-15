@@ -1,0 +1,47 @@
+The EPF under CBSL custody: Fixing the principal-agent problem
+
+Corruption and abuse of the public’s Employment Provident Fund (EPF) under the custody of the Central Bank of Sri Lanka (CBSL) represents one of the largest financial integrity failures in the country’s history, one that continues to this day with zero regulatory obstacles.
+
+Public outrage and recommendations from the Presidential Commission of Inquiry led to a comprehensive forensic audit published in 2019, which exposed systemic corruption, irregular trading, and “pump and dump” equity schemes spanning decades.
+
+While the mechanisms for abusing the public’s EPF, which exceeds 15% of Sri Lanka’s Gross Domestic Product, have been extensively discussed by trade unions, civil society institutions, and analysts, the aim of this discussion is to highlight the fundamental enabling mechanism stipulated by Sri Lanka’s monetary legislation. Both the old Monetary Law Act and the current CBSL Act of 2023 leave the public’s EPF wide open to the private gain of an exclusive group of rogue financiers, bureaucrats, and politicians.
+
+By introducing a simple alteration in governance, we can directly address this severe principal-agent problem.
+
+The root cause of the principal-agent problem in the EPF is the existence of an exclusive CBSL Staff Provident Fund (SPF), completely insulated from and independent of the operation and management of the general public’s EPF.
+
+This exclusive fund was originally established under Section 10(b) of the Monetary Law Act (MLA) No. 58 of 1949. Following the recent legislative updates, this authority has been solidified under the CBSL Act No. 16 of 2023. While the 2023 Act repealed the old MLA to grant CBSL statutory autonomy, it preserved CBSL’s autonomous powers over its internal management, staff remuneration, and separate retirement fund structures.
+
+Under Section 24 of the new Act, the Governing Board (which handles internal administration rather than monetary policy) is explicitly mandated to establish and fund welfare, pension, and provident fund schemes specifically tailored for CBSL staff, independent of standard public service or general private sector frameworks. Furthermore, Section 105(1), read alongside Section 106(1), grants the Governing Board absolute authority to implement binding rules concerning retirement benefits.
+
+Crucially, the legislation imposes no rigid asset restrictions on this internal Staff Provident Fund, nor does it mandate line-by-line investment disclosures. In contrast, the public’s EPF is subject to explicit legally binding transparency provisions under a separate EPF Act of 1958—stipulations with which the CBSL has regularly failed to comply. Given that the SPF is classified as an internal staff welfare benefit, the 2023 CBSL Act only requires aggregate financial reporting of the fund.
+
+The assets, returns, and future pension liabilities of the SPF are published strictly as a consolidated line item within the Notes to the CBSL’s Annual Financial Statements. This disclosure framework exposes a sharp double standard. Because the investment performance, transaction histories, and specific asset classes of the SPF are buried within the bank’s consolidated institutional balance sheet, the general public cannot verify whether the SPF achieved higher, market-insulated yields compared to the public EPF.
+
+This transparency gap is compounded because the CBSL manages the SPF while simultaneously possessing a total monopoly over privileged market-altering macroeconomic information.
+
+This includes advance knowledge of upcoming adjustments to Treasury debt issuance schedules, target yield bands, policy interest rate shifts, confidential foreign exchange reserves data, impending currency devaluations, and the outcomes of negotiations with multilateral institutions such as the International Monetary Fund (IMF).
+
+In financial markets, advance knowledge of this data is the ultimate superpower. If the internal asset managers of the CBSL SPF have even passive proximity to these policy shifts, they can structurally optimise their staff portfolio—buying long-term bonds right before rates drop (maximising capital gains) or shifting to short-term repos right before a rate hike—weeks before the general public or commercial banks can react.
+
+This scenario creates a textbook case of severe information asymmetry, effectively legalising market front-running through the provisions of both the historical MLA and the current CBSL Act of 2023.
+
+Given that the CBSL manages both the multi-trillion-rupee public EPF and its own internal staff fund, the risk of front-running (where an entity uses advance knowledge of a massive pending order to execute a relatively smaller, highly profitable trade on its own behalf first) is acute. For instance, when the CBSL is about to use the public EPF as a ‘captive market’ to absorb a massive tranche of low-yielding Government debt, it can insulate its internal staff fund from those low returns ahead of time. The staff fund can liberally cherry-pick the highest-yielding, most secure bonds or fixed deposits, leaving the lower-yielding papers to be absorbed by the public EPF.
+
+This two-tier retirement system does more than create a fiduciary blind spot; it creates an institutional moral hazard.
+
+CBSL staff have no inherent obligation to optimally manage the public’s EPF when their own funds are managed exclusively by them through a separate mechanism. They can quietly enable or enforce the exploitation of the public fund because they are entirely shielded from the resulting losses. This complete absence of ‘skin in the game’—where the personal financial well-being of ‘the agent’ (CBSL) is not tied to the well-being of ‘the principal’ (the people) they serve—leads to the EPF’s principal-agent crisis. The current legal framework effectively transforms the CBSL into an adverse selection risk and a source of systemic moral hazard.
+
+As a result, the public EPF has been effectively dedicated as a captive fund for periodic abuse by interest groups that have co-opted State institutions. Given that CBSL staff have their retirement assets safely tucked away in an exclusive internal fund, there is a total decoupling of the fates of the public’s EPF and the CBSL’s internal fund.
+
+If the EPF suffers billions in losses due to a political bond scam or a corrupt equity ‘pump-and-dump’ scheme, the retirement security of CBSL officers remains completely untouched. The managers bear 0% of the financial risk of their management choices, while the public bears 100% of it. Hence, having a separate internal fund allows the custodian to treat the two asset pools with completely different levels of integrity.
+
+The CBSL staff fund can be managed with strict, risk-averse commercial prudence, securing high-yielding, stable market instruments to guarantee excellent payouts for its own employees, while the public fund can be quietly designated to absorb low-yielding Government debt to bail out State fiscal deficits, or used to buy overvalued shares and nationalise the losses of rogue financiers and traders.
+
+In any institution, internal resistance is the first line of defence against fraud. However, that resistance is usually fuelled by self-preservation. If CBSL employees’ own retirement savings were merged with the general public EPF, any internal attempt by senior management or politicians to manipulate the fund would face immediate, aggressive pushback from the bank’s own staff and trade unions. Officers would fight to protect the ledger, not out of abstract altruism, but out of financial self-preservation, because their own retirement security would be tied to that exact ledger.
+
+Merging the CBSL Staff Provident Fund into the general public EPF completely resolves this principal-agent problem by introducing shared destiny. Forcing the regulators to share a single asset pool transforms the agent into a principal. The decision-makers would instantly face the exact same economic consequences as the public. A merged fund completely eliminates the option of using the public pool as a sacrificial lamb because any artificial suppression of yields or corrupt transactions would automatically penalise the regulators’ own savings.
+
+Conversely, the IMF’s proposals to strip the public’s EPF away from the CBSL and hand day-to-day asset management to a separate, independent trustee board through amendments to the EPF Act, as stated in its Governance Diagnostic for Sri Lanka—effectively a form of privatisation—do not eliminate the principal-agent problem. Instead, they merely shift it from a State agent to a private agent, potentially magnifying the risk of corruption.
+
+This is a disastrous proposition given the rent-seeking nature of Sri Lanka’s financial elite, whose capacity for mismanagement was recently demonstrated by failures at the National Development Bank. A private trustee board remains an agent managing other people’s mandatory savings. Because contributions remain legally mandated and members cannot exit or withdraw their funds at will, the private managers face no market competition or threat of a bank run from dissatisfied members. Hence, placing a multi-trillion-rupee public fund under private controllers, as per IMF recommendations, creates a lucrative target for corporate capture, substituting State-led corruption with oligarchic exploitation.

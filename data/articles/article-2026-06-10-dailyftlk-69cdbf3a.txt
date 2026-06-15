@@ -1,0 +1,15 @@
+QR payments in Sri Lanka: How to break the ‘chicken and egg’ situation?
+
+Currently, no customers are in a hurry to install QR payment apps on their phones because many merchants are not ready to accept QR payments. At the same time, merchants are not in a hurry to obtain QR merchant codes because very few customers use QR payment apps. This is a classic chicken-and-egg situation.
+
+It is famously said that in India even beggars use QR payments. It is also widely known that in China everyone uses QR payments. Yes, I am sure QR payments are growing in Sri Lanka, but nothing will get us to the stage of India or China unless we come up with a leapfrog tactic.
+
+I am a small property owner, and I wanted to get my QR code. I spoke with my bank, and they sent me three forms to fill in to obtain it. It was the whole set of classic KYC requirements and other documents, as if I were opening a new account. I immediately felt discouraged and did not even bother opening them. I would guarantee that many other vendors think exactly like me. Besides, I can already accept QR payments on my card machine. This is not something many vendors know.
+
+In my opinion, this complete bottleneck can be overcome with a very simple solution. For all vendors who already use a card machine, send them their printed QR codes without requiring them to fill in all the documents again. Yes, banks can simply post the QR codes to them. They can send a set with multiple options: one to be kept on a table, a few as stickers, and so on. Vendors will immediately push for QR payments because they do not lose 3%. Rest assured, vendors will even start telling customers, “This is the cash price,” “This is the QR price,” and “This is the card price.”
+
+Simply issuing QR codes to existing credit and debit card machine holders will immediately boost the system to the next level, as they have already gone through the KYC process and legal framework. Yet again, QR payments can already be processed through their card machines. Therefore, I see no reason why vendors should not receive a QR code that follows the same set of rules as a sticker.
+
+The success of QR payments would generate significant savings for the Sri Lankan economy and provide a major boost to the banking system, tourism, trade, and related sectors. Simply posting QR codes to existing credit card machine holders would provide the much-needed kick-start the system requires. The infrastructure has been ready for years; it is the intent that has been lagging behind.
+
+(The author is a resident and guest house owner in Meepilimana, Nuwara Eliya, and can be reached via [email protected])

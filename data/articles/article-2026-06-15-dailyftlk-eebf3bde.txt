@@ -1,0 +1,97 @@
+Primary dealers not subject to VAT on Financial Services
+
+The core business activities of licenced primary dealers , bidding, purchasing, holding and selling Government securities, do not constitute a supply of financial services for VAT on Financial Services purposes, and that primary dealers cannot be characterised as lenders to the Government of Sri Lanka when transacting in such instruments
+
+Court of Appeal holds with Dr. K. Kanag-Isvaran, PC in Wealthtrust case  n An investment not a loan
+
+In a significant ruling delivered on 11 June 2026, the Court of Appeal allowed the appeal of Wealthtrust Securities Ltd., against the Commissioner General of Inland Revenue (CGIR), setting aside the Tax Appeals Commission (TAC) determination.
+
+Wealthtrust Securities Ltd., is a licenced primary dealer in Government securities, appointed by the Central Bank of Sri Lanka. Its principal activity comprises bidding at primary auctions, purchasing Treasury Bills and Treasury Bonds, engaging in the secondary market for such instruments, and entering into Repurchase and Reverse Repurchase Agreements.
+
+The case of Wealthtrust Securities Ltd., v. Commissioner General of Inland Revenue (CA/TAX/005/2021) arose from a dispute over whether the purchase and holding of Government securities by a primary dealer constituted the “supply of financial services” under Section 25F of the Value Added Tax Act No. 14 of 2002. Wealthtrust Securities, a licenced primary dealer, claimed exemption from VAT, while the Inland Revenue Department treated its activities as taxable, on the basis the company is engaged in supply of financial services.
+
+The company submitted VAT returns for the years of assessment 2012/2013 and 2013/2014 claiming exemption from VAT on the basis that its activities constituted investment, not the supply of financial services.
+
+The IRD Assessor rejected those returns and issued assessments. The CGIR, on appeal, confirmed the assessments. The TAC likewise dismissed the taxpayer›s appeal, holding that the purchase and holding of Government securities fell within section 25F(g) of the VAT Act, the provision of a “ loan, advance or credit”, without providing substantive reasoning for that conclusion.
+
+Wealthtrust then brought the matter before the Court of Appeal by way of a stated case.
+
+The central legal issue was whether the acquisition of Government securities should be classified as a loan transaction (taxable) or an investment activity (non-taxable).
+
+The appellant, represented by Dr. K. Kanag-Isvaran, President’s Counsel, argued that primary dealers are prohibited by Central Bank regulations from granting loans, and that Government securities are acquired through auctions with the objective of earning profit, not lending. The respondent argued that such purchases amounted to lending money to the Government.
+
+The judgment, delivered by Justice Annalingam Premashanker with the concurrence of Justice M.C.B.S. Morais resolves a long-running dispute with important implications for Sri Lanka›s primary dealer community and for the proper scope of VAT on Financial Services under the Value Added Tax Act No. 14 of 2002 (as amended).
+
+The case underscores the formal requirements for an assessment notice, including identification of the specific statutory provision under which it is issued, as conditions of validity rather than mere administrative formality
+
+The principal substantive question before the Court was whether the purchase, holding and sale of Government securities by a primary dealer constitutes a «supply of financial services» within the meaning of section 25F of the VAT Act, and specifically whether such activity amounts to the provision of a loan under section 25F(g).
+
+The Department›s position was that when a primary dealer purchases a Treasury Bill or Treasury Bond, it is in essence lending money to the Government and therefore supplying a financial service chargeable to VAT on Financial Services.
+
+The Court rejected that characterisation. Applying both purposive and textual analysis, the Court drew a clear distinction between an investment,the expenditure of funds to acquire property in order to produce revenue, and a loan, which is the delivery of a sum of money on an agreement to repay with or without interest.
+
+The Court noted that the TAC had relied on the Oxford Dictionary definition of «loan» without engaging with the statutory context, and had additionally cited a Wikipedia definition of a primary dealer in concluding that primary dealer activities fell within section 25F(g). Such an approach was found to be legally flawed and insufficient to sustain an adverse determination.
+
+A critical factual and legal foundation of the Court›s reasoning was that primary dealers are statutorily prohibited from granting loans.
+
+Schedule III of the Local Treasury Bills (Primary Dealers) Regulations No. 01 of 2009, issued under Gazette Extraordinary No. 1607/18 of 24 June 2009, sets out the exhaustive list of permissible activities of primary dealer companies. Lending money is conspicuously absent from that Schedule. The Central Bank Direction on Diversification of Primary Dealer Activities (Ref No. 08/24/001/0001/009, dated 20 November 2009) further directs primary dealers to restrict their activities to those listed and to divest any other activities.
+
+The Court held that an entity which is legally prohibited from granting loans cannot, as a matter of law and fact, be said to be providing loans when it purchases Government securities in the discharge of its core regulatory mandate.
+
+The Court  held with Dr. Kanag Isvaran’s legal arguments, particularly regarding the distinction between investment activities and the provision of loans, as well as the imperative requirement for statutory compliance in assessment processes.
+
+The Court analysed the regulatory framework governing primary dealers, noting that their mandate is to manage, invest, and trade in securities, not to engage in lending.
+
+Dr. Kanag Isvaran, President’s Counsel successfully demonstrated that there is a fundamental legal and economic distinction between an investment and a loan.
+
+In an investment, the primary motivation is the expectation of profit through interest income and trading gains based on market fluctuations. Conversely, a loan involves the delivery of money with an agreement for repayment, often with set terms that do not typically include the bidding process and market-driven resale characteristics inherent in Treasury securities.
+
+The Court endorsed the taxpayer›s analytical framework distinguishing investment in Government securities from lending across seven criteria.
+
+First, in a loan the lender determines the interest rate; in Government securities the rate is fixed by the Central Bank at auction.
+
+Second, in a loan the interest rate varies with the borrower’s risk profile.
+
+Third, a loan typically involves collateral; no collateral is provided when purchasing Government securities.
+
+Fourth, Government securities are freely transferable in the secondary market without the consent of the issuer; loans are generally non-transferable.
+
+Fifth, Government securities are acquired through competitive auction; loans are negotiated privately not at an auction.
+
+Sixth, loan repayment is periodic according to agreed terms; Government securities are redeemed at maturity upon surrender to the issuer.
+
+Seventh, loan terms are negotiated by the parties; in a securities auction the investor bids at a price set by market mechanics.
+
+These distinctions collectively supported the conclusion that the purchase and holding of Government securities are investment activities conducted with an expectation of profit, through interest receipts and trading gains, and therefore fall outside the definition of supply of financial services in section 25F of the VAT Act.
+
+A parallel and independently decisive ground of the appeal concerned procedural deficiency in the assessment process. Section 29 of the VAT Act imposes a mandatory obligation on the Assessor, where a return is rejected, to communicate by registered letter the reasons for non-acceptance before issuing an assessment.
+
+The Assessor›s letter of 1 December 2014 did not refer to, let alone provide reasons for, the inclusion of gains from trading securities or of marked-to-market gains on financial assets held for trading within the value addition subject to VAT on Financial Services. Those amounts appeared in the taxpayer›s audited profit before tax and were incorporated into the assessed value addition figure, yet went entirely unexplained.
+
+The Court affirmed the established principle that the duty to give reasons is an indispensable element of procedural fairness and natural justice, citing Hapuarachchi v. Commissioner of Elections [2009 1 SLR 1] and Ranjith Flavian Wijeratne v. Asoka Sarath Amarasinghe (SC Appeal No. 40/2013).
+
+The failure to communicate reasons rendered the Notices of Assessment bad in law and nullities. The TAC and the CGIR, in failing to appreciate this deficiency, had themselves erred in law.
+
+The Notice of Assessment was further faulted for not specifying the provision of the VAT Act under which it was issued, a further ground of formal invalidity upheld by the Court.
+
+The assessments issued by the Inland Revenue Department were bad in law, as they lacked proper reasoning and misapplied statutory provisions
+
+The appellant also argued that the TAC›s determination, made on 20 January 2020, was null and void because it fell outside the 270-day period prescribed by section 10 of the Tax Appeals Commission Act No. 23 of 2011 (as amended by Act No. 20 of 2013), calculated from the first hearing date of 19 July 2018. The Court declined to accept this argument.
+
+Following the Supreme Court›s reasoning in Stafford Motor Company (Pvt) Ltd v. CGIR (SC Appeal No. 120/2021), and consistent with earlier authority in Visuvalingam v. Liyanage [1983 1 SLR 203] and Jayanetti v. Land Reform Commission [1984 2 SLR 172], the Court held that where a statute prescribes a time limit without specifying consequences for non-compliance, the limit is directory rather than mandatory. Since the TAC Act does not provide for deemed invalidity, automatic dismissal, or any other consequence of exceeding 270 days, the TAC’s jurisdiction did not lapse on the expiry of that period.
+
+The assessments issued for the years 2012/2013 and 2013/2014, charging VAT on Financial Services on the appellant›s dealings in Government securities, were annulled in their entirety.
+
+The purchase and holding of Government securities by Wealthtrust Securities Ltd., constitute investment activities, not loans.
+
+Consequently, such activities do not fall within the definition of “supply of financial services” under Section 25F of the VAT Act.
+
+The assessments issued by the Inland Revenue Department were bad in law, as they lacked proper reasoning and misapplied statutory provisions.
+
+First, it confirms that the core business activities of licenced primary dealers , bidding, purchasing, holding and selling Government securities, do not constitute a supply of financial services for VAT on Financial Services purposes, and that primary dealers cannot be characterised as lenders to the Government of Sri Lanka when transacting in such instruments.
+
+Second, it reinforces the mandatory nature of the section 29 reasons obligation, making clear that an assessment that fails to explain why gains from particular income streams are included in the value addition base will be vulnerable to challenge on that ground alone.
+
+Third, it underscores the formal requirements for an assessment notice, including identification of the specific statutory provision under which it is issued, as conditions of validity rather than mere administrative formality.
+
+Fourth, it settles the directory nature of the TAC’s 270-day determination period, offering clarity to litigants and practitioners on the consequences of procedural delay.

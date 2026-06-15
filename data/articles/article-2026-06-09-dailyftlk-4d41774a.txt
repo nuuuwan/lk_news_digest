@@ -1,0 +1,53 @@
+Financial consumer complaint landscape of Sri Lanka:  A regulator’s perspective
+
+Consumer complaints provide a transparent view into the public’s interaction with financial services and frequently act as preliminary indicators of potential dangers within the financial network. Acknowledging the importance of these observations, the Central Bank of Sri Lanka (CBSL) examines complaint statistics to detect behavioural risks, service deficiencies, and sectors that require oversight.
+
+The establishment of the Financial Consumer Relations Department (FCRD) in August 2020 marked a significant step in strengthening the Central Bank’s framework for complaint handling and market conduct oversight. Since then, the FCRD has served as the focal point for receiving, analysing and facilitating the resolution of complaints relating to regulated financial institutions. More importantly, it has enabled CBSL to systematically identify recurring conduct risks, operational weaknesses and emerging consumer protection concerns.
+
+This framework was further strengthened with the issuance of the Financial Consumer Protection Regulations in 2023, which formalised expectations relating to transparency, fair treatment, disclosure standards and internal grievance handling mechanisms within financial institutions.
+
+Against this backdrop, this article analyses complaints received by the FCRD relating to Licensed Financial Institutions (LFIs, they include banks and finance companies) during the period 2023–2025, highlighting key trends and emerging risks in financial consumer protection.
+
+Complaint data are not merely records of individual grievances; they are a critical supervisory tool that provides insight into how financial institutions operate in practice. Beyond resolution, complaint analysis helps uncover gaps in service delivery, weaknesses in internal processes and areas where transparency may be lacking.
+
+An assessment of complaints between 2023 and 2025 relating to LFIs reveals shifting consumer priorities. Licensed banks account for 79% of total complaints, while licensed finance companies account for 21%, reflecting differences in customer base and transaction volumes.
+
+While complaints relating to high lending interest rates have declined, several other categories have shown a clear upward trend. Complaints relating to fees and charges, and financial scams have increased notably. When taken together, these trends point to rising expectations around service reliability, digital security, operational efficiency and pricing transparency in an increasingly digital financial landscape.
+
+Complaint data are not merely records of individual grievances; they are a critical supervisory tool that provides insight into how financial institutions operate in practice. Beyond resolution, complaint analysis helps uncover gaps in service delivery, weaknesses in internal processes and areas where transparency may be lacking
+
+Complaints relating to high lending interest rates have declined significantly between 2023 and 2025. This reflects the broader easing of interest rates across the financial sector following the economic crisis period.
+
+The decline suggests that the pressures previously faced by borrowers have moderated, leading to a corresponding reduction in grievances linked to high borrowing costs.
+
+In contrast, complaints relating to financial scams and frauds have risen sharply, increasing by approximately 80% over the same period. This trend highlights the rapidly evolving nature of fraud risks in Sri Lanka’s financial system.
+
+The expansion of digital banking, mobile payments, social media platforms and online marketplaces has created new opportunities for fraudsters to target consumers. Common fraud typologies include phishing, social engineering, unauthorised access to digital banking accounts, fraudulent investment schemes, card-related scams, messaging-platform scams and impersonation of financial institutions and telecommunication providers.
+
+In many instances, customers are persuaded to voluntarily disclose sensitive information such as one-time passwords (OTPs), card details or online banking credentials, enabling fraudsters to carry out unauthorised transactions.
+
+The sharp increase in such complaints underscores the need for stronger fraud risk management across the financial sector. While institutions have introduced various security controls, the growing sophistication of fraud schemes calls for continuous enhancement of detection systems, response mechanisms and inter-agency coordination.
+
+Complaints relating to fees and charges have increased by approximately 40% between 2023 and 2025, making this one of the most prominent areas of concern for financial consumers. This increase has occurred in a context where interest rates have declined and financial institutions have placed greater emphasis on fee-based income. While such charges are commercially justifiable, consumers are becoming increasingly sensitive to fees they perceive as unclear, excessive or insufficiently disclosed.
+
+The most notable increase is observed in lending-related complaints, particularly in relation to processing fees, documentation charges, early settlement fees and other ancillary costs associated with credit facilities. Complaints relating to deposit products have also increased, reflecting concerns over minimum balance requirements, maintenance charges and service-related fees.
+
+These trends signal a clear shift in consumer expectations. Financial customers increasingly demand simple, transparent and easily understandable pricing structures. Where communication is unclear or disclosures are inadequate, dissatisfaction quickly translates into complaints.
+
+In response, LFIs may need to strengthen disclosure practices, simplify fee structures and ensure that customers are clearly informed of applicable charges at the point of onboarding and throughout the product lifecycle.
+
+Matters concerning deposit products surged by 59% from 2023 to 2025, showing that customers are paying more attention to daily banking operations. Savings and fixed deposit accounts are among the most common financial tools used by the public. As more people go digital, the number of interactions increases, which also raises the chance of service problems. Typical issues involve blocked accounts, slow transfers or refunds, disagreements over contract terms, and poor customer support. While online banking has made access easier, it has also created an expectation for fast and dependable service. In such a climate, even small technical problems can cause significant unhappiness. This rising trend emphasises the need to refine internal workflows, stabilise service quality, and ensure that customer problems are fixed quickly and clearly.
+
+Complaints relating to financial scams and frauds have risen sharply, increasing by approximately 80% over the same period. This trend highlights the rapidly evolving nature of fraud risks in Sri Lanka’s financial system. The expansion of digital banking, mobile payments, social media platforms and online marketplaces has created new opportunities for fraudsters to target consumers
+
+The patterns observed in complaints from 2023 to 2025 reflect the changing needs of users and new dangers in the Sri Lankan financial system. It is noteworthy to mention that these patterns are also broadly aligned with global trends highlighted in the Consumer Finance Risk Monitor 2026 published by the Organisation for Economic Co-operation and Development (OECD).
+
+As services become more high-tech and intricate, the demand for openness, speed, and dependability grows. Meanwhile, the massive spike in fraud-related reports shows how vital it is to improve fraud defence systems throughout the sector. Financial firms may need to upgrade their live fraud tracking, tighten user verification, and improve systems for spotting suspicious behaviour early. Continuous efforts to educate the public are also essential for helping users spot and avoid scams. Tackling these issues will require a team effort between regulators, banks, telecom firms, and police. Moving forward, the study of grievances will remain a vital instrument for setting oversight goals and encouraging process improvements for banking sector. By proactively fixing recurring issues, financial firms can improve their behaviour standards, minimise disagreements, and foster greater confidence in the financial system.
+
+(The authors are Assistant Directors at the CBSL Financial Consumer Relations Department)
+
+1.Consumer Finance Risk Monitor 2026 published by Organisation for Economic Co-operation and Development
+
+2.Financial Consumer Protection Regulations No. 01 of 2023 of Financial Consumer Relations Department of Central Bank of
+
+The study of grievances will remain a vital instrument for setting oversight goals and encouraging process improvements for banking sector. By proactively fixing recurring issues, financial firms can improve their behaviour standards, minimise disagreements, and foster greater confidence in the financial system

@@ -1,0 +1,57 @@
+Canada proposes teen social media ban - with workaround for tech firms
+
+BBC - Canada is proposing a social media ban for children and teenagers under the age of 16, mirroring a similar law passed in Australia late last year.
+
+But unlike Australia's law, tech firms could sidestep Canada's ban if they demonstrate they have policies to minimise harm to minors.
+
+The law includes sweeping measures to regulate AI chatbots and curtail "harmful content" online. It would create a regulator to ensure tech firms comply. Some free speech groups have warned it would expand censorship.
+
+It comes amid calls from parents and advocates to bolster children's safety online and as other countries - including the UK - eye similar bans.
+
+The law is being proposed ahead of the upcoming G7 summit in France next week, where world leaders are expected to discuss and issue statements on AI and protecting children from online harm.
+
+Canada's proposed law - the Safe Social Media Act - was put forward in the House of Commons on Wednesday by Culture Minister Marc Miller.
+
+Earlier in the week, Miller said passing a law that addresses online harms was a priority for the Canadian government because "kids are dying".
+
+"Suffice to say, we will take all reasonable measures to make sure kids are safe in this country," he told reporters.
+
+Pressure has been mounting on Canada to pass legislation on online safety after the previous Liberal government failed twice to implement one.
+
+Other countries have already enacted similar laws, including the UK with its Online Safety Act, as well as France and New Zealand.
+
+AI safety has been at the forefront in Canada after a deadly February mass school shooting in British Columbia, where the 18-year-old suspect was revealed to have used ChatGPT to discuss gun violence months before the attack. Eight people, including six young children, were killed.
+
+OpenAI has since come under fire for failing to report the suspect's account to police, prompting a written apology to the victims' families by CEO Sam Altman.
+
+There is no broad consensus, however, on whether Canada should pass legislation on online harms.
+
+Some free speech groups have argued the issue should be addressed within existing laws under Canada's criminal code.
+
+The text of the newly proposed Bill C-34 lists seven categories of "harmful content", which includes material bullying a child, or that foments hatred, or incites violence.
+
+The BBC contacted the Canadian justice and culture ministries seeking futher information on these criteria, but did not receive an immediate reply.
+
+The maximum penalty for a violation is the greater of $10m ($7m; £5m), or 3% of gross global revenue.
+
+The government says the law would create a new independent regulator, the Digital Safety Commission of Canada. Its members would be appointed by cabinet, according to briefing documents.
+
+Social media bans for teenagers are being considered by other countries, including the UK, with an announcement expected next week on a ban for those under the age of 16.
+
+In Greece, a ban for children under the age of 15 is set to take effect in January.
+
+Six months ago, Australia became the first country to ban access to social media for young teenagers and children, though it has since been criticised for not being effective.
+
+The law bars those under 16 from creating a new account on platforms like Instagram, Facebook and TikTok. It also deactivated existing ones.
+
+Social media companies face fines of up to A$49.5m (US$32m, £25m) for serious or repeat breaches. The law mandates that firms take "reasonable steps" to keep kids off their platforms, and should use multiple age assurance technologies like IDs, face or voice recognition.
+
+But in a recent survey of parents by the Australian government, around 70% said their children were still on social media. Many also said their children were not asked by platforms to verify their age after the law was enacted.
+
+The Australian government has said it has opened five investigations into alleged non-compliance, including by Facebook, Instagram, Snapchat and TikTok.
+
+Sara Austin, whose organisation Children First Canada has long advocated for an online harms law, said Canada's decision to include an exemption clause could be a positive as it offers an incentive for firms to enact better safety policies overall.
+
+This, she said, "will not only benefit children, but will also benefit all Canadians" using these platforms.
+
+Austin added that while Canada has lagged behind its peers on addressing online safety, she hopes the proposed law is an opportunity to set a precedent ahead of the G7 summit.

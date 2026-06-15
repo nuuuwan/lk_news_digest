@@ -1,0 +1,17 @@
+99x launches Xianix in Oslo
+
+99x team at Breakfast Seminar from left: Hasith Yaggahavita, Molly Vassbotn, Odd Sverre Østlie, Shehani Seneviratne, Chrishan De Mel, Dag Honningsvåg and Henrik Vikøren
+
+Marks a new era of AI-native software delivery processes and tools
+
+99x has officially launched xianix.ai, its open-source AI platform designed to help organisations harness the full potential of artificial intelligence (AI) in the software delivery lifecycle.
+
+The launch took place in Oslo, Norway, during 99x’s Breakfast Seminar, ‘The 10X Productivity Promise: Can AI Deliver?’, bringing together technology leaders to explore how AI is reshaping the productivity of software engineering.
+
+Developed by the engineering teams at 99x, Xianix enables the transition toward AI-DLC (AI-Driven Development Life Cycle), a software delivery approach designed for an AI-native operating environment.
+
+Instead of AI acting as a standalone assistant, Xianix creates an ecosystem of coordinated AI agents working together while keeping human expertise firmly at the centre. AI handles speed, scale and repetitive execution while humans lead decision-making, accountability, customer understanding and creativity.
+
+99x CEO Hasith Yaggahavita stated, “Our Breakfast Seminar in Oslo created interesting conversations around how software teams are approaching AI adoption and what it takes to transfer its potential into business outcomes. Moving from SDLC to AI-DLC is not about retrofitting existing processes; it is about rethinking how software is planned, built and operated in an AI-enabled era. Xianix was built to support that transition.”
+
+Molly Vassbotn, Architect and Project Manager at Gture Norway, a 99x Group company said, “Most AI adoption today focuses on helping individuals work faster. We wanted to address how organisations rethink delivery process and standard tooling for AI-era. Xianix enables intelligent automation, provides comprehensive coverage of quality across the delivery pipelines, helping teams evolve from traditional development approaches towards AI-native operating models.”
