@@ -1,0 +1,21 @@
+ComBank pioneers state-of-the-art 3DS authentication for UnionPay cardholders
+
+Commercial Bank of Ceylon, in its commitment to provide secure and world-class technologies to its customers, has further strengthened the security and convenience of online payments for its UnionPay cardholders by becoming the pioneering financial institution in Sri Lanka and the wider South Asian region to introduce advanced 3-D Secure (3DS 2.x) authentication for UnionPay e-commerce transactions.
+
+This milestone makes the UnionPay card a fully empowered e-commerce instrument, enabling cardholders to shop securely at millions of merchants worldwide. The latest addition to the Bank’s robust 3DS-enabled card portfolio ensures that UnionPay users benefit from the same high-level authentication and fraud protection extended across Commercial Bank’s international card offerings.
+
+The enhancement follows the successful integration of UnionPay cards into the Bank’s ComBank Access Control Server (ACS) platform, enabling secure authentication for online payments through UnionPay’s latest 3-D secure protocol.
+
+Kapila Liyanage, AGM Personal Banking and Retail Products at Commercial Bank described this latest development as a reflection of the Bank’s commitment to continuously expand Sri Lanka’s digital payment ecosystem. “The benefits of technology must encompass the widest possible customer base to ensure seamless and secure service anywhere in the world,” he said. “By extending 3D secure authentication to UnionPay cards, we are providing another important segment of our customers with access to global-standard payment solutions.”
+
+Crispin Wijesekera, Country Manager – Sri Lanka & Maldives at UnionPay International, said: “The introduction of 3D secure authentication for UnionPay cardholders by Commercial Bank of Ceylon marks an important milestone in strengthening the security and trust of digital payments in Sri Lanka. As e-commerce continues to grow, enhanced authentication technologies such as 3DS provide cardholders with an additional layer of protection while enabling a smooth and convenient online payment experience.”
+
+“UnionPay remains committed to working closely with our banking partners to continuously enhance payment security standards and expand digital acceptance, ensuring that UnionPay cardholders can transact with confidence both locally and globally,” he added.
+
+The new capability introduces UnionPay-specific Risk-Based Authentication (RBA) on the ACS platform. When a customer makes an online purchase at a participating merchant, the system intelligently evaluates the transaction in real time. Where additional verification is required, the system initiates a step-up authentication process by generating a One-Time Password (OTP), which is securely delivered to the cardholder’s registered mobile number and email through the Bank’s established SMS and email gateways. The cardholder then enters the OTP on the secure ACS interface to authorise the transaction.
+
+DFCC Bank expands everyday benefits for senior citizens through DFCC Garusaru
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

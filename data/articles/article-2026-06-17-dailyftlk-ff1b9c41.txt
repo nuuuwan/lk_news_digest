@@ -1,0 +1,15 @@
+Railways website bombarded with cyberattacks hours after launch: Minister
+
+Sri Lanka Railways has made progress in restoring services following a cyberattack on its newly launched website, with Transport Minister Bimal Rathnayake commending technical teams for their rapid response to the incident.
+
+In a post on social media platform X, Rathnayake said the website had been targeted by thousands of cyberattacks within hours of its launch but remained operational due to the efforts of the technical teams involved.
+
+“Even after thousands of cyberattacks targeted our newly launched website within just a few hours of going live, this is our progress. A massive thank you and deep appreciation to the team for their hard work, vigilance and swift action to keep our systems secure and resilient,” the Minister said.
+
+A dashboard image shared by Rathnayake showed 1,530 requests, 1,523 pending requests and 1,529 registrations as of 15 June, indicating continued user activity despite the disruption.
+
+The website came under attack on Sunday, affecting the online train timetable system. Sri Lanka Railways temporarily disabled the affected section as a precaution while technical teams worked to contain the incident and restore normal operations.
+
+Railways officials said the cyberattack was limited to the timetable platform and did not affect other sections of the website.
+
+Technical teams are continuing restoration and security measures as authorities work to bring the timetable system back online.

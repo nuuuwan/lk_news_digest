@@ -1,0 +1,19 @@
+SL-Japan research collaboration leverages explainable AI to strengthen public health
+
+From left: Sherin Kularathne, Dr. Namal Rathnayake, Prof. Ruwan Jayathilaka, Prof. Iori Nakaoka, and Prof. Yukinobu Hoshino
+
+Artificial intelligence is increasingly being used to understand complex public health and social challenges, including the persistent crisis of intentional injury mortality linked to homicide and suicide. A recently published international study has now applied explainable AI to examine this issue across the Americas, while highlighting the growing contribution of Sri Lankan academics to globally relevant research.
+
+The study, titled “Explainable AI for Public Health Surveillance: Investigating the Persistent Crisis of Intentional Injury Mortality (Suicide and Homicide) in the Americas,” was published in Scientific Reports and authored by Sherin Kularathne, Dr. Namal Rathnayake, Prof. Ruwan Jayathilaka, Prof. Iori Nakaoka, and Prof. Yukinobu Hoshino.
+
+The publication is especially significant for its Sri Lankan–Japanese research collaboration. Kularathne, a former SLIIT MBA student and now a PhD candidate at Kochi University of Technology, Japan, contributed alongside Prof. Yukinobu Hoshino from the School of Data and Innovation.
+
+Dr. Namal Rathnayake is attached to the Advanced Institute for Marine Ecosystem Change in Yokohama, Japan, while Prof. Ruwan Jayathilaka represents SLIIT Business School. Prof. Iori Nakaoka is affiliated with the Faculty of Data Science, Shimonoseki City University, Japan.
+
+The research analysed data from 25 countries in the Americas from 2000 to 2019, focusing on socioeconomic and governance-related indicators such as unemployment, inflation, corruption perception, and economic growth. By using both snapshot and persistence-aware modelling, the study found that long-term structural conditions and historical patterns play a major role in shaping intentional injury mortality.
+
+Prof. Ruwan Jayathilaka noted, “Artificial intelligence should not be used only to predict outcomes. It must also help researchers and policymakers understand why those outcomes occur. Explainable AI allows us to identify the factors that influence public health crises and support more informed decision-making.”
+
+The study also used SHAP analysis to interpret how different factors influenced the predictions, offering policymakers clearer insights into how public health surveillance can become more targeted, transparent, and evidence-based.
+
+Through this publication, the research team demonstrates how international collaboration, data science, and socially responsible research can contribute to stronger public health understanding and more practical policy responses.

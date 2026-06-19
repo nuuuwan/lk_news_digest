@@ -1,0 +1,77 @@
+ABC of errors and omissions: Compilation governance issues, yes, but no loss in CB
+
+Explaining the $ 808 m ‘errors and omissions’ reported by IMF staff in BOP data
+
+There has been some public outcry on social media regarding the reported ‘errors and omissions’ figures in Sri Lanka’s Balance of Payments (BOP) compiled by the Central Bank.
+
+Quoting figures reproduced from the Central Bank database by the IMF staff in their report to the Executive Board, questions have been raised as to whether the Central Bank has incurred a loss amounting to some $ 808 million under the category of ‘errors and omissions’ in the 2025 BOP numbers [1].
+
+In fact, these numbers have been reported by the bank in the Statistical Appendix Table 11 of the Central Bank’s Annual Economic Review for 2025. There is nothing wrong with civil society questioning the meaning of the numbers published by the Central Bank, because it gives the bank an opportunity to revisit them and amend them if there have been errors, or clarify its position if the numbers are correct. That is an essential element of ‘policy and statistics governance’, which the Central Bank should always practice.
+
+The Balance of Payments is an account that records all economic transactions a nation has conducted with the rest of the world during a given period, usually a calendar year. It is a part of the general national accounting system, which estimates the total output in the economy, known as the Domestic Product and National Product.
+
+The other parts of the national accounting system are the monetary statistics compiled for calculating money supply and its determinants, and the data relating to the operations of the Government compiled under fiscal statistics.
+
+Since they represent an accounting system, all records are kept using double-entry bookkeeping principles so that the system is balanced, demonstrating its interconnectedness. Thus, in this process, when one account is debited, another account in the same system or in another system is credited, and ultimately the system is balanced. It is this balanced system that is reported by statistical authorities.
+
+In Sri Lanka’s case, these statistics are compiled by three authorities following respective international manuals to maintain data consistency and comparability. Thus, the national accounts are compiled by the Department of Census and Statistics following the guidelines issued by the UN System under the title System of National Accounts. Fiscal data are compiled by the Ministry of Finance following the Government Finance Statistics Manual issued by the IMF. Monetary and Balance of Payments data are compiled by the Central Bank following the Monetary and Financial Statistics Manual and Compilation Guide and the Balance of Payments and International Investment Position Manual, respectively, both issued by the IMF. All these manuals are consistent, compatible, and interconnected. Therefore, if one is violated, it has repercussions for the data accuracy of other sectors as well.
+
+An economic transaction is a two-way exchange in which the sacrifice made by one person is a gain to another person, and the person who gains compensates the other through an equal sacrifice.
+
+For instance, when we buy a loaf of bread, the bread seller gives away the bread; in return, we compensate the seller with its money value, thereby making it a two-way exchange. If it is one-way, such as giving a rupee to a beggar, it is not an economic transaction since the beggar does not compensate us.
+
+The Balance of Payments, in principle, should record only these two-way exchanges. However, there is an exception whereby remittances made by one person as a gift to another, or grants given by one Government to another, are recorded in the balance of payments. They are called unrequited transfers and do not come within the definition of economic transactions.
+
+Therefore, except for these unrequited transfers, all other records kept in the Balance of Payments accounts are economic transactions. They help a nation determine how much it has sacrificed for other nations and how much those nations have compensated it for such sacrifices.
+
+For instance, when a nation exports a commodity, it sacrifices that commodity because it could have consumed it and improved its welfare. For that sacrifice, the recipient nation compensates it either in valuable foreign exchange or, if immediate payment is not made, through the assumption of a debt liability. The opposite occurs when a country imports a commodity, whether through direct payment or on credit.
+
+For convenience, these transactions are categorised into merchandise goods or visible imports and exports, services or invisible receipts and payments, payments for and receipts on account of factor services in the form of wages, interest, rent, and profits, unrequited transfers in the form of remittances or gifts, borrowings and lending, direct investments in enterprises, and flows into capital markets.
+
+These transactions give rise to foreign exchange inflows into, or outflows from, the country. Merchandise exports, provision of services, receipts for factor services, inward remittances and gifts received, borrowings, and investments into enterprises or capital markets generate foreign exchange inflows. Conversely, merchandise imports, the purchase of services, payments for factor services, outward remittances and gifts, lending or repayment of loans, investments made in enterprises outside the country, and investments in foreign capital markets require payments in foreign exchange.
+
+If any payment is not made immediately, the country will accumulate debtors or creditors who will settle their obligations later through financial flows. Thus, whether payments are made immediately or later in settlement of debt obligations, the country’s banking system, comprising commercial banks and the Central Bank, will receive or pay foreign exchange.
+
+When those receipts are insufficient to make payments, the shortfall is met from the outstanding foreign exchange balances of the banking system. If receipts exceed payments, the banking system will accumulate foreign exchange reserves. Thus, the foreign currency accounts of the country’s banking system are central to the operation of the transactions involved in the Balance of Payments.
+
+Since transactions are recorded in the Balance of Payments using double-entry bookkeeping principles, it should naturally balance, and there cannot be deficits or surpluses in the system.
+
+However, for analytical purposes and to assess the country’s performance in respective areas, the Balance of Payments account is presented by breaking transactions into several sub-accounts. Accordingly, visible goods are presented in the trade account, services in the services account, incomes in the income account, remittances as unrequited transfers, capital gifts in the capital account, all these sub-accounts combined as the current account, and dealings relating to debt and investments in the financial account.
+
+The overall balance derived in this manner should tally with the banking sector account. Therefore, banking sector transactions are recorded below the line, or below the preceding accounts.
+
+Table 1 presents a hypothetical case of how some important transactions are recorded using double-entry bookkeeping principles in different accounts. The number within brackets after each transaction guides the reader to the corresponding entry in the other relevant account in the balance of payments.
+
+For instance, merchandise exports for cash payments, represented by transaction (1), are credited to the exports account and debited to the foreign exchange account of commercial banks since they help banks acquire foreign exchange assets.
+
+Any exports conducted on credit, represented by transaction (2), are also credited to the exports account but debited to the financing account because they denote a debtor position.
+
+Likewise, imports paid for in cash, represented by transaction (3), are debited to the imports account and credited to commercial bank accounts, showing the foreign exchange outflow.
+
+Imports undertaken on suppliers’ credit, represented by transaction (4), are debited to the imports account and credited to the financing account, reflecting their creditor status.
+
+By following the other transactions in the same way, the reader can identify the relevant account to which each transaction is debited or credited using double-entry bookkeeping principles. In this example, the overall balance amounts to $ 690, a surplus. Thus, it should help banks build up their foreign assets by the same amount. Accordingly, the banking sector account has a debit balance of $ 690, representing the buildup of foreign reserves by the same amount. However, if the overall balance had been a deficit, displaying a debit balance, the banking sector would lose foreign exchange by the same amount.
+
+This is a case where total debits equal total credits and the system is perfectly balanced. However, in real situations, the compiling authority may not be so fortunate because, for many reasons, the two sides may not be equal. This is because, in recording entries, the compiling authority collects information from different sources, and those sources may not be perfect. Hence, imperfections in the data may unbalance the balance of payments, creating a gap between the debit and credit sides.
+
+When this happens in normal accounting, the accountant concerned creates a suspense account and records the gap in that account so that the entries in other accounts can be analysed further and the balance in the suspense account eliminated. In the case of the Balance of Payments, compilers obtain firm data from the balance sheets of commercial banks and the Central Bank. Hence, if there is any difference, it may be due to imperfections in the data collected from other sources. Therefore, Balance of Payments compilers record the gap as ‘Errors and Omissions’ for the time being, but later re-examine the data and reduce the balance recorded as the gap.
+
+The Sixth Edition of the Balance of Payments and International Investment Position Manual, known as BPM6, has recognised this in guideline paragraphs 2.24 to 2.26 and advises compilers to analyse net errors and omissions to identify imperfections, especially if they occur continuously as either a debit item or a credit item [2]. If this analysis is not undertaken, the BOP data is not perfect, and such imperfections can lead to flawed conclusions.
+
+However, the guidelines also qualify that the presence of net errors and omissions should not be interpreted as indicating errors on the part of compilers, since such gaps may arise due to other factors, such as misreporting, under-reporting, or over-reporting. Nevertheless, it provides an opportunity for compilers, in Sri Lanka’s case the Central Bank, to clean up their data set once the data have been published with a large and persistent errors and omissions figure. If this is not done, it raises concerns relating to the Central Bank’s policy and data governance, particularly given that it is expected to set an example for others.
+
+In Sri Lanka’s case, the banking sector data is collected from the actual balance sheets of commercial banks and the Central Bank. These data tally with the monetary data compiled by the Central Bank. Hence, they can be regarded as nearly perfect data.
+
+However, the other data are collected from diverse sources. Data relating to merchandise imports and exports are collected from Customs, which records imports and exports at the time they pass through ports or airports. Therefore, they may not necessarily tally with the foreign exchange flows recorded by the banking system. For instance, some goods imported or exported may have been prepaid in the previous calendar year or may be on suppliers’ credit, with payments to be made in a subsequent financial year.
+
+Data on debt transactions are taken from the public debt database and hence broadly tally with banking sector data. Likewise, remittances are collected from banking sector reports and therefore can be treated as actual data.
+
+However, data relating to tourism, foreign direct investment, and the sale of ICT services are estimates, and errors can affect them. For these reasons, the presence of errors and omissions is natural in Balance of Payments accounts. However, compilers should undertake subsequent studies to improve the data and minimise their occurrence. This is where the accusing finger can be pointed at the Central Bank.
+
+From 2021 to 2025, Sri Lanka recorded large credit balances under errors and omissions in its Balance of Payments statistics. In 2021, the figure was $ 711 million; in 2022, $ 139 million; in 2023, $ 318 million; in 2024, $ 254 million; and in 2025, $ 808 million.
+
+Since these were all credit balances, the banking sector received foreign exchange on a net basis that was not accounted for by entries on the receipts side of the account. The receipts may have been under-recorded, payments may have been over-recorded, or a combination of both may have generated an overall credit-side gap. Therefore, there has been no loss of foreign exchange in the Central Bank or in commercial banks, as suspected by some civil society activists.
+
+However, the Central Bank has erred by not investigating these errors, which have occurred persistently as gaps on the credit side. Such an investigation is an exercise it should undertake in adherence to data governance principles, which form part of its obligation to the public to ensure the release of accurate data. Hence, there is a failure in its balance of payments compilation governance that it should correct immediately.
+
+(The writer, a former Deputy Governor of the Central Bank of Sri Lanka, can be reached at [email protected] )

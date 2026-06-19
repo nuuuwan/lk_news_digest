@@ -1,0 +1,37 @@
+One in three victims of tech-enabled abuse face real-world consequences, yet most never seek help: Kaspersky
+
+The second part of Kaspersky’s global report on tech-enabled abuse reveals that the consequences of digital harm reach well beyond the screen. 34 percent of respondents reported real-life consequences — from withdrawing socially to leaving a job or dropping out of school. Yet despite the scale of impact, more than one in five victims took no action at all, often not out of indifference, but because they simply didn’t know where to turn.
+
+When it comes to consequencesof tech-enabled abuse, psychological harm is the most widely recognized. The study by Kaspersky’s internal market research center conducted among 7,600 respondents in 19 countries reveals that a majority of respondents (79 percent) acknowledged impacts such as depression, trauma, and long-term stress, while 73 percent pointed to social consequences, including reputational damage and isolation.
+
+However, about 55 percent associated such abuse with economic harm, and only 51 percent recognized the risk of physical escalation, indicating a gap in understanding the full scope of its impact. In practice, tech-enabled abuse can lead to real-world violence, direct threats to personal safety, or the long-term health consequences of living under sustained stress and fear — outcomes that are easy to overlook when abuse begins on a screen.
+
+Among the consequences of tech-enabled abuse on digital and offline lives, 42 percent reported becoming more cautious online, 17 percent reduced their digital presence, 11 percent limited communication with friends or family, and about 10 percent ended a relationship. In more severe cases, 4pct reported losing or leaving their job, and 3 percent dropped out of school.
+
+Despite these impacts, Kaspersky found that victims rarely seek formal support. More than one in five respondents (22 percent) who experienced tech-facilitated abuse took no action at all, a figure that rises to 37 percent among Baby Boomers. This lack of action is also evident among witnesses. Among those who observed abuse happening to someone they knew, 12 percent did nothing. Importantly, this inaction is largely driven by uncertainty rather than indifference: 32 percent said they did not know how to help, and 23pct were unsure whether their involvement would be appropriate.
+
+“The data shows a troubling disconnect. People recognize the emotional pain of digital abuse but still underestimate how far its consequences can reach into careers, education, and real-world relationships. What’s equally concerning is the silence that surrounds it. When victims don’t act, it’s often not because they don’t care, but because they simply don’t know where to turn. Closing that gap through awareness, accessible tools, and clearer guidance, is exactly what we are calling for,” says Tatyana Shishkova, Lead Security Researcher, Acting Head of Research Center Americas & Europe at Kaspersky’s Global Research and Analysis Team (GReAT).
+
+“These findings reflect a broader challenge we see across technology-facilitated abuse: recognition does not always translate into action. In our recent work on cyberstalking, we found that online forms of stalking are often perceived as less criminal than offline stalking, despite their serious impact. Similarly, our tech abuse personas research shows that many victim-survivors had not sought support before reaching specialist services, often because tech abuse is difficult to recognise, normalised in digital spaces, or hard to evidence.
+
+Taken together, this points to a critical accountability gap. While governments, platforms and wider society all have important roles to play, meaningful change also depends on individuals recognising harmful behaviours, taking them seriously, and acting before abuse becomes normalised or escalates,”says Dr. Leonie Maria Tanczer, Associate Professor at UCL Computer Science and Head of the Department’s Gender and Tech Research Lab.
+
+Read the full report here: https://lp.kaspersky.com/global/tech-enabled-abuse-2. Kaspersky is a co-founder of the Coalition Against Stalkerware, an international working group against stalkerware and domestic violence that brings together private IT companies, NGOs, research institutions, and law enforcement agencies working to combat cyberstalking and help victims of online abuse.
+
+Tech-facilitated abuse can take many forms, from controlling behavior and constant monitoring to harassment, exclusion, or threats. Trust your instincts if something feels wrong.
+
+If you suspect abusive behaviour, do not ignore it. Document incidents where possible and seek guidance before the situation escalates.
+
+Use strong, unique passwords, enable two-factor authentication, and regularly review your account and privacy settings.
+
+Avoid sharing devices, accounts, or sensitive information unless necessary, and be mindful of apps or permissions that allow monitoring.
+
+Security solutions can help identify suspicious activity, including stalkerware, unauthorized access, or unknown tracking devices.
+
+Reach out to trusted individuals or professional organizations if you need help. You do not have to navigate this alone.
+
+If you witness abuse, do not assume someone else will act. Even small steps such as checking in, offering support, or guiding someone to resources can make a difference.
+
+As digital environments evolve, so do risks. Awareness is one of the most effective forms of protection.
+
+This study, conducted by Kaspersky’s internal market research center, explores the topic of technology-facilitated abuse, examining its prevalence and impact across a diverse range of regions. A total of 7,600 respondents participated in the study. The research covers multiple countries, including Austria, Brazil, China, Colombia, France, Germany, Greece, India, Indonesia, Italy, Malaysia, Mexico, Morocco, Portugal, Russia, Serbia, Spain, the UK, the USA. The study focused on understanding the experiences of individuals who are exposed to technology-facilitated abuse through digital platforms.

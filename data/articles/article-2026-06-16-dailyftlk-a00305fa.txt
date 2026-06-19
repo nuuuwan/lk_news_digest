@@ -1,0 +1,49 @@
+Debunking Economic Myths # 1: Central Bank has no role in exchange rate management
+
+There are widespread misunderstandings about key economic concepts such as economic growth, inflation, interest rates, exchange rates, taxation, Government debt, and fiscal and monetary policies.
+
+These misconceptions are propagated by various commentators through newspapers, TV talk shows, and social media. Such economic myths distort public opinion, create market uncertainty, and lead to imprudent decision-making in both the private and public sectors. They also tend to discourage savings, investment, and production activities, and can even trigger market panics.
+
+Hence, theoretically sound and evidence-based economic analyses, grounded in a positive economic approach rather than subjective and normative personal opinions, are crucial for prudent policymaking and the country’s economic progress. Against this backdrop, this series of articles seeks to demystify some of the prevalent economic misconceptions circulating today.
+
+In the wake of foreign exchange volatility in recent weeks, a serious misconception being circulated in newspapers and on social media is that maintaining exchange rate stability is no longer a function of the Central Bank of Sri Lanka (CBSL) under the new Central Bank Act (CBA) enacted in 2023. According to proponents of this view, responsibility for maintaining exchange rate stability rests with the Government.
+
+It is argued that the CBSL has no tools to intervene in the foreign exchange market other than moral suasion (e.g. informal guidance to commercial banks) under the new Act. Therefore, it is alleged that the CBSL has no freedom to conduct its own exchange rate policy in the same way that it enjoys independence in conducting monetary policy.
+
+The above assertion is entirely false. Section 7(1) of the CBA of 2023 stipulates: “Subject to the provisions of this Act, the powers, duties, and functions of the Central Bank shall be to (a) determine and implement monetary policy; (b) determine and implement exchange rate policy; (c) hold and ensure the prudent and effective management of the international reserves of Sri Lanka; (d) issue and manage the currency of Sri Lanka …”.
+
+Thus, exchange rate management remains a major function of the CBSL, contrary to the misconception outlined above. In fact, exchange rate management had been a core responsibility of the CBSL since its inception in 1950 until it was haphazardly abandoned in 2002.
+
+Under the Monetary Law Act (MLA), which originated from the recommendations of John Exter in 1949, preserving the par value of the Ceylon rupee was among the principal functions of the then Central Bank of Ceylon.
+
+The CBSL can influence the exchange rate by adjusting its Overnight Policy Rate (OPR). An increase in the OPR, for instance, raises market interest rates, reducing demand for foreign exchange for imports and thereby easing depreciation pressure on the rupee in the short term. This was reflected in the CBSL’s decision to raise the OPR by 100 basis points to 8.75% in late May 2026. A key consideration behind this move was the continued expansion of private sector credit, which was fuelling import demand and placing pressure on the external sector
+
+Arbitrary removal of the exchange rate management function in 2002
+
+Under amendments to the MLA introduced in 2002, reportedly spearheaded by then CBSL Governor A.S. Jayawardena, the crucial function of maintaining exchange rate stability was removed. Instead, the CBSL’s objectives were limited to securing (a) economic and price stability and (b) financial system stability.
+
+This significant omission in the amended MLA was rectified by the new CBA, which reintroduced the determination and implementation of exchange rate policy as a core function of the CBSL, thereby refuting the allegation that the Act contains no provisions for exchange rate management.
+
+Contrary to the misconception, the CBSL has several policy tools at its disposal to mitigate disorderly short-term fluctuations in the exchange rate while allowing it to be determined by market forces over the longer term.
+
+The CBSL can influence the exchange rate by adjusting its Overnight Policy Rate (OPR). An increase in the OPR, for instance, raises market interest rates, reducing demand for foreign exchange for imports and thereby easing depreciation pressure on the rupee in the short term.
+
+This was reflected in the CBSL’s decision to raise the OPR by 100 basis points to 8.75% in late May 2026. A key consideration behind this move was the continued expansion of private sector credit, which was fuelling import demand and placing pressure on the external sector.
+
+Another tool used by the CBSL to ease pressure in the foreign exchange market was the reduction of the export proceeds conversion period from three months to one month. Accordingly, exporters are now required to convert residual export proceeds into Sri Lankan rupees by the 10th day of the following month.
+
+The CBSL can also intervene in the foreign exchange market through the purchase and sale of foreign reserves to prevent excessive short-term exchange rate volatility. In May 2026, the CBSL recorded a net sale of $ 211.3 million to curb depreciation pressure on the rupee.
+
+It is alleged that the CBSL has no freedom to conduct its own exchange rate policy in the same way that it enjoys independence in conducting monetary policy. This assertion is entirely false. Exchange rate management remains a major function of the CBSL, contrary to the misconception outlined above. In fact, exchange rate management had been a core responsibility of the CBSL since its inception in 1950 until it was haphazardly abandoned in 2002
+
+A criticism levelled against the CBSL’s recent decision to raise the OPR is that it increases the cost of funds, thereby adversely affecting investment and GDP growth. This issue can be analysed through the well-established concept of the “Impossible Trinity” (or Mundell-Fleming Trilemma), which posits that a central bank can achieve only two of the following three policy goals simultaneously: independent monetary policy, a fixed exchange rate, and free capital flows.
+
+In a regime of exchange rate flexibility and free capital flows, a country’s central bank is compelled to sacrifice some degree of monetary policy independence. In other words, monetary policy cannot be determined in isolation from exchange rate movements and capital flows.
+
+In Sri Lanka’s case, if the CBSL were to maintain the OPR at a low level to stimulate economic activity while the rupee is depreciating, such a low-interest-rate environment would continue to boost import demand and encourage capital outflows, thereby accelerating depreciation of the currency.
+
+In an open economy, interest rates and exchange rates are directly linked through foreign trade and capital flows. Higher interest rates help mitigate currency depreciation through several channels. They make borrowing more expensive, thereby reducing import demand and narrowing the trade deficit. Interest rate increases can also attract foreign capital and discourage capital flight.
+
+A relatively tight domestic interest rate policy is therefore often necessary during periods of currency pressure to prevent a further deterioration of the Balance of Payments. Accordingly, exchange rates and interest rates are inseparable policy instruments within the broader monetary policy framework.
+
+(The author, Emeritus Professor of Economics at the Open University of Sri Lanka, is the President of the Sri Lanka Economic Association and Honorary Deputy Chairman of the Gamani Corea Foundation)
