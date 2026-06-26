@@ -1,0 +1,93 @@
+From vouchers to verification: Understanding new risk-based VAT refund system
+
+For nearly two decades, Sri Lanka’s exporters operated under one of the more distinctive features of the country’s VAT regime: the Simplified Value Added Tax (SVAT) system.
+
+The roots of the system date to the early 2000s, when a significant VAT fraud scandal severely damaged public and institutional trust in the tax administration. The Inland Revenue Department (IRD) responded not by fixing the refund system, but by largely eliminating cash refunds altogether. The consequences for exporters were severe: prolonged delays in refund processing created acute liquidity pressure on businesses whose competitiveness depends on swift cash flow.
+
+The Suspended VAT scheme that emerged in 2005 was a pragmatic and, in its original form, well-targeted response to that problem. Initially administered by the Textile Quota Board for apparel exporters and the Export Development Board for other sectors, the scheme replaced direct cash refunds with a credit voucher system. Exporters could carry out operations without upfront VAT payments, striking a workable balance between accountability and the practical needs of export-driven businesses. From 2005 to 2011, it served Sri Lanka’s export sector well — facilitating cash flow management and supporting the competitiveness of local industries in global markets.
+
+In 2011 the scheme was transferred to the IRD’s oversight and rebranded as the Simplified VAT Scheme. Eligible exporters and their domestic suppliers were designated as Registered Identified Purchasers (RIPs) or Registered Identified Suppliers (RISs), transacting without monetary settlement of VAT at all — the liability recorded, but not paid. The elegance of the arrangement was precisely its avoidance of cash: no cash changed hands, a credit voucher was used instead. At the same time, however, the scope of the scheme was expanded beyond its original mandate to cover local construction projects and Special Development Projects, a decision that would, over time, significantly complicate the system’s administration.
+
+The IMF’s Fiscal Affairs Department conducted a Technical Assistance mission to Sri Lanka in March 2024 and identified that SVAT, intended to protect a relatively small population of genuine exporters, had expanded far beyond its original scope.
+
+The IMF noted that eligibility for SVAT had been determined at a point in time and had never been reviewed in any substantive way since. Analysis of a sample of RIP and RIS taxpayers revealed that a portion no longer qualified for the scheme but continued to participate regardless.
+
+Sri Lanka’s VAT revenue amounted to only 2% of GDP in 2022, significantly below regional benchmarks. The Inland Revenue Department (IRD) attributed a substantial portion of this underperformance to the SVAT mechanism, while overlooking the fact that it was the IRD’s own administrative shortcomings, particularly the failure to adequately monitor and regulate the mechanism—that allowed it to expand beyond its intended scope.
+
+In response, policymakers moved hastily to repeal SVAT without a comprehensive understanding of the underlying issues. Given that SVAT is fundamentally a cashless system, a more prudent approach would have been to retain it with targeted reforms rather than eliminate it altogether.
+
+SVAT’s expansion beyond its original mandate — to construction projects, SDPs, and a broadening pool of domestic supply chain participants — was an administrative and policy decision, not an inherent defect in the voucher mechanism itself. However, as part of Sri Lanka’s broader commitment to fiscal reform under the IMF-supported programme, the government undertook to repeal SVAT.
+
+The replacement was a risk-based VAT refund mechanism, under which all VAT-registered persons — including exporters — now pay VAT in the ordinary course of business and claim refunds through a structured, risk-differentiated process.
+
+Rather than suspending VAT collection altogether, the new system classifies taxpayers according to defined risk criteria, set out most recently in Gazette No. 2481/17. Taxpayers assessed as low risk are intended to receive expedited refunds with minimal verification, while those classified as higher risk are subject to more rigorous pre-refund scrutiny. The underlying premise is sound: refunds should be fast for compliant taxpayers and scrutinised for those presenting a genuine risk of fraud — rather than the SVAT-era default of avoiding refund decisions altogether by removing VAT from the transaction in the first place.
+
+The risk-based refund system now being implemented is not inherently simpler or more resistant to abuse than a well-administered SVAT scheme would have been. It requires the IRD to build, at pace, a risk classification infrastructure, a refund processing unit, a post-payment audit programme, and the cultural disposition to make judgement calls on competing claims.
+
+The transition represents far more than a procedural adjustment. It requires the IRD to develop and exercise institutional capabilities that SVAT had rendered largely unnecessary for two decades — risk assessment, data-driven decision-making and the consistent, judgement-based adjudication of refund claims at scale.
+
+The Gazette No. 2481/17 of 26 March 2026 rescinds and replaces Gazette No. 2456/02 of 29 September 2025 in its entirety, effective from the same operative date of 1 October 2025. The March 2026 gazette is therefore the definitive and currently operative procedure document for the Risk Based Refund Scheme.
+
+The original gazette (No. 2456/02) was issued on the eve of SVAT’s abolition on 29 September 2025, amid the legal challenge from the three business chambers that argued its conditions were insufficient. The revised and comprehensive Gazette No. 2481/17, signed by Commissioner General of Inland Revenue on 24 March 2026 and published on 26 March 2026, sets out a full procedure document.
+
+The gazette defines four categories of eligible persons who may claim VAT refunds under the scheme and there are no changes in the categories of eligible persons when compared to previous Gazette,
+
+The Commissioner General of Inland Revenue classifies every eligible person as low-risk, medium-risk, or high-risk having regard to the following criteria, drawing on information from a period not exceeding five years immediately preceding the last day of the preceding year — with one important exception: criterion (vi), the duration of the taxpayer’s engagement in business, carries no five-year cap.
+
+Risk ratings are effective from 1 October 2025 and remain in force until reviewed or cancelled. The CGIR will review ratings at six-month intervals or at any time deemed necessary. For businesses, this means that compliance conduct from October 2025 onward is being actively tracked and will directly influence future refund timelines.
+
+The gazette places ten specific obligations on eligible persons. These are not merely administrative formalities — failure or delay in meeting any of them may result in the outright rejection of a refund claim or significant processing delays:
+
+Maintain accurate and current profile information in RAMIS, including a separate dedicated email address to facilitate refund issuance.
+
+Update bank account details in RAMIS immediately upon any change to ensure secure and timely disbursement.
+
+Provide all documentation, access, and facilities for both initial and periodic site inspections by the CGIR or authorised officials.
+
+Submit required schedules via the schedule capture screen in IRD e-services, or via CSV upload through the IRD e-service portal.
+
+Verify all uploaded schedules using the official Schedule Verification Tool available on the IRD web portal before submission.
+
+Ensure all particulars and schedules are correctly prepared, validated, and uploaded to RAMIS.
+
+Furnish all documentation requested by officials promptly to facilitate efficient verification.
+
+Maintain up-to-date contact information including full name, telephone numbers, and email addresses of authorised representatives. Any changes must be formally requested in writing, signed by a company director or authorised officer.
+
+Failure or delay in providing required information may result in outright rejection of the refund claim or delays in processing.
+
+Where multiple projects are operated, maintain distinct and separate records to clearly identify input tax credit attributable to each Strategic Development Project or Specified Project.
+
+The IMF’s March 2024 Technical Assistance Report was not merely a background reference, it was a detailed operational blueprint, produced at Sri Lanka’s request, that set out precisely how the post-SVAT refund system should be designed and administered. A careful reading of Gazette No. 2481/17 against that blueprint yields a mixed verdict. In some respects, the gazette faithfully implements the IMF’s intent. In others, it departs significantly — and the gaps are not peripheral concerns. They go to the dimensions the IMF identified as most likely to determine whether the reform succeeds or fails.
+
+On the core architecture, the three-tier low/medium/high risk classification is precisely what the IMF recommended. The six criteria for risk assessment — covering compliance history, refund claim history, prior audit findings, operational abnormalities, third-party institutional data, and business duration — closely mirror the suggested criteria in Annex II of the IMF report. The six-monthly rating review cycle, the annual eligibility review based on the preceding year’s VAT return data, and the 45-day refund commitment for low and medium risk taxpayers are all consistent with IMF good practice. These are genuine reforms and their codification in the gazette is to be commended.
+
+However, the gazette departs from the IMF blueprint in ways that carry real consequences. The IMF’s most pointed structural recommendation — that risk channel selection should be driven by automated, transparent, statistically robust algorithms rather than discretionary committee decisions — finds no expression in the gazette. The CGIR is granted broad discretion to develop and apply criteria, without publishing the scoring methodology, the weighting of factors, or the thresholds separating risk categories. Until the IRD publishes the risk scoring algorithm in full, the six-factor framework in the gazette remains a statement of intent rather than a transparent and accountable system.
+
+The IMF recommended that post-payment verification — selective audits conducted after refunds are paid — should be the primary tool for managing refund risk for low-risk taxpayers, replacing the 100 percent pre-payment cross-matching that had paralysed the old system. The gazette contains no structured post-payment audit programme. Its focus is almost entirely on pre-verification conditions and taxpayer obligations, which risk replicating the same defensive posture the reform was designed to dismantle.
+
+The IMF’s focus was on building the IRD’s internal risk management capacity — the institutional, cultural, and technical changes needed within the administration. The gazette, by contrast, imposes ten specific compliance obligations on eligible persons as preconditions for receiving refunds, and explicitly warns that failure to meet any of them may result in outright rejection of a claim. The IMF envisaged the new system as one where the IRD bears the primary burden of building competence. The gazette redistributes a significant portion of that burden on taxpayers as gatekeeping conditions for receiving their own excess input credits back. Whether this reflects a lingering institutional reluctance to trust the refund process, or simply prudent system hygiene, is a question the first full year of operations will help answer.
+
+Currently, a key issue that requires the policy makers attention is the manner in which the the refunds are processed. The IRD officers adapts  the practice of setting off current VAT refunds against outstanding tax liabilities that are neither final nor legally in default, but remain subject to ongoing dispute and appeal. This raises significant legal and administrative concerns. In many cases, taxpayers may feel compelled to accept such set-offs—not out of agreement, but due to the practical necessity of securing the timely release of refunds. Given the critical role that refund liquidity plays in sustaining business operations, particularly for exporters, delays in disbursement can create acute cash flow pressures, effectively placing taxpayers in a position where commercially expedient decisions override their legitimate rights of appeal.
+
+This approach is also difficult to reconcile with the intent of the IMF’s March 2024 Technical Assistance Report, which does not advocate the routine set-off of refunds against outstanding liabilities. Instead, the IMF emphasises restoring confidence in the VAT system through the timely payment of legitimate claims, particularly for low-risk, compliant taxpayers, noting that the administration had shifted from “how to pay VAT refunds to how not to pay VAT refunds,” and that prompt refunds are essential to the efficient functioning of a VAT. In this context, while offsetting may have a role as a revenue safeguard in limited circumstances, its broader or systematic application risks undermining the reform’s central objectives of improving liquidity, predictability, and trust in the tax system
+
+What the IMF’s March 2024 Technical Assistance Report identified as the greatest risk to this entire transition was not a technical one. It was cultural.
+
+The Inland Revenue Department has spent nearly two decades operating a system specifically designed to avoid making refund decisions. SVAT eliminated the need to adjudicate competing claims, assess risk and exercise judgement. The new system demands precisely those capabilities. The IMF warned clearly that installing new technology and issuing regulations would not be sufficient if the underlying institutional mindset did not shift.
+
+Staff must accept that some degree of risk is inherent and unavoidable when processing VAT refunds — and that facilitating timely refunds to low-risk taxpayers is as integral to sound tax administration as auditing fraudulent ones. The six-factor risk criteria now codified in Gazette No. 2481/17 provide a clear framework for exercising that judgement.
+
+Whether the IRD has meaningfully operationalised a risk-based refund system in practice, however, remains an open question. Businesses report that they are unaware of their risk ratings and are advised only to continue improving their compliance — without any clear indication of where they stand or what specific deficiencies are holding back their classification. This opacity raises a more fundamental question: is the rating genuinely system-driven, or is human intervention the determining factor? The integrity of any risk-based refund framework depends entirely on the answer to that question. The moment risk ratings become subject to individual discretion rather than objective, algorithmic criteria, the conditions for inconsistency — and potentially corruption — become difficult to exclude.
+
+This is not a theoretical concern. It is the central test of whether Sri Lanka’s transition from SVAT to a risk-based VAT refund system represents genuine reform or merely a change in procedure.
+
+The transition to a risk-based VAT refund mechanism, following the repeal of the Simplified Value Added Tax (SVAT) system, has generated cautious optimism. Several large, compliant exporters have welcomed the reform, noting that refunds for the initial months were processed considerably earlier than anticipated — providing a meaningful boost to working capital and restoring a measure of confidence in the system. These early results demonstrate what a well-functioning, risk-based approach can deliver when supported by accurate data, robust compliance records and capable administration.
+
+While the system has shown its potential, its overall effectiveness remains uneven. Structural challenges — particularly in risk classification, administrative capacity and documentation standards — continue to undermine consistency, leaving significant parts of the export sector exposed to liquidity pressures that the reform was designed to eliminate. Some businesses report that refund claims are being offset against other tax liabilities or delayed by procedural bottlenecks, outcomes that erode confidence in the very system intended to replace them.
+
+The tightening of risk classification criteria under the latest gazette notification introduces a further concern. The increased weight placed on past audit history and compliance track records means that a broader segment of taxpayers may now find themselves classified as high risk — subjecting them to pre-refund verification and extended processing times precisely when working capital relief is most needed.
+
+At a time when Sri Lanka’s export sector is navigating global demand uncertainty, rising cost pressures and persistent foreign exchange constraints, the importance of a predictable, efficient and fairly administered refund system cannot be overstated. The stakes extend well beyond administrative convenience — they reach directly export competitiveness, investor confidence and the country’s capacity to earn foreign exchange.
+
+Ultimately, the shift to a risk-based refund system must amount to more than a change in procedure. It must be what it was designed to be: a system-driven, transparent and corruption-resistant mechanism that delivers refunds on merit, not on discretion. The credibility of this reform — and the trust of the business community it seeks to serve — will be determined not by the regulations on paper, but by the integrity and consistency with which they are applied in practice.

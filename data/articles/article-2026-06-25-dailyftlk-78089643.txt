@@ -1,0 +1,61 @@
+Beneficial Ownership rules should  strengthen governance, not burden business
+
+The challenge before policymakers is clear: to ensure that beneficial ownership regulations enhance corporate transparency without undermining the ease of doing business they are intended to support
+
+Company Secretaries and business leaders call for practical reforms to Sri Lanka’s eROC system
+
+Sri Lanka’s corporate sector has long welcomed the digital transformation introduced through the Registrar of Companies’ eROC online platform. Since its implementation in 2018 and full implementation in 2020, the system has significantly improved access to corporate information, reduced paperwork, and supported the country’s efforts to improve its standing in global ease-of-doing-business rankings.
+
+However, the recent requirement to maintain Beneficial Ownership Registers has raised concerns among company secretaries, lawyers, directors, and business leaders. They believe that the goals of transparency and regulatory compliance can be achieved without creating additional administrative burdens for businesses.
+
+A major concern is that the information now required under the beneficial ownership framework is, to a large extent, already available within the existing eROC database. The current system maintains comprehensive records of directors, shareholders, and company ownership structures.
+
+Corporate governance professionals argue that creating parallel reporting mechanisms results in duplication, increased compliance costs, and additional administrative work for companies and their advisers.
+
+While transparency remains an essential objective in combating money laundering and illicit financial activities, many practitioners question whether establishing a separate beneficial ownership reporting process adds value, given that much of the same information is already available in existing statutory filings.
+
+Another concern relates to the requirement for authorised persons or professionals to certify information on beneficial ownership.
+
+Under company law, shareholders and directors remain the ultimate decision-makers within a corporate structure. Therefore, many professionals believe that responsibility for declaring beneficial ownership should rest directly with the shareholder or beneficial owner concerned, rather than with an intermediary who may have limited means of independently verifying the information provided.
+
+It is argued that the declaration process could be incorporated into existing statutory forms filed through the eROC system, thereby preserving accountability while avoiding duplication.
+
+Another requirement of the Beneficial Ownership reporting is to update share transfers in real time. Practitioners point out that the current eROC platform does not facilitate real-time reporting of share transfers.
+
+At present, changes in shareholdings are generally reflected through annual returns and supporting corporate records maintained by companies and their secretaries.
+
+If regulatory authorities require greater visibility into ownership changes, a more effective solution may be to upgrade the current system to permit real-time electronic filing of share transfers. Such a facility would provide regulators with timely information while reducing the need for additional reporting layers.
+
+Particular concerns have been expressed about applying beneficial ownership requirements to companies limited by guarantee.
+
+Unlike companies limited by shares, guarantee companies have no shareholders or share capital. Instead, they consist of members who undertake to contribute a nominal amount in the event of liquidation.
+
+These entities are typically established for non-profit purposes and include charities, professional bodies, trade associations, sports clubs, educational institutions, and non-governmental organisations.
+
+Since there is no share ownership or percentage-based control structure, many practitioners argue that the concept of beneficial ownership is not directly applicable to such organisations and that exemptions or alternative reporting frameworks should be considered.
+
+Questions have also been raised regarding publicly listed companies. These companies are already regulated by the Colombo Stock Exchange and the Securities and Exchange Commission of Sri Lanka. Transactions involving 10% or more of shares must already be reported under existing regulations.
+
+As the beneficial ownership regulations also require reporting of owners holding more than 10% of shares, many see this as another example of duplicated reporting.
+
+During recent awareness prgrams conducted by the Registrar of Companies, participants were informed that the current eROC platform has limited capacity for modification. However, many stakeholders believe that Sri Lanka possesses a wealth of internationally recognised expertise in information technology to address these issues. The objective should not be to weaken transparency requirements but to ensure that compliance mechanisms are integrated seamlessly into existing processes, thereby supporting both good governance and economic growth
+
+Users of the eROC platform have also highlighted practical difficulties encountered during routine filings.
+
+For example, correcting a simple clerical error in the new Beneficial Ownership System, such as a mistake in on digit of a director’s mobile phone number, may require the cancellation of an entire filing and re-entry of all information. This consumes valuable time and increases compliance costs.
+
+Equally concerning is the lack of accessibility to technical support. Although a help desk facility exists, many company secretaries report difficulty in obtaining timely assistance, often necessitating personal visits to the Registrar of Companies Department to resolve relatively minor issues.
+
+These challenges appear inconsistent with the principles of digital government and ease of doing business that the system was originally intended to promote.
+
+During recent awareness programs conducted by the Registrar of Companies, participants were informed that the current eROC platform has limited capacity for modification.
+
+However, many stakeholders believe that Sri Lanka possesses a wealth of internationally recognised expertise in information technology to address these issues.
+
+Business leaders, lawyers, company secretaries, accountants, and governance professionals are therefore urging policymakers to engage with the country’s leading IT specialists and industry stakeholders to develop practical solutions that balance regulatory objectives with operational efficiency.
+
+The objective should not be to weaken transparency requirements but to ensure that compliance mechanisms are integrated seamlessly into existing processes, thereby supporting both good governance and economic growth.
+
+As Sri Lanka seeks to attract investment and improve its competitiveness, reforms that simplify compliance while maintaining regulatory integrity will play a critical role in strengthening the country’s business environment.
+
+The challenge before policymakers is clear: to ensure that beneficial ownership regulations enhance corporate transparency without undermining the ease of doing business they are intended to support.

@@ -1,0 +1,33 @@
+Engine-based vehicle taxes penalise efficient hybrids: Think Tank
+
+Sri Lanka’s vehicle tax regime may be undermining the adoption of cleaner and more fuel-efficient vehicles, with a policy proposal submitted to the government calling for a fundamental shift away from engine-capacity-based taxation towards a progressive value-based system.
+
+The proposal, submitted by the Advocata Institute in response to Finance Ministry’s call for revenue enhancement measures, argued that the current framework creates market distortions, penalises modern hybrid technology and influences consumer purchasing decisions in ways that may be economically inefficient.
+
+“Engine displacement, in particular, is an imperfect proxy for engine performance, as advances in engineering allow vehicles with similar engine capacities to generate significantly different levels of power and efficiency,” JB Securities Chief Executive Officer and Advocata Institute Chairman Murtaza Jafferjee said.
+
+Sri Lanka currently imposes a combination of customs duties, excise taxes, VAT and luxury taxes on imported vehicles. For internal combustion and hybrid vehicles, excise duties are largely determined by engine size, while electric vehicles are taxed according to motor output.
+
+According to Jafferjee, the structure creates abrupt jumps in tax liabilities that can distort both importer and consumer behaviour.
+
+“Many of these taxes are applied through threshold-based structures under which crossing a specified band results in a higher rate being applied to the entire taxable value or quantity, rather than only to the incremental amount above the threshold,”
+
+“This creates discontinuities in tax liabilities and can distort consumer and importer behaviour.”
+
+The submission highlighted modern hybrid vehicles as an example of how engine-capacity-based taxation may be penalising cleaner technologies.
+
+Unlike conventional engines, Atkinson-cycle engines prioritise thermal efficiency and fuel economy, often requiring larger engine capacities despite delivering lower emissions and better fuel consumption.
+
+Jafferjee cited the Toyota RAV4 hybrid, one of the world’s best-selling sport utility vehicles, as an example of how the current system may be producing unintended outcomes. While the vehicle’s import cost is estimated at around Rs.11 million, taxes can exceed Rs.32 million because excise duties escalate sharply once engine capacity exceeds certain thresholds.
+
+Only 16 hybrid RAV4s have been registered in Sri Lanka between January 2025 and May 2026.
+
+“In this example, a tax policy designed to address concerns about customs corruption and importer under-invoicing may inadvertently produce socially undesirable outcomes,” Jafferjee said.
+
+“By heavily penalising larger engine capacities without recognising the efficiency gains of modern hybrid technology, the policy can reduce consumer welfare, discourage the adoption of cleaner and more fuel-efficient vehicles, and increase environmental costs.”
+
+The institute has proposed placing greater emphasis on ad valorem taxation based on vehicle value, while preserving progressivity through marginal tax bands rather than applying higher rates to the entire taxable amount once a threshold is crossed.
+
+“A progressive value-based system would better align tax liabilities with the value of the imported asset, improve transparency, reduce opportunities for manipulation, and minimise distortions in consumer and market behaviour,” Jafferjee said.
+
+“Importantly, the reform could be designed to be revenue-neutral while improving the efficiency, simplicity, and fairness of the vehicle taxation regime.”

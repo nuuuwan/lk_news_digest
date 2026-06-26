@@ -1,0 +1,63 @@
+Work begins on UK’s new £750m supercomputer
+
+BBC - Construction work has started on the UK's new £750m national supercomputer.
+
+Those behind the project say it will be the most powerful computer in the UK, and one of the most powerful in the world, when it is finished at the end of next year.
+
+It will be hosted in University of Edinburgh buildings on the outskirts of Penicuik and Roslin in Midlothian, near the institute where Dolly the sheep was cloned.
+
+It is a significant step forward for a project that was shelved by the UK government when Labour came into power, and then reinstated a year later.
+
+The team behind the supercomputer, and researchers who hope to use it, say they are very excited about the project.
+
+As the name would suggest, a supercomputer is a very powerful machine. The numbers for this new one are mind-boggling.
+
+Prof Mark Parsons, the director of the supercomputer project at the university, says it will be roughly the size of a medium-sized supermarket.
+
+It has thousands of processers and will be able to make a billion - billion calculations per second. That's 1,000,000,000,000,000,000.
+
+Prof Parsons said the computer would help researchers and commercial companies to "simulate the world around them".
+
+It will do that by taking huge amounts of data, and creating models of things that are not easy to do an experiment on in a laboratory.
+
+He added: "Supercomputers model things that happen too quickly, like quantum; that are too large, like an earthquake; or too long - like the expansion of the universe."
+
+The UK's previous national supercomputer - ARCHER2 - is also at the same site, and will come to the end of its life at the end of this year.
+
+It helped model aircraft engines for Rolls Royce and the materials in your mobile phone. It was also part of the global effort in the fight against Covid.
+
+The new supercomputer will be 50 times more powerful, and Prof Parsons says it will work on challenges that are "simply not possible on other computers".
+
+It will help in the development of quantum computing and engage in climate change modelling. Prof Parsons wants the UK's science community "to give us ideas of what they want to do".
+
+The supercomputer will use huge amounts of electricity, and surplus heat generated on the site will be used to warm university buildings and, potentially, nearby homes.
+
+One of the researchers hoping to use it will be Prof Joe Zuntz, a cosmologist at the University of Edinburgh.
+
+Prof Zuntz says we need more data processing ability and more computing power to understand what is being gathered on state-of-the-art telescopes.
+
+He works with the Vera C Rubin telescope in Chile, and can sometimes spend weeks sending data back and forth to supercomputers in the US.
+
+Now, he will have one on his doorstep - committed to helping UK research.
+
+Cosmologists are working on some big questions. Prof Zuntz says they have known for around 25 years that the universe is accelerating - not just getting bigger, but getting faster.
+
+"We have no idea why, and we are trying to understand why," he added.
+
+There is considerable excitement at the moment, as there are indications this is changing - as if "someone is taking their foot off the pedal".
+
+"This supercomputer will let us analyse the data that will hopefully answer that question of why."
+
+It was originally backed by the previous Conservative government - but then shelved in August 2024 after Labour swept into power in Westminster.
+
+The new government said that £1.3bn promised by the Conservatives for tech projects, including the supercomputer, was an "unfunded commitment".
+
+Prof Parsons says wryly that it wasn't the easiest conversation when he had to tell his boss the news.
+
+However, in June the following year the government said it had granted the funding for the project.
+
+Kanishka Narayan, the government's minister for online safety and AI, told the BBC: "Edinburgh and Scotland has been the home of frontier computing research for decades.
+
+"The supercomputer is going to be focussed on making a real difference - whether that is in healthcare, to make sure we are finding cures to new diseases, or in space to find new innovations.
+
+"It is a huge moment for Scotland, and a huge moment for the UK."

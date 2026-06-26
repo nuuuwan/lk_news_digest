@@ -1,0 +1,45 @@
+Easter Bomb Attack Investigations: Ethical Failures & Forensic Inadequacies Render The Process An “Eye Wash”
+
+The prolonged investigation into the tragic Easter Sunday bombings continues to raise profound concerns regarding institutional integrity, professional governance, and the technical competence of our law enforcement mechanisms. Recent developments surrounding the detention and interrogation of key suspects, specifically former State Intelligence Service (SIS) director Suresh Sallay, have brought to light two alarming dimensions: a severe breach of international medical ethics and an embarrassing stagnation in modern forensic capabilities. Together, these failures strongly suggest that the state’s investigative apparatus is engaged in a superficial exercise rather than a robust, transparent pursuit of justice.
+
+Forced Nasogastric Feeding: A Flagrant Violation of Medical Ethics and Human Rights
+
+Reports indicating that Suresh Sallay was subjected to forced nasogastric (NG) feeding after refusing food represent a dark milestone in local clinical practice. A hunger strike is an individual’s ultimate form of non-violent protest and an expression of personal autonomy. From a bioethical and human rights perspective, the practice of force-feeding a mentally competent detainee is unequivocally condemned globally:
+
+* The WMA Declaration of Tokyo (1975): Explicitly states that where a prisoner refuses nourishment and is considered by the physician to be capable of forming an unimpeded judgment, he or she shall not be fed artificially.
+
+* The WMA Declaration of Malta on Hunger Strikers (1991/2006): Reaffirms that force-feeding is ethically unacceptable. It constitutes a form of inhuman and degrading treatment. The declaration emphasizes that respect for the autonomy of the individual must remain paramount.
+
+What is deeply unsettling is the profound silence of the clinical team managing the suspect. Medical professionals attached to state institutions owe their primary ethical allegiance to the patient and international declarations, not to the dictates of law enforcement or political authorities. By remaining silent or actively participating in forced interventions, the medical personnel involved risk complicity in human rights violations. Equal parts disappointing is the relative silence of prominent human rights activists on an issue that directly challenges constitutional protections against degrading treatment.
+
+The second troubling dimension is the public stance taken by the investigating team, which claims that progress is effectively blocked because the suspect refuses to share the passwords to his computer and mobile devices. In the landscape of modern digital forensics, this explanation is entirely untenable. The suggestion that a national security investigation must stall indefinitely until a suspect voluntarily surrenders an encryption key raises immediate suspicion.
+
+State-of-the-art forensic science does not wait for a suspect’s cooperation. We know this because a clear, precedent-setting methodological template already exists for this exact investigation. Official U.S. District Court records reveal that when the U.S. government deployed the Federal Bureau of Investigation (FBI) to assist local authorities within hours of the 2019 attacks, international experts bypassed highly complex digital bottlenecks with systematic precision:
+
+* Bypassing Wiped and Damaged Hardware: When Sri Lankan authorities recovered a physically damaged Samsung J2 mobile phone from key logistics coordinator Mohamed Anwar Mohamed Riskan —which the suspect had explicitly tried to wipe by restoring factory settings —the FBI’s digital forensics team successfully bypassed the device’s localized restrictions to map out hidden Threema and Facebook contact networks.
+
+* Extraction of Geolocation Metadata: Advanced forensic extraction did not rely on the suspect’s cooperation; instead, investigators pulled embedded geolocation metadata directly from recovered photographs on the device, pinpointing the suspect’s exact location near the Batticaloa IED test site down to the hour.
+
+* Voluminous Data Mastery: The FBI successfully processed a massive one-terabyte hard drive seized from suicide bomber Ilham Ibrahim , meticulously extracting Microsoft Word author profiles, creation timelines, and document access history to map out operational security protocols.
+
+* Provider-Side Data Retrieval: Rather than waiting for manual passcode entries, global law enforcement went directly to the infrastructure source—securing comprehensive transmission records from Google, Microsoft, and Facebook to reconstruct over 540 private messages exchanged between primary accounts and map out recovery email linkings between conspirators.
+
+Given that these advanced cryptographic bypassing techniques, high-throughput brute-force utilities, and physical extraction methodologies were actively demonstrated on local evidence years ago, the current “missing password” narrative is completely hollow. The failure of domestic investigators to leverage these established international technical pipelines strongly suggests that the entire exercise has been reduced to an eye wash—designed to create the illusion of activity while actively avoiding substantive breakthroughs.
+
+The state’s handling of this high-profile case is unfolding against a backdrop of deep, documented public and international skepticism. This anxiety is not merely local hearsay; it has been systematically detailed in numerous English-language reports by independent oversight bodies.
+
+* The UN Human Rights Committee (OHCHR) Assessments: International bodies have repeatedly highlighted Sri Lanka’s long-standing culture of impunity, specifically noting that domestic mechanisms routinely stall when investigations approach high-ranking intelligence officials.
+
+* Civil Society and Legal Watchdog Reports: Local and international human rights organizations, alongside bodies like the International Commission of Jurists (ICJ), have consistently pointed out that the procedural delays, shifting investigative teams, and technical excuses presented by state actors do not reflect structural incapacity, but rather a profound deficit of political will. The “missing password” narrative serves as just the latest chapter in a thoroughly documented pattern of procedural obfuscation.
+
+The convergence of ethical failures in medical management and systemic inadequacies in forensic application completely dismantles the credibility of the domestic Easter Sunday bombing inquiry. When clinicians compromise universally accepted bioethical declarations to facilitate state coercion, and when investigators plead helplessness over a simple password block—despite having access to world-class forensic templates pioneered by the FBI—the public is left with only one logical conclusion.
+
+The current domestic trajectory does not point toward truth; it points toward an institutional cover-up. As the English philosopher John Locke famously observed regarding the abuse of state authority:
+
+“Wherever law ends, tyranny begins, if the law be transgressed to another’s harm.”
+
+By allowing medical ethics to be discarded at the cell door and letting advanced science be halted by a simple passcode, our domestic institutions have proven themselves structurally compromised and fundamentally unsuited to deliver accountability. Because the local legal and political apparatus is deeply entangled with the very intelligence structures under scrutiny, domestic mechanisms have reached a dead end.
+
+We must stop expecting a compromised system to investigate itself. The international community, the medical fraternity, and civil society must collectively abandon the illusion of domestic remedy and formally call for an independent international inquiry led by a United Nations-backed panel or an international commission of jurists. Only an external, politically insulated body equipped with unhindered global forensic capabilities can cut through this state-sponsored obfuscation and deliver genuine justice for the victims.
+
+*Dr. Murali Vallipuranathan is a visiting lecturer at the Universities of Jaffna, Peradeniya, and Colombo, a Senior Specialist attached to the Ministry of Health, and a Council Member of the Sri Lanka Medical Association. The views expressed in this article are offered in a spirit of professional and social responsibility to advance bioethical standards, human rights, and institutional accountability, and do not necessarily reflect the official positions of any affiliated institution.

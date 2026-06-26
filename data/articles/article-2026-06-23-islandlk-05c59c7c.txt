@@ -1,0 +1,57 @@
+US-Iran war, global exchange rates and Sri Lankan Rupee
+
+In the early hours of February 28, 2026, the world changed. Joint United States and Israeli airstrikes on Iran, meticulously planned, devastatingly executed, killed Supreme Leader Ali Khamenei, destroyed large swathes of Iran’s nuclear infrastructure, and triggered the most consequential military confrontation in the Middle East since the Iraq War. What followed was not merely a regional conflict. It was an economic earthquake felt from the trading floors of New York to the fuel queues of Colombo.
+
+We are going to examine how a war fought in the Persian Gulf rewrote exchange rates across the global economy, and why a small island in the Indian Ocean, still recovering from its own financial near-death experience four years ago, found itself once again staring into an economic abyss.
+
+On February 28, the strikes began. The operation was vast and transformative. Iran’s air defences were systematically destroyed. Its missile production facilities were crippled. And its political leadership was decapitated. In response, Tehran did something it had always threatened but never done: it closed the Strait of Hormuz.
+
+That decision, to block the 21-mile-wide waterway through which approximately 20% of global oil supplies flow, set off a chain of economic consequences that no government, central bank, or multilateral institution had fully stress-tested for.
+
+The numbers tell the story with stark clarity. Brent crude, which had been trading at $71.32 per barrel on February 27, jumped 8% to $77.24 in the first two trading days of the conflict. Within a week, following the declaration that the Strait was “closed,” WTI crude surged more than 35%, the biggest weekly gain since the futures contract began in 1983, ending the week at $90.90. Brent climbed 28% to $92.69 in the same period. By early March, Brent had surged past $120 per barrel. The International Energy Agency characterised it as the “largest supply disruption in the history of the global oil market.”
+
+This was not merely an oil price story. Oil is the world’s most foundational commodity, priced in US dollars, embedded in the cost of virtually every manufactured good, agricultural product, and service. When oil prices surge by 45%, as they did between February and April 2026, the consequences ripple through exchange rates with a logic that is both mechanical and unforgiving.
+
+For oil-importing emerging market currencies, the mathematics were brutal. When oil prices rise in dollars and a country pays for oil in dollars, there are two simultaneous pressures on the exchange rate. First, the country must acquire more dollars to pay for the same volume of imports, increasing demand for the greenback and putting downward pressure on the domestic currency. Second, higher oil prices widen the current account deficit, removing the trade-balance support that usually anchors currencies. This double blow struck Asian, African, and Latin American currencies with particular force. Gasoline prices rose in 106 countries in the three weeks following the start of the conflict. The European Central Bank postponed planned interest rate cuts, raised its inflation forecast, and cut its growth projections.
+
+Oil exporters told a different story. The Gulf states, Saudi Arabia, the UAE, Kuwait, saw windfall revenues at the very moment their physical infrastructure was under threat. Iran’s strikes on Saudi Arabian oil refineries and energy facilities injected volatility into the already fractured GCC calculus: higher oil revenues on one hand, higher security costs and diplomatic complexity on the other.
+
+After five weeks of fighting, Pakistan and China delivered a joint peace initiative on March 31, 2026. On April 7–8, the United States and Iran agreed to a two-week ceasefire, with Iran committing to reopen the Strait of Hormuz. Markets reacted with violent relief. The S&P 500 and Nasdaq surged 3–4% in futures markets overnight. Oil prices fell nearly 25% from their peak. Equities that had slid 8–12% from pre-conflict highs began recovering.
+
+But the ceasefire was “relief, not resolution.” The Strait of Hormuz remained at just 5% of pre-conflict shipping traffic five weeks after the ceasefire announcement. Supply chains do not unsnarl overnight. On May 7, the United States conducted further airstrikes on military sites in southern Iran and Tehran following Iranian targeting of US warships. A memorandum of understanding, intended to bring the conflict to a formal end within 60 days, was announced by mediators on June 14, with signing set for June 19. As of this writing, the conflict has not been formally resolved and nuclear negotiations are expected to begin under the framework.
+
+Goldman Sachs projected that under an adverse scenario, 10 weeks of disruption and infrastructure damage, Brent could peak at $160 per barrel before settling at $115 in the fourth quarter of 2026. Even the base case of $105–115 per barrel through mid-year represents a sustained energy shock with no parallel in the post-2008 global economy.
+
+Sri Lanka has a particular relationship with oil price shocks that is unlike almost any other country of its size. It imports 100% of its oil. Its domestic energy infrastructure is built almost entirely around petroleum products. Its foreign exchange reserves, rebuilt painstakingly from near-zero during the 2022 crisis to $6.46 billion by the time the NPP government assumed office, have since grown sluggishly reaching only $6.87 billion by early 2026, a modest gain that offered little buffer against a shock of this magnitude, remain thin relative to the country’s import requirements. And it routes the overwhelming majority of its oil imports through the Strait of Hormuz.
+
+When that strait closed in March, 2026, Sri Lanka’s exposure was immediate, structural, and arithmetically severe. The fuel import bill jumped 74.7% year-on-year to US$630 million in March, 2026, alone. Reserves fell 3.8% to approximately $6.7 billion after the country spent $1.5 billion on fuel imports in the first four months of the year. Sri Lanka’s monthly storage capacity covers only one month of consumption, making it acutely vulnerable to supply disruptions that persist beyond a few weeks.
+
+The exchange rate impact was direct and rapid. The Sri Lankan rupee, which had traded at approximately Rs. 300 to the US dollar at the start of 2026, fell sharply from early March. The currency tumbled 8.7% from its pre-conflict level within weeks. By late May 2026, commercial bank selling rates stood at approximately Rs. 334 per dollar, a 5.4% year-to-date depreciation against the greenback.
+
+Every rupee of depreciation compounds the damage: a dollar-priced barrel of oil that cost Rs. 21,300 at Rs. 300/$ costs Rs. 23,700 at Rs. 334/$, before accounting for the price rise in the barrel itself.
+
+The compounding of the exchange rate depreciation on top of the oil price surge created a fuel price crisis that has no precedent in the post-2022 recovery period. Petrol 92 at CEYPETCO stations, which stood at Rs. 293 per litre 12 weeks before, had risen to Rs. 434 per litre by late May, a 48% increase in the space of three months. The true import and distribution cost of diesel was approximately Rs. 750 per litre, requiring a government subsidy of Rs. 57 billion over a three-month period to keep pump prices at Rs. 407.
+
+The Central Bank of Sri Lanka faced the classic emerging market dilemma that oil shocks create: a currency under pressure from capital outflows and import costs, combined with inflation driven by energy prices, in a context where raising interest rates to defend the currency would choke off the economic recovery that the country had barely begun.
+
+On May 26, 2026, the CBSL made its call. It raised the overnight policy rate by 100 basis points to 8.75%, its first monetary tightening in three years, and the largest single hike since the depths of the financial crisis in March 2023. Seven out of twelve economists polled by Reuters had predicted only a 25-basis-point move. The shock was deliberate: the CBSL was signalling that price stability had been elevated over growth promotion.
+
+The consequences were immediate. The Colombo Stock Exchange fell 0.8% on the day of the announcement. Growth forecasts were cut, from 4.2% to 3.0% by at least one major equity research firm. The Central Bank Governor acknowledged that the 4–5% growth projection for 2026 was now achievable only “at the lower band.” Capital Economics observed that the rate hike “highlights the country’s vulnerability to the crisis in the Middle East, and is unlikely to be the last unless the crisis subsides soon.
+
+More encouragingly, BMI (a Fitch Solutions unit) projected that the rupee could recover to Rs. 320 per dollar by year-end, on the assumption that the Iran war concludes by June and oil prices ease. An IMF board meeting was scheduled to approve a $700 million tranche to Sri Lanka under the ongoing $2.9 billion programme, a lifeline that, if disbursed, would provide critical reserve support.
+
+What the 2026 Iran war has demonstrated, with a clarity that no academic model can replicate, is that geopolitical shocks are not symmetric in their exchange rate effects. The same event that provides a windfall for oil exporters imposes a compound penalty on oil importers, and the penalty is largest for countries whose currencies are weakest, whose reserves are thinnest, whose import dependence is highest, and whose recovery from previous crises is most recent.
+
+Sri Lanka is, in 2026, the canonical case study. It has done almost everything right since 2022: restructured its debt, rebuilt reserves, maintained an IMF programme, restored exchange rate stability, and begun recovering economically. None of that inoculated it against an exogenous shock of this magnitude. The rupee’s 8.7% fall from pre-conflict levels, the $1.5 billion fuel import bill in four months, the 100-basis-point emergency rate hike, these are the costs a small, import-dependent, oil-importing island economy pays when the world’s energy arteries are severed by war.
+
+There is a policy lesson embedded in these numbers. Sri Lanka’s energy vulnerability, its total dependence on imported fossil fuels routed through a single geopolitical chokepoint, is not merely an economic problem. It is a national security problem. The Strait of Hormuz is not a permanent fixture of reliable global trade. The 2026 war has proven, at enormous cost, that it can be closed. Any serious national energy strategy must treat that closure not as a tail risk but as a planning scenario.
+
+The hard work of diversifying energy sources, accelerating renewable capacity, building strategic petroleum reserves, and reducing the share of petroleum in the import bill is not merely desirable. Since February 28, 2026, it has become existential.
+
+(The writer, a senior Chartered Accountant and professional banker, is Professor at SLIIT, Malabe.
+
+Forest cover loss threatens rare freshwater fish in Sinharaja streams
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

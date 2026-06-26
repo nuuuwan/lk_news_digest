@@ -1,0 +1,13 @@
+Exterminators launches MACCP X mosquito intelligence platform
+
+Exterminators PLC and Sentario UK Ltd. announced the launch of the MACCP X Mosquito Intelligence Platform, an AI-powered system developed to advance disease surveillance, environmental intelligence, risk mapping, and predictive mosquito management across Sri Lanka.
+
+Developed by Exterminators PLC and Sentario UK Ltd., Founder and Managing Director Denham Marlon Ferreira, the platform builds on the MACCP 2000 (Mosquito Analysis Critical Control Points) framework introduced in 2018. MACCP X integrates artificial intelligence, predictive analytics, environmental monitoring, geographic intelligence, and disease surveillance to help identify mosquito and disease risks earlier.
+
+Covering all provinces and districts of Sri Lanka under an AI for Social Good initiative, MACCP Xmarks the first phase of an AI-enabled mosquito early warning ecosystem. It is designed to support public health authorities, organisations, communities, and mosquito management professionals with data-driven insights and predictive intelligence. Solutions include Disease surveillance and environmental monitoring; Geographic intelligence and risk mapping; Predictive analytics for earlier intervention and Decision support for targeted mosquito management.
+
+According to the World Health Organisation (WHO), mosquito-borne diseases affect more than 700 million people each year and cause over 700,000 deaths worldwide. Climate change, urbanisation, population growth, and shifting weather patterns are increasing mosquito-related disease risks, highlighting the need for more proactive prevention strategies.
+
+“Prevention delivers greater value than reaction,” said Denham Marlon Ferreira. “MACCP X combines field expertise with artificial intelligence to identify risks earlier, strengthen decision-making, and support the protection of people, communities, and the environment.”
+
+MACCP X has been developed in line with responsible AI principles, including transparency, accountability, human oversight, privacy protection, and environmental responsibility. The platform is intended to augment human expertise, not replace professional judgment. Ferreira developed MACCP X drawing on more than three decades of practical experience in pest and mosquito management. He recently completed the Oxford Artificial Intelligence Program at Saïd Business School, University of Oxford, and has also undertaken executive programs in leadership, strategy, and innovation at Oxford University, Harvard University, and the National University of Singapore (NUS).

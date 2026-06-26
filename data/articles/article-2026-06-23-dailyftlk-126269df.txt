@@ -1,0 +1,73 @@
+Financial frauds: Why crypto tax enforcement is Sri Lanka’s strongest weapon
+
+Express tax legislation offers Sri Lanka the most practical and immediate tool to curb crypto-related crime while simultaneously generating much-needed revenue. Recent fraud cases show how regulatory gaps allow illicit funds to move offshore, but clear tax rules can transform this weakness into an enforcement advantage.
+
+By mandating reporting, valuation, and source-of-funds disclosures, tax law creates a transparent audit trail that supports both compliance and financial intelligence. Global experience proves that tax enforcement is often more effective than proving complex criminal offences famously, powerful criminal networks like those in Italy were successfully prosecuted through tax evasion rather than underlying crimes.
+
+Similarly, targeted crypto taxation can shift the burden onto individuals to justify their digital wealth, enabling faster intervention and asset recovery. Countries like India demonstrate how tax frameworks can double as surveillance tools to monitor transactions in real time. For Sri Lanka, adopting clear crypto tax legislation is not just fiscal policy it is a strategic weapon against money laundering, financial crime, and revenue leakage.
+
+Sri Lanka does not need theories. It has live evidence of a dangerous regulatory black hole. In a Rs. 290 million fraud case, Colombo Chief Magistrate Asanga S. Bodaragama delivered a blunt wake-up call: criminals are funneling money abroad through cryptocurrency, exploiting loopholes in the Foreign Exchange Act with zero Central Bank oversight and no mandatory reporting. The Chief Magistrate observed that the Central Bank and CID act and launch a public awareness drive. When judges start doing lawmakers’ jobs, the crisis is no longer theoretical, it is urgent.
+
+This is not an isolated incident. Investigators probing Sri Lanka’s largest banking fraud have raised alarms that stolen funds may have vanished into crypto channels, making recovery nearly impossible. The message is clear: the absence of clear rules is being exploited at scale. Parliament must act now by enacting crypto-specific provisions in Sri Lankan Tax statutes.
+
+Sri Lanka’s Inland Revenue Act No. 24 of 2017 remains dangerously outdated, offering almost zero recognition of digital assets. Instead of clear legislation, the Inland Revenue Department relies on the premise that cryptocurrencies merely as “intangible assets” subject to Capital Gains Tax. The result is legal chaos, confusion, and widespread non-compliance.
+
+n Every single disposal is treated as capital gain (vendor is a company it is taxed at 30% and if it is an individual taxed at 15%) or trading profit dependent upon the circumstances (Individuals trading profits would be taxed up to the rate of 36%). However, in practice hardly anyone accounts for taxes as taxing crypto gains under general law while leaving definitions, valuation methodology, and reporting thresholds/ mechanism (i.e. no specific area to disclose the details in the Statement of Asset and Liabilities  of individual income tax return)  unaddressed underscores the case for bespoke legislation that would bring Sri Lanka in line with the explicit classification choices already made by the USA, UK, Australia, and India etc.
+
+n The law is completely silent on the most common crypto activities: staking rewards, airdrops, crypto-to-crypto swaps, DeFi yields, and mining income.
+
+n Even VAT rules for non-resident digital service providers (effective July 2026) are woefully inadequate. They only capture service fees charged by overseas exchanges while there is ambiguity with regard to Crypto trader’s VAT liability.
+
+This is not a minor regulatory gap. It is a fundamental failure of the law itself.
+
+The result? Honest taxpayers are left guessing. Good-faith investors risk incorrect filings, while bad actors operate in the shadows. The opacity doesn’t just undermine revenue collection; it erodes trust in the entire tax system and pushes legitimate activity underground. As cryptocurrency are not outlawed in Sri Lanka holding is not illegal.
+
+Sri Lanka urgently needs clear, comprehensive, and modern legislation for digital assets, before this dangerous silence does even more damage.
+
+India offers the clearest roadmap, and the sharpest warning. In 2022, it introduced a 30% flat tax on Virtual Digital Asset (VDA) gains, a 1% Tax Deducted at Source (TDS) on transactions, and a broad legal definition covering cryptocurrencies, NFTs, and tokens. A dedicated disclosure schedule forces transparency.
+
+The TDS mechanism is powerful: it compels exchanges to report every qualifying transaction directly to tax authorities, creating a real-time paper trail for law enforcement. This is taxation as intelligence, exactly what Sri Lanka needs to track cross-border flows and integrate with AML/CFT frameworks.
+
+History proves that the most effective weapon against organised crime is often not guns, but account books. Al Capone, America’s notorious gangster, was not brought down by murder charges but by tax evasion convictions in 1931. Italian authorities refined this approach against the Mafia, using tax laws and lifestyle audits to seize assets when declared income didn’t match lavish living.
+
+Today, Italian mafia networks have moved into crypto for laundering. Authorities have seized Bitcoin and Ethereum holdings and dismantled VAT fraud rings worth hundreds of millions of euros through tax enforcement.
+
+Sri Lanka stands at the same crossroads. Without clear crypto tax rules, digital wallets become perfect veils for illicit wealth, drug proceeds, corruption money, or fraud loot. By introducing mandatory reporting, authorities shift the burden of proof: individuals must explain the source of funds used to buy crypto or face swift tax evasion consequences and asset freezes. This is faster and more effective than chasing complex underlying crimes.
+
+A source-of-funds declaration on acquisition alone could have flagged suspicious conversions in the Rs. 290 million case before funds disappeared into blockchain anonymity.
+
+Policymakers should introduce targeted amendments to the Inland Revenue Act and indirect tax statutes that deliver clarity, control, and capacity:
+
+1. Broad statutory definition: Insert a technology-neutral definition of “Virtual Digital Asset” covering cryptocurrencies, tokens, NFTs, and stablecoins, flexible enough for future innovations.
+
+2. Clear taxable events: Explicitly list disposals for fiat, crypto-to-crypto exchanges, payments for goods/services, staking/mining rewards, and airdrops as taxable.
+
+3. Fair market value rule: Mandate valuation at LKR fair market value on the transaction date to remove ambiguity and encourage honest disclosure.
+
+4. Source-of-funds obligation: Require declaration of fund origins when acquiring crypto, a direct tool against money laundering.
+
+5. Exchange reporting mandate: Empower the IRD to demand transaction data from both local and offshore exchanges involving Sri Lankan users.
+
+These changes align with global best practices from the UK, Australia, and India while giving the IRD tools to collaborate with the Central Bank and Financial Intelligence Unit.
+
+Sri Lanka remains under an IMF-supported program that requires stronger revenue mobilisation, including raising Government revenue toward 15% of GDP and maintaining a primary surplus. The 2026 budget reflects this shift, with a strong focus on digitalisation, tax administration reform, and expanding the tax base.
+
+At the same time, Sri Lanka’s cryptocurrency ecosystem is growing, with hundreds of thousands of users operating largely in an informal, offshore-driven market. Due to the absence of clear regulatory and tax frameworks, much of this activity remains outside the formal tax system.
+
+This represents a potential taxable base that is currently under-captured. Continued delays in establishing clear crypto regulations and reporting mechanisms risk ongoing revenue leakage, weak compliance, and regulatory arbitrage.
+
+India offers the clearest roadmap, and the sharpest warning. In 2022, it introduced a 30% flat tax on Virtual Digital Asset (VDA) gains, a 1% Tax Deducted at Source (TDS) on transactions, and a broad legal definition covering cryptocurrencies, NFTs, and tokens. A dedicated disclosure schedule forces transparency
+
+Globally, over 75 countries are implementing the OECD’s Crypto Asset Reporting Framework (CARF), which enables automatic exchange of user and transaction data across borders. Sri Lanka must join this network or risk becoming a visible gap in the global net, an attractive jurisdiction for those seeking invisibility.
+
+Cryptocurrency is decentralised by design. Accountability cannot be. The recent fraud cases, judicial pressure, and IMF commitments have created the perfect political moment for action.
+
+Enacting these crypto-specific provisions is not capitulation to an industry the Central Bank has cautioned about. It is the State asserting sovereign control over a borderless technology that has operated unchecked for too long. It protects citizens, deters criminals, encourages responsible innovation, and attracts legitimate investment in a regulated environment.
+
+Taxation is the most immediate and practical “soft regulation” available. A balanced approach, prioritising real-time transaction reporting and moderate integrated gains tax over punitive flat rates, will deliver both financial intelligence and sustainable revenue.
+
+Sri Lanka cannot afford to wait for the next major fraud to force its hand. Billions in rupees are already siphoned out of the economy through unregulated channels. The digital fence must be built, and Parliament is the only institution that can build it.
+
+The question is no longer whether to act, but whether we act before the next scandal proves the point beyond doubt.
+
+(The author, Attorney-at-Law (LLB), FCMA(UK), CGMA, FCMA, was awarded Tax Practice Leader of the Year 2024 (ASPAC) by International Tax Review (ITR) and was a top-four finalist for Tax Litigation and Disputes Practice Leader of the Year (ASPAC).

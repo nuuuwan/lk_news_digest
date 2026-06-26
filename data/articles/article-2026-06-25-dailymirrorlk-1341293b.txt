@@ -1,0 +1,17 @@
+Seylan Bank enables Google Pay for Mastercard cardholders in  Sri Lanka
+
+Seylan Bank, in collaboration with Google and Mastercard, has launched Google Pay for its Mastercard debit and credit cardholders, marking another milestone in Sri Lanka’s shift towards cashless, mobile first payments.
+
+With this launch, the Seylan Bank customers can add their Mastercard cards to Google wallet and make fast, secure and contactless Tap & Go payments through their NFC-enabled Android smartphones. Payments can be made both locally and internationally at all Mastercard acceptance locations, eliminating the need to carry a physical card.
+
+The introduction of Google Pay underscores Seylan Bank’s commitment to advancing secure digital payments and enhancing everyday convenience for customers through globally accepted payment solutions.
+
+Google Pay leverages advanced tokenisation technology to protect every transaction. Instead of the card details, transactions are completed using unique digital tokens, ensuring sensitive information is never exposed to merchants or stored on external devices.
+
+Further, each transaction is securely authenticated through a one-time password or bank verification, delivering a seamless payment experience that combines global security standards with ease of use. The solution supports a wide range of use cases, including retail purchases, dining, commuting and online payments.
+
+This launch builds on the momentum of Google Pay’s expansion in Sri Lanka and reinforces Seylan Bank’s role in widening access to trusted digital payment solutions. Mastercard continues to collaborate with leading financial institutions and technology partners to accelerate digital adoption and enable innovative payment experiences across the country.
+
+Seylan Bank Head of Cards Ruchith Liyanage said, “At Seylan Bank, we remain focused on enhancing our digital offerings to meet the evolving customer expectations. The introduction of Google Pay for our Mastercard cardholders reinforces our commitment to convenience, security and innovation in everyday banking.”
+
+Mastercard Country Manager Sri Lanka Mahesha Amarasuriya said, “This collaboration reinforces Mastercard’s commitment to advancing secure, innovative and convenient payment solutions in Sri Lanka. By enabling Google Pay, we are empowering the Seylan Bank customers with a seamless, globally trusted digital payment experience that fits naturally into their everyday lives.”
