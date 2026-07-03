@@ -1,0 +1,25 @@
+Agrithmics powers Goomera Estate digital transformation as landmark first for country’s State-Owned plantations
+
+Tea leaf weights are automatically transmitted via Bluetooth and recorded in real time on the estate management platform
+
+In a pioneering step for Sri Lanka’s plantation sector, Agrithmics Pvt Ltd has introduced a fully integrated digital estate management system at Goomera Estate, making it the first government-owned tea estate in Sri Lanka to embed digital solutions.
+
+The integration demonstrates the government’s wider digitalization drive and sets a precedent for modernizing one of the country’s most labour-intensive sectors.  It also directly aligns with the national vision to transition Sri Lanka towards a knowledge-based digital economy.
+
+The initiative is the first of its kind under a state-owned plantation entity and by year-end, the State Plantation Corporation plans to expand the rollout for all its estates, emphasising a meaningful shift to modernization and sustainable growth.
+
+Previously reliant on manual record-keeping, estate operations faced chronic inefficiencies, limited visibility and vulnerability to inaccuracies in wage and attendance records, the Agrigen platform addresses these directly.
+
+Workers receive accurate wages on time, with automated calculations removing the risk of manual errors or manipulation. Field officers can record plucking data and attendance in real time using mobile apps and digital scales, eliminating paper-based processes and reducing administrative burden.
+
+In addition, estate and top management gain live, GPS-enabled dashboards that provide visibility across field and factory operations enabling faster, more informed decisions. Clerical staff also benefit from digitised workflows that reduce duplication and improve accountability at every level.
+
+Developed in Sri Lanka and already deployed internationally, the Agrithmics solution combines mobile and back-end platforms to capture daily estate activities. The mobile-first platform, built for plantation conditions, includes offline capabilities for low-connectivity areas and facial recognition-based verification providing accuracy even where network coverage is limited. Field officers are equipped with mobile apps and digital scales to record plucking data and attendance in real time
+
+The system automates wage calculations, digitises field and factory processes, and delivers operational visibility guaranteeing transparency and fair pay for the thousands of workers who form the backbone of the industry.
+
+Prashanth Premkumar, CEO, Agrithmics (Pvt) Ltd, stated, “Digital transformation in the plantation sector is long overdue. Introducing our latest technology at Goomera Estate, we are modernizing operations and providing fairness, efficiency, and accountability for thousands of workers who form the backbone of the industry. We are also humbled to support the Government’s digitalization drive and contribute towards the modernization of Sri Lanka’s plantation sector.
+
+Dr. Sisira Ranatunga, Chairman, State Plantation Corporation added, “The digital transformation is a turning point for Sri Lanka’s state-owned plantation sector and a proud moment for the State Plantation Corporation to lead such a pioneering step toward sustainable growth and national progress. Embedding technology into the heart of the operations, we are modernizing one of the country’s most labour-intensive industries and offering fairness, transparency, and accountability for thousands of workers. The initiative demonstrates our commitment to align with the government’s vision of a knowledge‑based digital economy. By year‑end we aim to extend this innovation for all our estates.”
+
+Agrithmics Pvt. Ltd is a Sri Lankan technology company specializing in digital transformation for the agriculture and industrial sectors, with a strong focus on process automation and fintech solutions for traditional industries including tea plantations.

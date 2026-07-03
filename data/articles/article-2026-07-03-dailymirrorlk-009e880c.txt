@@ -1,0 +1,37 @@
+IFRS 17 to bring transparency to life insurance sector, push industry toward protection-led growth
+
+New accounting standard will replace opaque profit recognition with margin-based transparency, with full implementation now expected from 3Q/4Q 2026
+
+Industry leaders say long-duration products will require insurers to access long-term investment assets beyond the current 8-10 year horizon
+
+Panelists see limited scope for life insurance consolidation, though general insurance segment may see some M&A activity
+
+Sri Lanka’s life insurance industry is bracing for a fundamental shift in how its performance is measured and reported, as the country prepares to adopt IFRS 17, the new global accounting standard for insurance contracts.
+
+Industry leaders speaking at a CT Smith Securities investor forum titled ‘Navigating Growth and Value in Life Insurance,’ held on June 25 at Hilton Colombo Residences said, the standard would replace decades of opaque profit recognition with a model centred on transparency, margin visibility and long-term value creation.
+
+The panel, moderated by Kugaprasath Thilagaratnam, Vice President – Research at CT Smith Securities, brought together Ifthikar Ahmed, Managing Director of Softlogic Life, Senath Jayatilake, CEO of Union Assurance, and Lasitha Wimalaratne, Executive Director/CEO of HNB Assurance.
+
+Under the current SLFRS 4 framework, insurers report Gross Written Premium (GWP) as their top line, a figure that bears little relation to the actual value created by a policy. Jayatilake explained that profitability under the existing system is essentially derived from excess cash over reserve liabilities, a method that can penalise companies for growing too fast. “A company that grows at 20-25 percent may have a flat bottom line growth,” he said, noting that this creates a “new business strain” that makes it difficult for analysts, customers and investors to properly assess an insurer’s stability.
+
+IFRS 17 replaces GWP with a concept called Insurance Service Revenue, which is driven not just by the premium written but by the margin embedded in that premium. The future profitability of each policy is captured in what is known as the Contractual Service Margin (CSM), a reserve Jayatilake described as a ‘vault’ of future profits that is gradually released into the profit and loss account as policies are serviced.
+
+“As an investor, you are able to look at the size of each insurance company’s vault. What is the future profits release capability it has within it right now?” he said, adding that the size of the vault alone is not sufficient if expense ratios and policy lapses erode the value within it.
+
+Ahmed offered a simpler analogy, comparing the CSM to net interest margin in banking. “If you have more protection-based product or more high-margin protection products, your CSM will be higher. If you have more investment-based products, I think your CSM will tend to be lower,” he said. He noted that insurers transitioning to IFRS 17 will need to make certain accounting choices early on that cannot easily be reversed, making the transition a consequential strategic decision rather than a purely technical one.
+
+Wimalaratne had said at the forum that the industry was targeting a January 2026 go-live date for IFRS 17, while flagging that timelines could shift. “We are supposed to go live from ‘26 January. We never know, there are various context, but within next couple of years, we will go live. And then, it will be completely different game going forward,” he said.
+
+That caution has since proven warranted. Insurance companies sought an extension to the original implementation timeline, and full adoption of IFRS 17 has now been pushed back, with financial reporting under the new standard set to be incorporated from the third and fourth quarters of 2026 rather than from the start of the year.
+
+All three panelists agreed that IFRS 17 will accelerate a structural shift already underway in the industry: a move away from savings-oriented policies toward protection-led products. Because the standard recognises only the protection premium as revenue, insurers will have little choice but to rebalance their portfolios. “You don’t have a choice but to push more and more protection business in this market, otherwise, as companies, we can’t survive,” Wimalaratne said, predicting that the protection element of the industry’s business will “definitely increase in the next 5 to 10 year timeframe.”
+
+Ahmed said Softlogic Life had already built its strategy around this shift, with at least half of every policy sold tied to a protection rider such as health or critical illness cover. The company recently launched “Health for Life,” a rider that continues coverage for policyholders indefinitely rather than lapsing at age 70 or 80. “We have 15 years plus health insurance data. We are confident about that data,” Ahmed said, describing the move as a deliberate bet enabled by the company’s claims history.
+
+The panel linked the shift in product strategy directly to a structural problem on the investment side. Jayatilake noted that as life expectancy rises, retirement products must now be designed to support policyholders for 25 years or more after they stop working, given that people entering the workforce at 18 may live to 90. He said this requires insurers to rethink not just product design but also how premiums are invested. “Today, 60 percent of life insurance industry proceeds are invested in fixed income looking at 8 to 10 year horizons. We need instruments that extend beyond 10 years and expand the admissible asset base to enable growth of funds and product evolution,” he said.
+
+He added that rising customer financial literacy was also pushing insurers to compete more directly with market returns. “If I am investing in insurance, I should be able to afford a premium that should be much greater than what a bank or a risk-free rate offers,” he said, arguing that insurers need a broader set of admissible long-term asset classes to fund that proposition.
+
+Both Jayatilake and Wimalaratne said the added transparency from IFRS 17 should make Sri Lankan insurers more comparable to regional peers and more attractive to foreign investors. Wimalaratne said the current GWP-based competition among insurers for market share would likely give way to new benchmarks, possibly based on CSM or assets, once the standard takes effect. “I think from even overseas investors’ perspective, it will add a lot of transparency and then they know what they are doing, what they are investing in. So we can attract more and more foreign investment also into the industry,” he said.
+
+On the question of consolidation, Jayatilake said changes to solvency standards accompanying the IFRS 17 transition could trigger some consolidation, though he characterised the priority for most companies as harnessing the existing under-penetration of the market rather than aggressive M&A. Wimalaratne said he saw limited scope for consolidation among the 14 life insurers, all of which he said were performing well, though he flagged potential consolidation among general insurance players given the more challenging operating environment in that segment.

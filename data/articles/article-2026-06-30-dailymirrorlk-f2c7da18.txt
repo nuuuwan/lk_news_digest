@@ -1,0 +1,17 @@
+WhatsApp now lets you reserve usernames
+
+Tech Crunch - WhatsApp announced a much-awaited feature: usernames, which will allow users to share their profiles without disclosing their phone number. However, WhatsApp will still require a phone number to create an account on the chat app.
+
+WhatsApp has been working on adding usernames for a few years, and it is finally ready to detail how they work.
+
+Starting today, the Meta-owned company will let users reserve usernames, which will officially roll out later this year. People can choose any username with 3 to 35 characters. The company said it’s reserving usernames for top celebrities, VIPs, and organizations. Besides that, there aren’t any restrictions on choosing a username, as long as it doesn’t violate the company’s policies. Meta said that if businesses and creators want to maintain uniformity, they can claim their Facebook or Instagram username as their WhatsApp username.
+
+Users will receive a notification once the username reservation option is available in their country. After that, they can go to Settings > Account > Username to choose their username. WhatsApp will also provide an option for users to set a username key that others will need to know to message them.
+
+Meta noted that the reason for the reservation process is to avoid duplication for its user base of over 3 billion. The company said that usernames will not be searchable on the app, and only people who know your exact username will be able to contact you. Plus, you can turn off the feature or change your username at any point.
+
+“When you meet someone new, whether it’s a classmate, a neighbour, or someone you met at an event, sharing your phone number can feel like a big step. Your phone number is personal, and it’s tied to so many other parts of your life,” Alice Newton-Rex, vice president and head of Product at WhatsApp, said in a briefing. “So usernames are designed to give you control of who gets to see your phone number in the first place.”
+
+At the moment, users will need to share their username verbally or by text. There is no option to scan a QR code to contact a person without knowing their phone number.
+
+Rival messaging apps, including Telegram, Signal, and Wire, have had usernames for a few years now, allowing people to keep their phone numbers private. WhatsApp, which changed its leadership in the past week, is finally rolling out the feature.

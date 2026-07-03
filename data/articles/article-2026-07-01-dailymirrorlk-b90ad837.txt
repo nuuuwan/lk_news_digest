@@ -1,0 +1,27 @@
+SL to position itself as a regional hub for artificial intelligence infrastructure
+
+Sri Lanka took a bold step on the international stage this week by positioning itself as a regional hub for artificial intelligence infrastructure. Government officials expressed confidence that the country’s strategic location and digital connectivity can help it capture a share of Asia’s rapidly expanding AI economy.
+
+According to Deputy Minister of Digital Economy Eranga Weeraratne, the island nation aims to move beyond being a user of foreign technology and become a platform for AI investment, advanced computing and regional digital cooperation.
+
+“Sri Lanka intends to be a producer, not only a consumer,” Weeraratne said while addressing the GSMA Roundtable on the future of the AI economy at MWC Shanghai 2026.
+
+The government’s strategy centres on Sri Lanka’s location along major submarine cable routes linking Europe, the Middle East and Asia, which officials say could support future investments in data centres, cloud services and digital infrastructure.
+
+Sri Lanka is connected to several international cable systems, including the SEA-ME-WE and India Asia Xpress networks, and is home to South Asia’s first submarine cable depot, a facility that supports the maintenance and repair of undersea communication networks carrying international internet traffic.
+
+The push reflects a growing belief among policymakers that future economic competitiveness will depend not only on physical trade routes but also on digital infrastructure, computing capacity and data storage. Countries that host data centres and cloud infrastructure stand to benefit from foreign investment, high-skilled employment and growing demand for digital services.
+
+Countries across Asia are competing to attract investment linked to the growing demand for data centres and computing capacity needed to support AI technologies.
+
+However, Sri Lanka’s ambitions face significant hurdles. Building AI infrastructure requires reliable electricity, robust connectivity, cybersecurity capabilities and substantial capital. While the government has pledged to generate 70 percent of the country’s electricity from renewable sources by 2030, the transition remains ongoing.
+
+The government’s proposal is also closely tied to its renewable energy ambitions. AI data centres are among the world’s most power-intensive facilities, prompting global technology firms to increasingly favour locations with access to cleaner and more reliable energy sources. Sri Lanka has also pledged to achieve carbon-neutral electricity generation by 2050.
+
+Sri Lanka is competing with established technology hubs such as Singapore, Malaysia and India, which already host major hyper scale data centres and have attracted significant technology investments.
+
+Weeraratne said Sri Lanka is not seeking to compete directly with larger economies but to position itself as a trusted platform for regional cooperation in areas such as sovereign AI, local-language models, cybersecurity and digital governance.
+
+Analysts note that geographical advantages alone may not be enough to attract large-scale AI investments. Beyond connectivity, investors typically evaluate electricity costs, regulatory certainty, data protection frameworks, tax incentives and the availability of skilled talent before committing to data centre or advanced computing projects.
+
+Sri Lanka ability to convert its strategic location into a meaningful role in the AI economy will largely depend on its capability to attract capital and build the supporting infrastructure needed by global technology firms.
