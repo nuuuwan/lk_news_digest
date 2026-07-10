@@ -1,0 +1,25 @@
+AI-generated women on Facebook used to lure Sri Lankan users into scams, adult chats
+
+Colombo, July 8 (Daily Mirror) - A network of AI-generated female profiles on Facebook is being used to create fake identities, attract users through emotional and sexualised content, and redirect them towards adult-chat services, gambling platforms, cryptocurrency promotions and other questionable online destinations, according to a study by researcher Dr. Sanjana Hattotuwa.
+
+The report, titled “AI profiles of women on Facebook: Identity deception, sexualised engagement, and platform accountability”, claims that none of the 10 Facebook accounts examined represented real women, with the profiles using AI-generated images and fabricated personal identities to engage users.
+
+The study analysed 1,706 posts published between February 2025 and June 2026, which generated 890,632 engagements, including reactions, comments and shares.
+
+According to the report, five of the accounts showed strong signs of coordination, with 113 clusters of identical captions and 676 near-duplicate posts shared across different profiles. Several posts were reportedly circulated between accounts within minutes, suggesting the use of common scripts or coordinated management.
+
+The report said the profiles commonly used Sinhala-language content portraying fictional women as lonely, divorced, widowed, financially vulnerable or seeking companionship, with the aim of encouraging users to move conversations from public comments to private messaging platforms such as WhatsApp.
+
+It noted that the AI-generated images were often designed around a specific style, featuring idealised female appearances, exaggerated body features and sexualised imagery while remaining within the limits of Facebook’s content moderation rules.
+
+The researcher also found that some profiles directed users through links placed in biographies, first comments and shortlinks, which allegedly led to adult-chat platforms, gambling registrations, cryptocurrency applications and advertising-based websites.
+
+The report said some personas changed identities when users moved away from Facebook, with one profile name reportedly changing to another on linked platforms, making it difficult for users to identify whether they were interacting with a real person or a commercial funnel.
+
+However, the study found no strong evidence that the network was being used for political influence operations. Instead, it described the activity primarily as coordinated commercial inauthentic behaviour.
+
+The researcher warned that the same infrastructure could potentially be exploited for other forms of online manipulation, including financial scams, as synthetic identities can build audiences without being tied to real individuals.
+
+The report also raised concerns over Facebook’s transparency and accountability mechanisms, stating that users often have no clear way of identifying whether a profile represents a real person, an AI-generated persona, or a monetised operation.
+
+It called for stronger disclosure of AI-generated content, improved profile transparency tools and greater scrutiny of off-platform links used to redirect users.

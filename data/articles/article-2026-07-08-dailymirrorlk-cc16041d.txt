@@ -1,0 +1,21 @@
+Online marketplaces require clarity on VAT calculations
+
+A separate issue emerging from Sri Lanka’s proposed digital VAT regime is how tax authorities will determine the value on which VAT should be charged when transactions are facilitated through online platforms.
+
+In an analysis of the proposed framework, EY said clearer guidance is needed on whether VAT should apply to the total amount paid by a customer or only to the commission earned by the platform facilitating the transaction.
+
+The issue is particularly relevant for online marketplaces and intermediary platforms involved in accommodation bookings, transport services, digital advertising and professional services, where the platform often acts as a facilitator rather than the provider of the underlying service.
+
+Under such business models, the platform typically retains only a commission or facilitation fee, while the balance of the payment belongs to the underlying service provider.
+
+EY noted that previous guidance issued following the 2025 VAT amendments had recognised the commercial reality that digital platforms frequently act as intermediaries rather than suppliers of the underlying service.
+
+While that guidance may no longer have direct legal application under the proposed framework, the tax specialists argued that the underlying principle remains relevant as policymakers finalise the new regime.
+
+“Taxing a digital platform on the full value of a transaction when it only earns a commission raises questions of fairness and proportionality.
+
+“The platform facilitates the transaction but is not necessarily the supplier of the underlying service.”
+
+According to the firm, maintaining a consistent approach to determining the value of supply would provide greater clarity to taxpayers, reduce interpretational disputes and better align the operation of the tax regime with the commercial realities of platform-based businesses.
+
+With digital marketplaces playing an increasingly important role in global commerce, the treatment of transaction values is expected to be one of the most closely watched technical aspects of Sri Lanka’s new digital VAT framework.

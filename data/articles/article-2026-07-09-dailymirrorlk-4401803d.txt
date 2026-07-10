@@ -1,0 +1,29 @@
+Sri Lanka’s AI adoption shows technical depth despite lagging global rankings
+
+Sri Lanka ranks 83rd out of 121 countries in overall AI usage in latest Anthropic Economic Index
+
+Technical usage outpaces regional peers in computer science theory and software development
+
+Sri Lanka’s engagement with artificial intelligence (AI) presents a complex picture, marked by lower-tier positions in several global readiness indices but highlighted by a highly technical and learning-oriented user base.
+
+According to the Anthropic Economic Index released in May 2026, Sri Lanka ranks 83rd out of 121 countries in overall AI usage. When adjusted for population, the country’s usage index stands at 0.56x, indicating that adoption is about half of the expected volume. This contrasts sharply with nations such as Singapore, where the usage operates at 10 times the Sri Lankan level.
+
+However, a deeper analysis of the data reveals an intriguing trend regarding the specific applications of AI within the country. The most distinctive areas where the Sri Lankan usage exceeds the global average are heavily concentrated in technical and educational fields.
+
+heory occur at 2.2 times the global average, while web front-end development and AI app building are also exceptionally prominent. Almost 30 percent of all AI activities in the country are connected to computer and mathematical work, with a further 15 percent dedicated to education and homework.
+
+This concentration suggests that Sri Lankans are actively engaging in learning and software creation rather than merely deploying AI for basic administrative tasks.
+
+When aggregating the data on hands-on software development topics, Sri Lanka’s share surpasses that of several larger emerging markets, including India, Kenya, Egypt, Nigeria, Brazil and Vietnam, effectively doubling the global average in this niche. Furthermore, this specialised user base is expanding rapidly, with the usage increasing by 17 percent over a single month.
+
+Despite this deep technical engagement among the early adopters, Sri Lanka continues to struggle in broader macroeconomic AI assessments. The 2024 Tortoise Media Global AI Index placed Sri Lanka 82nd out of 83 countries, pointing to substantial gaps in infrastructure, research and development and overall investment.
+
+Similarly, the International Monetary Fund’s Artificial Intelligence Preparedness Index ranked the nation 92nd out of 174 countries. From a public sector perspective, the Oxford Insights Government AI Readiness Index ranked Sri Lanka 85th out of 188 countries, reflecting the challenges in implementing AI within the government services.
+
+These broader indices emphasise that while the country possesses a capable and highly skilled segment of the workforce, the diffusion of AI technologies across the small and medium enterprises and public sector remains limited.
+
+The challenge for the policymakers is not necessarily a lack of awareness or localised talent but rather the depth and scale of enterprise adoption. In response to these structural gaps, the government previously proposed building a National AI Centre, backed by an allocation of Rs.1.5 billion in the national budget.
+
+The divergence between the Anthropic usage data and global index rankings highlights a critical transition phase for the economy. The localised spike in computer science and mathematical applications indicates a strong foundational talent pool ready to leverage advanced technologies.
+
+Analysts emphasise, however, that transforming this grassroots technical proficiency into an enhanced global standing and a broader economic impact will require substantial investments in institutional infrastructure.

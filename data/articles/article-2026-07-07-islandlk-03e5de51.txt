@@ -1,0 +1,57 @@
+The new doctor–patient relationship in the age of AI
+
+Picture a government hospital outpatient department on any weekday morning. Rows of plastic chairs fill before five o’clock. A mother holds a feverish infant against her chest, a folder of lab reports on her lap. An elderly man has travelled two-six hours by bus from his village. When she finally reaches the doctor, perhaps after three hours of waiting, the consultation lasts 2-4 minutes. A prescription is written in a hand that only the pharmacist has any hope of deciphering.
+
+This is not a story of negligent unempathetic doctors. Most of those doctors are exhausted, processing 60 or 70 patients before lunch, doing the rough arithmetic of a system stretched well beyond its seams. Some patients jokingly compare busy clinics to a skilled coconut plucker moving rapidly from one tree to the next—not because doctors lack compassion, but because the system often leaves them little time to pause. In the private sector, the metaphor shifts — but only in its economics, not its pace. There, the imperative is to climb as many coconut trees as possible. What changes is who bears the cost of the hurry.
+
+Sri Lanka’s public health record is, by any regional measure, something to be proud of. Free healthcare at the point of delivery, a maternal/infant mortality rate that rivals middle-income countries far wealthier than us, these are not accidents. They are the product of generations of political will, professional dedication, and the idea that good health is a right, not a privilege.
+
+The economic crisis of recent years sent a wave of trained doctors and nurses toward the Gulf, Australia, Canada and the United Kingdom. Specialists, who took a decade to train, departed within months. Meanwhile, the cost of private consultations has climbed beyond the reach of ordinary families, pushing them back toward an overstretched public system, or toward no professional care at all.
+
+Something else has changed, and it has changed faster than the system expected. The patient sitting across from the doctor today is not the patient of 10 years ago. She may have spent the previous evening consulting reputable online health resources or AI assistants, such as ChatGPT, to better understand her symptoms. He may have photographed his blood test results and run them through an AI tool that flagged an anomaly before the doctor mentioned it. They arrive with questions, about what additional tests are necessary for further diagnosis, about whether a test is strictly necessary, about what a particular reading on their lipid panel actually means for their life, especially when their life-styles are different. This is what educated, anxious human beings do when something threatens their health. The information age did not ask permission. It simply arrived.
+
+The response from some doctors has been impatience, the feeling that an informed patient is a difficult patient. But the more productive response, increasingly voiced by thoughtful practitioners, is to see this shift as an opportunity. An informed patient is an engaged patient. An engaged patient is more likely to follow a treatment plan, more likely to return for follow-up, more likely to catch an error.
+
+The old model of medicine was hierarchical by design. The doctor knew; the patient obeyed. That model had its logic, in an era when the knowledge gap between professional and layperson was absolute. That gap has not closed, but it has narrowed leading to a partnership.
+
+There are doctors in Sri Lanka who already practise this way: arriving on time, spent 15-30 minutes with patients, contactable over the phone specially after a difficult procedure, for communicating plainly and without condescension. They are proof that the ideal is not utopian. It is achievable, which means the question is how to make it the norm rather than the exception.
+
+This is where technology enters, not as a replacement for clinical judgment but as a tool for reducing the friction that currently exhausts both doctor and patient.
+
+Take the laboratory report cycle. A patient visits the doctor, is sent for tests, and a second appointment is required. A patient who arrives having already run those results through an AI-assisted tool is not trying to bypass clinical judgment or sidestep any genuine treatment decision. They are trying to eliminate a visit if they “know” that sole purpose is simply for an interpretation of the lab results. That second visit consumes time, money, efforts and transport. AI-assisted interpretation tools, not diagnostic systems, but educational ones, can give a patient a plain-language summary of their results (sometimes using Sherlock Holms’s theory of process of elimination to narrow down the possible causes) before they even walk into the consulting room. The doctor’s time is then spent on clinical decision-making, not on explaining what a haemoglobin or platelets count is.
+
+Then there is the prescription. Illegible handwriting on a small slip of paper has long been a quiet patient safety hazard, and it is worth noting that AI tools have already begun helping patients and pharmacists decode what was written. But digital prescriptions go a step further: they eliminate the ambiguity entirely, and allow a patient to scan what they have been given, learn the name of each drug, understand what it does, and be alert to any side effects. This is not a challenge to the doctor’s authority. And when a patient discovers in the process that an approved generic equivalent costs a fraction of the branded price, they are empowered, not endangered.
+
+Telemedicine, which got a reluctant push during the pandemic and has since retreated in public imagination, deserves a second look. Follow-up consultations for stable chronic conditions, blood pressure reviews, diabetes management, post-operative monitoring, need not always require a physical journey. The technology exists. The will to use it more widely is what remains to be mobilised.
+
+No conversation about healthcare in Sri Lanka is complete without acknowledging the parallel system that millions of people have never abandoned: traditional Hela medicine. Ayurveda, Siddha, Unani, and the vast informal knowledge embedded in village practice, these are not simply alternatives to modern medicine. For many Sri Lankans, they are the first resort.
+
+The relationship between indigenous knowledge and scientific medicine has too often been one of mutual suspicion. Modern practitioners dismiss traditional remedies as unproven; traditional practitioners regard clinical trials as a foreign imposition. Neither position is adequate.
+
+Consider Heen Bovitiya — known to botanists as Osbeckia octandra and to generations of Sri Lankan grandmothers as a trusted remedy for liver complaints and jaundice. Serious liver disease remains one of the conditions for which Western medicine offers no easy answer: its definitive treatment is a transplant — costly, risky, and followed by a lifetime of expensive immunosuppressant medication. Against that reality, a plant with pre-clinical evidence of hepatoprotective and anti-inflammatory properties is not a curiosity. It is a serious research priority. The studies so far are promising. They are also, as yet, large-scale clinical trials in humans have not been conducted, and questions of optimal dosage, mechanism of action, and drug interactions remain open.
+
+The honest position is neither to dismiss the remedy nor to prescribe it uncritically. It is to say: this is a serious candidate for rigorous investigation, and Sri Lanka, which grows the plant, knows its traditional uses, and has the academic institutions to study it, is precisely the right place to conduct that research. AI tools that can process vast pharmacological datasets may accelerate that work considerably.
+
+The future of healthcare should not be a competition between Western and indigenous medicine, but a commitment to evaluating all treatments by the same standards of safety, effectiveness, and quality.
+
+The fear that artificial intelligence will replace doctors is, at this stage, a distraction from the more important question. AI cannot examine a patient. It cannot feel the anxiety in a room. What it can do is handle the transactional, the look-up, the summary, the cross-reference, so that the human part of medicine can breathe.
+
+The future worth working toward is not AI versus doctors. It is AI and doctors and informed patients, each contributing what they do best. The doctor could bring clinical expertise and the irreplaceable capacity for compassion. The patient brings self-knowledge, lived experience, and, increasingly, preparation. The technology brings tireless availability and pattern recognition at scale.
+
+What we measure matters. A consulting room’s success should not be counted in patients seen per hour. It should be counted in patients who leave feeling informed about their condition, respected as partners in their own care, reassured that someone is genuinely attending to them, and confident about what to do next.
+
+There is a truth that experienced nurses know, that the best doctors quietly understand, and that patient experience research consistently confirms: patients may forget the prescriptions. They may forget the name of the drug, the dosage, even the diagnosis. But they rarely forget how they were treated, pleasant or rude.
+
+They remember the doctor who looked up from the desk. The one who said, “That’s a good question.” The one who spent two extra minutes to listen, drawing a small diagram to explain where the problem was. They remember being seen, not just examined, but truly seen, as a person rather than a case number.
+
+Sri Lanka has those doctors and nurses, in every district, in every ward, working against the odds. The task now is to build a system worthy of them, and of the patients who place their lives, without much choice in the matter, in their hands.
+
+Technology may transform medicine. Artificial intelligence may transform diagnosis. Digital health may transform hospitals. But trust will always define healing.
+
+(The writer, a senior Chartered Accountant and professional banker, is Professor at SLIIT, Malabe. Views expressed in this article are personal.)
+
+Eric J. de Silva: consummate public servant and my life-long friend
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

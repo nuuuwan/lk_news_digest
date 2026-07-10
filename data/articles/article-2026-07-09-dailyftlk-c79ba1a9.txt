@@ -1,0 +1,87 @@
+Challenges in preventing tax crimes: From theory to practice
+
+“The difference between Tax Avoidance and Tax Evasion is the thickness of a prison wall”
+
+Denis Winston Healy, Secretary of State for Tax Defense Great Britain
+
+A future free of crime is the aspiration of every civilised society. Tax crimes are one category of criminal offences that exist within society. They undermine both developed and developing countries alike by weakening tax collection systems, destabilising a country’s financial system, and eroding public confidence in the broader financial sector. Tax crimes are also closely linked to other financial crimes, including money laundering, the acquisition of illicit assets, drug-related offences, concealed and high-risk investments, and the accumulation of real estate through unlawful means.
+
+A crime is an act committed against society as a whole. A criminal offence constitutes an unlawful act or omission committed against society. In most countries, two essential elements must be established to prove a criminal offence: the physical element and the mental element. The physical element of a crime is known as actus reus, while the mental element is known as mens rea. To establish the physical element, it is necessary to prove the relevant act, omission, or surrounding facts. To establish the mental element, it is necessary to prove the accused’s knowledge, intention, recklessness, negligence, or carelessness. Accordingly, in prosecuting a tax crime, it is essential to establish both of these elements. Furthermore, every criminal offence must be proved fairly and beyond reasonable doubt..
+
+Nobel prize winner economist Gary Becker first introduced theory of economic crime in 1968. It is apparent that tax avoidance and tax evasion occur in every country in the world. It is clear that this concept and practice should be based on legal considerations, When determining tax crimes the evasion is an activity commonly associated with the underground economy.
+
+Tax Avoidance is the use of existing rules and regulations by taxpayers or organisations to evade paying taxes by taking advantage of unfair privileges. In this, loopholes, interpretations or other practices in the rules and regulations help in avoiding paying taxes. In this process bending of rules take in into action while breaking of the law is ineffective. Tax evasion is also caused due to complexities of the tax system, loopholes in the legislation, weaknesses in the tax administration process, misunderstanding of the legal system and other factors. Although they are not special concessions provided by the income tax law, taxpayers make use of them.
+
+Tax evasion is considered an illegal method used to avoid or evade taxes payable to the Government. This is a prohibited and unlawful process. This could be pointed out as voluntary intentional violation of a known legal duty, use and presentation of false and misleading financial statements, making attempts to understate profits or the amount of tax payable, pretending tax liabilities by making false expense deductions, evading taxes by interpreting rules and regulations as different from existing rules and regulations, using trade miss-invoices as import and export processes, operating  bank accounts in foreign countries without adhering to proper legal procedures, acquiring foreign property while concealing facts, and artificial understating of profits by giving profits or funds of business institutions to charity organisations ,  trusts or non-governmental organisations. Thus, tax fraud has been declared a criminal offense in many countries of the world not only because it gives the custody of the public finance system only to the Government, but also because it leads to the destruction of the country’s financial system.
+
+Overall tax gap consists of two components. They are policy gap and administrative gap. Theoretically, both of these components lead to tax evasion it could be illustrated as follows.
+
+The tax gap is the difference between the taxes that would be paid if all obligations were fully met in all instances, all taxes that are actually paid and collected. Sometimes it could be seen that the tax gap is the result of both intentional and unintentional actions. Tax non-compliance could be due to: Deliberate choices (such as hiding income or over-claiming deductions/credits, mistakes, ignorance of filling, reporting, and payment obligations Inability to comply etc).
+
+Many countries in the world measure and analyse gap of an economy using various methods. Analysing of tax gap is a vital factor in forecasting revenue and also understanding the real problems of revenue Gap. Although these two approaches pave the way to analyse it, we must be able to deeply identify gap analysis of policy and compliance.
+
+Top-down approach reflects macro level data to identify nation’s economic activities. We usually need to aggregate national accounts data for this purpose. By using data we can estimate the tax base. This tax base could be used to calculate a theoretical value of tax that should be paid and collected by applying an effective tax rate. Then it is subtracted from the theoretical value.
+
+We use methods of direct taxes to evaluate and analyse bottom-up approach. In general, non-compliance is measured using a statistically representative sample of taxpayers that have been audited, which is then extrapolated to the entire taxpayer population to produce a tax gap estimate. This estimate of non-compliance is often based on data obtained from audits or surveys.
+
+The OECD has introduced comprehensive guideline to fighting tax crime. This guidelines leads to format an acceptable framework for tax criminal investigation worldwide. by adopting these principles, any country can get much benefits in revenge administration.
+
+1. Ensuring tax offenses are criminalised—there should be a legal framework in order to violation tax law as a criminal   offence
+
+2. Devising an effective strategy for addressing tax crimes—each jurisdiction should have a strategical framework in combatting tax evasion
+
+3. Having adequate investigative powers—within the tax agency directly or powers available indirectly (across other law enforcement organisation)
+
+4. Having effective powers to freeze, seize and confiscate assets—these methods help to disrupt criminal activities
+
+5. Having a clear organisational structure with defined responsibilities—need a clear vision with accountability and transparency
+
+6. Having adequate resources for tax crime investigation- for these, it is needed human resource, including training, infrastructure facilities etc
+
+7. Making tax crimes a predicate offence for money laundering—predicted offence are crime that produce funds or assists which then may  be laundered to obstruct illegal sources
+
+8. Having an effective framework for domestic inter-agency co-operation—agencies can support each other in handling revenue protest mechanism
+
+9. ensuring international co-operation mechanisms are available -there should be legal agreements and a good framework in inter agencies data sharing model
+
+10. Protecting suspects right (ensure procedural fairness and rights are observed e.g. presumption of innocence).
+
+(Source: OCED (2017), Fighting Tax Crime: The Ten Global Principles, OECD Publishing, Paris)
+
+Whilst tax avoidance is legal tax evasion is not like other frauds it is difficult to evaluate how much tax evasion takes place. One measure is the ‘tax gap’ being the difference between the amount of income that should be reported to the tax authorities and the amount that actually is reported. Murphy (2011) calculated that the tax gap in 145 countries (covering 98% of the global GDP) amounted to 18% of global GDP (i.e. $ 1 in every $ 6 is not subject to taxation) and total amount of tax evaded was $ 3.1 trillion. The top ten countries by value of tax evaded are shown below and in each of those countries the value of tax evaded exceeded $ 100 billion.
+
+Tax evasions may take place in various forms depending on the nature of the economic activities of the taxpayers. Hence, every taxing statue introduces separate provisions to define tax evasions. Sri Lankan tax authorities also included certain definitions in relation to evasion when they introduced Income Tax for the first time with effect from 1 April 1932 by the Income Tax Ordinance No 2 of 1932. (Section 87(1)).
+
+Section from 186 to 193 in chapter xviii of the Inland Revenue Act No. 24 of 2017, it is clearly mentioned that the criminal proceeding for Tax crime. Act No. 10 of 2006 also stated some part of criminal Investigation on Tax crime. The Tax evasion and other proceedings are specifically stated in it. But in 2017 Act clearly identify major issues of Tax evasion and interpret it and some activities against criminal charges also.
+
+The following sections denote the fines on conviction on guilty of an offence on Tax Evasion
+
+A person who willfully evades or attempts to evade the assessment, payment or collection of tax or who willfully and fraudulently claims a refund of tax to which the person is not entitled, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding ten million rupees or to imprisonment for a term not exceeding two years or to both such fine and imprisonment.
+
+(1) A person who willfully impedes or attempts to impede the Department in the administration of this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one million rupees or to imprisonment for a term not exceeding one year or to both such fine and imprisonment.
+
+(2) For the purposes of this section, a person impedes the administration of this Act if the person;
+
+(a) fails to comply with lawful request by the official to examine documents, records, or data within the control of the person.
+
+(b) fails to comply with a lawful request by a tax official to have the person appear before officials of the Department.
+
+(c) interferes with the lawful right of a tax officials to enter into premises;
+
+(e) uses a false taxpayer identification member or a taxpayer identification number that does not apply to the person.
+
+(f) refuses to allow the Commissioner General or authorised officer to inspect or measure land or refuses to deliver for inspection any map, plan, title deed, instrument of title or other document.
+
+(g) makes a statement to a tax official that is false or misleading in a material particular.
+
+(j) Otherwise impedes the determination, assessment or collection of tax.
+
+A person who contravenes subsection (2) or (3) of section 100 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one million rupees or imprisonment for a term not exceeding one year or to both such fine and imprisonment.
+
+Amendment Act No. 10 of 2021 introduced the following new section as Sec. 190A
+
+to be furnished to the commissioner- General, commits an offence under this Act, and on conviction after summary trial before a Magistrate, be liable to a fine not exceeding one million rupees or imprisonment of either description for a term not exceeding six months.
+
+Tax crime and tax evasion are global problems. Many activities around the world depend on economic growth and progress. Therefore, combating tax evasion at an early stage is a collective responsibility and an essential obligation for the benefit of future generations. Strengthening legal mechanisms, enhancing information sharing, improving coordination among Government institutions, and developing dedicated human resources are all essential to addressing this challenge effectively for the benefit of the country.
+
+(The author is a Senior Commissioner at the Inland Revenue Department)

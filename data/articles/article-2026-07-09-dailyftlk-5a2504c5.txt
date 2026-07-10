@@ -1,0 +1,77 @@
+Sri Lanka’s grossly confusing foreign reserve numbers – Explained
+
+CBSL’s reserves are commonly analysed using two broad measures: Gross international reserves (GIR) and net international reserves (NIR), and there is a big difference
+
+Gross reserves show the foreign-currency assets held or controlled by the Central Bank of Sri Lanka (CBSL). Net reserves ask a further question: after deducting the CBSL’s foreign-currency obligations that have to be repaid, how much of that reserve cushion remains?
+
+Sri Lanka’s foreign reserves are often discussed through one headline number: gross official reserves. That number matters, but it also does not tell the full picture. To understand the full picture, we have to also know the net reserves.
+
+Gross reserves show the foreign-currency assets held or controlled by the Central Bank of Sri Lanka (CBSL). Net reserves ask a further question: after deducting the CBSL’s foreign-currency obligations that have to be repaid, how much of that reserve cushion remains?
+
+A simple household example helps explain the distinction. Suppose a household has $ 100 in its emergency fund, but $ 80 of that amount was borrowed and must be repaid in the near future. The household can still use the $ 100 today. But it would be misleading to treat the full $ 100 as its own safety cushion, because most of it is matched by a repayment obligation. The more relevant question is not only how much cash is in the account, but how much remains after accounting for the money that must be paid back in the near future.
+
+This distinction mattered in the period immediately before Sri Lanka’s external debt default.
+
+In December 2021, four months before the default, CBSL’s gross reserves were reported to be $ 3.1 billion. But after accounting for foreign-currency liabilities, CBSL’s net reserves were below zero, at negative $ 0.4 billion (see Table 2). Yet in January 2022, even as Sri Lanka’s net reserves continued to decline, the former CBSL Governor pointed to the gross reserves and publicly described the reserve position as “stable.” This shows why referring only to gross reserves can be misleading.
+
+The same issue remains relevant to current policy debates. Public statements and media reports often point to increasing gross official reserves as evidence of “economic recovery.” However, under Sri Lanka’s ongoing IMF program, the reserve target is monitored using net international reserves, not gross reserves. CBSL’s Reserve data in Table 2 show that NIR was negative in December 2022 and December 2023 and turned positive in 2024. This means the recovery story depends not only on whether gross reserves are rising, but also on whether the country is rebuilding its net reserves. This was the concern highlighted in the Committee on Public Finance (CoPF) discussion and during a television appearance by the CoPF Chairperson on 10 November 2025.
+
+This is why the distinction between gross and net reserves needs to be explained clearly.
+
+If public debate focuses only on rising gross reserves, it can create the impression that Sri Lanka’s foreign-currency position has recovered more strongly than it actually has. This is also why the focus of the IMF program is net reserves and not gross reserves. The issue is not simply whether reserves are increasing, but whether the CBSL is rebuilding its reserve position after accounting for foreign-currency obligations.
+
+Against this backdrop, this FactCheck.lk Explainer is presented in three main parts. First, it explains what international reserves are and why they matter. Second, it explains the difference between gross international reserves (GIR) and net international reserves (NIR). Third, it explains why CBSL and the IMF program can report different NIR figures for the same period.
+
+International reserves are foreign-currency assets and other internationally accepted reserve assets that a country’s monetary authority (in Sri Lanka’s case, the CBSL) can use when it needs to make or support payments to the rest of the world. They are used to meet foreign-currency payments—such as paying for essential imports and servicing external debt. When the Government or private sector—which earn revenue primarily in rupees—have to meet international payments in dollars, and don’t have enough foreign currency in their coffers, they can also draw upon these reserves. That is, they exchange rupees with the CBSL in return for the dollars they need to remit to the international party.
+
+Sri Lanka’s 2022 crisis was, in practical terms, a crisis of running out of such foreign currency. The economy as a whole—particularly, the CBSL’s reserve holdings—did not have the dollars to supply the Government and others to make their international payments.
+
+Reserve numbers are therefore important because they indicate whether the country has enough foreign-currency cover to keep paying for essential imports and external debt when foreign- inflows weaken, and there are temporary shortfalls in access to foreign currency. These are the kinds of situations referred to as external pressure or stress.
+
+CBSL’s reserves are commonly analysed using two broad measures: Gross international reserves (GIR) and net international reserves (NIR).
+
+GIR are the reserve assets held and controlled by the CBSL before deducting reserve-related repayment obligations. The assets that are counted for GIR are those that are liquid (readily available for use), and can be converted to any foreign currency. (They typically include: foreign currency cash and deposits, the IMF reserve position, Special Drawing Rights (SDRs) and monetary gold held by the CBSL).
+
+NIR is the reserve assets that remain after deducting selected foreign currency liabilities—such as loans and swaps—from GIR. In simpler terms, NIR asks: if foreign currency liabilities are reduced from the gross reserve assets, what is the actual cushion (or the ability to withstand short term stress)?
+
+Gross reserves can increase even when a country’s underlying vulnerability remains high—particularly if reserves are built up through the CBSL borrowing foreign currency. This is similar to increasing the balance in a savings account by taking out a loan: the number looks larger, but the ability to withstand a shock has not improved.
+
+Therefore, when assessing whether a country can continue meeting its external obligations under stress, it is net reserves (NIR), and not gross reserves (GIR), that provide an accurate picture.
+
+The IMF’s choice to ignore, in its measure, the foreign currency asset position of the CBSL with resident banks suggests that these assets are negligible. This would also explain why Sri Lanka agreed to use that measure under its IMF program. Therefore, unless the CBSL provides evidence to the contrary, it would be prudent to place greater weight on the measure used in the current IMF program
+
+Why do CBSL and the IMF report different net international reserves (NIR) figures for the same period?
+
+Since NIR is the more relevant measure, it is also important to understand how it is calculated and reported. It turns out that the CBSL and the IMF use two different ways of counting NIR. There are some foreign currency related liabilities that the CBSL does not count, but the IMF counts. This is why the figures for NIR that they report differ.
+
+Table 1 below summaries this difference. It shows that both approaches count many of the same foreign-currency assets and deduct foreign-currency liabilities owed to banks located outside of Sri Lanka (non-resident banks). The only difference is how they treat foreign-currency liabilities owed by CBSL to banks located inside Sri Lanka (Category 5).
+
+Table 1: Summary of the difference in calculation of the NIR by the CBSL and IMF
+
+Under the reporting convention that is followed by the CBSL (a residency-based approach), if the CBSL owes foreign currency to a bank outside Sri Lanka, that liability is treated as external and is deducted. If CBSL owes foreign currency to a bank inside Sri Lanka, that liability is treated as domestic and is not deducted in the CBSL’s NIR calculation. This approach is mirrored in the way the CBSL reports its assets as well.
+
+The current IMF program in Sri Lanka adopts the reserve-counting framework of the CBSL but makes one further deduction. It deducts CBSL’s foreign-currency liabilities to resident banks.
+
+In December 2021, four months before the default, CBSL’s gross reserves were reported to be $ 3.1 billion. But after accounting for foreign-currency liabilities, CBSL’s net reserves were below zero, at negative $ 0.4 billion. Yet in January 2022, even as Sri Lanka’s net reserves continued to decline, the former CBSL Governor pointed to the gross reserves and publicly described the reserve position as “stable.” This shows why referring only to gross reserves can be misleading
+
+The answer depends on the size of CBSL’s foreign-currency assets held with resident banks.
+
+If foreign-currency liabilities to resident banks are counted, as the IMF does, then a full application of the NIR principle (assets minus liabilities) would also require counting foreign-currency assets held with resident banks, which the current IMF program in Sri Lanka does not do.
+
+Therefore, if the CBSL’s foreign-currency assets held with local banks are roughly equal to its foreign-currency liabilities to local banks, then the CBSL measure is likely to provide the more reflective of the real picture of the reserve position, because including both would largely cancel each other out—producing much the same result as excluding both.
+
+On the other hand, if those foreign currency assets with local banks are near zero, then the measure used under the current IMF program would be more reflective of the real position of reserves, since the assets excluded by the IMF would have little effect on the calculation.
+
+Whether the CBSL is a net borrower or net lender to local banks is therefore the key question? For which data is not available. This non availability of data compromises the ability of Parliament and the Cabinet to understand Sri Lanka’s true reserve position.
+
+The IMF’s choice to ignore, in its measure, the foreign currency asset position of the CBSL with resident banks suggests that these assets are negligible. This would also explain why Sri Lanka agreed to use that measure under its IMF program. Therefore, unless the CBSL provides evidence to the contrary, it would be prudent to place greater weight on the measure used in the current IMF program.
+
+Whether the CBSL is a net borrower or net lender to local banks is therefore the key question? For which data is not available. This non-availability of data compromises the ability of Parliament and the Cabinet to understand Sri Lanka’s true reserve position
+
+Additional Note 1: A separate issue concerns whether all assets included in gross reserves are equally usable. For example, FactCheck.lk has previously raised concerns about CBSL’s treatment of the People’s Bank of China currency swap in reserve reporting, arguing that its inclusion can overstate the country’s usable reserve position. For more details, see: https://factcheck.lk/factcheck-lk-reservations-on-sri-lankas-reporting-of-foreign-reserves/.
+
+Additional Note 2: Apart from deducting foreign-currency liabilities to resident banks, the IMF program measure uses fixed exchange rates and a fixed gold price based on January 2023 levels. This prevents the NIR figure from changing merely because exchange rates or gold prices move. The IMF program target can also be adjusted when external financing inflows or external debt service payments differ from the assumptions used in the program. In simple terms, these adjustments try to measure whether reserves are improving because of policy performance, rather than because of price movements or changes in assumed inflows and payments.
+
+(a) The total outstanding debt of the Central Bank, excluding outstanding Special Drawing Rights (SDRs) holdings.
+
+Sources: CBSL, IMF Fourth Review on Sri Lanka, IMF Fifth & Sixth Review on Sri Lanka

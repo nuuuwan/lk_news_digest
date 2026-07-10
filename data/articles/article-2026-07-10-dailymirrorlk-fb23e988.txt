@@ -1,0 +1,43 @@
+From Vulnerability to Opportunity: AI and the Future of Work in Sri Lanka
+
+White collar jobs are more threatened by Generative AI than traditional labour-intensive jobs
+
+Sri Lanka’s labour market is undergoing a gradual but significant shift. Generative AI is becoming embedded in everyday work. Unlike earlier rounds of automation, which focused mainly on manual and manufacturing sectors, generative AI now reaches white-collar roles. Professional and clerical positions, once considered stable, are increasingly affected.
+
+Generative AI creates new content—text, images, audio, video, or code—based on patterns learned from massive datasets. Unlike traditional AI, which classifies or predicts, generative AI produces outputs that resemble human work. This ability challenges long-standing assumptions about the resilience of office-based employment. Roles once seen as secure pathways for upward mobility are now vulnerable.
+
+Genetic AI operates on the principles of evolutionary computation. By simulating natural selection through mechanisms such as selection, crossover, and mutation, it evolves solutions to complex problems. Its primary focus is optimisation—ensuring systems achieve maximum efficiency and performance.
+
+Genetic AI is particularly effective in domains such as logistics, engineering design, robotics, and neural network optimisation, where problem spaces are vast and traditional methods struggle to deliver results.
+
+In June 2026, Labour Minister Anil Jayantha Fernando addressed the International Labour Conference in Geneva. He cited an IPS study using ILO methodology. The study found that 22.8% of Sri Lanka’s employed population — about 1.83 million workers — are in occupations exposed to generative AI. Exposure falls most heavily on professional office jobs. These roles were once seen as safe paths for upward mobility. This marks a sharp departure from earlier waves of automation, which mainly accelerated routine data processing. Higher-order clerical and analytical work, previously left intact, is now vulnerable.
+
+Workers in agriculture, craft trades, and informal occupations remain relatively insulated. This reflects a global trend: White-collar employment is being reshaped long before manual or informal work is affected. In Sri Lanka, the divide is pronounced. Farmers, artisans, and informal workers continue largely untouched. Office-based clerical and support roles, especially those taken up by fresh graduates, face mounting pressure.
+
+Analysts project that demand for entry-level clerical positions could decline by 40–50%. E-government initiatives and generative AI tools reduce the need for typists, clerks, and data entry assistants. This shows that generative AI is not only streamlining tasks but actively replacing functions once seen as gateways to professional advancement.
+
+Even as machines and AI take on a growing share of work, certain fast-growing sectors remain fundamentally reliant on people. Fields like caregiving, education, counselling, and leadership depend on qualities judgment, empathy, and genuine human connection that technology can support but not replicate. In these areas, AI functions as a tool that enhances human work rather than substitutes for it.
+
+The care economy, education, counselling, and leadership roles cannot be automated without losing their core value. Human judgment, compassion, and interpersonal connection remain in high demand, ensuring that technology serves as an enabler rather than a replacement. Several areas are positioned for growth. The care economy will expand significantly, driven by an ageing population. Demand for physiotherapists, elder-care providers, and nursing services is projected to rise by nearly 25%.
+
+Green jobs are also set to grow. Renewable energy projects, particularly solar and wind, will create demand for energy engineers and environmental consultants. AI-adjacent roles are emerging. Businesses seek professionals who can operate and direct AI tools effectively. Positions such as “AI prompt engineers” blend domain expertise with technological fluency. Remote work and freelancing are becoming more prominent. AI-powered translation and content tools lower barriers to global markets. Younger workers are increasingly engaged in digital entrepreneurship and cross-border collaboration.
+
+AI adoption in Sri Lanka is accelerating for cost-driven reasons. Customer service is a high-impact area. AI chatbots handle routine inquiries at a fraction of the cost of human staffing. HR functions are also being streamlined. Approvals, payroll validation, and employee queries are increasingly automated. This frees HR teams to focus on strategic work. Businesses are shifting away from cost-containment thinking, a legacy of the 2023 IMF-backed fiscal stabilisation period. They now focus on workforce optimisation. The goal is to extract more value per employee hour using AI-supported analytics and digital platforms.
+
+A Microsoft–IDC survey covering 15 Asia Pacific markets, including Sri Lanka, found that better customer engagement, competitiveness, and margins were the top drivers of AI adoption. Interestingly, “more productive employees” ranked lower. This suggests that cost and competitive pressure are stronger motivators than workforce development.
+
+The government has placed AI at the centre of its economic transformation strategy. The Labour Ministry pledged to raise AI-exposure findings at the National Labour Advisory Council. The Minister also called for greater international cooperation to bridge the digital divide, stressing that AI’s gains must be shared broadly. Sri Lanka still lacks a comprehensive data protection law. AI-based employee monitoring is governed mainly by best-practice guidelines. Existing labour law, notably the Termination of Employment Act, regulates automation-driven workforce reductions. It requires notice, severance, and retraining support.
+
+Commentary in 2026 emphasises three areas of adaptation. First, continuous digital skill-building. Workers must regularly learn new tools—AI assistants, data analytics platforms, and design software — rather than treating a degree as a fixed credential. Second, human and soft skills. Creative thinking, leadership, and empathy are cited as differentiators AI cannot easily replicate. These are especially important in care-oriented and client-facing roles. Third, digital visibility. Platforms like LinkedIn are increasingly important for demonstrating adaptability and skills to employers in a fast-changing job market.
+
+Sri Lanka’s trajectory is embedded within a broader South Asian paradigm. At the India AI Impact Summit 2026 in New Delhi, experts highlighted a dual transformation. Routine clerical functions are being automated, while demand for specialised digital competencies—data architecture, analytics, and software development—is surging.
+
+AI platforms are also democratising access to the global digital economy. They lower entry barriers for cross-border freelancing and remote work. Because Sri Lanka shares socio-economic conditions with India, it operates on a similar adoption curve. Regional investments, tooling frameworks, and policy norms will inevitably shape Sri Lanka’s domestic trajectory.
+
+Sri Lanka’s labour market will be shaped by the interaction of technological disruption and policy response. Clerical and administrative jobs are declining, while nearly one-quarter of the workforce faces AI-driven transformation. At the same time, growth in care services, sustainability industries, and AI-enabled hybrid roles offers opportunities to build a resilient and inclusive economy.
+
+Opportunity alone will not protect workers. It must be matched by coherent policy, sustained investment, and effective implementation. Reforms should safeguard at-risk workers and equip them with skills to transition into emerging sectors. Over the next decade, success will depend on embedding lifelong learning, digital literacy, and career mobility across the workforce.
+
+The challenge is no longer just job displacement. It is workforce transformation at scale. If reforms are implemented with urgency and vision, Sri Lanka could emerge as a regional leader in adaptive labour market transformation.
+
+Air Chief Marshal Gagan Bulathsinghala RWP RSP VSV USP MPhil MSc FIM ndc psc is Director Khen Energy, Senior Fellow South Asia Foresight Network, Formerly Commander Sri Lanka Air Force, Ambassador to Afghanistan, and President Association of Retired Flag Rank Officers.
