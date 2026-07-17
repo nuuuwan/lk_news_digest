@@ -1,0 +1,17 @@
+Lankan-founded startup Logical accepted into Y Combinator, raises over Rs. 150 m
+
+Logical, an AI startup founded by two Sri Lankan engineers, has been accepted into Y Combinator, the prestigious Silicon Valley startup accelerator known for backing companies such as Airbnb, Dropbox, Stripe and Reddit.
+
+Logical is believed to be the first fully Sri Lankan founding team to be accepted into Y Combinator. The company has also raised over Rs. 150 million in initial funding, giving the team a platform to build a globally competitive AI product from Silicon Valley.
+
+Logical is building a proactive desktop AI copilot for modern knowledge workers that understands a user’s work context across apps and helps them take action with less prompting. Unlike traditional chatbots that wait for users to ask questions, this copilot is designed to understand work context and help users take action across their daily tools. It transfers context across apps, and allows taking action on many apps with just a few clicks. It can also assist with drafting emails, writing docs, noting meetings and even automatically detect action items.
+
+Logical co-founders Samurdhi Karunaratne (also known as Sam Karu) and Anushka Idamekorala grew up in Sri Lanka, studied at Sri Lankan state universities, and later moved to the United States to pursue advanced technical work. Sam and Anushka first met at the age of six when they entered Dharmaraja College in Kandy. Both later excelled in the mathematics stream at the G.C.E. Advanced Level examination, ranking first and second in the Kandy District, before entering two of Sri Lanka’s leading state engineering faculties - the University of Peradeniya and the University of Moratuwa.
+
+Logical’s Chief Executive Officer Sam graduated from the University of Peradeniya, later received a PhD scholarship from UCLA, and worked at NVIDIA before founding Logical with Anushka. Anushka, Logical’s Chief Technology Officer, graduated from the University of Moratuwa and built his career as a software engineer, including experience in Singapore, before receiving a PhD scholarship from the University of Virginia in the United States. He also placed first in Sri Lanka in IEEEXtreme, one of the world’s leading competitive programming competitions.
+
+Samurdhi Karunaratne said: “Anushka and I have known each other since we were six years old, so there is something surreal about now building a company together in Silicon Valley. Being accepted into Y Combinator is a significant milestone for us, but more than anything, it has reinforced our belief that Sri Lankan founders should not be afraid to dream much bigger about the companies they can build.”
+
+Anushka Idamekorala said: “We want to prove that world-class AI products can be built by Sri Lankan engineers competing at the highest level globally. Logical is a deeply technical product, and our goal is to build technology that can stand alongside the best companies coming out of Silicon Valley.”
+
+Y Combinator, commonly known as YC, is one of the world’s most influential startup accelerators. Based in San Francisco, it runs a highly selective three-month programme that helps early-stage companies refine their products, grow their user base and prepare for fundraising. Its alumni include some of the most successful technology companies in the world, making acceptance into YC a significant milestone for any startup aiming to build on a global scale.

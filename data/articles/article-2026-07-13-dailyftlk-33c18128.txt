@@ -1,0 +1,47 @@
+The SSCL Vs VAT threshold revision – The logic of indirect tax reform
+
+The irony, as noted, is structural. The Government's stated rationale for retaining the VAT threshold at Rs. 60 million was to avoid placing additional price pressure on consumers. The SSCL amendment, through the mechanism of cascading, is likely to generate precisely the outcome that the VAT decision was designed to prevent — and to do so in a manner that is less transparent, less economically neutral, and more damaging to the competitive position of the SME sector
+
+The recently enacted Value Added Tax (Amendment) Act No 14 of 2026 contained a notable omission from what was proposed at the Bill stage.
+
+The Bill originally proposed reducing the VAT registration threshold from Rs. 60 million to Rs. 36 million per annum. The policy rationale was clear: to broad-base VAT coverage, bring a wider population of businesses within the VAT net, and improve the integrity of the input credit chain by reducing the number of unregistered suppliers in the system. This is consistent with international best practice — a lower VAT threshold, applied to a well-functioning credit-offset system, typically improves revenue yield, reduces competitive distortions between registered and unregistered businesses, and strengthens the chain of VAT accountability.
+
+That proposal was withdrawn, reportedly in response to concerns that reducing the threshold would impact the prices of goods and services due to the imposition of 18% VAT. As per the VAT Amendment Act No 14 of 2026, the VAT threshold therefore remains at Rs. 60 million.
+
+What did proceed, however, was the reduction of the Social Security Contribution Levy (SSCL) threshold from Rs. 60 million to Rs. 36 million per annum, under the SSCL (Amendment) Act No. 10 of 2026. This draws a considerably larger cohort of businesses — particularly small and medium enterprises — within the scope of a levy that is structurally and economically very different from VAT, and whose effects on prices and business costs are in several important respects more damaging.
+
+On the surface, this may appear to be a revenue-positive measure. In practice, its economic consequences are likely to be considerably more damaging than a comparable adjustment to the VAT threshold would have been — and the reason lies in the fundamental structural difference between the two taxes.
+
+VAT is, by design, a tax on value addition — not on turnover. Each registered business in the supply chain charges VAT on its sales (output tax) and claims a credit for the VAT paid on its purchases (input tax). The net amount remitted to the Revenue at each stage is therefore the difference between the two — which, economically, equates to the tax applicable on the value the business itself has added. The ultimate bearer of the tax is the final consumer, who has no entitlement to an input credit.
+
+The critical feature of this design is that VAT does not compound. However many intermediary stages exist between a raw material and a finished consumer product, the aggregate VAT collected across all those stages equals, in principle, the VAT rate applied to the final retail price. The tax is self-limiting by its own mechanism.
+
+Businesses act as collection agents for the Inland Revenue Department, but they do not themselves bear the economic burden of VAT on their inputs, provided they are registered and their suppliers are also registered.
+
+This is not a criticism of the objective. The concern about the impact of indirect tax changes on consumer prices is entirely legitimate. The criticism is of the instrument chosen to pursue that objective — and the failure to weigh the structural difference between a tax on value addition and a cascading turnover tax when making the threshold decisions. The consequences — in terms of cascading price effects, SME compliance burden, and the further entrenchment of a structurally inferior indirect tax instrument — will be felt across the supply chain
+
+The Social Security Contribution Levy (SSCL) operates on an entirely different basis. It is charged on the turnover of every liable business — with no credit for SSCL paid on purchases, no offset mechanism, and no deduction for input costs. Every party in the supply chain that meets the threshold pays SSCL on the turnover.
+
+The consequence is cascading. Where a product passes through multiple stages — from manufacturer to distributor, distributor to wholesaler, wholesaler to retailer — the SSCL is charged at each stage on the full value of the transaction at that point. The tax paid at an earlier stage is embedded in the cost of the goods, and the next party in the chain then pays SSCL on a base that already includes the prior layer of SSCL. Each successive transaction amplifies the burden rather than netting it out (unless its subject to a specific exemption under the Law).
+
+This is the cascading effect that is consistently identified as the most economically distortive feature of turnover-based taxes.
+
+The practical consequences of the SSCL threshold reduction to LKR 36 million operate along two dimensions.
+
+First, direct compliance burden on SMEs. Businesses with annual turnover between Rs. 36 million and Rs. 60 million — many of which are small and medium enterprises operating on thin margins — are now liable for SSCL. Unlike VAT, which applies only to the value addition, the SSCL applies to the entirety of their turnover.
+
+Second, amplified cascading effect on consumer prices. By drawing more businesses within the SSCL net, the amendment increases the number of supply chain stages at which SSCL is applied. This amplifies the cascading effect described above, embedding additional layers of indirect tax cost into goods and services that pass through multiple registered hands before reaching the consumer. The effect is both cumulative and opaque — consumers bear the cost without seeing it disaggregated on any invoice.
+
+The very outcome that the Government sought to prevent by not adjusting the VAT threshold — an increase in consumer prices — is, ironically, more likely to result from the SSCL threshold change than it would have been from a VAT threshold adjustment.
+
+Had the Government chosen to lower the VAT threshold to Rs. 36 million — while leaving the SSCL threshold at Rs. 60 million — the revenue base would have been broadened through a mechanism that is, by design, non-cascading and therefore less inflationary in its indirect effects. Businesses brought within the VAT net at LKR 36 million would charge VAT on their sales, but they would also claim input credits on their purchases, ensuring that the levy does not compound at each stage of the supply chain. The price effect, while not negligible, would be structurally contained.
+
+The irony, as noted, is structural. The Government's stated rationale for retaining the VAT threshold at Rs. 60 million was to avoid placing additional price pressure on consumers. The SSCL amendment, through the mechanism of cascading, is likely to generate precisely the outcome that the VAT decision was designed to prevent — and to do so in a manner that is less transparent, less economically neutral, and more damaging to the competitive position of the SME sector.
+
+The decisions reflected in the VAT (Amendment) Act No. 14 of 2026 and the SSCL (Amendment) Act No. 10 of 2026, read together, reveal a gap between the stated policy objective and the economic logic of the instruments chosen to pursue it. The Government sought to protect consumers from price increases. It declined to reduce the VAT threshold on those grounds. It reduced the SSCL threshold — a measure whose cascading structure is, in fundamental economic terms, a more potent driver of embedded price increases than the VAT change it chose to avoid.
+
+This is not a criticism of the objective. The concern about the impact of indirect tax changes on consumer prices is entirely legitimate, particularly given the inflationary experience of 2022 and 2023 and the ongoing cost-of-living pressures faced by Sri Lankan households. The criticism is of the instrument chosen to pursue that objective — and the failure to weigh the structural difference between a tax on value addition and a cascading turnover tax when making the threshold decisions.
+
+The consequences — in terms of cascading price effects, SME compliance burden, and the further entrenchment of a structurally inferior indirect tax instrument — will be felt across the supply chain.
+
+(The views expressed in this article are those of the author in her personal capacity)

@@ -1,0 +1,59 @@
+Dirty Money
+
+Illegal foreign exchange, Undiyal, Hawala and money laundering: A four-part investigative series
+
+Ranjan owns a small export company in Colombo. On paper, business has never been better. His shipments of cinnamon and coconut-based products to a trading partner in Dubai have tripled in declared value over eighteen months. His bank statements show steady, healthy growth. His tax filings are immaculate. His accountant calls him a model client.
+
+There is only one problem. Ranjan’s actual cinnamon exports have not tripled. They have barely changed at all.
+
+What has changed is the invoice. Each shipment of cinnamon worth roughly $50,000 is now declared on customs paperwork as being worth $150,000. The Dubai buyer, who is not really a buyer in any ordinary sense, pays the full invoiced amount without complaint. The extra $100,000 that flows back to Ranjan’s company with each shipment did not come from selling cinnamon. It came from somewhere else entirely: the proceeds of an offshore gambling operation that needed a way to bring money into Sri Lanka looking like ordinary export earnings.
+
+No bank flagged it. No customs officer questioned it. The cinnamon was real. The shipment was real. Only the price was a lie, and that lie was enough to turn dirty money into the cleanest thing in the world: a profitable Sri Lankan export business.
+
+This is money laundering. And it is far more sophisticated, far more pervasive, and far more damaging to ordinary economies than most people realise.
+
+Money laundering is not merely about hiding cash under a mattress. It is the financial infrastructure of organised crime. Every major criminal enterprise, from narcotics trafficking and cyber fraud to corruption, tax evasion, illegal mining, human trafficking, and terrorism financing, ultimately depends on one single capability: the ability to convert illicit proceeds into apparently legitimate assets.
+
+Without laundering, crime does not pay, not in any usable sense. A drug trafficker sitting on millions in cash cannot buy a house, send a child to university abroad, or invest in a business without first explaining where the money came from. Laundering is the bridge between criminal proceeds and a normal life. Remove the bridge, and the profit motive for organised crime collapses.
+
+This is why the international community treats money laundering as a standalone crime, separate from and in addition to the original offence. According to the United Nations Office on Drugs and Crime, global money laundering is estimated at between 2% and 5% of world GDP, somewhere between USD 800 billion and USD 2 trillion every single year.
+
+Despite enormous variation in method, almost every laundering scheme, from a street-level drug operation to a sophisticated transnational network, follows the same underlying three-stage structure first formally identified by international regulators and now codified by the Financial Action Task Force (FATF) and adopted by Sri Lanka’s own Financial Intelligence Unit.  (See Graph 1)
+
+Crucially, as Sri Lanka’s FIU and the FATF both note, these three stages do not always occur neatly in sequence. They can happen simultaneously, separately, or overlap entirely, and critically, the offence of money laundering occurs at each individual stage, not merely at the end of the process. (See Table 1)
+
+Of all these methods, trade-based money laundering deserves special attention, because it is, by most expert estimates, the largest channel of all. According to FTI Consulting’s anti-financial-crime specialists, TBML accounts for an estimated 87% of all global illicit financial flows, which could translate to USD 800 billion to USD 2 trillion annually. Despite this staggering scale, court cases worldwide identified only about USD 60 billion tied to TBML between 2011 and 2021, meaning the overwhelming majority of trade-based laundering is never detected, let alone prosecuted.
+
+The reason is structural. Banks process the payments behind a trade transaction, but they rarely verify the physical goods being shipped. Customs authorities inspect the goods but focus on tariffs and contraband, not financial crime. Between these two gaps sits an enormous blind spot that traders like Ranjan, real or hypothetical, can exploit with remarkable ease. (See Graph 2)
+
+Over-invoicing and under-invoicing are the two basic tools. In over-invoicing, the declared value of a shipment is inflated, allowing the buyer to transfer excess funds to the seller, disguised as a trade payment. Under-invoicing works the opposite way, understating the value to move money in the reverse direction, or to evade customs duties on the true value of the goods.
+
+More sophisticated variants include multiple invoicing of the same shipment, misrepresenting the quantity or quality of goods, and outright phantom shipments where no goods move at all.
+
+Money laundering does not exist in isolation. It is the connective tissue linking together a genuinely global criminal ecosystem, and the methods described above are used across an enormous range of predicate crimes.
+
+The damage caused by money laundering is rarely visible in the way a robbery or a bombing is visible. It is slower, quieter, and in some ways more corrosive, because it operates by corrupting the very institutions meant to prevent it. (Table 2)
+
+These costs are not abstract for institutions caught facilitating them, even unknowingly. Canada’s TD Bank was fined USD 3 billion in 2024 for failing to prevent criminals from transferring hundreds of millions of dollars in illegal funds through its systems. The UK’s Barclays Bank was fined a combined £42 million (approximately USD 56 million) in 2025 across two separate AML failings. Globally, the first half of 2025 alone saw USD 1.23 billion in AML fines, a 417% increase over the prior year, reflecting both the scale of the problem and intensifying regulatory pressure.
+
+Sri Lanka’s own experience with money laundering and its enforcement architecture offers an instructive case study, one with significant stakes attached in the immediate future.
+
+Sri Lanka’s Financial Intelligence Unit, established under the Financial Transactions Reporting Act No. 6 of 2006 and operating within the Central Bank, is unusual among its global peers: although administrative in type, it has direct powers to freeze accounts, suspend transactions, and impose penalties for noncompliance, powers many FIUs around the world lack. The Prevention of Money Laundering Act No. 5 of 2006 backs this with serious criminal penalties: imprisonment of between five and twenty years, and fines of up to three times the value of laundered property, with the burden of proof placed on defendants to justify the legality of their assets.
+
+Yet deficiencies remain. The absence of explicit conspiracy clauses limits prosecutors’ ability to charge coordinated networks rather than individuals. Predicate crimes such as drug trafficking, corruption, and trade-based manipulation generate significant illicit proceeds, but tracing those funds and linking them conclusively to offenders remains genuinely difficult, a challenge shared with every FIU in the world, not a uniquely Sri Lankan failing.
+
+The stakes for getting this right have rarely been higher. Sri Lanka was grey-listed by the FATF in 2017 following “strategic deficiencies” identified in its AML/CFT regime, and was subsequently blacklisted by the European Union, a designation only lifted after extensive remedial work by the FIU and Central Bank. Sri Lanka now faces its third FATF mutual evaluation, scheduled for 2026, under a revised methodology that prioritises measurable enforcement outcomes, convictions, confiscations, and inter-agency coordination, over the mere existence of laws on paper.
+
+“The bottom line, simply, is that we cannot afford to be grey-listed again,” FIU Director Dr. Subhani Keerthiratne has said. “We must somehow avoid it, because we are still recovering from the 2019 Easter Sunday attacks, the Covid pandemic, and recent economic crisis.” Grey-listing carries real economic consequences: it increases transaction costs, subjects correspondent banking relationships to stricter oversight, and reduces foreign investment, costs the Central Bank itself has acknowledged Sri Lanka cannot currently absorb.
+
+In preparation, Sri Lanka has taken concrete steps: a High-Level Task Force on AML/CFT was appointed in February 2025; the Proceeds of Crime Act, passed in 2024, gave regulators new powers to freeze and manage confiscated assets; the FIU signed information-sharing agreements with bodies including the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) and counterpart FIUs in Oman, Mongolia, Russia, Saudi Arabia, and the United States; and the UK’s HM Treasury has provided direct technical assistance ahead of the 2026 evaluation.
+
+But the landscape of illicit finance is changing faster than most regulators can track. In Part III of this series, “The Digital Underground: Forex Platforms, Cryptocurrency, AI and the New Financial Battlefield”, we turn to the technology reshaping this entire ecosystem: legitimate and fraudulent online forex platforms, the explosive growth of crypto-enabled laundering, and the artificial intelligence tools now being deployed on both sides of this contest.
+
+(The writer, a senior Chartered Accountant and professional banker, is Professor at SLIIT, Malabe. Views expressed in this article are personal.)
+
+Forensic Science: The silent guardian of justice in Sri Lanka
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

@@ -1,0 +1,19 @@
+Fake emergency loan scams on the rise; public urged to avoid suspicious links: SLCERT
+
+Colombo, July 10 (Daily Mirror) - The public has been warned to remain vigilant as fraudulent advertisements offering "instant" or "emergency" loans have once again begun circulating widely on social media, targeting people in urgent need of cash, the Sri Lanka Computer Emergency Readiness Team (SLCERT) experts warned.
+
+They said such scams typically advertise loans ranging from Rs. 5,000 to Rs. 150,000, while some claim to offer up to Rs. 500,000 without requiring documents, guarantors or collateral.
+
+SLCERT experts warned that these offers are designed to steal victims' personal information rather than provide legitimate financial assistance.
+
+Victims are usually instructed to click on a link and submit their personal details through an online application. In many cases, clicking the link or downloading an application installs malicious software, including Remote Access Trojans (RATs), which can give fraudsters control of the victim's mobile phone.
+
+Once access is gained, scammers may be able to view photographs, contacts, messages, phone numbers and other sensitive information stored on the device. Some victims are also asked to install APK files from outside official app stores, significantly increasing the security risk.
+
+Experts said the fraudsters often approve a small initial loan before persuading borrowers to take larger amounts, trapping them in a cycle of debt with excessive interest rates and unfair repayment conditions.
+
+When victims fail to repay, the scammers reportedly resort to intimidation and harassment, including contacting friends and family members using information obtained from the victim's phone to shame or pressure them into making payments.
+
+SLCERT experts urged the public not to click on suspicious loan advertisements or download applications from unverified sources, and to seek financial assistance only from licensed banks and regulated financial institutions.
+
+They also advised anyone who encounters such scams to report them to the relevant authorities and avoid sharing personal or financial information through unsolicited links.

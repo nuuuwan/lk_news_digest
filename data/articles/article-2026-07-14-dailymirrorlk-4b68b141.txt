@@ -1,0 +1,19 @@
+Brands face new visibility battle as AI search gains ground
+
+Sri Lankan businesses may need to rethink how they build their digital presence as artificial intelligence platforms increasingly influence which brands consumers discover and trust, with a new study finding that visibility on AI-powered search systems can vary dramatically even among market leaders.
+
+The findings come from ‘The State of AI Visibility in Sri Lanka 2026’, a study by Roar Global’s BrandRadar that tracked how 198 brands across six industries were surfaced and recommended by leading AI platforms including ChatGPT, Google Gemini and Perplexity over a three-month period.
+
+The report suggests that businesses may be entering a new phase of digital competition where appearing in AI-generated recommendations could become as important as ranking on traditional search engines.
+
+According to the study, editorial authority and third-party citations emerged as some of the strongest predictors of AI visibility across all industries examined, indicating that credible public information and sustained digital authority may carry greater weight in AI systems than conventional marketing efforts.
+
+“This report reflects the kind of market intelligence Roar Global aims to create,” Roar Global Founder and Chief Executive Officer Mustafa Kassim said.
+
+“As a venture builder operating across platforms, AI infrastructure and enterprise solutions, we are looking at a bigger question: how do brands get discovered when discovery is no longer limited to search engines, social platforms or paid media?” he said. The study also highlighted significant disparities in how brands are recognised across different AI platforms.
+
+Toyota and BYD maintained near-perfect consistency across ChatGPT, Gemini and Perplexity, scoring above 89 points every month with minimal variation. However, other established brands recorded sharp differences between platforms. Ceylinco General Insurance, for example, scored 89.75 on Gemini but only 12.5 on Perplexity during the same month, illustrating how a company can be highly visible on one AI system while remaining largely absent on another.
+
+The findings underscore a growing challenge for businesses as consumers increasingly use AI assistants to seek recommendations, compare products and gather information before making purchasing decisions. BrandRadar Chief Commercial Officer Prash Balakrishnan said companies need a clearer understanding of where they are visible and where gaps exist as AI-led discovery becomes more prevalent. “As AI-led discovery continues to evolve, businesses need a clearer understanding of where they are visible, where they are absent, and what actions can improve their authority across these platforms,” he said.
+
+The report covered 18 market segments across the automotive, hospitality, financial services, real estate and retail sectors, making it one of the broadest studies conducted on AI-driven brand discovery in Sri Lanka to date.
