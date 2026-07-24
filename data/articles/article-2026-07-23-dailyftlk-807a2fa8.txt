@@ -1,0 +1,35 @@
+Who really pays for digital banking?
+
+Digital transformation in banking and finance—particularly in payments and remittances—has generated enormous excitement. It has moved both customers and the industry into a new era of convenience, speed and accessibility. The term ‘digital finance’ itself emerged in the 1970s with the introduction of electronic funds transfers (EFTs). Today, it refers to the impact of digital technologies on the transformation of conventional banking and financial services into something faster, more accessible and, supposedly, cheaper.
+
+Digital finance has also encouraged fintech innovation and expanded ‘financial inclusion’. In theory, digital transformation should reduce operational costs for banks and financial institutions, while improving the quality and speed of service.
+
+Digital finance offers comfort and convenience, but customers often end up paying for the very investments made in digitisation and digitalisation. In that sense, it contradicts the common assumption that the primary purpose of digital transformation is to reduce cost. The real paradox of digital finance is that it may reduce costs for institutions while increasing costs for customers.
+
+Digital transformation is often justified through a simple economic equation: automation plus technology should reduce operational costs. In theory, banks and financial institutions should benefit from fewer physical branches, a smaller headcount for routine work, lower spending on printing and paper-based documentation, and less time devoted to manual compliance procedures.
+
+Some of these reductions are real. Digital systems can replace carbonised forms, photocopies and repetitive back-office functions. Conceptually, such savings should make financial services cheaper, faster and more accessible, thereby advancing the broader goal of financial inclusion.
+
+Yet digital finance contains an important and complex paradox. The narrative of digital transformation is built on the promise of efficiency and lower operating costs. A portion of the expense is transferred directly to the customer, while another portion is shifted within the institution itself.
+
+Customers increasingly pay for the convenience of digital finance through transaction charges, payment gateway fees, ATM withdrawal fees, platform service charges, the cost of smartphones, internet connections, mobile data and even the burden of self-service are increasingly borne by the customer. In effect, customers pay not only for the service, but also for the infrastructure required to access it.
+
+At the same time, institutions face a different burden in their cost structures. The costs of digital transformation do not disappear; they return in the form of software licensing, cybersecurity, system upgrades and the continuing expense of investing in new technology. Banks are therefore compelled to make continuous investments simply to remain competitive and technologically relevant.
+
+Digitalisation, therefore, does not necessarily remove costs from the financial system. It merely changes who pays. Institutions may reduce some internal operating expenses, but users quietly absorb part of the infrastructure cost, while institutions carry the continuing burden of maintaining and upgrading the digital ecosystem.
+
+The traditional banking model bears the cost of infrastructure—branches, staff, and paperwork—while customers effectively contribute part of the infrastructure themselves. By using their own devices, conducting self-service transactions, and completing digital verifications, customers become active participants in the operational process, yet they do so without compensation. In essence, they shoulder part of the bank’s operational burden at no cost.
+
+Digital finance has introduced a new pricing concept often referred to as the “convenience premium,” where customers effectively pay for time and convenience, even when operational costs have decreased. This premium reflects the value of features such as 24/7 accessibility, speed, and instant settlement of transactions between sender and beneficiary—regardless of holidays or branch closures.
+
+In economic terms, digital finance converts convenience into a monetisable asset, charging for the efficiency and immediacy that were once intangible benefits, while the underlying operational burden has shifted partially onto the customer.
+
+According to the World Bank, financial inclusion ensures that individuals and businesses have access to useful and affordable financial products and services—such as transactions, payments, savings, credit, and insurance—delivered in a responsible manner. This is considered essential for reducing poverty, promoting economic growth, and integrating billions of unbanked adults into the formal financial system through digital tools.
+
+Digital finance is often presented as a key driver of financial inclusion, highlighting its potential benefits to the broader public. However, in practice, this narrative can be contradictory as the growing trend of financial commercialisation tends to overshadow the strategic intent of financial inclusion.
+
+Digital finance has undoubtedly improved efficiency; however, efficiency does not automatically translate into affordability. Many institutions shift costs onto users and/or effectively redistributing costs in ways that prioritise profit within digital ecosystems.
+
+As these fees accumulate, lower-income users may end up paying proportionally more for financial services than wealthier individuals who rely on traditional banking. This phenomenon leads to a paradox often referred to as ‘Digital Financial Stratification.’
+
+In other words, while technology reduces costs, digital platforms often redefine how those costs are distributed—frequently shifting a greater share onto end users.

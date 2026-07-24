@@ -1,0 +1,19 @@
+LB CIM launches SL’s NextGen virtual debit card
+
+LB CIM, the digital lifestyle and personal finance platform powered by LB Finance PLC, has announced the launch of its latest innovation- the LB CIM Virtual Debit Card, developed in partnership with UnionPay International.
+
+As part of LB CIM’s ongoing digital transformation journey, the newly introduced Virtual Debit Card empowers customers to make fast, secure and convenient payments without the need for a physical card.
+
+Designed to support today’s digitally connected lifestyle, the solution positions LB CIM as a comprehensive financial ecosystem that seamlessly blends personal financing, payments and everyday lifestyle services into one powerful platform.
+
+The card allows customers to make payments through the LB CIM app. Its main feature is Tap to Pay, which uses near-field communication (NFC) technology to let customers walk up to any NFC-enabled terminal and pay directly from the app, with no separate digital wallet needed — a first for a local mobile application in Sri Lanka. Developed directly with UnionPay International rather than routed through a third-party wallet, the feature allows transactions to be processed entirely within the LB CIM app. The virtual card forms part of a wider plan by LB Finance PLC to bring more of LB CIM’s payment features fully in-app.
+
+The card also supports global e-commerce transactions, ride-hailing payments and online merchant payments across platforms that accept UnionPay, as well as cross-border interoperable QR payments for use in overseas markets, making it the first local mobile payment platform to offer cross-border transactions. A consumer-presented QR feature lets users generate a QR code or barcode within the app for merchant scanning.
+
+The launch caps a year of rapid growth for the platform. LB CIM’s total transaction volume exceeded Rs. 300 billion during the financial year, on more than 6 million transactions, a 55% increase in transaction count and a 173% increase in transaction volume year-on-year. The app has now surpassed 800,000 downloads.
+
+The platform’s performance was recognised with four Gold Awards at the LankaPay Technovation Awards 2026, for Most Popular Digital Payment Solution, Best Institution for Excellence in Customer Convenience, Best Institution for Financial Inclusivity, and Overall Excellence in Digital Payments.
+
+“Financial inclusion in Sri Lanka is no longer just about access to credit, it is about giving customers modern payment tools that let them participate fully in the digital economy. The Virtual Debit Card extends that reach beyond our branch network, particularly for customers who are transacting digitally for the first time,” said Janaka Ekanayake, Head of Digital Business, LB Finance PLC.
+
+The launch is accompanied by exclusive promotional offers and customer rewards for those taking up the new card, creating additional value while encouraging wider adoption of digital-first payment behaviour.

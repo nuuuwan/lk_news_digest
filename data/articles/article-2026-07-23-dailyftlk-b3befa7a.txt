@@ -1,0 +1,37 @@
+In electronics, ESG is moving from reporting to supply chain management
+
+Amid indications suggesting environmental, social, governance (ESG) is cooling across industries, for the electronics sector, we’re doubling down. For electronics manufacturers, ESG is no longer simply a reporting topic. It is becoming a supply chain management issue, a customer expectation, a capital markets concern, and a business systems challenge.
+
+That shift is being driven by a combination of market pressure and regulation. Customers want greater transparency into how products are sourced and made while investors are asking harder questions about governance, risk, and resilience. Meanwhile, regulations such as Europe’s Corporate Sustainability Reporting Directive and the Corporate Sustainability Due Diligence Directive are accelerating demand for more credible, structured, and decision-useful ESG information across the value chain.
+
+The electronics industry has an opportunity to lead in this next phase. Electronics sits at the heart of nearly every major technology transition underway today, from digital infrastructure and clean energy to mobility, healthcare, and artificial intelligence. As a result, the industry’s approach to ESG has implications far beyond its own footprint.
+
+For the electronics industry, this ESG shift matters profoundly. Electronics is one of the world’s most complex and globally distributed industries, built on multi-tier supply chains, fast innovation cycles, and deep interdependence among suppliers, manufacturers, and customers. ESG risks and opportunities rarely sit in one department or one facility. They often extend across procurement, supplier relationships, manufacturing, logistics, product design, workforce practices, business conduct, and customer requirements.
+
+That means ESG cannot be managed effectively as a standalone reporting exercise. If ESG is not embedded into operations and supply chain processes, it is not truly embedded at all. For years, ESG activity in many companies has remained fragmented, spread across legal, compliance, sustainability, investor relations, procurement, operations, human resources, and other functions. Each team may own part of the work, but no single process connects those activities into a consistent management system.
+
+In practice, that fragmentation can create gaps: supplier expectations may be inconsistent, risk assessments may not connect to purchasing decisions, data may be difficult to verify, and ESG commitments may not translate into day-to-day business action.
+
+The challenge, then, is not simply understanding ESG expectations. The challenge is operationalizing them.
+
+Electronics manufacturers need practical ways to define ESG responsibilities, assign accountability, establish governance, manage risk, engage suppliers, monitor performance, and drive continual improvement. They need ESG to function less like a standalone initiative and more like a business system.
+
+This is where industry standards can play an important role. Standards help companies create consistency, transparency, quality, and compliance across complex organizations and supply chains. They provide common language, repeatable processes, and a practical structure for turning expectations into action.
+
+That is the purpose of IPC-1401B, Environmental, Social and Governance Management System Standard, recently updated by the Global Electronics Association. The standard was developed to help electronics companies move from ESG commitments and reporting toward ESG implementation in daily operations, products, services, and value chain activities.
+
+We look at ESG in terms of the mutual impacts between a company, the environment, and society. For electronics manufacturers, those impacts occur through products and services, internal operations, value chain activities, and upstream and downstream supply chain relationships. For our sector, we consider ESG within two core concepts: responsible products and services, and responsible business conduct.
+
+Together, these concepts position ESG as part of a broader understanding of quality, one that includes not only product performance and reliability, but also environmental and social responsibility. This approach is important because it connects ESG to how electronics companies already manage complex business requirements. Manufacturers are accustomed to structured systems for quality, compliance, risk, and operational performance.
+
+For electronics manufacturers implementing ESG into operations, the pain point isn’t necessarily in having specific performance thresholds dictated: Instead, companies are seeking a practical framework to help them identify ESG risks and opportunities, establish strategies to achieve ESG ambitions, define responsibilities, implement processes, evaluate performance, and improve over time.
+
+In practice, these frameworks enable companies to move from a reactive or defensive approach to a more proactive and integrated one. Rather than responding to customer requests, regulatory demands, or supplier issues one at a time, companies can build repeatable internal processes that support better data, stronger accountability, and more consistent decision-making.
+
+For example, procurement teams can use a structured ESG management system to incorporate supplier expectations into sourcing and supplier evaluation. Operations teams can connect ESG objectives to manufacturing processes and site-level controls. Human resources can align workforce policies and training with responsible business conduct. Leadership teams can use ESG risk and opportunity analysis to inform strategy, governance, and resource allocation.
+
+This matters particularly as regulations such as CSRD, CSDDD, and other sustainability-related requirements reshape expectations for disclosure, due diligence, and governance. For the electronics industry, we need more than reporting tools: we need internal systems capable of generating credible information, supporting accountability, and linking sustainability priorities to business decisions.
+
+The broader value extends beyond compliance. The most effective ESG strategies are increasingly about building stronger, more resilient, and more competitive businesses. For electronics manufacturers, that means improving how ESG is governed, measured, and embedded across supply chains — not simply documenting it after the fact.
+
+The next phase of ESG will not be defined by who makes the boldest commitments. It will be defined by who can build the systems to deliver on them. For electronics manufacturers, that means recognising ESG as part of supply chain management, operational discipline, and long-term competitiveness.

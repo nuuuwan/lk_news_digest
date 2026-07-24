@@ -1,0 +1,57 @@
+Age of AI engineers has arrived: 99x
+
+As artificial intelligence (AI) reshapes the software industry, 99x is taking a distinctive approach by reimagining product engineering through its AI-Development Lifecycle (AI-DLC) model and Xianix, a platform designed to integrate autonomous AI agents into engineering teams. In this interview, 99x Product Engineering CEO Hasith Yaggahavita shares his perspectives with Mirror Business on the evolving role of engineers, importance of human capabilities in an AI-driven world, Sri Lanka’s growing influence in global product engineering and long-term vision guiding 99x as it navigates one of the most significant technological shifts of our time.
+
+Q 99x has spoken about moving from the traditional Software Development Lifecycle to what you now call the AI-Development Lifecycle or AI-DLC. For someone outside the technology industry, what fundamentally changes when AI becomes part of the development process from day one?
+
+The core shift is that the tasks historically considered core engineering skills, such as code generation and testing against specifications, are now being performed by AI with greater speed and quality. For service-oriented software companies, this represents a critical inflection point that requires a fundamental rethink of how the industry operates.
+
+Q Many companies are adapting to AI by adding new tools and features but 99x has reimagined the entire development process through its AI-DLC model, something only a few companies are pursuing globally. What drove this bold shift?
+
+Most 99x customers are product and platform companies that entrust us with their most critical asset, which is their core software product. In competitive global markets, commodity AI tools alone will not differentiate organisations. Real competitive advantage comes from orchestrating three things together: best-in-class processes, best-in-class people and best-in-class AI tools. That orchestration itself becomes the strategic asset.
+
+Q AI is often discussed in terms of automation and efficiency. From your perspective as CEO, where do you see the greatest human value in this transformation, particularly for engineers, creators and businesses?
+
+Human value goes beyond knowledge and skills. It centres on attributes such as courage, passion, ambition and drive, qualities that differentiate humans from AI. Engineers must evolve to provide strategic direction, bring user context and empathy and make critical decisions. These capabilities, context, direction and judgement are what professionals need to develop as AI becomes integral to workflows.
+
+Q 99x developed Xianix to support this transformation. Could you explain what Xianix is designed to solve and why platforms like this will become increasingly important in the future of product engineering?
+
+Individual productivity tools do not translate into team or product-level gains. Xianix solves this by creating central autonomous AI agents that function as team members with specific roles and responsibilities, rather than as copilots on individual machines.
+
+Organisations can build their own digital workers tailored to their needs, creating intellectual property assets rather than relying on commodity tools. This represents a fundamentally different orchestration model.
+
+Q 99x is taking Xianix to an international audience through its launch in Oslo. What does this moment represent for 99x and for Sri Lanka’s growing influence in global product engineering and AI innovation?
+
+Sri Lanka’s strength is not its scale; it is its quality, ingenuity and highly skilled workforce that is willing to challenge conventions and lead innovation.
+
+The Oslo launch signals that 99x brings that perspective to the global stage as an innovator setting direction, rather than as a service provider trying to catch up. This positions Sri Lanka at the forefront of reshaping how the software industry will operate over the next three to five years.
+
+Q There is growing discussion globally about whether AI will replace jobs. Based on what you are seeing within 99x, how do you believe AI will reshape the role of software engineers rather than diminish it?
+
+I think the discussion around AI replacing engineers misses the bigger reality. Historically, every major technological shift has increased the value of people who are able to adapt, learn and evolve alongside it.
+
+What we are seeing at 99x are two clear shifts. First, engineers need to move beyond repetitive execution and develop stronger skills in systems thinking, customer understanding, problem-solving and working alongside AI-driven systems. Second, organisations need to treat continuous reskilling and upskilling as a core business priority rather than an optional learning initiative.
+
+That is why we are investing heavily in building AI capability internally through hackathons, mentorship and AI-focused engineering training.
+
+Q Sri Lanka continues to produce exceptional technology talent, with 99x also recognised for nurturing world-class engineers. What makes Sri Lankan talent globally competitive and what qualities does 99x look for in the next generation of innovators?
+
+Two decades of working with some of the most demanding product companies in the world have shaped a certain kind of engineer here, one who is technically rigorous but also accountable, adaptable and curious. That combination is not common.
+
+What we look for now goes beyond technical ability. We look for people who are curious about the problem, not just the solution. People who want ownership, not just a task.
+
+Q As CEO of 99x Product Engineering, what is the long-term vision you are building towards? Beyond AI adoption, what kind of company do you want 99x to become over the next decade?
+
+We have themed 2026 as the ‘Year of Proximity’, emphasising closer relationships with customers, closer collaboration across markets and closer alignment between engineering, business strategy and innovation. I believe that proximity is what creates relevance and relevance is what sustains long-term impact.
+
+Q Leadership in technology today requires balancing innovation with responsibility. How do you ensure that rapid advancements in AI remain ethical, practical and genuinely beneficial for customers and society?
+
+As AI systems become more autonomous, organisations need strong human accountability built into the process. That is why our approach has always been human-centred. Even within platforms such as Xianix, AI can recommend and accelerate execution but humans remain responsible for critical decisions, product direction and oversight.
+
+Beyond business, there is also a broader social dimension. We invest in universities, mentorship programmes, hackathons and AI learning initiatives because the future of responsible AI depends on how well we prepare the next generation of engineers to work with these technologies thoughtfully and ethically.
+
+Q 99x recently received major industry awards and beyond celebrating achievement, what do these recognitions say about the culture and direction of 99x as an organisation?
+
+I think what makes these recognitions meaningful is that they come at a time when we are asking the organisation to evolve. Customer expectations are shifting and internally we are rethinking how engineering itself operates through AI-DLC, Xianix and agentic AI initiatives.
+
+What gives us confidence is how our people have responded to change and how our valued clients are endorsing our innovations. There is a strong sense of curiosity, humility and willingness to learn across the organisation. Teams are experimenting more, collaborating more closely with customers and pushing themselves beyond traditional engineering roles.
