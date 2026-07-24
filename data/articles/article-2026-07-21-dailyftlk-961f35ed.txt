@@ -1,0 +1,105 @@
+Growing into the storm
+
+Why Sri Lanka's recovery is one oil price away from the next crisis
+
+Sri Lanka grew 5.1% in the first quarter of 2026. That is a real number. The industry sector contributed 2.6 percentage points. Services added another 2.0. On the surface, this looks like a recovery that has found its footing.
+
+I want to break that narrative down — not with opinion, but with the CBSL's own data, published in the Monthly Economic Indicators and the External Sector Bulletin through May 2026. Because what those numbers show is that Sri Lanka is growing in a way that makes it more vulnerable to an external shock, not less. The recovery is real. The architecture underneath it is not.
+
+The standard national account’s identity is straightforward. GDP equals consumption, plus investment, plus government expenditure, plus net exports — exports minus imports. Most of the debate about Sri Lanka's recovery focuses on the first number and quietly ignores the last one.
+
+The CBSL's own GDP contribution data for Q1 2026 confirms what the external trade numbers reveal. Services and industry drove virtually all of the 5.1% expansion. Agriculture contributed a negligible 0.1 percentage point. And net exports — the difference between what we sell abroad and what we buy from abroad — were a drag on growth, not a contributor.
+
+Merchandise exports grew 3.4% year on year to $3.46 billion in Q1 2026. Merchandise imports surged 18.1% to $ 5.77 billion. The trade deficit widened to $ 2.31 billion from $ 1.54 billion in the same quarter a year earlier.
+
+Import growth is running at more than five times the pace of export growth. That is not a trade balance under pressure. That is a structural mismatch between how this economy grows and what it produces.
+
+The money supply data confirms the consumption driver. Narrow money M1 — the transactional balances that move the economy day to day — grew 5.5% in Q1 2026 alone. Currency in circulation rose 10.4%. Private sector credit was expanding at double-digit rates year on year before the May OPR correction. These are not investment-financing metrics. These are consumption-financing metrics.
+
+Sri Lanka is consuming its way to a 5.1% growth number and funding the difference with remittances and IMF disbursements. That is not a recovery model. That is a timeline.
+
+Oil is no longer a production input. It is a consumption item
+
+This is the single most important structural shift in Sri Lanka's vulnerability profile — and it has received almost no analytical attention.
+
+Fuel imports in Q1 2026 surged 102.9% year on year, from $ 463 million to $939 million in a single quarter.2 That is not an economy buying fuel to run factories and generate electricity at efficient scale. That is an economy that has expanded private vehicle usage, personal transport, and consumer energy consumption as the primary expression of its rising income.
+
+Read that number alongside the personal vehicle import data: up 80.4% year on year, from $ 172 million to $ 311 million in Q1 alone. These two categories together — fuel and vehicles — accounted for $ 1.25 billion of imports in a single quarter. Sri Lanka's entire merchandise export base generated $3.46 billion for the same period. We are spending 36 cents of every export dollar on vehicles and the fuel to run them.
+
+And here is the monetary policy problem. The CBSL raised the OPR by 100 basis points to 8.75% in May 2026. That was the right decision — it addresses the credit-financed consumer import channel. Every $10 per barrel increase in Brent crude adds approximately $ 120 to 150 million per quarter to Sri Lanka's import bill — roughly a quarter to a third of the entire current account surplus for Q1 2026. That is the shock absorber the rate cycle cannot build.
+
+The remittance paradox: counting someone else's success as our own
+
+The one genuine bright spot in the Q1 2026 external sector data is workers' remittances. Secondary income inflows grew 27.7% to $ 2.26 billion in Q1 2026 — the principal reason the current account remains in surplus despite the trade deficit widening by $ 770 million
+
+I do not want to diminish that contribution. Every Sri Lankan working abroad and sending money home is making a real sacrifice, and their remittances have been the structural buffer that kept the external sector from deteriorating faster. The Central Bank is right to acknowledge it.
+
+Sri Lanka's 5.1% GDP growth in Q1 2026 is real. So is the fiscal consolidation. So is the reserve recovery. These achievements should be acknowledged — they required genuine policy discipline in difficult circumstances. But the structural fault lines are widening, not closing. A significant deterioration in the merchandise trade deficit in a single year. Import growth at five times the pace of export growth
+
+But we need to be honest about what we are celebrating. A $ 2.26 billion quarterly remittance inflow is Sri Lanka exporting its most skilled and ambitious people to generate foreign exchange that finances domestic consumption. We are solving a balance of payments problem by borrowing human capital from our own future. And we are proud of it — which is, when you hold the logic to the light, a deeply paradoxical position for a country in its seventeenth IMF program.
+
+Compare: FDI inflows in Q1 2026 were $ 184 million. Remittances were $ 2.26 billion. We are attracting twelve times more in remitted wages than in productive foreign investment. Vietnam, which had a comparable per capita income to Sri Lanka in 1995, now receives more FDI in a single month than Sri Lanka receives in a year — because Vietnam made different choices about what kind of foreign engagement it would build its growth model around.
+
+The weak rupee fallacy: fifty years of evidence and nothing to show for it
+
+Every external sector crisis Sri Lanka has experienced has been followed by the same policy reflex: let the rupee weaken, appease the export lobby, and wait for the trade balance to correct. The theory is straightforward — a cheaper currency makes exports more competitive and imports more expensive, closing the deficit. The evidence, accumulated across five decades, is that this theory does not work for Sri Lanka. It has never worked.
+
+Now look at the counter-evidence. Singapore has appreciated the SGD against the dollar significantly since 2002. The Monetary Authority of Singapore manages the exchange rate as a deliberate anti-inflation instrument — not as an export subsidy. Singapore's exports grew from approximately $ 130 billion in 2002 to over $ 500 billion by 2023. Pharmaceutical exports, semiconductor supply chain integration, precision engineering — none of these compete on price. They compete on capability.6
+
+The difference is not that Singapore had better luck. The difference is that Singapore made a strategic decision in the 1970s to move up the value chain — to build industries where the buyer has no alternative, rather than industries where the buyer can always find someone cheaper. That decision shaped everything: the education system, the investment promotion framework, the capital market architecture, and the exchange rate regime. The strong SGD was not a constraint on that strategy. It was an enabler of it — keeping production input costs low, holding inflation stable, and signaling to international capital that Singapore was a reliable place to deploy long-horizon investment.
+
+Sri Lanka made the opposite choice, repeatedly, for fifty years. And the evidence is in the trade data.
+
+Sri Lanka is currently in its seventeenth IMF program since 1965. That statistic deserves to sit alone for a moment, because it contains a structural indictment that no amount of positive short-term data can dissolve. The IMF program works. Stabilisation happens. The reserves recover. The rupee finds a floor. Growth returns. And then, within a cycle or two, the same combination of expansionary fiscal policy, loose monetary conditions, import-intensive consumption growth, and external shock vulnerability produces the next crisis.
+
+The current program has achieved real things. The primary fiscal surplus is running ahead of target — revenue for January to February 2026 grew 35.5% year on year while recurrent expenditure grew only 1.5%, producing a meaningful consolidation in two months.7 The IMF's Fifth and Sixth EFF reviews were completed in May 2026, releasing $ 695 million and bringing total disbursements to $2.4 billion. Gross official reserves stand at $ 6.8 to 6.9 billion, providing reasonable import cover. Inflation, at 5.4% CCPI in April 2026, is within the CBSL's target band.
+
+But stabilisation and transformation are different things. What the program does not and cannot do is restructure the underlying growth model. Sri Lanka can stabilise on an IMF program every decade. The question that has never been answered in sixteen previous attempts is: what do we do between the program to make the next one unnecessary?
+
+The answer has to be structural. And it has three components that no monetary policy decision can deliver.
+
+The architecture of a different growth model: three structural imperatives
+
+First: Build the export base around what you cannot outsource, not what you can undercut.
+
+Sri Lanka's BOI framework, as it currently operates, attracts manufacturing investment primarily on the basis of cost competitiveness — labour arbitrage, tax holidays, and cheap power. These are second-order incentives in a world where Bangladesh, Myanmar, and Cambodia are competing on the same dimensions at lower wage floors. Tax holidays do not win investment decisions when first-order factors — logistics reliability, contract enforcement, power supply consistency, regulatory predictability — are absent or inferior to regional alternatives.
+
+The model that works in Asia is not generic manufacturing. It is sector-specific industrial clustering with long-horizon policy commitment. Penang in Malaysia decided in the 1970s that it would become a semiconductor and electronics manufacturing hub. That decision was backed by three decades of infrastructure investment, skills development, and regulatory consistency. Today Penang hosts Intel, Motorola Solutions, and a supply chain ecosystem that could not be relocated without a decade of transition. The investment is sticky because the capability is genuine.
+
+Sri Lanka's geography provides a starting point that Penang did not have: a natural deep-water harbour at the intersection of two of the world's busiest shipping routes. The Colombo transshipment business already handles volumes that rank it among the top twenty container ports globally. That is the foundation. The question is what you build on top of it.
+
+Colombo could be Jebel Ali. The Dubai free zone model — a logistics anchor around which manufacturing, warehousing, financial services, and professional services cluster — is directly replicable in the Sri Lankan context. It requires a dedicated free zone with its own regulatory framework, world-class infrastructure built on PPP terms, and an investment promotion mandate focused on specific sectors rather than any investor willing to sign a BOI agreement. The Colombo Port City project is a partial attempt at this logic. But it is finance-sector focused and has not yet created the manufacturing and logistics cluster effect that the Jebel Ali model generates.
+
+Second: Invite capital to build the zones, not just to occupy them.
+
+One of the most persistent constraints on Sri Lanka's industrial development is that the government has neither the balance sheet nor the project execution capability to build world-class industrial infrastructure at the pace and quality required to attract tier-one investors. The answer is not to try harder with the same model. The answer is to change the model.
+
+The Batam Island free trade zone — established as a joint venture between Singapore and Indonesia in 1990 — is the relevant Asian case study. Singapore provided capital, management expertise, and the regional investor network. Indonesia provided land, labour, and regulatory commitment. Batam became a significant electronics and precision engineering manufacturing location precisely because it combined Singaporean standards with Indonesian cost advantage under a governance framework both parties had reason to protect.
+
+The choice is not between growth and stability. It is between growing in a way that makes the next crisis inevitable and growing in a way that makes it less likely. The CBSL data makes clear which path we are currently on
+
+Sri Lanka's regional equivalent is an India partnership. The ETCA — the Economic and Technology Cooperation Agreement with India — has stalled for political reasons that serve no economic logic. India's southern manufacturing corridor, anchored around Tamil Nadu and Karnataka, is expanding. Sri Lanka, 28 kilometres off the coast of Tamil Nadu, is the natural offshore processing and logistics complement. A genuine goods and services trade agreement, backed by dedicated bilateral industrial zones with Indian and Sri Lankan PPP co-investment, would position this country inside one of the world's fastest-growing supply chain ecosystems at a moment when that ecosystem is actively looking for nearshore capacity.
+
+The PPP model for the zones should include a specific capital market exit mechanism: foreign investors who commit to a minimum operating period of seven years in a qualifying zone should be eligible to list on the Colombo Stock Exchange at the end of that period. This brings patient capital, creates listed equity product for domestic institutional investors, and deepens the CSE's industrial base — which currently skews heavily toward banking and consumer sectors. The structure needs to connect them to productive assets, not just to financial sector growth.
+
+Third: Restructure the SOEs — not to solve a fiscal problem, but to build a foreign exchange engine.
+
+Sri Lanka's designated SOEs — CPC, CEB, SriLankan Airlines, the port authorities — are simultaneously the largest sources of import demand in the economy and the largest potential generators of USD-denominated equity value. That combination is not a coincidence. It is the core of what needs to change.
+
+CPC's fuel import bill is the single largest line item in Sri Lanka's trade deficit. CEB's generation deficit — the gap between installed capacity and peak demand, filled by expensive emergency generation — is a direct drag on the competitiveness of every manufacturer in the country. These are not fiscal problems with fiscal solutions. They are structural import dependencies that can only be resolved by changing the energy production model.
+
+The renewable energy PPP model — private capital builds solar and wind capacity, the state retains transmission infrastructure ownership, USD-denominated power purchase agreements provide the investor return — directly reduces fuel import dependency, generates foreign exchange, and creates investable asset classes in the Sri Lankan market. The Adani exit from the $ 400 million northern wind project is a cautionary data point here: when a government renegotiates a signed contract with a strategic investor, the sovereign risk premium it creates accrues to every subsequent transaction. One completed PPP deal, transparently tendered, fully delivered, and contractually enforced, does more for Sri Lanka's investment credibility than any amount of international roadshow activity. The market watches what you do, not what you announce.
+
+Sri Lanka's 5.1% GDP growth in Q1 2026 is real. So is the fiscal consolidation. So is the reserve recovery. These achievements should be acknowledged — they required genuine policy discipline in difficult circumstances.
+
+But the structural fault lines are widening, not closing. A significant deterioration in the merchandise trade deficit in a single year. Import growth at five times the pace of export growth. Fuel and vehicle imports consuming 36 cents of every export dollar. A current account surplus that is 44% smaller than a year ago and is being held together by remittances rather than productive export growth. FDI of $ 184 million in a quarter when the trade deficit ran $ 2.31 billion.
+
+A $ 25 per barrel oil price increase erases the current account surplus. Another Middle East escalation, another OPEC supply cut, another global demand recovery — any of these produces that price move within months. Sri Lanka has no structural defence against that scenario, because it has not built one.
+
+The lesson of sixteen previous IMF programs is that stabilisation is not transformation. Sri Lanka can grow at 5% on consumption and remittances and arrive at the next crisis faster than the previous one, because the import bill of a higher-income economy is larger than the import bill of a lower-income economy. Or it can use this window — while the IMF program provides fiscal discipline, while the capital markets are functional, while regional supply chains are actively reconfiguring — to build the export base, attract productive capital, and create private sector labour markets that begin to substitute for a government payroll the country cannot afford.
+
+The choice is not between growth and stability. It is between growing in a way that makes the next crisis inevitable and growing in a way that makes it less likely. The CBSL data makes clear which path we are currently on.
+
+The storm is not a forecast. It is a structural condition. The question is whether we grow into it or grow past it.
+
+(The author is a Chartered Financial Analyst with 25 years of experience in Corporate Finance, Investment Banking, and Restructuring. The views expressed are the writer's own and do not represent institutional endorsements)

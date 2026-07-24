@@ -1,0 +1,31 @@
+Sri Lanka to deploy AI-driven ‘horizontal lending rail’ to democratise credit access
+
+​Govt. to integrate AI with CRIB’s framework to establish ‘horizontal lending rail’ that connects micro-enterprises directly to mainstream finance
+
+​Shift from static physical collateral to dynamic digital footprints aims to democratise credit access and transform perceived borrower risk into verifiable trust
+
+The government is rapidly advancing a comprehensive digital economy blueprint designed to dismantle long-standing barriers to finance, with plans to introduce an artificial intelligence-powered horizontal lending rail that will connect micro-enterprises directly to mainstream credit markets, revealed Dr. Hans Wijayasuriya, Chief Advisor to the President on Digital Economy.
+
+Delivering the keynote speech at the launch of the Credit Information Bureau of Sri Lanka’s (CRIB) customer-focused mobile application, myCRIB in Colombo last Friday, Dr. Wijayasuriya outlined that the ongoing digital transformation relies heavily on establishing robust Digital Public Infrastructure (DPI) to ensure seamless interoperability across various sectors of the national economy.
+
+Dr. Wijayasuriya explained that integrating CRIB’s established framework with advanced AI will fundamentally alter how credit risk is assessed, effectively transforming what lenders previously perceived as risk into verifiable trust.
+
+“By combining it with AI, you will have the top of the pyramid to the bottom of the pyramid - from large enterprises to micro-SMEs - connecting using a trusted certificate. It opens up access to finance,” he stated.
+
+This structural shift is expected to unlock capital for communities, startups, and small businesses that have historically operated outside the formal banking sector due to a lack of physical assets.
+
+The digital economy blueprint envisions a fully connected, inclusive ecosystem built on multiple horizontal and vertical technological layers. Central to this strategy is the imminent rollout of a foundational Digital ID, integrated with the National Register of Persons to include biometric data and digital credentials.
+
+This registry will serve as the backbone for various applications, primarily authentication, enabling a frictionless citizen experience. Dr. Wijayasuriya pointed out that DPIs are critical for eliminating the inefficiencies currently experienced in financial and government transactions, moving the country away from siloed operations.
+
+“These DPIs provide for interoperability, meaning that you do not need to visit every institution separately. Today we do that physically, but even in the digital world, you should not have to do that,” he noted.
+
+By utilizing a national data exchange, information will flow securely between institutions and individuals, strictly governed by policy and user consent. This unified digital stack will allow citizens to access a multitude of services through a single gateway, significantly reducing administrative bottlenecks and operational costs for both the government and the private sector.
+
+Drawing parallels to the disruptive impact of digital ride-hailing platforms, Dr. Wijayasuriya illustrated how horizontal digital platforms naturally democratise access to resources, allowing both the provider and the consumer to build reliable digital scores that mobilize economic activity at the grassroots level.
+
+This dynamic marks a significant transition from traditional lending models to an AI-driven horizontal rail. While traditional models rely heavily on static, physical collateral and disproportionately favor large corporate clients through siloed processing that requires multiple physical visits, the new horizontal rail utilizes dynamic digital footprints and verifiable data. This structural evolution bridges the gap between micro-SMEs and top-tier lenders by providing interoperable, seamless digital single-window access.
+
+When applied to the financial sector, this dynamic means that every Sri Lankan citizen, equipped with a Digital ID and participating in the ecosystem, will generate a comprehensive digital footprint. This footprint, synthesised through AI and data exchange, will provide financial institutions with a highly accurate, data-driven profile of potential borrowers.
+
+The launch of the myCRIB app is viewed as a pivotal first step in this broader agenda, aligning with the core design objectives of the digital economy blueprint to ensure inclusion, trust, and a left-no-one-behind perspective. By prioritising a seamless, mobile-first experience, the initiative aims to foster digital literacy and encourage the wider adoption of digital financial tools across the country.  As the government continues to lay the building blocks of this digital ecosystem, the banking and finance industry is expected to leverage these new rails to transition away from traditional, collateral-heavy lending, ultimately ensuring that capital reaches the most productive and deserving segments of the economy.
