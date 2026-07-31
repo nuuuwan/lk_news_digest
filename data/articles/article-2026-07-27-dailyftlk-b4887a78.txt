@@ -1,0 +1,85 @@
+Online casinos: Sri Lanka’s offline tax net is missing the online jackpot
+
+Estimates cited in parliamentary discussions and industry reports suggest that annual online wagering volumes may amount to tens of billions of Rupees, although comprehensive official data is not publicly available. Most of that money flows through unofficial channels, crypto wallets and foreign payment processors. The six licenced physical casinos operate under strict rules and contribute annual levies and taxes. The far larger online segment contributes almost zero
+
+Offshore online casinos and betting platforms are quietly draining billions from Sri Lankan wallets while the State collects almost nothing.
+
+Parliamentary disclosures in 2025 and 2026 put the figure starkly: 60–70% of gambling activity now happens online, much of it on foreign sites. Licenced land-based casinos pay up. The digital free-riders do not. This is not a minor leak. It is a structural failure that turns Sri Lanka into what the Committee on Public Finance has called an “international illegal gaming hub.”
+
+Estimates cited in parliamentary discussions and industry reports suggest that annual online wagering volumes may amount to tens of billions of Rupees, although comprehensive official data is not publicly available. Most of that money flows through unofficial channels, crypto wallets and foreign payment processors. The six licenced physical casinos operate under strict rules and contribute annual levies and taxes. The far larger online segment contributes almost zero. The costs extend beyond lost tax revenue to include risks associated with underage participation, inadequate consumer protections, and potential money-laundering vulnerabilities, issues that policymakers have linked to Sri Lanka's FATF compliance obligations.
+
+First, pure offshore platforms have no physical footprint in Sri Lanka. They need neither a local company nor a local server. Existing tax statutes struggle to assert jurisdiction when the operator sits outside the country.
+
+Second, payment rails are deliberately opaque. Crypto, foreign e-wallets and layered intermediaries hide the trail. VPN use further blurs the location of the player.
+
+Third, enforcement tools were designed for brick-and-mortar casinos. The Inland Revenue Department can assess a known local operator. It cannot easily identify, serve or collect from a website that appears and disappears across jurisdictions.
+
+The Betting and Gaming Levy Act No. 40 of 1988 rDoes the Act reach online platforms?
+
+emains the primary instrument. It charges every person who carries on the business of a bookmaker or of gaming in Sri Lanka, whether lawfully or unlawfully, an annual levy. Each physical location is treated as a separate business. Bookmakers using the internet face a fixed annual levy of five million Rupees when operating through agents or live telecast; lower amounts apply without those features. Gaming (including casinos) attracts a much higher fixed annual levy, five hundred million Rupees from April 2023.
+
+A monthly gross-collection levy sits on top: 15% until the end of 2025, rising to 18% from 1 January 2026 for operators whose monthly collections exceed one million Rupees.
+
+Casino entrance levies doubled to USD 100 (or equivalent) from the same date. Payment of the gross-collection levy displaces VAT and the Social Security Contribution Levy on those receipts.
+
+Registration with the Inland Revenue Department is mandatory. Failure is a criminal offence carrying fines up to ten million Rupees or imprisonment. Quarterly returns and monthly remittances are required. Penalties for default start at 10% and escalate, capped at 50% of the principal for most modern levies.
+
+Parliament enacted the Gambling Regulatory Authority Act No. 17 of 2025, establishing a unified regulator for gambling activities. Government officials informed the Committee on Public Finance that the Authority was expected to commence operations by 30 June 2026 and would oversee both physical and online gambling while strengthening regulatory and anti-money-laundering controls. The effectiveness of the new framework will ultimately depend on implementation, institutional capacity, enforcement tools and the Authority's ability to address offshore operators
+
+In theory, yes. The definition of “bookmaker” explicitly includes activity via the internet. Any platform that “carries on business” in Sri Lanka falls inside the net. In practice the test is hard to meet for a pure offshore operator with no local staff, no local bank account and no local marketing entity. The Act can tax a local agent or a server farm inside the country. It struggles against a website that never sets foot on Sri Lankan soil.
+
+The Value Added Tax (Amendment) Act No. 14 of 2026 introduced a new Chapter on digital services effective 1 July 2026. Non-resident providers of services through electronic platforms must register if supplies to Sri Lankan recipients exceed Rs. 60 in twelve months or fifteen million in a quarter.
+
+A recipient is deemed Sri Lankan when two or more indicators are present: local billing address, payment through a Sri Lankan bank or instrument, or a Sri Lankan IP address. Supplies to already-registered businesses are generally outside the charge.
+
+The interaction between the new digital-services VAT regime and gambling-specific tax provisions may require further administrative guidance and practical clarification.
+
+The gross-collection levy continues to displace ordinary VAT and the Social Security Contribution Levy for operators who pay it.
+
+A foreign operator may become subject to Sri Lankan income tax where its activities create a taxable presence in Sri Lanka under the Inland Revenue Act and any applicable tax treaty.
+
+Player winnings are theoretically taxable under the Inland Revenue Act, but practical collection from thousands of small online winners is near impossible without data-sharing from the platforms themselves.
+
+India took a harder line. GST is levied at 28% on the full face value of bets on online gaming platforms, not merely on the operator’s commission. The Supreme Court upheld this approach and the retrospective claims that followed. A separate 30% tax is withheld on player net winnings. In Sri Lanka player winnings are theoretically taxable under the Inland Revenue Act, but practical collection from thousands of small online winners is near impossible without data-sharing from the platforms themselves
+
+Sri Lanka's gambling laws were largely developed around physical casinos and traditional betting activities. As online gambling expanded, significant regulatory and tax-enforcement gaps emerged. The Betting and Gaming  Amendment Act No.11 of 2023 expanded the definition of “Bookmaker” to cover a person who receives or negotiates bets via the internet.  Recent parliamentary discussions have highlighted the need for a dedicated framework to regulate digital gambling and improve revenue collection.
+
+Parliament enacted the Gambling Regulatory Authority Act No. 17 of 2025, establishing a unified regulator for gambling activities. Government officials informed the Committee on Public Finance that the Authority was expected to commence operations by 30 June 2026 and would oversee both physical and online gambling while strengthening regulatory and anti-money-laundering controls.
+
+The effectiveness of the new framework will ultimately depend on implementation, institutional capacity, enforcement tools and the Authority's ability to address offshore operators. Recent increases in gambling-related levies and the establishment of the Gambling Regulatory Authority signal a stronger policy focus on the sector. However, regulatory success will depend on adequate staffing, technical capability and effective enforcement against offshore platforms serving Sri Lankan customers.
+
+India took a harder line. GST is levied at 28% on the full face value of bets on online gaming platforms, not merely on the operator’s commission.
+
+The Supreme Court upheld this approach and the retrospective claims that followed.
+
+From May 2026 the Promotion and Regulation of Online Gaming Act bans online money games altogether, skill or chance. Authorities use Section 69A of the Information Technology Act to order blocking of offshore sites and advertise aggressively against them.
+
+Even so, leakage continues. Offshore operators still advertise through influencers and social media. India’s experience shows that high rates and bans push some activity underground or offshore rather than eliminating it. Sri Lanka’s lighter specialised-levy model may prove more sustainable if paired with effective local-presence rules and payment controls.
+
+Sri Lanka does not lack legal tools. The Betting and Gaming Levy Act, the new digital VAT rules and the forthcoming Gambling Regulatory Authority give the State the instruments it needs. What has been missing is the political and administrative will to apply those instruments to platforms that never appear in a Colombo office
+
+Several concrete measures can convert legal liability into actual revenue.
+
+Require every operator targeting Sri Lankan players to incorporate locally and host critical servers or payment processing inside the country.
+
+The new Gambling Regulatory Authority already has the statutory power; it must use it.
+
+Restrict local banks, payment gateways and telecom operators from processing transactions with unlicenced offshore platforms.
+
+Payment-blocking has proven more effective than website-blocking alone in several jurisdictions.
+
+Accelerate data-sharing agreements with major payment processors and tax authorities in common licensing hubs. Mutual assistance is slow, but essential.
+
+Enforce the new digital-services VAT rules against platforms that exceed the statutory registration thresholds, and issue clear guidance on how those rules interact with gambling-specific taxes and levies applicable to online gambling operators.
+
+Invest in real-time monitoring tools that detect Sri Lankan traffic patterns and flag high-volume operators for assessment.
+
+Public education campaigns that highlight both the tax loss and the consumer risks of unregulated platforms can reduce demand.
+
+Sri Lanka does not lack legal tools. The Betting and Gaming Levy Act, the new digital VAT rules and the forthcoming Gambling Regulatory Authority give the State the instruments it needs. What has been missing is the political and administrative will to apply those instruments to platforms that never appear in a Colombo office.
+
+Every month of delay is another month of revenue that never reaches the Treasury and another cohort of young users exposed to unregulated risk.
+
+The offshore platforms will not voluntarily start paying. They will leave only when the cost of staying invisible exceeds the profit of operating without a licence. Closing that gap is no longer a technical tax question. It is a test of whether Sri Lanka can govern its own digital economy.
+
+(The author, an Attorney-at-Law (LLB), FCMA(UK), CGMA, FCMA, was awarded Tax Practice Leader of the Year 2024 (ASPAC) by International Tax Review (ITR) and was a top-four finalist for Tax Litigation and Disputes Practice Leader of the Year)

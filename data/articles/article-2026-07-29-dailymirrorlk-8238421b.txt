@@ -1,0 +1,17 @@
+DMS implements DMS-IMAGO at HSBC Sri Lanka
+
+DMS Software Engineering (Pvt) Ltd (DMS) has announced the implementation of its flagship DMS-IMAGO platform at HSBC Sri Lanka, marking another milestone in the company’s journey as a trusted provider of enterprise-grade banking technology solutions.
+
+The implementation further reinforces DMS’ growing reputation as a fintech partner capable of delivering scalable, future-ready infrastructure to global financial institutions.
+
+Commenting on the milestone, Baheerathan Thillaiampalam, Director and General Manager of DMS Software Engineering, said, “The successful implementation of DMS-IMAGO at HSBC Sri Lanka reflects the confidence global banking institutions place in our technology and engineering capabilities. We remain committed to developing secure, future-ready banking solutions that help financial institutions improve efficiency, strengthen compliance, and prepare for the evolving demands of modern banking.”
+
+Developed as a comprehensive Cheque Image Clearing Solutions, DMS-IMAGO is designed to streamline and modernize cheque processing and clearing operations. The platform digitizes and automates the entire cheque clearing lifecycle, transforming traditional paper-based workflows into a secure, image-driven digital process that enables banks to improve operational efficiency, strengthen compliance, reduce manual intervention, and enhance processing accuracy within highly regulated banking environments.
+
+DMS-IMAGO provides end-to-end functionality across inward and outward clearing, inward and outward returns, postdated cheque processing, and transfer cheque management. Supporting both LKR and USD clearing operations, the platform can operate within centralized, decentralized, or hybrid banking environments depending on operational requirements.
+
+Within the inward clearing cycle, the system downloads cheque images and clearing data received from the Clearing House, segregates images based on predefined criteria, and enables image scrutiny and signature verification to identify technical returns.
+
+Through direct integration with Core Banking Systems (CBS), the solution validates accounts, identifies fund-based returns, and generates outward return submissions while automated validations, duplicate detection mechanisms, repair workflows, maker-checker controls, and structured authorization processes help reduce operational risk and processing delays.
+
+Within the outward clearing cycle, the platform captures cheque images through image-clearing devices, extracts MICR data, generates clearing files in the required formats, and facilitates secure electronic transmission to the Clearing House. The system also reconciles inward return information against outward clearing data, improving visibility and operational control across time-sensitive clearing operations aligned with T+1 and LankaClear compliance requirements.

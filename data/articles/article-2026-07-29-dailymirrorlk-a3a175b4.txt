@@ -1,0 +1,11 @@
+Why is there no Electronic Toll Collection at Kadawatha highway exit?
+
+The Electronic Toll Collection (ETC) system introduced by the Road Development Authority (RDA) is a commendable initiative that enables motorists to pass through expressway toll gates without stopping to make cash payments. It saves time, reduces congestion, and promotes digital transactions.
+
+However, the Kadawatha tollgate does not yet support Electronic Toll Collection. Without a receipt or proof of transaction, certain passengers have been thoroughly inconvenienced.
+
+A practical interim solution would be for the ETC system to automatically send an SMS or mobile notification immediately after each transaction, indicating the point of entry, date, time, vehicle registration number, and toll amount deducted. Such confirmation would serve as proof of payment whenever required.
+
+In addition, motorists should be clearly informed through highway signage, the ETC registration process, and public awareness campaigns that the Kadawatha interchange has not yet been integrated into the ETC network. This would enable drivers to make informed decisions and avoid unnecessary inconvenience and duplicate payments.
+
+As Sri Lanka continues to embrace digital infrastructure, the Electronic Toll Collection system should function seamlessly across the entire expressway network. Until the Kadawatha interchange is upgraded, these simple measures would significantly improve customer convenience and enhance public confidence in the ETC system.

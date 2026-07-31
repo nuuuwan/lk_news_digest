@@ -1,0 +1,15 @@
+Google rolls out new selfie video sign-in feature
+
+Straits Times - Google on July 23 launched a new selfie video sign-in feature, allowing users another option to log in to their accounts or recover them in case they are locked out due to forgotten passwords or lack of access to their preferred devices.
+
+The Alphabet-owned company will allow users to set up verification by recording a brief video of themselves performing guided head movements that would capture multiple angles. Google will then save the recording and use it to authenticate the live videos that users upload during their sign-in attempts later on.
+
+While the new feature could provide stronger protection against fraud and better account recovery options for users, especially in cases of lost or stolen devices, it could also raise some concerns around privacy and biometric data collection.
+
+Google said that the selfie video is stored with the user’s consent, and the user has the option to delete it at any time in their Google account. The video will be used only for sign-in purposes, unless the user opts in to share it for additional use cases, the company said.
+
+The company added it uses several security checks to detect impersonation attempts, including deepfakes, by comparing a new recording with the saved selfie video and requiring users to perform movements that confirm the video is live.
+
+The feature is available to eligible Google Account users from July 23.
+
+Companies currently rely on trusted devices, registered phone numbers, recovery contacts and two-factor authentication for account-recovery procedures. Biometric and facial recognition have long been a subject of privacy concerns.

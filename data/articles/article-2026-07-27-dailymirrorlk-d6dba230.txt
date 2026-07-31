@@ -1,0 +1,21 @@
+Legal experts flag unique compliance landscape in staggered PDPA rollout
+
+President gazettes January 1, 2027, as effective date for core data controller and processor obligations
+
+Deferment of data subject rights and administrative penalties creates temporary enforcement gap, offering crucial transition window
+
+The enforcement of Sri Lanka’s Personal Data Protection Act (PDPA) No. 9 of 2022 has taken a definitive step forward with a recent gazette notification declaring January 1, 2027, as the operational date for several key sections.
+
+Issued by President Anura Kumara Dissanayake in his capacity as Minister of Digital Economy on July 22, 2026, under Gazette Extraordinary No. 2498/16, the directive brings a staggered approach to data privacy enforcement.
+
+This establishes core obligations for data controllers and processors while deferring certain data subject rights and penal provisions.
+
+Legal experts note that this phased rollout creates an unusual yet practical enforcement environment. Dushyantha Perera, Partner and Head of Corporate and Commercial Law at Sudath Perera Associates, describes the gazette as a “significant development in the data privacy framework in Sri Lanka”. He highlights that “controllers and processors will soon be subject to legally enforceable obligations relating to the collection, processing, disclosure and governance of personal data”. Concurrently, the Data Protection Authority (DPA), which has been operational under Part V since July 2023, will be fully enabled to exercise its supervisory and enforcement functions.
+
+The impending 2027 deadline does not activate all aspects of the PDPA. Perera points out that Part II of the Act, which governs the rights of data subjects, is yet to be brought into force. This means “statutory rights of data subjects such as access, rectification, erasure, objection and appeal to the DPA are not yet enforceable”. Likewise, Part IV, regulating the dissemination of solicited messages, and Part VII, concerning administrative penalties, have also been deferred.
+
+According to Perera, “this development ‘appears’ to create an interesting and somewhat unusual compliance/enforcement landscape”. He notes that while the DPA can potentially inquire into and issue directives regarding failures by controllers and processors to comply with obligations under Part I or III, its punitive powers are restricted. This oversight can potentially extend to awarding compensation to persons who have suffered harm, loss, or damage due to contraventions of the relevant provisions by controllers and processors. However, because Part II is not in force, it does not extend to the statutory rights of data subjects under that part of the Act.
+
+Furthermore, without Part VII in operation, “the DPA will not have the power to impose administrative penalties on non-compliant organizations” starting from January 1, 2027. Despite this limitation, legal professionals and digital policy analysts commend the staggered approach. Perera states, “This incremental/staggered approach to implementation of the Act does, however, make sense and is commendable”. He warns that organizations now have a legally binding obligation to start establishing their privacy compliance frameworks, as they will potentially be in violation of Sri Lanka’s generally applicable data protection law come the new year if they do not comply. Deferring the imposition of data subject rights allows organizations to first establish these vital initial structures.
+
+Industry analysts echo this sentiment, emphasizing that this window sends a clear signal to build sustainable privacy governance rather than treating the new year merely as a hard compliance deadline. The DPA will still wield considerable influence, including conducting compliance evaluations, issuing course corrections, and executing compensation directives under section 35 of the Act, albeit without immediate administrative penal authority. (NF)

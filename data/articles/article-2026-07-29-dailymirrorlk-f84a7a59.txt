@@ -1,0 +1,127 @@
+Saving Seconds, Saving Lives:  The Sri Lankan Doctor Behind a Life-Saving Invention
+
+Sri Lankan Anaesthetist Dr. Kumaru Wijeratne Develops the Pocket-Sized Rapid Intubation Detector to Instantly Confirm Airway Placement  and Save Critical Lives Worldwide
+
+“In anaesthesiology, every second is precious because it can determine a patient’s life. If I can save those few precious seconds, I will consider my journey worthwhile.”
+
+“Professor Archie Brain noted that this simple approach has the potential to overcome the practical limitations of gold-standard capnography used worldwide.”
+
+Prof. Dr. Archie Brain (Left) and Dr. Kumaru wijeratne (Right) at WAMM – 2025 Florance, Italy
+
+In emergency medicine and surgery, confirming proper endotracheal tube placement is a matter of life and death. Traditional gold-standard capnography takes roughly 30 seconds and carries risks of gastric inflation or delayed detection. Dr. Kumaru Wijeratne, an anaesthetist at the National Hospital of Sri Lanka, has spent five years developing a ground-breaking solution: the Rapid Intubation Detector (RID). By measuring tissue resistance differences between the trachea and esophagus, this compact, affordable device confirms correct positioning in under one second without artificial ventilation. Internationally patented and acclaimed by leading global experts, Dr. Wijeratne’s invention promises to revolutionize emergency airway management worldwide.
+
+I am an old boy of Nalanda College, Colombo. After completing my secondary education, I entered the Faculty of Medicine (Ragama), University of Kelaniya, where I obtained my first medical degree.
+
+Throughout my 15-year medical career, I have had the privilege of serving at several hospitals, including Vavuniya General Hospital, Mankulam Base Hospital, and Negombo General Hospital. I have been working as an anaesthetist at the National Hospital of Sri Lanka, Colombo, for the past 11 years while pursuing my postgraduate training in anaesthesiology at the University of Colombo.
+
+Beyond my clinical work, I have always had a strong passion for invention. From a young age, I was fascinated by solving practical problems and developing new ideas. That lifelong curiosity eventually inspired me to create this medical device, with the goal of improving patient safety and advancing healthcare in Sri Lanka and internationally.
+
+QMany people know about the surgeon who performs an operation, but public awareness of the role of an anaesthetist is relatively low. Why is that?
+
+A surgical operation is a team effort. While many people believe that the surgeon alone is responsible for a successful operation, the anaesthetist plays a critical role in ensuring the patient’s safety throughout the entire procedure.
+
+An anaesthetist is a highly trained specialist medical doctor responsible for administering anaesthesia and safeguarding the patient’s well-being. Their responsibility begins well before the operation. Before surgery, the anaesthetist carefully assesses the patient, evaluates the risks, and develops a bespoke anaesthetic plan to ensure the safest possible care.
+
+This responsibility continues throughout the operation and into the recovery period. During surgery, the anaesthetist administers anaesthesia, continuously monitors the patient’s breathing, blood pressure, heart function, and oxygen levels; provides the necessary medications, intravenous fluids, and blood when required; manages pain during and after surgery; and responds immediately to any life-threatening emergency that may arise.
+
+In other words, the anaesthetist is responsible not only for keeping the patient asleep but also for continuity of life, thereby monitoring the patient’s vital organ functions throughout the operation.
+
+Therefore, it is no exaggeration to say that the safe and successful performance of surgery depends not only on the surgeon’s technical expertise but also on the anaesthetist’s ability to maintain the patient’s physiological stability and respond rapidly to unexpected complications.
+
+From a young age, I have had a strong interest in emergency medical care, critical thinking, and patient safety. Anaesthesiology is a speciality that brings together general medicine, pharmacology, physiology, physics, technology, and rapid clinical decision-making.
+
+Every patient is different, and every second can be critical in saving a life. It was the speciality’s challenging, highly responsible, and time-critical nature that inspired me to pursue a career in anaesthesiology. Since making that decision, I have had the privilege of serving as an anaesthetist at the National Hospital of Sri Lanka in Colombo, a role I have held since 2015.
+
+The idea first came to me in 2014, when I began my anaesthesia training at Negombo General Hospital.
+
+One of the primary responsibilities of an anaesthetist is to insert an endotracheal tube (ETT)—a flexible tube inserted through the mouth or nose into the patient’s trachea (windpipe)—to establish and maintain a secure airway after administering anaesthesia. It is equally the anaesthetist’s responsibility to confirm, as quickly as possible, that the tube has been placed correctly. Today, the internationally accepted gold standard for confirming correct endotracheal tube placement is capnography, which measures the concentration of carbon dioxide (CO₂) in the patient’s exhaled breath. Since carbon dioxide in exhaled air originates only from the lungs, the continuous detection of carbon dioxide during exhalation confirms that the endotracheal tube is correctly positioned within the patient’s airway.
+
+In addition, capnography enables continuous monitoring of the patient’s ventilation, circulation, and certain physiological parameters throughout anaesthesia. However, during my training, I realised several limitations in using this technology to confirm the correct placement of the endotracheal tube. It was my conviction that correct tube placement should be ascertained as rapidly and as reliably as possible, ideally without subjecting the patient to unnecessary interventions that could cause harm. When I studied the existing technology in greater depth, I became convinced that it had several important limitations.
+
+The first limitation is that after endotracheal tube insertion, the patient must be connected to a mechanical ventilation system before capnography can confirm correct placement. To measure exhaled carbon dioxide, the patient must first receive several artificial breaths. Only then does the monitor display whether carbon dioxide is present. If carbon dioxide is detected, ventilation through the tube can safely continue. If no carbon dioxide is detected, the anaesthetist must remove the tube, reinsert it correctly, and repeat the confirmation process. This process usually takes approximately 20 to 30 seconds. However, in emergencies, even those few seconds can be critical to a patient’s survival.
+
+Another important concern is that if the tube is mistakenly inserted into the oesophagus instead of the trachea, the current confirmation process still requires artificial ventilation before the error can be recognised. As a result, the ventilation delivered enters the stomach rather than the lungs. This causes gastric inflation, and when the incorrectly placed tube is removed and reinserted, the unconscious patient may vomit, allowing gastric contents to enter the lungs (aspiration), potentially leading to serious complications. Ideally, air should never be insufflated into the stomach. However, because the clinician is unaware that the tube has been misplaced until after ventilation has been attempted, this unintended consequence occurs. This is not the doctor’s fault; rather, it is an inherent limitation of the current method that can lead to human error. Nevertheless, despite its shortcomings, this remains the internationally accepted standard for confirming endotracheal tube placement, as no better alternative has been presented.
+
+In addition, the position of the tube may be assessed by listening to breath sounds over the lungs using a stethoscope. However, this too is not an accepted gold-standard method and also requires artificial ventilation. Furthermore, it is considered a more basic and less reliable technique than capnography.
+
+Another important limitation arises during cardiopulmonary resuscitation (CPR). During cardiac arrest, there is little or no blood circulation, and therefore carbon dioxide is not transported to the lungs. Under these circumstances, if the tube has been misplaced, carbon dioxide monitoring cannot reliably help identify its location. Delayed recognition or failure to recognise oesophageal intubation in such situations may place the patient at serious risk and can even cause death.
+
+Lastly, another important consideration is the cost of capnography equipment. It is relatively expensive, making it impractical to provide this technology in every hospital, ward, or patient care area in resource-limited countries such as Sri Lanka. However, from a clinical perspective, capnography should ideally be available wherever endotracheal intubation may be performed—including operating theatres, intensive care units, emergency departments, general wards, and even ambulances. This is because no one can predict when a patient will suddenly require emergency airway management.
+
+Despite these limitations, even in healthcare settings where capnography is unavailable, many patients in Sri Lanka continue to receive safe care because of the knowledge, experience, and unwavering dedication of our doctors. However, regardless of how skilled a clinician may be, unexpected human errors can occur at any time. I therefore realised that there was a pressing need to develop a simple, reliable, and affordable technological solution that would not replace the clinician’s expertise but rather strengthen it by introducing a device that facilitates access to advanced airway confirmation in every healthcare setting.
+
+With that realisation, one simple yet very important question came to my mind:
+
+Q“Shouldn’t there be a way to confirm quickly and reliably that the endotracheal tube is in the correct position before ventilation even begins—without having to wait for carbon dioxide detection?”
+
+My invention was born in my quest to answer that single question.
+
+QHow difficult was the journey from an idea to a working device?
+
+It was an extremely challenging journey. However, my passion for electronics, which stemmed from childhood, together with the software development and information technology skills I acquired later, buttressed my resolve throughout this journey.
+
+Sometimes, people assume that this invention succeeded on my first attempt, but that was far from the truth. Like many inventors, I experienced repeated failures before achieving success. This device is the result of my sixth attempt, and every failure taught me a valuable lesson that helped shape the next step of the journey. Those experiences ultimately led to the development of the device that is now functioning successfully. It took nearly five years of perseverance, learning, and continuous refinement to bring this invention to life.
+
+One unique feature of this invention is that I personally designed the entire system, including the hardware, software, and mobile application. I consider this to be one of the greatest achievements of my life.
+
+My invention is called the Rapid Intubation Detector (RID). It is a device that works by measuring the tissue resistance encountered as the endotracheal tube passes through either the trachea or the oesophagus. Its most distinctive feature is that it does not rely on carbon dioxide (CO₂) detection in any way.
+
+Because the tissue resistance characteristics of the trachea and the oesophagus are different, the device can instantly and accurately identify which passage the endotracheal tube has entered in less than one second.
+
+Q“If the correct position of the endotracheal tube could be confirmed reliably at the very moment it is inserted, why should we continue using existing techniques, thereby losing precious seconds that could save a life?”
+
+Today, I am proud to introduce the Rapid Intubation Detector (RID) as my answer to that question.
+
+The primary purpose of this device is to help clinicians confirm, quickly and reliably, that the endotracheal tube has been correctly placed in the patient’s airway.
+
+1. It does not require artificial ventilation to confirm the position of the endotracheal tube.
+
+2. It does not rely in any way on carbon dioxide measurement.
+
+3. It provides results immediately at the moment the tube is inserted.
+
+4. No part of the device needs to be inserted into the patient’s body.
+
+5. It has a simple design and can be manufactured at an affordable cost.
+
+Together, these features enable clinicians to make the correct clinical decision within a very short time while further enhancing patient safety.
+
+For an anaesthetist, correctly positioning the endotracheal tube in an anaesthetised patient is one of the most critical and challenging responsibilities in clinical practice. At that moment, the patient is unable to breathe spontaneously, making it essential to establish oxygenation and artificial ventilation as quickly as possible.
+
+I designed this device to be a practical application in any clinical setting. It is compact, lightweight, and highly portable—small enough to be carried even in a pocket.
+
+I believe that this device will not be limited to anaesthetists alone but will soon become an essential tool for every doctor involved in emergency airway management. Today, the stethoscope is recognised as both a symbol of the medical profession and an indispensable instrument in everyday clinical practice. In the same way, I believe that the Rapid Intubation Detector (RID) will become an essential, costomary piece of equipment for clinicians providing emergency care.
+
+By carrying this device at all times, clinicians will be able to make the correct clinical decision within seconds during an emergency, thereby making a significant contribution to improving patient safety.
+
+I have been granted a Sri Lankan patent (LK/P/1/22891) for this invention by the National Intellectual Property Office of Sri Lanka. In addition, I filed an international patent application under the Patent Cooperation Treaty (PCT) administered by the World Intellectual Property Organisation (WIPO) (PCT/IB2024/050518).
+
+Subsequently, I entered the national phase by filing patent applications in the United States (19/581,052), Australia (P03937AU1), the United Kingdom (GB2612074.1), India (202617054614), and China (202480068343.3).
+
+Before commencing this research, I obtained ethical approval from the Ethics Review Committee of the Faculty of Medicine, University of Kelaniya, Ragama.
+
+Following ethical approval, the device was clinically evaluated in patients undergoing elective surgery. The study confirmed a clear and statistically significant difference in tissue resistance between the trachea and the oesophagus, demonstrating that the correct position of the endotracheal tube could be identified in approximately one second. The study also showed that the currently accepted method takes approximately 36 seconds to confirm tube placement.
+
+QWhat achievements have you received so far with this invention?
+
+The first came in January 2024, when I was invited to present this novel concept as an invited speaker at the Annual Scientific Congress of the College of Anaesthesiologists and Intensivists of Sri Lanka, held in Colombo.
+
+Later, in September 2024, this research was selected for an oral presentation at the European Airway Management Society (EAMS) Annual Congress in Istanbul, Türkiye. It was a great honour to present my research before some of the world’s leading airway management experts and to receive their positive feedback. In particular, I would like to acknowledge the encouraging comments I received from Professor Tim Cook, a consultant anaesthetist from the United Kingdom.
+
+In 2025, I was also allowed to present this invention at the World Airway Management Meeting (WAMM) in Florence, Italy. During the meeting, I received encouraging feedback from Professor Patrick Olomu, a consultant anaesthetist from the United States. One of the most memorable milestones of my professional career was meeting Professor Archie Brain, the British anaesthetist who invented the Laryngeal Mask Airway (LMA)—one of the most revolutionary invention in modern anaesthesia—and having the opportunity to discuss my invention with him in person.
+
+Professor Archie Brain spent considerable time discussing this concept with me. Afterwards, he commented that this simple approach had the potential to overcome all of the practical limitations of gold standard capnography, which is currently used worldwide. His words gave me tremendous confidence and motivation to continue developing this technology further.
+
+My message to young inventors is very simple: never be afraid to fail. Failure is not the opposite of success; it is an essential step on the path to success. Every failed attempt teaches you a lesson that no textbook can ever teach.
+
+Therefore, have self-belief. Keep learning continuously. Improve yourself and your invention every single day. Never be discouraged by obstacles. Always remember that every great invention that has changed the world began with one person who had an unwavering belief in their own idea.
+
+My dream is for the Rapid Intubation Detector (RID) to become a standard medical device that helps to save lives around the world. If this invention can save even a single life that might otherwise have been lost, it will be the greatest reward for the many years of dedication, hard work, and research that have been infused into this journey.
+
+I also believe that bringing this technology to the global market will not only improve patient safety worldwide but also enable Sri Lanka to export a high-value medical technology product, generating foreign exchange and thereby contributing to the country’s economy.
+
+My next goal is to further develop this technology and work with government institutions, universities, research organisations, and private industry to ensure it meets international standards and becomes available to benefit patients worldwide.
+
+“In anaesthesiology, every second is precious because it can determine a patient’s life. If I can save those few precious seconds and, in doing so, save even one life, I will consider my journey worthwhile.”
+
+Anaesthetist and Inventor Dr. Kumaru Wijeratne of  National Hospital of Sri Lanka, Colombo can be reached at [email protected]

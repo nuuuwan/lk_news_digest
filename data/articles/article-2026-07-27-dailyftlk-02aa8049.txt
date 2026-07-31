@@ -1,0 +1,71 @@
+Sri Lanka’s Personal Income Tax squeeze
+
+Sri Lanka’s income tax system reliably reaches only around a quarter of the employed population: the slice whose employers both register for APIT and file. That slice is disproportionately made up of salaried, payroll employees at larger, more visible firms — precisely the group with the least ability to avoid withholding once registered. Everyone else, whether self-employed or working for an employer who never entered the system, sits largely beyond the tax net’s current reach. The Inland Revenue Department therefore must widen the tax base and administer the collection, simply not raising the load on the salaried employees it already has firmly in hand
+
+The Sri Lanka’s Inland Revenue Department (IRD) closed 2025 with a headline achievement: income tax collection reached Rs. 1,131.33 billion, exceeding its target by 1.41% and growing 10.47% over 2024. On paper, this looks like a tax system firing on all cylinders. Underneath the topline number, however, the IRD’s own 2025 Annual Performance Report tells a more uncomfortable story — one where salaried, middle-income earners are shouldering a disproportionate and increasingly automatic share of the burden, while large parts of the tax base remain only lightly touched by enforcement.
+
+Under the Individual Income Tax rates effective from 1 April 2025, tax begins just after Rs. 1,800,000 of annual taxable income (Rs. 150,000 a month) where the next Rs 1 Mn of annual income is taxed at 6%. From there, the rate climbs as follows:
+
+By the time a salaried professional earns roughly Rs. 358,333 a month (i.e Rs. 4.3 million a year) — a comfortable but hardly extravagant income in today’s cost-of-living environment they are already inside the top 36% bracket.
+
+The Government did raise the personal relief threshold from Rs. 1,200,000 to Rs. 1,800,000 starting in the 2025/2026 assessment year, a welcome adjustment, but the underlying bracket structure still compresses a wide range of middle earners into higher marginal rates within a fairly narrow income band.
+
+In practice, a salaried employee may carry significant financial commitments — housing loan repayments, motor vehicle lease installments — yet is entitled to no deduction against employment income; tax is levied on the gross salary regardless. A deduction for housing loan interest was once available, but no such relief exists under the current regime, squeezing middle-income earners further.
+
+The APIT reality: automatic, inescapable, and concentrated on the middle
+
+The report’s Advance Personal Income Tax (APIT) data gives a granular picture of who pays the tax. A total of the 2,547,322 employees whose records were analysed for the 2024/2025 assessment year, about 75.6% fell below the taxable threshold and was not subject to APIT. That leaves 622,419 employees, actually carrying the income tax load.
+
+As per the statistics presented in the Annual Performance Report:
+
+Employees earning between Rs. 1.2 million and Rs. 3.7 million annually made up 395,024 people, or 63.5% of everyone actually paying APIT. Yet they contributed only about 20.5% of total APIT revenue (Rs. 39.36 billion of Rs. 191.9 billion).
+
+Employees earning above Rs. 3.7 million made up just 13.4% of taxed employees but contributed 78.4% of APIT revenue.
+
+At first glance, this looks progressive — and mechanically, it is: effective tax rates rise steadily. The problem is less about the curve itself and more about who is structurally unable to avoid paying it. Employment income is withheld automatically at source, every month, with no room for deferral, deduction-shopping, or under-declaration. The salaried employee cannot choose not to comply. Therefore, it is the salaried employees who are getting squeezed, especially the middle-income earners.
+
+This is where the report’s filing-compliance statistics matter most. For the 2024/2025 year of assessment:
+
+Only 25% of Individual Income Tax (IIT) returns were submitted on time, rising to 27% within a month. That’s an improvement on the prior year’s 14%, but still means three in four self-filed individual returns miss the deadline.
+
+Among “Other Taxpayers” (non-large) filing APIT as employers, only 15% filed on time, against 65% for Large Taxpayers.
+
+For Advance Income Tax (AIT)/withholding on non-employment income, Non-Large Taxpayers filed on time just 10% of the time, compared to 71% for Large Taxpayers.
+
+In other words, the segment of the tax base with the most discretion over what and when to declare — the self-employed, smaller employers, and non-payroll income earners — is also the segment with the weakest compliance. Meanwhile, the segment with the least discretion, the salaried employees under automatic withholding — complies by default, every single month, with no filing gap possible.
+
+Th corporate income tax collection brought in Rs. 669.64 billion, or 59% of all income tax collected, versus Rs. 461.68 billion (41%) from the non-corporate segment that includes ordinary individuals. The imbalance is about enforcement asymmetry. A dependable, easily taxed, middle-income salaried base is being asked to fill compliance gaps left by harder-to-tax segments of the economy.
+
+The compliance gap looks even starker when set against Sri Lanka’s total workforce. The Department of Census and Statistics puts the country’s employed population at 7,949,751 for 2024. Yet the IRD’s APIT dataset for 2024/2025 covered only 2,547,322 employees — a shortfall of roughly 5.4 million people, or about 68% of everyone employed in the country.
+
+Employment-status data from the Labour Force Survey explains most of this gap:
+
+Two distinct problems sit inside that gap. First, roughly 37% of the employed population — own-account workers, contributing family workers, and employers — earns no “salary” that any employer could withhold tax from. Their obligation runs entirely through self-filed Individual Income Tax returns, where on-time compliance is just 25%. This slice of the workforce is structurally outside automatic enforcement, not merely overlooked.
+
+Second, and more strikingly, even among the roughly 5 million people who are formal employees, APIT captured only about half. That points to a large share of nominally “formal” employment sitting with employers who either never registered for APIT or registered but did not file consistent with the report’s own finding that just 16% of APIT-registered employers filed on time.
+
+Put together, Sri Lanka’s income tax system reliably reaches only around a quarter of the employed population: the slice whose employers both register for APIT and file. That slice is disproportionately made up of salaried, payroll employees at larger, more visible firms — precisely the group with the least ability to avoid withholding once registered. Everyone else, whether self-employed or working for an employer who never entered the system, sits largely beyond the tax net’s current reach. The Inland Revenue Department therefore must widen the tax base and administer the collection, simply not raising the load on the salaried employees it already has firmly in hand.
+
+Another revelation from the statistics is the average income per employee. Dividing each band’s total gross remuneration by its employee count gives a sense of the income levels behind these figures. Average gross remuneration ranged from roughly Rs. 44,000 a month for employees below the tax threshold to about Rs. 615,000 a month for those in the top APIT band — a gap of nearly 14-fold between the extremes of the reported income distribution, though the open-ended top bracket means this ratio is driven partly by high earners well above Rs. 3.7 million. Income inequality is evident, with a small group receiving a disproportionately large share of remuneration.
+
+This pattern is not unique to employment income. Wealth in Sri Lanka remains concentrated among a relatively small segment of the population, and tax policy has not kept pace with that concentration. There is no clear mechanism in place to ensure this segment contributes a fair proportion of tax revenue. Other tax administrations have moved to close a similar gap by redirecting enforcement toward the top of the income distribution rather than relying on withholding alone. The United States’ Internal Revenue Service, for instance, used dedicated funding under the 2022 Inflation Reduction Act to rebuild its capacity to audit high-income and high-wealth individuals — a deliberate reversal after audit rates on million-dollar earners had fallen from over 7% in 2011 to under 1% by 2019, purely for lack of resources to examine their more complex returns. Sri Lanka cannot continue to lean as heavily as it does on indirect taxes; it needs to raise a larger share of revenue from income tax, and specifically from those at the top of the income distribution.
+
+The asymmetry is stark in practice. Employment-income earners are taxed automatically and promptly under APIT, and, wary of the consequences of non-compliance, many also file the simplified return. Self-employed and business-owning high earners face comparatively little of that same scrutiny. The result is a tax administration that polices most closely the segment of taxpayers least able to evade it, while the wealthier, harder-to-tax self-employed population remains largely outside its focus.
+
+Wealth in Sri Lanka remains concentrated among a relatively small segment of the population, and tax policy has not kept pace with that concentration. There is no clear mechanism in place to ensure this segment contributes a fair proportion of tax revenue. Other tax administrations have moved to close a similar gap by redirecting enforcement toward the top of the income distribution rather than relying on withholding alone
+
+For policymakers looking to rebalance this, the report points to a few concrete levers:
+
+1. Widen the compliance net before raising the load on the compliant. With IIT on-time filing at just 25% and Non-Large Taxpayer AIT compliance at 10%, there is substantial revenue sitting outside the system that has nothing to do with PAYE employees.
+
+2. Reassess bracket compression. The jump from a 6% to a 36% marginal rate within a Rs. 1.5 million income band means salaried professionals hit the top rate at income levels that, adjusted for living costs, are far from elite.
+
+3. Track relief adequately against inflation. The recent increase in personal relief to Rs. 1,800,000 is a step in the right direction, but its adequacy should be reviewed regularly.
+
+4. Sri Lanka must ensure broader shoulders bear more of the tax burden — but first, it needs to widen the tax net, so the tax office isn’t repeatedly burdening the same set of taxpayers.
+
+The IRD’s 2025 results are, administratively, a genuine success story — revenue targets were met, digital filing improved, and compliance rates rose year-on-year. But success in collection should not obscure who is actually paying. Until enforcement reaches as far as withholding already does, the system’s progressivity will remain true only on paper — and the bill, in practice, will keep landing on middle-income, salaried earners.
+
+(The views expressed in this article are those of the author in her personal capacity)
+
+Reference has been made to the Inland Revenue Department’s Annual Performance Report 2025 (Tables 2.1, 2.5, 2.7, 2.8, 2.9, 2.21 and 2.22) and the Department of Census and Statistics’ Sri Lanka Labour Force Survey (First Quarter 2025 Bulletin and 2024 annual figures).

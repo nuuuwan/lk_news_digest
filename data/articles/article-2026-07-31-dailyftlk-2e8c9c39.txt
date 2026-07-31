@@ -1,0 +1,69 @@
+Building digital trust in Sri Lanka: Practical lessons from Switzerland
+
+As Sri Lanka expands its digital economy, cybersecurity investment must be matched by legal clarity, institutional accountability and public trust. Switzerland offers useful principles, but successful reform will depend on adapting them to Sri Lanka’s own institutions, priorities and development context
+
+Sri Lanka’s digital transformation has entered a decisive phase. On 13 July 2026, the newly established Development Partner Working Group on Digital Transformation convened its inaugural session, placing institutional and human readiness alongside technology. At the same time, the Sri Lanka Computer Emergency Readiness Team (Sri Lanka CERT) is advancing procurement for a Malware Analysis and Threat Hunting Lab. These are important steps, but modern systems and specialist tools will deliver lasting value only when they are supported by predictable rules, accountable institutions and public confidence.
+
+I first observed Sri Lanka’s digital potential while studying in Colombo, where I met young people eager to participate in the digital economy. Years later, building technology ventures in Switzerland gave me a different perspective: innovation is sustained not only by capital or technical talent, but also by the quality of the institutions surrounding them.
+
+Switzerland should be treated as a model from which several principles are transferable: regulatory predictability, strong data and intellectual-property protection, close collaboration among government, universities and industry, and consistent institutional accountability.
+
+The central lesson is simple: digital trust is not a supporting feature of the digital economy. It is part of the infrastructure that allows the digital economy to function.
+
+Switzerland ranked first among 139 economies in the World Intellectual Property Organisation’s Global Innovation Index 2025, remaining at the top for a fifteenth consecutive year. Capital, research intensity and access to global markets clearly matter. Yet the country’s performance is also supported by stable institutions, predictable regulation, strong intellectual-property protection and sustained investment in education and research.
+
+A central strength of the Swiss system is the connection between public institutions, universities and private enterprise. Government does not need to direct every innovation project. Its more valuable role is often to establish credible conditions in which researchers, start-ups and established companies can cooperate with clarity about rights, responsibilities and risk.
+
+Public-private partnerships and regulatory sandboxes can support experimentation, but they work only when selection criteria, oversight and legal responsibilities are transparent. Leading research institutions such as ETH Zurich and EPFL also show how academic research, specialised skills and commercial innovation can reinforce one another.
+
+The relevant lesson for Sri Lanka is that innovation becomes easier to finance, adopt and scale when institutions are dependable and participants understand how rules will be applied.
+
+“Digital trust is not a supporting feature of the digital economy. It is part of the infrastructure that allows the digital economy to function.”
+
+Sri Lanka combines a substantial base of technology talent, a strategic regional position and growing demand for digital public services. The challenge is not a lack of ambition. It is ensuring that digital expansion is accompanied by consistent governance, enforcement and coordination.
+
+The scale of the risk is already visible. Sri Lanka’s National Cyber Security Strategy 2025–2029 reports 4,347 cybersecurity incidents in 2024, including 2,241 financial scams. Reported incidents do not capture every loss or attempted attack, but the figures show why fraud prevention, incident response and public awareness must be treated as economic priorities rather than narrow technical concerns.
+
+Online fraud, data breaches and weak incident response impose costs beyond immediate financial loss. They can reduce citizen confidence in digital public services, increase compliance and insurance costs for businesses, and make investors more cautious. Fragmented responsibilities can also slow decision-making at precisely the moment when a coordinated response is most needed.
+
+Cybersecurity should therefore be treated as economic and public-service infrastructure. Strong security, privacy protection and regulatory clarity can reduce risk, help local companies meet international requirements and strengthen confidence in digital government. Technical capability must be matched by the Data Protection Authority of Sri Lanka, sector regulators, law-enforcement bodies and public institutions working within clear, rights-respecting mandates.
+
+Building on Sri Lanka’s existing reforms, three priorities can translate the principle of digital trust into practical policy.
+
+One option Sri Lankan policymakers may wish to consider is a common set of minimum requirements for high-risk public digital systems, covering risk assessment, secure procurement, incident reporting, third-party access, data governance and continuity planning. Responsibilities could be clarified across ministries, Sri Lanka CERT, law-enforcement agencies, sector regulators and the Data Protection Authority.
+
+The purpose of such a framework would not be to create another layer of bureaucracy, but to reduce ambiguity before a serious incident occurs. Any stronger security powers would also need to be paired with privacy safeguards, transparent oversight, independent review and accessible legal remedies. Public trust grows when citizens can see both that systems are secure and that institutional powers are properly limited.
+
+Interested Sri Lankan universities, public agencies and private technology firms could explore applied programmes focused on defined national challenges, such as fraud detection, secure digital identity, public-service resilience and cybersecurity skills. Each partnership would benefit from transparent selection criteria, measurable deliverables, clear intellectual-property arrangements and a route from pilot to implementation.
+
+A practical approach could be to begin with one or two focused pilots involving Sri Lankan universities, industry associations and international technical partners. A limited pilot would allow participating organisations to test procurement, governance and accountability arrangements before considering wider application
+
+Interested organisations in Sri Lanka and Switzerland could explore cooperation in areas such as cybersecurity governance, regulatory sandboxes, digital skills, public-sector innovation and responsible data use. Any collaboration should be demand-driven, shaped by the priorities of participating Sri Lankan organisations and developed through specific proposals rather than broad assumptions about institutional support.
+
+Sri Lankan startup incubators, university departments, and industry chambers can establish direct relationships with Swiss academic and private counterparts. By focusing on shared, practical technical challenges—such as secure data governance, localised digital skills, and regulatory sandboxes for fintech—both ecosystems can foster joint mentoring programs, technical talent exchanges, and collaborative research without needing formal government mandates.
+
+From a private-sector perspective, a useful starting point would be to connect interested Sri Lankan and Swiss organisations around one narrowly defined pilot. Participation by public agencies or development institutions should occur only where those bodies consider it appropriate and through their own formal procedures.
+
+Formal government-to-government cooperation can play an important role in strengthening digital trust. Yet meaningful preparatory work can also begin through voluntary collaboration among technology companies, universities, business chambers, industry associations and independent specialists.
+
+From my perspective as a private-sector entrepreneur, the following milestones are not official policy proposals or commitments on behalf of Sri Lanka, Switzerland or any of their institutions. They are practical ideas that interested organisations could explore according to their own priorities, applicable laws and formal approval processes.
+
+1. Form an informal cross-ecosystem network connecting interested universities, technology companies, chambers, industry associations and independent specialists.
+
+2. Select one clearly defined shared challenge, such as online employment fraud, cybersecurity readiness for small businesses, digital skills or responsible data use.
+
+3. Launch one limited voluntary pilot with named delivery partners, measurable objectives and a clear method for evaluating results.
+
+4. Produce a non-binding digital-trust toolkit offering practical guidance for startups and small businesses on cybersecurity, data protection, fraud prevention and incident preparedness.
+
+5. Share the results through an independent Swiss-Sri Lankan dialogue. Embassies, public institutions and development organisations could be invited where appropriate, but their participation should not be assumed or presented as a commitment.
+
+The objective would not be to bypass formal institutions or anticipate government decisions. It would be to test whether small, transparent and locally relevant collaborations can generate useful evidence for future consideration.
+
+Technology can widen opportunity across geography, language and income, but only when people can trust the systems through which that opportunity is delivered. For Sri Lanka, digital trust should therefore be treated as national infrastructure—planned, funded and measured with the same seriousness as physical infrastructure.
+
+Switzerland’s experience suggests that strong innovation systems are built through consistent rules, capable institutions and long-term cooperation among the public sector, academia and industry. Sri Lanka can adapt these principles to its own legal, economic and social context while building on reforms already under way.
+
+A focused Swiss-Sri Lankan dialogue on cybersecurity governance, skills and responsible innovation would provide a practical place to begin. The objective should be a partnership that combines Sri Lankan talent and national priorities with relevant Swiss institutional experience.
+
+(The author is a serial technology entrepreneur and business strategist specialising in innovation, cybersecurity and secure digital infrastructure. Having studied in Sri Lanka and built technology ventures in Switzerland and other markets, he focuses on high-trust digital platforms and cross-border technology cooperation)
