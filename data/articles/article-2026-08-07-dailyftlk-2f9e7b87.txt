@@ -1,0 +1,63 @@
+From red tape to red carpet: Why Sri Lanka needs a world-class single window for investment
+
+As Sri Lanka navigates its post-crisis economic recovery, the national conversation frequently circles back to an urgent, undeniable reality: the country must aggressively attract Foreign Direct Investment (FDI) and spur domestic capital formation to secure sustainable, export-led growth. While the Government has recently invited proposals and accelerated frameworks to roll out digital single window infrastructure, public and policy discussions have largely remained confined to the narrow mechanics of procurement.
+
+This is a missed opportunity. A single window for investment is not merely an IT procurement project or a software upgrade. It is a (i) foundational governance reform, (ii) a productivity multiplier, and (iii) an investment competitiveness make-or-break. To transform Sri Lanka’s economic landscape, we must view the Single Window not as a digital database, but as a total re-engineering of how the state interacts with (i) capital, (ii) entrepreneurship, and (iii) risk.
+
+Sri Lanka stands at a historic crossroads. Recent policy initiatives by the Ministry of Finance and the Presidential Secretariat underline a national push to streamline trade and investment. Yet, capital is globally mobile and fiercely selective. Investors today do not choose destinations based on potential alone; they choose them based on (i) friction, (ii) predictability, and (iii) execution speed.
+
+Fragmented bureaucratic clearance systems impose a heavy "hidden tax" on every enterprise seeking to set up operations. By linking the upcoming Single Window initiative to broader structural adjustments, Sri Lanka can signal to international markets that it is moving past legacy bureaucracy and entering a new era of transparent, rules-based economic governance.
+
+"Time is the scarcest resource, and unless it is managed, nothing else can be managed." — Peter Drucker
+
+Under the status quo, launching a major project in Sri Lanka often requires navigating a maze involving (i) multiple regulatory bodies (ii), line ministries, and (iii) approval-granting agencies. Investors routinely have to deal with up to a dozen or more separate entities—spanning (i) environmental authorities,(ii) local government bodies, (iii) utility providers, (iv) revenue departments, and (v) sector-specific regulators.
+
+Prolonged time-to-market: Delays in obtaining construction permits, environmental clearances, and import licenses push back project commercialisation by months, sometimes years.
+
+Administrative uncertainty: Discretionary decision-making and conflicting departmental mandates breed opacity and corruption risks.
+
+Opportunity cost: Global investors operating on tight timelines bypass Sri Lanka entirely in favor of regional peers where approvals are swift, digital, and predictable.
+
+The economic cost of these delays is (i) measurable in lost jobs, (ii) foregone export revenues, and (iii) stagnant productivity.
+
+A single window for Investment is a centralised digital and institutional mechanism that allows parties involved in trade and investment to lodge standardised information and documents with a single entry point to fulfill all regulatory requirements.
+
+Rather than an investor submitting separate dossiers to 10 or 15 different agencies, data is submitted once. The system acts as a central intelligence and routing hub, concurrently distributing requirements to (i) participating Government agencies (PGAs), (ii) tracking progress, (iii) managing approvals, and (iv) issuing unified digital certifications. It replaces (i) physical queues, (ii) paper files, and (iii) repetitive bureaucratic touch points with seamless interoperability.
+
+Global benchmarks demonstrate that successful investment facilitation relies on political will, institutional integration, and uncompromising digital execution.
+
+As institutional economist Douglass North noted, the rules of the game dictate economic performance. Technology alone cannot fix a broken administrative process; digitising a bad process merely accelerates inefficiency.
+
+Enacting a comprehensive umbrella statute for electronic commerce and digital governance that supersedes legacy statutory mandates requiring physical seals, wet-ink signatures, and paper-based archiving is foundational to this reform. This requires explicitly granting legal validity to automated "deemed approval" mechanisms, ensuring that if a regulatory agency fails to review and respond within a legally mandated Service Level Agreement (SLA), the digital system automatically issues the clearance. Furthermore, it involves harmonising conflicting sectoral laws across the 16+ approval-granting bodies to resolve legal contradictions where older statutes vest absolute discretionary power in individual officials, while simultaneously establishing robust data protection and cybersecurity frameworks to safeguard proprietary investor data. Finally, empowering an apex oversight authority with statutory teeth is essential to legally bind all participating Government agencies to the digital workflow and penalise any unauthorised offline procedural demands.
+
+Process re-engineering (BPR): Executing rigorous Business Process Re-engineering (BPR) requires radically trimming redundant bureaucratic steps by systematically mapping and purging obsolete, overlapping clearance requirements that currently force investors to jump through unnecessary hoops. This transformation involves replacing sequential, siloed departmental reviews with concurrent digital processing workflows, enabling multiple regulatory bodies to evaluate applications simultaneously rather than waiting in a sluggish line. Furthermore, it demands establishing strict, legally binding service level agreements (SLAs) for every participating agency, complete with clear tracking metrics and administrative accountability for unwarranted delays. To ensure continuous optimisation, the BPR framework must integrate feedback loops from private sector users to routinely audit and streamline bureaucratic touch points. Ultimately, this structural overhaul re-engineers the state apparatus from a bottleneck of obstruction into an efficient, streamlined engine of investment facilitation.
+
+Cultural transformation: Achieving a profound cultural transformation requires fundamentally shifting the mindset of public officials from traditional gatekeepers of bureaucratic control to proactive facilitators of national wealth creation and economic dynamism. This cultural reset must be driven from the top down through leadership alignment programs that redefine public service success not by how many proposals are blocked or delayed, but by how rapidly legitimate investments are operationalised. Furthermore, it necessitates dismantling entrenched risk-averse behaviors by instituting institutional protections that encourage responsible decision-making rather than penalising officials for exercising legitimate administrative discretion. Integrating modern performance management frameworks and incentive schemes—where career advancement, departmental commendations, and resource allocations are directly tied to responsiveness and investor satisfaction scores—will further reinforce this ethos. Ultimately, cultivating this service-oriented culture transforms the public sector into an engaged, empathetic partner for the business community, ensuring that state institutions actively champion rather than hinder national competitiveness.
+
+To build a world-class Single Window, Sri Lanka should adopt a phased, pragmatic implementation strategy:
+
+Phase 1: Legal and process baseline (months 1–6): Finalise the legislative framework, map out regulatory bottlenecks across agencies, and establish the overarching governance structure backed by the Ministry of Finance.
+
+Phase 2: Core platform development and integration (months 6–18): Procure and configure the digital architecture, connect core regulatory agencies (such as the Board of Investment, Inland Revenue, Registrar of Companies, and Central Environmental Authority), and conduct rigorous user acceptance testing.
+
+Phase 3: Pilot launch and change management (months 18–24): Roll out the system for key sectors (e.g., export manufacturing and high-tech IT investments), backed by intensive training for public servants and private sector users.
+
+Phase 4: Full scale-out and continuous optimisation (month 24 onward): Integrate secondary municipal and utility approval bodies, introduce AI-driven tracking analytics, and tie agency performance metrics to processing speeds.
+
+"The secret of economic growth is simple: improve productivity." — (Paraphrasing Paul Krugman)
+
+Dismantling regulatory friction unleashes trapped private capital, empowering domestic entrepreneurs and foreign investors alike to scale operations rapidly without losing momentum to administrative inertia. Cutting through red tape drastically compresses the gestation period of capital projects, allowing high-value manufacturing and technology ventures to generate economic value and revenue much sooner. Streamlined digital processes eliminate opportunities for discretionary rent-seeking and corruption, fostering a predictable, rules-based market environment that attracts sophisticated global enterprises. Accelerating business entry and expansion directly multiplies high-skilled employment opportunities, keeping domestic talent within the country and reversing destructive brain drain trends. Transforming state machinery into a lean, efficient facilitator creates a virtuous cycle of sustained productivity growth, permanently elevating national competitiveness and fiscal resilience.
+
+The decision to establish a National Single Window for Investment transcends standard bureaucratic modernisation; it stands as arguably the most consequential structural intervention available to Sri Lanka since the broad economic liberalisations and institutional shifts of the late 1970s. By dismantling legacy legal roadblocks, re-engineering siloed workflows into concurrent digital paths, and fundamentally transforming the public service mindset from control to facilitation, this reform creates an ecosystem where capital can thrive. Success will ultimately depend on treating this initiative not as a routine IT procurement project, but as a historic, uncompromising mandate for national institutional renewal—moving decisively from red tape to red carpet to rewrite Sri Lanka's economic narrative for generations to come.
+
+(The author, among many, served as the Special Advisor to the Office of the President of Namibia from 2006 to 2012 and was a Senior Consultant with the UNDP for 20 years. He was a Senior Economist with the Central Bank of Sri Lanka (1972-1993). He can be reached via [email protected].)
+
+International Monetary Fund (IMF): Selected Issues Papers on Governance, Structural Reforms, and Investment Climates in Emerging Markets.
+
+World Bank Group: Doing Business reports and diagnostic studies on Regulatory Governance and Single Window Implementation Frameworks.
+
+Organisation for Economic Co-operation and Development (OECD): Policy Framework for Investment and Guidelines on Investment Facilitation.
+
+United Nations Conference on Trade and Development (UNCTAD): Global Investment Reports and Investment Policy Reviews.
+
+Country Case Studies: Enterprise Singapore (Business Grants Portal); Invest KOREA (One-Stop Service guidelines); Rwanda Development Board statutory frameworks; Estonia Information System Authority (X-Road architecture).

@@ -1,0 +1,27 @@
+Advancing Digital inclusion in Sri Lanka From Digital Divide to Digital Opportunity
+
+As Sri Lanka increasingly embraces Artificial Intelligence, the importance of inclusive and trustworthy data becomes even greater
+
+The true measure of success is not the number of online services or AI applications introduced, but whether they improve the lives of all citizens
+
+Sri Lanka is entering a new era of digital transformation. From online public services and digital payments to the growing use of Artificial Intelligence (AI), technology is reshaping how citizens interact with government and businesses. Yet, the success of this transformation depends not only on technological advancement but also on ensuring that every citizen has the opportunity to participate in and benefit from the digital economy.
+
+This important theme was highlighted during the National Workshop on Data Governance and Artificial Intelligence for Public Sector Transformation (July 20-22, 2026), jointly organised by the United Nations Department of Economic and Social Affairs (UN DESA) and the United Nations Project Office on Governance (UNPOG). The workshop brought together policymakers, public sector officials, academics and international experts to discuss how Sri Lanka can build an inclusive and trusted digital future.
+
+One of the greatest challenges facing Sri Lanka is the digital divide. While internet connectivity has expanded significantly, unequal access to digital devices, reliable connectivity and digital skills continues to affect many communities, particularly in rural and estate areas. Digital inclusion is therefore about much more than internet access. It means ensuring that every citizen, regardless of age, gender, location or ability, can confidently access and use digital technologies.
+
+Another challenge lies in the way government information is managed. Many public institutions continue to operate separate information systems, requiring citizens to provide the same information repeatedly when accessing different services. This duplication creates unnecessary delays and increases administrative costs. At the same time, concerns about privacy, cybersecurity and the responsible use of personal data have made public trust an increasingly important issue in digital government.
+
+By strengthening digital public infrastructure and enabling secure interoperability between government systems, Sri Lanka can deliver faster, simpler and more citizen-centred public services. Instead of asking citizens for the same information multiple times, government institutions can securely share authorised data, improving efficiency while reducing inconvenience.
+
+Digital inclusion also creates opportunities for better governance. High-quality, inclusive and interoperable data allow policymakers to make evidence-based decisions, allocate resources more effectively and design services that better reflect the needs of diverse communities. Ensuring that vulnerable and underserved groups are represented in national data systems is essential for creating policies that leave no one behind.
+
+As Sri Lanka increasingly embraces Artificial Intelligence, the importance of inclusive and trustworthy data becomes even greater. AI systems are only as reliable as the data used to develop them. Responsible AI requires accurate, representative and unbiased data, supported by strong governance frameworks that promote fairness, transparency and accountability. When implemented responsibly, AI has the potential to improve healthcare, education, agriculture, disaster management and many other public services.
+
+The digital economy also presents new opportunities for innovation, entrepreneurship and employment. By investing in digital literacy, AI skills and lifelong learning, Sri Lanka can prepare its workforce for emerging technologies while creating an environment that encourages innovation and sustainable economic growth. At the same time, strengthening cybersecurity and data governance will help build public confidence, encouraging greater adoption of digital services.
+
+Digital transformation is ultimately about people rather than technology. The true measure of success is not the number of online services or AI applications introduced, but whether they improve the lives of all citizens. Building an inclusive digital society requires collaboration between government, academia, industry and international partners to develop policies that place citizens at the centre of digital innovation.
+
+Sri Lanka has an opportunity to transform today’s digital challenges into tomorrow’s national strengths. By investing in digital inclusion, strengthening data governance, promoting responsible AI and ensuring that no citizen is left behind, the country can build a digital future that is inclusive, resilient and trusted. As digital technologies continue to evolve, embracing inclusion will not only enhance public services but also empower every Sri Lankan to participate fully in the nation’s digital journey.
+
+Dr. Surani Tissera is a Senior Lecturer at the Department of Computer Science, University of
