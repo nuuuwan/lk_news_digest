@@ -1,0 +1,43 @@
+Scientists turn to sharks to improve hurricane predictions
+
+(Reuters) - From the killer shark of "Jaws" to the tornado-tossed predators of the "Sharknado" movies, films long have portrayed sharks as objects of summer fear. But when a shark ​cuts through the waters off the U.S. East Coast, it now may be doing more than hunting. It may also be gathering data that helps ‌scientists understand the potential intensity of a hurricane before it makes landfall.
+
+University of Delaware researchers are testing whether sharks can serve as mobile near-real-time ocean-data observers, carrying sensors that measure ocean conditions to inform oceanographic, atmospheric and climate models.
+
+These CTD tags are small electronic devices that measure ocean electrical conductivity — a metric closely related to salinity — as well as temperature and depth, as marine creatures to which they are attached swim and ​dive.
+
+"Animal-borne sensors have been used successfully by oceanographers for years, particularly on elephant seals in polar regions where scientific observations are scarce," said Aaron Carlisle, principal investigator ​and a professor in the university's School of Marine Science and Policy.
+
+Sharks offer a new opportunity in such research because they are abundant, ⁠widely distributed and easier to access than many protected marine mammals, Carlisle said.
+
+Until now, shark tagging typically has tracked only where these fish travel and the habitats they use.
+
+The University ​of Delaware researchers select sharks that can collect the measurements most useful for hurricane research, and favor species that surface often enough for their tags to transmit the information to satellites. ​Previous analyses identified shortfin mako sharks, blue sharks, smooth hammerheads and juvenile great white sharks as strong candidates for such research in the North Atlantic.
+
+"We are really most interested in the heat content of the top layer of the ocean, which is known as the mixed layer," Carlisle said.
+
+"This is the part of the water column that really drives hurricane intensity — warmer mixed layer equals stronger hurricane — as it holds ​the heat that feeds hurricanes," Carlisle added.
+
+The tagging process begins in early May, when highly migratory species move closer to the coast from their winter habitats further out in the ​Atlantic, according to Caroline Wiernicki, a University of Delaware doctoral candidate in marine science.
+
+Researchers head 30 to 40 miles (50 to 65 km) offshore aboard a research vessel, deploy baited lines and wait, typically ‌two to three ⁠hours, for a shark to take the bait, Wiernicki said.
+
+"The tags are attached to the dorsal fin. Then every time the shark fins (swims) at the surface, the tag can communicate and transmit data to the orbiting network of satellite receivers," Carlisle said.
+
+The tagging process itself is operated "like a pit crew" in an auto race, Carlisle said, and usually takes less than five minutes.
+
+The tagging is carried out under institutional animal care oversight to minimize impact on the sharks. The tags are attached using materials designed to corrode and fall off over ​time. Each animal also undergoes a health ​check before release, as a stressed or ⁠harmed shark may not behave naturally, potentially biasing the data, Carlisle said.
+
+Wiernicki contrasted the "absurdly dramatic" portrayals of sharks in popular culture to the tamer reality — far less dramatic than the giant great white shark that terrorized fictional Amity Island in the 1975 blockbuster "Jaws."
+
+"It's more like Bob ​from Accounting, clocking in with the day's temperature profiles before he heads back out," Wiernicki said.
+
+The project is also a far ​cry from the campy Sharknado ⁠film series.
+
+"We aren't deploying sharks in and out of waterspouts, yet," Wiernicki joked, but added sharks can be "a lot of fun."
+
+If the project succeeds, the data collected by sharks could help improve forecasts of how strong hurricanes will be as they approach the U.S. East Coast. The information could give communities from North Carolina to Massachusetts more reliable information to increase coastal resilience to ever-strengthening ⁠storms, Wiernicki ​said.
+
+Most people will never encounter a shark in the wild, Carlisle said, but many know them through frightening ​stereotypes.
+
+In reality, Carlisle said, "they are amazing animals perfectly adapted to the ocean, and we can learn a huge amount from them. If we can show that sharks can help people, it's a win-win situation."

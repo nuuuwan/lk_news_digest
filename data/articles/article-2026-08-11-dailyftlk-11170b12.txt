@@ -1,0 +1,77 @@
+Sri Lanka’s cigarette tax paradox: Flat consumption, higher duties, falling revenue
+
+Sri Lanka’s 2025 fiscal year was, by almost every headline measure, a record year for the Sri Lanka Tax Authorities. The country’s overall tax-to-GDP ratio climbed to 15.4%, the highest since 1997. Against that backdrop, the Government’s “sin tax” categories such liquor, tobacco, and betting and gaming should have been reliable contributors to the windfall.
+
+Yet, a closer analysis of the Finance Ministry's Final Budget Position Report 2025 (MOF Report 2025) indicates a more complex picture. Across the sin-tax categories where consumption or taxable activity can be tracked, excise duty revenue collections did not keep pace with the underlying levels of production, consumption, or duty rate increases. The divergence is most pronounced in cigarettes: revenue did not merely underperform expectations — it declined outright, even as production remained broadly steady.
+
+The 2025 pattern in Sri Lanka’s cigarette-related sin tax collections raises a troubling question: how did revenue decline when cigarette production remained broadly unchanged and Excise duty (special provision) rates were increased?
+
+This article examines the applicable tax framework and the figures presented in the Ministry of Finance report, alongside independent analysis by Verité Research, to identify the likely reasons for this divergence. In particular, it considers whether a structural weakness in Sri Lanka’s length-based excise duty framework may be encouraging a shift toward lower-taxed cigarette categories, thereby weakening revenue performance despite higher headline tax rates.
+
+It is helpful first to understand the tax framework applicable to the tobacco industry, as this provides important context for assessing the complexity of the current structure and the revenue gaps that appear within it.
+
+Tobacco taxation in Sri Lanka rests on two distinct pieces of fiscal legislation operating in parallel, administered separately, and layered on top of one another — a structure that itself helps explain why the tax is harder to track and enforce consistently than a single-rate duty would be.
+
+The principal law is the Tobacco Tax Act, No. 8 of 1999, which imposes a specific “tobacco tax” on every cigarette, cigar, beedi, and kilogram of pipe tobacco manufactured in Sri Lanka. The Act empowers the Minister of Finance to determine and revise tobacco tax rates by Order published in the Gazette, allowing the Government to adjust rates administratively rather than through fresh legislation each time. Its administration and enforcement sit with the Commissioner-General of Excise, who oversees manufacturer declarations, licensing, and compliance. Recently, the tobacco tax on beedi increased from Rs. 2 per stick to Rs. 3 per stick effective from April 02, 2026.
+
+Running alongside it is the Excise (Special Provisions) Act, No. 13 of 1989, which gives the Minister of Finance a broader power to impose and vary excise duty — by Gazette Order — on any article manufactured or imported into Sri Lanka, including Cigarette/tobacco. This is the Act under which the length-tier cigarette excise schedule is set.
+
+The distinction matters in practice when reading the MOF report 2025, cigarette excise collected under this Act is recorded separately, under “Excise Special Provisions” within the Department of Customs, distinct from the “Liquor/Tobacco” revenue line recorded under the Department of Excise.
+
+In addition to the Tobacco Tax Act and the Excise (Special Provisions) Act discussed above, Cigarette / tobacco also attract Value Added Tax, the Social Security Contribution Levy (SSCL), Customs Duty, and Cess on importation, layering general consumption and trade taxes on top of the product-specific excise structure. Corporate profits from the industry are taxed separately  under the Inland Revenue Act. The Corporate Income Tax rate applicable to the liquor, tobacco, betting, and gaming industries was raised from 40% to 45% effective 1 April 2025.
+
+Duty/Tax rate revisions by the Minister: A Constitutional point to note
+
+The system of Minister-determined excise and tobacco tax rates, revised through Gazette notifications, also raises a broader constitutional point which this article does not seek to resolve but is worth noting. Article 148 of the Constitution provides that “Parliament shall have full control over public finance” and that “no tax, rate or any other levy shall be imposed by any local authority or any other public authority except by or under the authority of a law passed by Parliament or of any existing law.” Against that backdrop, repeated revisions of tax rates through Ministerial Gazette notifications, rather than through Acts passed directly by Parliament, may warrant closer constitutional scrutiny. This issue is flagged only for context, as the focus of this article remains on the revenue and policy implications of the current cigarette tax structure.
+
+Cigarette production was essentially unchanged in 2025 — 1,935 million sticks, up just 0.6% from 1,923 million sticks in 2024, according to the MOF Report 2025. Under normal circumstances, flat production should translate into roughly flat excise revenue, since duty rates were raised across every cigarette category (+5.9% inflationary adjustment), and the tobacco tax on beedis was separately raised from Rs. 2 to Rs. 3 per stick.
+
+Instead, excise revenue from cigarettes fell from approximately Rs. 118 billion in 2024 to roughly Rs. 102.7 billion in 2025 which results a decline of over 13%.
+
+Given flat production volumes and a stated duty increase, cigarette excise revenue should have risen rather than fallen. The gap is therefore not merely a year-on-year underperformance; it is among the most striking unexplained shortfalls in the Ministry of Finance report.
+
+Table 4.3 in the MOF Report 2025, “Estimated and Actual Revenue – 2025,” makes the issue even clearer: the Government had budgeted Rs. 130,000 million (i.e Rs 130 billion) in cigarette excise revenue for the year, but provisional collections fell short by Rs. 28,827 million, or approximately 22.2% below target. This is particularly significant because the estimate would have been made with full knowledge of the planned 5.9% duty hike.
+
+In the absence of any explanation in the Government’s reporting, only a limited set of possibilities remains: a shift in product mix toward lower-duty cigarette categories, weaker compliance or under-declaration by manufacturers, growth in the untaxed or illicit cigarette market, or some combination of these factors. None of these possibilities is quantified in the published data.
+
+Inside the duty structure: A steep, uneven, length-based tier system
+
+Sri Lanka’s cigarette excise is not a single flat rate — it is levied per 1,000 sticks according to cigarette length, with five separate bands. The excise duty (special provision) schedule for 2023–2025 shows how those bands have moved:
+
+Every single length tier rose by almost 5.90% between 2024 and 2025 which is the economy-wide specific-duty indexation rate simultaneously applied across both liquor and tobacco on 11 January 2025.
+
+Between 2023 and 2024 the increase was not applied evenly. Four of the five tiers rose by a consistent 36.8% but the 72–84mm tier, which covers most standard “king size” cigarettes, the most commonly sold format, jumped by 55.09%, nearly 20% more than every other tier. That tier and the 67–72mm tier had identical duty in 2023 (Rs. 49,320); the Government deliberately pulled them apart in 2024, taxing the more popular king-size format substantially harder than its shorter neighbor which seems a targeted policy choice.
+
+The structural consequence of this tier system is a steep gradient: in 2025, the top tier (exceeding 84mm) is taxed at Rs. 90,050 per 1,000 sticks versus Rs. 19,350 for the shortest tier — a ratio of 4.65 to 1. That creates a substantial financial incentive, independent of any change in actual smoking behavior, for manufacturers to shift production toward shorter cigarettes and for price-sensitive smokers to shift purchases toward them, purely to minimise tax exposure.
+
+The 2025 numbers point to a clear policy concern: higher tax rates alone are insufficient where the underlying structure allows tax minimisation through product shifting. A more transparent, better-indexed, and less distortionary cigarette tax framework is needed if Sri Lanka is to safeguard both Government revenue and the public health objectives of cigarette and tobacco taxation. Without such reform, the country may continue to raise excise duty rates on paper while collecting less in practice
+
+Given a flat stick count (+0.6%) and a uniform 5.9% duty hike across every tier, expected revenue growth in 2025 should have been at least approximately +6.5%. The actual result was a swing to the opposite.
+
+The length-tier structure offers the most plausible mechanism for that gap. If the “flat” 1,935 million sticks produced in 2025 included a shift toward shorter, dramatically lower-duty cigarettes compared to the 2024 product mix, the total volume of sticks could stay essentially unchanged while the average revenue collected per stick falls sharply — exactly what the data shows. The Ministry of Finance report does not publish production broken down by length tier, so this mechanism cannot be confirmed directly from the report.
+
+Verité Research has been tracking the cigarette tax gap closely, and its findings help explain the mechanism behind it. According to Verité Research, the World Health Organization recommends that taxes make up at least 75% of a cigarette’s retail price, a level that both curbs consumption and maximises Government revenue. Sri Lanka came close to that benchmark in 2018, when tax accounted for 74% of the retail price of the most popular cigarette category — but that share has since fallen, sitting at roughly 67–69% from 2025 onward. In July 2026, Verité Research launched a “Cigarette Tax Leakage Tracker” on its PublicFinance.LK platform, estimating that Sri Lanka had lost more than Rs. 25 billion in potential cigarette tax revenue since 2025, including over Rs. 8 billion in just the first half of 2026 alone.
+
+The research also points to the structural reason revenue lags consumption: Sri Lanka’s cigarette excise is levied as a fixed rupee amount per stick within the tiered band structure above, adjusted only sporadically, while manufacturers raise retail prices more frequently — so the tax’s share of the price quietly erodes even when the nominal tax rate is raised. Verité Research’s analysis further shows that between 2017 and 2024, Government revenue from cigarette taxation grew by only 27.5%, while the industry player’s net-of-tax revenue rose by 92.4% over the same period — a widening gap between what the state collects and what the industry earns. A related 2023 tax increase illustrates the same trap in miniature: when duty was raised sharply that year, some smokers shifted to cheaper, lower-taxed cigarette brands rather than cutting back, which Verité Research estimated cost the Treasury a further Rs. 9.4 billion in foregone revenue in 2024 alone — the same trading-down dynamic the 2025 length-tier data suggest may be recurring.
+
+The underlying issue is one of tax design, not just tax rate. Sri Lanka’s cigarette excise (special provisions) is a specific duty — a fixed rupee amount per 1,000 sticks within each length band — rather than an ad valorem duty set as a percentage of retail price. A specific duty only rises when the Government explicitly gazettes a new rate; retail prices, by contrast, can rise continuously between revisions. Between gazette revisions, if retail prices rise faster than the static duty, the tax’s share of what a smoker actually pays keeps eroding even though the nominal duty is unchanged.
+
+The multi-tier length structure compounds this: because the duty gradient between tiers is steep (a 4.65-to-1 ratio between the shortest and longest bands in 2025), even a well-calibrated overall rate increase leaves room for revenue to fall if consumption or production quietly shifts toward the lower bands. A single, simpler, more evenly-graded duty structure — or one indexed to price rather than a fixed amount — would leave less room for this kind of drift. Flattening the gap between the length tiers, or moving toward a simpler ad valorem structure altogether, would reduce the incentive to trade down toward the lowest-duty band.
+
+Read together, the MOF Report 2025 and Verité Research’s extensive work on cigarette taxation point out the following key conclusions:
+
+nCigarette production was essentially flat in 2025 (+0.6%), while excise revenue fell by13.2%  despite a uniform 5.9% duty hike across every length tier.
+
+nThe expected revenue growth, given flat volume and the stated duty hike, was roughly +6.5% a shortfall of an estimated Rs. 23–24 billion against what should have been collected.
+
+nSri Lanka’s five-tier, length-based duty structure creates a steep 4.65-to-1 gap between the lowest and highest bands, incentivising a shift toward shorter, lower-duty cigarettes — the most plausible driver of the shortfall, though not directly confirmable from published data.
+
+nVerité Research’s independent tracking corroborates the pattern: the tax share of retail price has fallen from 74% (2018) to roughly 67–69% (2025), with over Rs. 25 billion in estimated foregone revenue since 2025.
+
+n The root cause is structural: a specific (fixed-rupee) duty that only rises when explicitly revised, rather than an ad valorem duty that would track retail prices automatically.
+
+The 2025 numbers therefore point to a clear policy concern: higher tax rates alone are insufficient where the underlying structure allows tax minimisation through product shifting. A more transparent, better-indexed, and less distortionary cigarette tax framework is needed if Sri Lanka is to safeguard both Government revenue and the public health objectives of Cigarette and tobacco taxation. Without such reform, the country may continue to raise excise duty rates on paper while collecting less in practice.
+
+(The views expressed in this article are those of the author in her personal capacity)
+
+Reference has been made to Finance, Planning and Economic Development Ministry's Final Budget Position Report (Annual Report) 2025 (including its cigarette excise duty schedule by length tier, 2023–2025), and independent research and the Cigarette Tax Leakage Tracker (PublicFinance.LK) published by Verité Research.

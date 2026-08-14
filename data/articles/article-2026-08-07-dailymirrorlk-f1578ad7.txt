@@ -1,0 +1,43 @@
+Meta fined $567m in largest child safety ruling against social media giant
+
+BBC - A US judge in New Mexico on Thursday ordered Meta to pay another $567m (£421m) for its failure to warn the public about dangers its platforms posed to children, marking the largest ruling against the company over child safety.
+
+Judge Bryan Biedscheid said the social media giant is a "public nuisance" akin to air pollution and that it must put the money in a fund aimed at reducing future harms.
+
+The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.
+
+Judge Biedscheid compared Meta to a factory, with advertising and content as its product and "the psychological harm and sexual exploitation of children to be the pollution that must be abated".
+
+A spokesman for Meta, which owns and operates Instagram, Facebook, WhatsApp and Threads, said Thursday: "We disagree with the ruling and will appeal."
+
+"We work hard to keep people safe on our platforms and have been transparent about the challenges of identifying and removing bad actors and harmful content. We remain confident in our record of protecting teens online and will continue to defend ourselves against claims that misrepresent the facts."
+
+Regarding the earlier $375m verdict in the case, Meta had said it intended to appeal the ruling and gave a similar explanation. It was the first time that a state had successfully sued Meta over child safety issues.
+
+Meta is currently facing thousands of lawsuits in the US over similar issues. In addition to the New Mexico rulings, Meta earlier this year lost a case in Los Angeles making similar claims.
+
+The New Mexico case stems from a 2023 lawsuit brought by attorneys for the State of New Mexico, arguing Meta should be held liable for the way in which its platforms endangered children and exposed them to sexually explicit material and contact with sexual predators.
+
+In the first phase of the trial, Meta was found to have repeatedly violated New Mexico's Unfair Practices Act as its recommendation algorithms essentially "steered" young users toward harmful content and contacts.
+
+Recommendation algorithms are the tools that Meta uses to automatically curate the content a user sees on its platforms.
+
+In ruling on this second phase of the trial, Judge Biedscheid found that Meta's harms reached the level of "public nuisance", or an issue of health and safety that has become so widespread it is negatively impacting a general public.
+
+In addition to being the largest fine Meta has received over child safety issues, the ruling also appears to be the first time that a social media company has been deemed a public nuisance.
+
+"Just as noxious pollution produced by the factory can harm the common public right to reasonably clean air, the harmful effects of Meta's platforms on children do not stay contained by its platforms and, instead, migrate to the internet as a whole and, perhaps most concerning, to the real world and create a common, societal burden on and harm to the affected children and their families and schools, as well as hospitals and law enforcement," the judge wrote.
+
+The fund that Meta has been ordered to create will be used to pay for efforts to mitigate "the wide-ranging impacts of the harm", Judge Biedscheid said.
+
+A vast majority of the money, totaling $420m, will go towards treatment of harms Meta's platforms have already caused, through the funding of "appropriate clinical or other behavioral health programs and professionals," according to the order.
+
+Another chunk of the money will go towards training around awareness and prevention, including for teachers and health professionals on how to deal with social media harms against children.
+
+The judge also ordered Meta to enact other measures, including ensuring that no account of a user under age 18 is recommended to an adult and that no adult can message an underage user, banning the sending or receiving of nudity by underage users and enacting a "1-strike policy for adult users who engage in child sexual exploitation."
+
+Ban push notifications for such users every day between 10:00 PM to 7:00 AM and to ban such notifications during the typical school year between 8:00 AM to 3:00 PM, except on weekends
+
+Implement a mandatory usage limit for such users of 90 cumulative hours per month across Instagram and Facebook, or about three hours per day
+
+Next week, another major trial against Meta begins in California. Nearly three dozen US states' attorneys general are suing the company for violating child privacy laws.

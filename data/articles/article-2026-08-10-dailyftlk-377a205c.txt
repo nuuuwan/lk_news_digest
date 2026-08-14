@@ -1,0 +1,121 @@
+Getting the new Quarterly Tax Instalment formula right
+
+On 6 August 2026, the Inland Revenue Department issued Circular No. SEC/2026/E/06 (Revised), replacing a version issued just three days earlier. The revised circular provides detailed guidance on calculating quarterly income tax instalments under Section 90 of the Inland Revenue Act, No. 24 of 2017, as amended by Act No. 11 of 2026
+
+It applies from Year of Assessment 2026/2027 onward, and, in the Department’s own words, to “subsequent years of assessment” as well, making it a document worth keeping close at hand well beyond this single tax year.
+
+For a document that is, at its core, one algebraic formula and a set of worked examples, the circular carries outsized consequences.
+
+Getting the arithmetic right, and meeting each of the four dates on the calendar, is not an academic exercise. It is a cash-flow planning necessity for every company, partnership, and high earning individual who falls within the instalment net.
+
+This article works through the circular method by method, translating the statutory formula into plain language.
+
+Section 90 fixes four instalment dates for every year of assessment, and the revised circular restates them unchanged:
+
+First instalment — on or before 15 August of the year of assessment
+
+Second instalment — on or before 15 November of the year of assessment
+
+Third instalment — on or before 15 February of the year of assessment
+
+Fourth instalment — on or before 15 May of the next succeeding year of assessment
+
+For most instalment payers reading this now, the pressing date is 15 August, the first instalment for Year of Assessment 2026/2027 falls due this month.
+
+Every instalment, whatever method is used to arrive at it, is ultimately computed using one formula: (A − C) ÷ B
+
+It looks deceptively simple, and it is, provided each component is understood
+
+A is the gross income tax payable on the taxable income of the immediately preceding year of assessment. Note the word “gross”: this is the tax computed before any tax credits, withholding tax, or reliefs are deducted. For an instalment falling within Year of Assessment 2026/2027, A is drawn from the finalised tax computation for 2025/2026.
+
+B is the number of instalments still remaining for the year, counting the one currently being calculated. It therefore changes through the year:
+
+B is 4 for the August instalment, 3 for November, 2 for February, and 1 for May.
+
+This declining divisor is what allows the total annual liability to be spread evenly across whichever instalments remain, rather than forcing the full amount onto whichever payment happens to be due.
+
+C is the running total of tax already secured for the year as at the due date of the instalment in question. It picks up three things: any instalments already paid earlier in the year, Withholding Tax (WHT) or Advance Income Tax (AIT) already deducted (or reasonably expected to be deducted) at source, and any foreign tax credit available under Section 80 of the Act.
+
+In effect, C prevents a taxpayer from being made to pay twice over on income that has already suffered tax elsewhere in the system.
+
+If a taxpayer had taxable income in the immediately preceding year of assessment, Method 1, the Standard Basis, is not optional. It is the mandatory starting point, and the circular is explicit that a taxpayer who qualifies to use it is barred from reaching for any of the alternative methods discussed further below. The mechanics are best seen through the circular’s own illustrations.
+
+His total assessable income for 2025/2026 was Rs. 3,800,000. After his personal relief of Rs. 1,800,000, taxable income came to Rs. 2,000,000, and applying the progressive personal tax bands (6%, 18% and 24% across the relevant slabs) produced a gross tax liability of Rs. 270,000. With no withholding credits available, his first instalment is (270,000 − 0) ÷ 4 = Rs. 67,500, due on or before 15 August 2026.
+
+For 2025/2026, the company’s taxable income of Rs. 1,653 million comprised Rs. 1,647 million of liquor-manufacturing profit, taxed at the sector-specific 45% rate, and Rs. 6 million of investment income taxed at 30%.
+
+That produced a combined gross tax of Rs. 742,950,000. With AIT credits of Rs. 880,000 already available, the first instalment works out to (742,950,000 − 880,000) ÷ 4 = Rs. 185,517,500.
+
+Two compliance points are worth flagging for anyone using this method.
+
+First, no supporting computation needs to be filed with the Commissioner-General upfront, the burden of getting the number right sits entirely with the taxpayer, and any underpayment discovered later attracts interest and penalties calculated against the standard-basis figure regardless of intention.
+
+Second, and as already noted, eligibility for the Standard Basis is not a choice between methods, it closes the door on Method 2 entirely (unless approval is obtained for a mid-year change of basis).
+
+The Standard Basis assumes income moves in a straight line from one year to the next. Real businesses rarely oblige, so the circular carves out an Alternative Basis for taxpayers who meet either of two gateway conditions: they had no taxable income at all in the immediately preceding year, or they can reasonably project that this year’s taxable income will be lower than last year’s.
+
+Where losses carried forward are heavy enough that a business genuinely expects to report no taxable income again this year, A is simply treated as zero and no instalment is payable. The relief is not automatic, however: the taxpayer must still file a formal declaration on the prescribed form, Attachment 1, setting out the position.
+
+This applies where a taxpayer had no taxable income last year, but this year expects to turn a profit, typically because carried-forward losses have finally been absorbed, or a tax holiday has expired.
+
+Here, A cannot simply be zero. Instead, the taxpayer must reconstruct last year’s figures as if the losses or exemptions that shielded them had never applied, and calculate what the gross tax would have been on that reconstructed basis, using current tax rates.
+
+ABC Ltd., a biscuit manufacturer, had brought-forward losses of Rs. 526,000 (figures in the circular are stated in thousands) that fully absorbed its 2025/2026 business income, leaving a further Rs. 24,000 (again, in thousands) of loss still available to carry forward. Stripping out the loss set-off that applied last year, the company’s reconstructed taxable income for instalment purposes comes to Rs. 478 million, generating a gross tax of Rs. 143.4 million at the 30% corporate rate.
+
+Its first instalment, after a withholding credit of Rs. 1.2 million, is (143,400,000 − 1,200,000) ÷ 4 = Rs. 35,550,000.
+
+XYZ Ltd., which develops software for the foreign market and has enjoyed a Board of Investment income tax exemption through 2025/2026, faces the same logic from the opposite direction.
+
+With the exemption expiring, its Rs. 44 million of previously tax-free profit becomes taxable at the applicable 15% concessionary rate, producing a gross tax of Rs. 6.6 million and a first instalment of Rs. 1,650,000.
+
+Both companies, having used this reconstruction, are required to submit Attachment 1 to substantiate their
+
+Where a taxpayer did have taxable income last year but reasonably expects a materially lower figure this year, because of a genuine decline in business, higher expenditure, or reduced investment income, the circular allows the prior year’s tax to be recalculated with the income streams that are not expected to recur stripped out.
+
+UVW Ltd., lost 42% of its business with a major customer during 2025/2026 but expects some of that revenue to be replaced by a new client, and has also withdrawn fixed deposits generating a large share of its interest income.
+
+After adjusting for a 27% net reduction in business income and an 80% reduction in investment income, the company’s reconstructed taxable income comes to Rs. 427,580,000, and the gross tax on that figure, at 30%, is Rs. 128,274,000.
+
+Applying the formula as written, the first instalment should be (128,274,000 − 0) ÷ 4, which comes to Rs. 32,068,500.
+
+A person or company that has just obtained a Taxpayer Identification Number has, by definition, no preceding year of assessment to draw on. The circular permits these taxpayers to estimate their taxable income for their first operational year and apply current rates to that projection, but only for that first year. From the second year of assessment onward, they fall into the Standard Basis like everyone else.
+
+New registrants using this estimation privilege must submit Attachment 2 rather than Attachment 1.
+
+Some situations genuinely defy estimation , unusual market disruption, force majeure, or a restructuring too complex to model within the alternative bases above. For these edge cases, the circular provides a final safe harbour: a formal written petition, addressed not to the local regional office but directly to the Commissioner – Tax Policy and Legislation Unit, acting on behalf of the Commissioner-General, seeking to use some other reasonable method tailored to the taxpayer’s circumstances.
+
+This is clearly intended as an exception rather than a routine option, and taxpayers should expect it to be applied sparingly.
+
+Getting the calculation right is only half the compliance exercise; documenting it correctly is the other half.
+
+For Component C , the credits reducing each instalment , the circular asks taxpayers to file a Credit Schedule in the prescribed format with the Central Document Management Unit, the Metro Office, or the relevant Regional Office. The filing deadline tracks the instalment calendar, falling due at the end of the month in which each instalment is payable: 31 August, 30 November, 28 or 29 February, and 31 May.
+
+For taxpayers using either of the alternative estimation methods under Method 2, Attachment 1 or Attachment 2 must reach the CDMU, Metro Office, or relevant Regional Office by 15 August of the year in which the first instalment for that year falls due, in effect, the same date as the first instalment itself.
+
+Not everyone earning income needs to navigate this machinery. The circular preserves, and usefully clarifies, an important carve-out for employees.
+
+Where an individual’s income is derived solely from employment and is fully captured through Advance Personal Income Tax deducted by the employer, no quarterly instalments and no credit schedule are required at all.
+
+The relief extends further: an employee who also earns rental or interest income subject to AIT withholding remains exempt from instalments and credit-schedule filing, provided the AIT withheld on that passive income is sufficient to cover the remaining tax liability for the year. This specific relief applies to employees whose APIT is computed under APIT Table 8.
+
+Her projected gross tax liability for 2026/2027 is Rs. 1,032,000, calculated on employment and interest income.
+
+Her employer’s expected APIT deductions of Rs. 960,000, combined with AIT of Rs. 90,000 on her interest income, add up to Rs. 1,050,000 , comfortably more than her total liability. Because her withheld credits already exceed what she owes, she is not required to make any instalment payment, nor to file the monthly credit schedule.
+
+Employees in a similar position, whose withholding at source already covers their expected liability, can take genuine comfort from this example.
+
+A person estimating A for instalment purposes may take into account a foreign tax credit available under Section 80 of the Act, but only where the foreign tax has already been paid, or is reasonably expected to be paid, during the year. Credits that are merely theoretical or contingent cannot be built into the calculation.
+
+Taxpayers who, with the Commissioner-General’s approval, prepare accounts on a 12-month period that does not align with the standard year of assessment are not exempted from any of the above, the same specifications apply to them without modification.
+
+Perhaps the most practically useful provision in the circular, for businesses that start the year on the Standard Basis and then see conditions deteriorate, is the mid-year revision mechanism. A taxpayer paying instalments under Method 1 who comes to reasonably expect that this year’s taxable income will fall below last year’s is not locked into the higher standard-basis figure for the rest of the year. They may notify the CDMU, together with supporting information, and move onto Method 2 or Method 3 for the remaining instalments.
+
+The notification deadlines are, once again, tightly defined, the last day of the month preceding the relevant instalment due date:
+
+There is no equivalent revision window for the August instalment itself, which underlines the importance of getting the initial Standard Basis computation right, or of qualifying for Method 2 from the outset if the taxpayer’s circumstances genuinely warrant it.
+
+Circular SEC/2026/E/06 (Revised) is, in substance, an attempt to bring predictability to a system that depends on taxpayers estimating their own liability months before the relevant year of assessment closes. The Standard Basis gives the Department the cash-flow certainty it wants; the alternative bases, the reconstruction protocols for expiring losses and exemptions, and the Method 3 safe harbour together acknowledge that businesses do not always move in straight lines.
+
+For taxpayers and their advisors, the practical discipline this circular calls for is threefold: track Component A accurately from the prior year’s finalised computation; keep Component C, every withholding certificate, instalment receipt, and foreign tax credit, properly documented and ready to support the Credit Schedule; and treat the four statutory dates as immovable, because the consequence of missing one is immediate default status rather than a grace period.
+
+(The author, an Attorney-at-Law, LLB, FCMA(UK), CGMA, FCMA, was awarded Tax Practice Leader of the Year 2024 (ASPAC) by International Tax Review (ITR) and was a top-four finalist for Tax Litigation and Disputes Practice Leader of the Year)

@@ -1,0 +1,157 @@
+Safeguarding Sri Lanka’s trade integrity
+
+Why Certificates of Origin demand rigour, rules compliance and vigilance in a friction-filled global market
+
+When a shipment of Sri Lankan tea, apparel, or value-added spices arrives at a port in Europe, North America, or neighboring Asia, customs officers at the port of entry look beyond the commercial invoice, the bill of lading, or the physical containers. They examine a single critical document that dictates the legal and financial fate of that cargo: the Certificate of Origin (CoO).
+
+In an era defined by geopolitical re-alignments, heightened tariff friction, unilateral trade sanctions, anti-dumping actions, and rigorous environmental and labour enforcement, the Certificate of Origin has evolved from a routine administrative paper into a high-stakes trade security document.
+
+For a developing maritime nation like Sri Lanka, strategically positioned along Indian Ocean shipping lanes the integrity of our trade documentation is paramount. As global powers impose trade embargoes, punitive countervailing duties, and strict environmental mandates on various foreign entities, the risk of transshipment fraud and origin circumvention has surged.
+
+If third-country goods under embargo or subject to anti-dumping duties are illegally transshipped through Sri Lanka and falsely passed off as local origin, the international backlash will not merely hit the fraudulent exporter-it will devastate the credibility of Sri Lanka's entire export apparatus.
+
+This column serves as a comprehensive operational guide and strategic warning for exporters, trade chambers, customs brokers, and policymakers across Sri Lanka. It breaks down the mechanics of Rules of Origin (RoO), contrasts preferential and non-preferential certificates, outlines World Customs Organisation (WCO) and World Trade Organisation (WTO) standards, and highlights the urgent necessity for trade chambers to exercise meticulous due diligence.
+
+At its core, Rules of Origin (RoO) are the technical criteria used to determine where a product was made. In international commerce, establishing origin is not as simple as noting where a container was loaded onto a vessel. Modern supply chains involve raw materials sourced from Country A, processed in Country B, assembled in Country C, and packaged in Country D.
+
+To navigate this complexity, global customs frameworks categorise Rules of Origin into two primary regimes:
+
+1.Wholly Obtained Criteria: Goods that are entirely grown, harvested, extracted, or born in a single country without any imported components (e.g., pure Ceylon Tea grown in Nuwara Eliya, raw cinnamon harvested in Matara, or fish caught by Sri Lankan flagged vessels in territorial waters).
+
+2.Substantial Transformation Criteria: Goods produced using imported raw materials or intermediate inputs. To qualify as originating from the exporting country, these materials must undergo a substantial, economically justified transformation that yields a new and distinct product.
+
+Competent authorities globally, guided by WCO standards, utilise three main methodologies to evaluate whether substantial transformation has occurred:
+
+Change of Tariff Classification (CTC): Requires that the imported non-originating materials fall under a different Harmonised System (HS) tariff heading or subheading than the finished product (e.g., Change of Tariff Heading / CTH at the 4-digit level, or Change of Tariff Sub-Heading/ CTSH at the 6-digit level).
+
+Ad Valorem Percentage (Local Value Addition / LVA): Requires that a specified minimum percentage of the product's final Free on Board (FOB) value is added within the exporting country, or that non-originating materials do not exceed a certain ceiling.
+
+Specific Process Criterion: Mandates that the product undergo a specific, defined manufacturing or processing operation (e.g., converting yarn into fabric, followed by garment stitching in the apparel sector).
+
+Understanding the legal distinction between Preferential and Non-Preferential Certificates of Origin is essential for every trade stakeholder in Sri Lanka.
+
+A Preferential Certificate of Origin is a legal instrument issued under specific bilateral, regional, or multilateral trade agreements, as well as unilateral trade preference schemes. Its primary purpose is to enable the importer in the destination country to claim reduced or zero customs duties (tariff concessions).
+
+In Sri Lanka, the Department of Commerce (DoC) is the sole designated National Authority competent to issue and validate Preferential Certificates of Origin.
+
+Indo-Sri Lanka Free Trade Agreement (ISFTA): Under the ISFTA, Sri Lankan products exported to India can enjoy tariff concessions provided that they satisfy the prescribed Rules of Origin. Generally, products manufactured with non-originating inputs must achieve a Domestic Value Addition (DVA) of at least 35% of FOB value, combined with a Change of Tariff Heading (CTH) at the HS 4-digit level. Under cumulative provisions, if Indian raw materials are utilised, the required Sri Lankan local value addition drops to 25%, provided total combined regional value addition reaches 35%.
+
+Pakistan-Sri Lanka Free Trade Agreement (PSFTA): Similar to the ISFTA, the PSFTA provides duty-free or concessional access for thousands of tariff lines. Non-wholly obtained goods require a 35% local value addition and a Change of Tariff Sub-Heading (CTSH at the 6-digit level). Cumulative origin provisions also apply, allowing a 25% local contribution when incorporating Pakistani inputs.
+
+Generalised System of Preferences (GSP/GSP+): Unilateral trade preference schemes granted by developed markets (such as the European Union, Japan, and other donor countries) provide duty-free access to vulnerable developing economies. The EU GSP+ scheme, highly vital to Sri Lanka's apparel and fisheries industries, enforces stringent Rules of Origin-such as the 'double transformation' rule for textiles and apparel to ensure meaningful value addition occurs domestically before preference benefits are claimed.
+
+Other regional agreements: The Department of Commerce routinely processes and certifies preferential documents under the South Asian Free Trade Area (SAFTA) and the Asia-Pacific Trade Agreement (APTA).
+
+Non-Preferential Certificates of Origin are used for standard commercial exports that do not claim preferential duty reductions. They are routinely requested by foreign customs agencies, banks (for Letter of Credit compliance), and trade authorities to verify the commercial source of goods, administer import quotas, apply trade statistics, or enforce trade defence measures.
+
+In Sri Lanka, designated Trade Chambers (such as the Ceylon Chamber of Commerce, the National Chamber of Commerce of Sri Lanka, the Federation of Chambers of Commerce and Industry of Sri Lanka, and the National Chamber of Exporters) are authorised to issue Non-Preferential CoOs to exporters.
+
+Practice vs. global realities: The 25% rule and anti-dumping protection
+
+Sri Lanka has already enacted domestic Anti-Dumping, Countervailing, and Safeguard legislations to protect its local manufacturers from unfair foreign trade practices. However, establishing clear domestic Non-Preferential Rules of Origin (NP-RoO) criteria is just as crucial.
+
+Practically, Sri Lanka has been using the administrative guideline issued by the Department of Commerce requiring at least 25% Local Value Addition (LVA) or a Change of Tariff Heading (CTH) to declare Sri Lankan origin for processed imports.
+
+It is also noteworthy that BOI agreements themselves recognise the importance of meaningful domestic value creation. Most BOI agreements require BOI-approved enterprises to maintain a minimum Domestic Value Addition (DVA) of at least 25%, reinforcing Sri Lanka's long-standing administrative benchmark applied in origin determination. Nevertheless, satisfying this value-addition requirement alone is insufficient. The processing undertaken must also constitute substantial transformation under internationally accepted Rules of Origin and must not fall within the WCO's list of minimal operations.
+
+While Sri Lanka currently relies on this practical 25% guideline, the nation has not yet formally legislated its own product-specific Non-Preferential Rules of Origin Framework.
+
+This is a key regulatory gap. When an international anti-dumping or countervailing investigation is launched-or when Sri Lanka initiates its own trade defence measures the availability of established, legally binding Non-Preferential Rules of Origin criteria is absolutely necessary.
+
+Major trade blocs like the European Union have already established legally binding Non-Preferential Rules of Origin (e.g., Article 60 of the EU Union Customs Code, supplemented by Annex 22-01 UCC-DA). The EU's rules explicitly define 'last substantial transformation' for specific goods and dictate which exact processes confer or deny origin when trade defence duties (like anti-dumping) are triggered.
+
+Furthermore, Sri Lanka's 25% value-addition practice must strictly align with WCO Minimal Processing Criteria. Even if a local exporter claims that a 25% value addition was reached due to local markup, labour, or expensive packaging, if the physical process falls under WCO-defined minimal operations, it can NEVER confer origin.
+
+Under the World Customs Organisation (WCO) Revised Kyoto Convention (RKC) specifically Specific Annex K-the core objective of determining origin is establishing where a product underwent substantial transformation.
+
+To prevent origin circumvention, the RKC lays down the Minimal Operations Rule. These are operations that do not confer origin, regardless of whether the product achieves a 25% local cost addition, changes tariff lines on paper, or incurs local labour hours.
+
+Raw shrimp harvested in Foreign Country A is shipped frozen to a processing warehouse in Sri Lanka. In Sri Lanka, the shrimp is defrosted, rinsed, re-frozen, and vacuum-packed.
+
+Origin Verdict: Country A. Washing, chilling, and re-freezing are minimal preservation operations that do not confer Sri Lankan origin.
+
+Fully manufactured garments made in Foreign Country A arrive in bulk cartons at a bonded zone in Colombo. Workers unbox the items, steam-press them, put them on plastic hangers, add price tags, and repack them.
+
+Origin Verdict: Country A. Pressing, hanging, and repacking are minor logistical operations that leave the origin unchanged.
+
+Completely knocked down (CKD) components for solar panels or electronic tablets manufactured in Foreign Country A are imported to Sri Lanka. Workers snap the plastic casings together and insert four screws using handheld screwdrivers.
+
+Origin Verdict: Country A. Simple assembly without technical transformation, surface-mounting, or high-tech manufacturing fails to confer origin under WCO standards.
+
+Fruit juice concentrate imported from Country A is mixed with water and imported sugar in Sri Lanka and poured into consumer bottles.
+
+Origin Verdict: Country A. Dilution with water or simple ingredient mixing without chemical synthesis or fermentation is a minimal process.
+
+Unbranded footwear made entirely in Country A is imported to Sri Lanka, where a local factory sews a 'Ceylon Design' cloth tag onto the shoe tongue.
+
+Origin Verdict: Country A. Relabeling carries zero legal weight in origin determination.
+
+The World Trade Organisation (WTO), through the Agreement on Rules of Origin (1995), recognised that inconsistent and divergent Non-Preferential Rules of Origin (NP-RoO) applied by different countries could create uncertainty, increase compliance costs, and act as unnecessary obstacles to international trade.
+
+To address this, WTO Members launched the Harmonisation Work Program (HWP), entrusting the World Customs Organisation (WCO) with the development of harmonised product-specific Non-Preferential Rules of Origin based on objective criteria such as substantial transformation. Although significant technical progress has been achieved, WTO Members have yet to adopt a universally binding harmonised system. Consequently, each Member continues to apply its own domestic Non-Preferential Rules of Origin, provided they are transparent, predictable, impartial, consistently administered, and do not create restrictive or trade-distorting effects.
+
+For Sri Lanka, this presents both the opportunity and the responsibility to establish a comprehensive domestic Non-Preferential Rules of Origin framework aligned with WTO principles and international best practices, thereby strengthening the credibility of origin certification and safeguarding the country's reputation in global trade.
+
+The global trading environment is navigating unprecedented administrative friction. Major markets (including the US, EU, and India) aggressively enforce:
+
+Anti-Dumping Duties (ADD): Punitive tariffs imposed on foreign goods dumped in import markets below normal value.
+
+Countervailing Duties (CVD): Special duties intended to offset foreign government subsidies.
+
+Geopolitical trade embargoes and sanctions: Targeted import bans on specific foreign goods or state-linked entities.
+
+When Country A is hit with a 100% Anti-Dumping duty by Country C, bad actors in Country A seek workaround routes. They ship the restricted goods to Sri Lanka (Country B) into a free zone or bonded warehouse. There, the goods undergo superficial repackaging or labeling. The exporter then applies to a Sri Lankan Trade Chamber for a Non-Preferential Certificate of Origin claiming 'Sri Lankan Origin' to evade Country C's anti-dumping duties.
+
+If Sri Lankan documentation is implicated in circumvention, foreign customs authorities will flag all Sri Lankan shipments as 'High Risk,' triggering 100% physical container inspections and damaging the entire export economy.
+
+A direct call to Sri Lankan trade chambers: Exercise meticulous due diligence
+
+This brings us to a crucial operational point for our national economy. Trade Chambers issuing Non-Preferential Certificates of Origin cannot act as passive rubber-stamping bodies.
+
+While the Department of Commerce rigorously scrutinises every Preferential CoO application using detailed cost statements, factory audits, and bill-of-material verifications, Trade Chambers issuing Non-Preferential CoOs must elevate their verification procedures to the exact same high standard.
+
+1.Stop 'Mere Export' Reliance:  Never issue a CoO simply because cargo leaves a Sri Lankan port or the exporter has a local business registration.
+
+2.Apply WCO Minimal Processing Rules First:  Verify that processing exceeds basic minimal operations before calculating value addition.
+
+3.Mandate Complete Input Traceability:  Demand Customs Import Declarations (CUSDEC), raw material invoices, and detailed cost breakdowns proving at least 25% LVA or genuine CTH.
+
+4.Conduct Unannounced Factory Audits:  Perform spot-checks to confirm production capacity, machinery, and physical labour match declared export volumes.
+
+5.Strictly Control Free Zone Cargo:  Demand foreign original CoOs for transshipment cargo and issue 'Certificates of Re-Export/Non-Manipulation' clearly stating original foreign origin-NEVER declaring Sri Lanka as the origin.
+
+6.Exercise Special Care for BOI Entrepôt Operations: Where exports originate from BOI-approved entrepôt trading entities, verify whether the processing undertaken exceeds the WCO minimum processing criteria. If the goods have not undergone substantial transformation, the Non-Preferential Certificate of Origin should clearly indicate the actual foreign country of origin rather than Sri Lanka.
+
+To remain competitive internationally, Sri Lanka must align its export verification framework with newly emerging non-tariff regulatory demands most notably regarding labour practices and environmental sustainability.
+
+The United States strictly enforces prohibition on goods produced wholly or in part by forced labour, debt bondage, or child labour from certain countries and regions. Sri Lanka's apparel and manufacturing sectors have long maintained an ethical edge under the slogan 'Garments Without Guilt.' By maintaining high labour standards, enforcing freedom of association, and ensuring fair wages, Sri Lanka has earned preferential consideration, lower risk-rating metrics, and duty reductions in Western markets compared to regional competitors.
+
+However, to protect this advantage, trade documentation must verify not only manufacturing processes, but supply chain compliance. Exporters sourcing foreign raw yarns or components from regions implicated in forced labour risk total seizure of their exports upon arrival in the US.
+
+The European Union has introduced groundbreaking environmental regulations that directly impact international trade documentation:
+
+EU Carbon Border Adjustment Mechanism (CBAM): Requires importers in the EU to report the embedded direct and indirect carbon emissions of carbon-intensive imports (e.g., steel, aluminum, fertilisers, cement).
+
+EU Deforestation Regulation (EUDR): Prohibits the import of commodities linked to deforestation, including coffee, cocoa, rubber, timber, and palm oil.
+
+For Sri Lankan exporters of rubber products, tea, and agricultural goods, proving 'Sri Lankan Origin' now requires proving environmental compliance. Customs authorities in Europe increasingly require origin certifications to be backed by geolocated plot data, environmental impact statements, and deforestation-free supply chain tracking.
+
+Sri Lanka's Board of Investment (BOI) framework  provides for the establishment of enterprises engaged in entrepôt trade, recognising the country's strategic position as a regional logistics and maritime hub. Under these BOI-approved operations, companies are permitted to import goods, undertake limited or simple processing, and subsequently re-export them to third-country markets.
+
+However, the mere existence of a BOI approval does not automatically confer Sri Lankan origin on such goods. In many entrepôt operations, the processing carried out is intentionally limited to activities such as sorting, grading, repacking, relabelling, simple assembly, or other minor operations that fall below the threshold of substantial transformation. Where such activities do not satisfy the internationally accepted Rules of Origin or exceed the World Customs Organisation (WCO) minimum processing criteria, the country of origin of the goods remains the country where the goods were originally manufactured or where the last substantial transformation occurred.
+
+Consequently, when issuing a Non-Preferential Certificate of Origin for such exports, Trade Chambers should accurately state the true country of origin rather than declaring Sri Lanka as the origin. Where appropriate, the certificate should clearly indicate the actual originating country—normally the country contributing the highest proportion ( Back to back Certification)  of originating materials or where the substantial transformation took place—thereby ensuring transparency and preventing any allegation of origin circumvention or anti-dumping evasion.
+
+In international commerce, trust is a nation's most valuable economic currency. A single compromised Certificate of Origin can tarnish an entire country's export brand, leading to retaliatory tariffs, port delays, and lost market access. Therefore, following take home message should strictly be followed by the concerned stakeholders in safeguarding Sri Lankan brand name as a trustworthy, reliable trading partner.
+
+1.Rules of Origin are non-negotiable legal benchmarks:  Achieving the 25% local value addition or a Change of Tariff Heading is a strict requirement, and it must be paired with compliance under WCO minimal processing rules.
+
+2.Formalise Non-Preferential Rules of Origin:  Sri Lanka must establish legally binding Non-Preferential Rules of Origin criteria to safeguard domestic industries during anti-dumping and countervailing investigations.
+
+3.Trade Chambers must serve as rigorous guardians:  Non-preferential CoOs carry immense international weight. Chambers must conduct thorough due diligence, verify raw material trails, reject superficial processing claims, and strictly report third-country re-exports accurately.
+
+4.Compliance is our greatest competitive edge:  By honoring WCO and WTO standards, maintaining zero tolerance for forced labour, and upholding environmental compliance, Sri Lanka will solidify its reputation as a reliable, ethical, and world-class trading partner.
+
+The Department of Commerce remains fully committed to supporting Sri Lankan businesses, guiding trade chambers, and technical experts in navigating the complexities of international trade rules. Together, through compliance, transparency, and operational integrity, we will safeguard Sri Lanka's global trade standing and drive sustainable, export-led economic growth.
+
+(The author is Director of Commerce, Department of Commerce of Sri Lanka and  Consul General of Sri Lanka in Karachi, Pakistan)

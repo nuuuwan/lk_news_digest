@@ -1,0 +1,21 @@
+New zero-click WhatsApp attack raises concerns for iPhone users in Sri Lanka
+
+Colombo, Aug. 11 (Daily Mirror) - A newly identified zero-click cyberattack targeting WhatsApp users has raised concerns among iPhone users in Sri Lanka, with several individuals reportedly complaining to the Sri Lanka Computer Emergency Readiness Team (Sri Lanka CERT) after their accounts were compromised.
+
+The attack reportedly targets vulnerable iPhones running older versions of iOS and can allow attackers to take control of WhatsApp accounts without requiring victims to click a malicious link, scan a QR code or otherwise interact with the attack.
+
+Several members of the media and business community in Sri Lanka have reportedly experienced or reported incidents linked to the attack, indicating that the threat is not limited to overseas users.
+
+According to a forensic investigation by an Italian cybersecurity firm, the attackers may be exploiting vulnerabilities associated with the synchronization of linked devices. In reported cases, compromised accounts were used to send unauthorized WhatsApp messages requesting money transfers.
+
+In some instances, victims reportedly found no suspicious devices listed under WhatsApp's linked-device settings, making the takeover more difficult to detect. Attackers have also allegedly taken control of WhatsApp group administrator privileges after compromising accounts.
+
+The attack is reportedly associated with iPhones running iOS versions earlier than 16.7.12, highlighting the risks posed by outdated operating systems.
+
+Unlike conventional WhatsApp scams involving QR-code phishing or malicious links, the reported zero-click technique does not require direct interaction from the victim, making it particularly difficult for users to identify and prevent.
+
+Cybersecurity experts advise WhatsApp users to immediately update their iPhones to the latest supported iOS version and install the latest WhatsApp update. Users are also encouraged to enable WhatsApp's two-step verification and Chat Lock features.
+
+They further advised users to independently verify unusual requests for money or sensitive information through another trusted communication channel, even when such requests appear to come from a known contact.
+
+The incident highlights growing concerns over the use of sophisticated zero-click exploitation techniques by financially motivated cybercriminals and underscores the importance of keeping mobile operating systems and applications updated.

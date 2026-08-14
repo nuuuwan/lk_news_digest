@@ -1,0 +1,69 @@
+‘Ukraine and Iran wars call for a new military training and operational module’-Australian Expert
+
+If Western nations must compete with China, Russia, Iran and North Korea, they need rapid changes in military institutions
+
+Western forces have not institutionalised key lessons into doctrine, force structure or procurement priorities
+
+The contrast between Western learning speeds and those of adversaries is one of the defining strategic facts of this decade
+
+The ongoing Russia-Ukraine and US-Iran wars have exposed weaknesses in Western militaries relative to those of Ukraine, Russia and Iran. They have failed to think innovatively, creatively and quickly enough to meet evolving battlefield challenges, according to Maj. Gen. Mick Ryan of the Australian think tank the Lowy Institute.
+
+A retired Australian Army officer and military strategist, Ryan argues in his paper “Modern war and the systemic learning deficit in Western military institutions” that Western forces exhibit a “systemic learning deficit” that prioritises exploitation of existing competencies over exploration of new solutions.
+
+“The result is a dangerously slow adaptation to battlefield innovations, demonstrated in Ukraine and Iran, despite unprecedented access to openly available evidence. The inability to rapidly implement proven innovations is a failure of organisational culture, of promotion systems that reward conformity over innovation, and of political leadership that fails to demand institutional accountability for learning,” Ryan writes.
+
+If Western nations are to compete with China, Russia, Iran and North Korea, they need rapid organisational, cultural, technological and leadership changes in their military institutions.
+
+Despite four years of visibility into Ukrainian battlefield innovations and the recent war in Iran, Western forces have not institutionalised key lessons into doctrine, force structure or procurement priorities.
+
+China, Russia, Iran and North Korea have built systems in which battlefield insights transfer rapidly. Western democracies, constrained by risk-averse bureaucracies, slow procurement cycles and promotion systems that reward managerial competence over innovative thinking, face a structural disadvantage.
+
+When drone warfare dominates, Australia, for example, still has minimal drone capabilities and almost no counter-drone defences for deployed forces or critical infrastructure at home.
+
+The contrast between Western learning speeds and those of adversaries is one of the defining strategic facts of this decade. Western governments and militaries have been slow to institutionalise lessons from Ukraine and Iran; their adversaries have not. China, Russia, Iran and North Korea have created knowledge ecosystems in which insights—from drone employment to electronic warfare to industrial mobilisation—flow more rapidly than many Western institutions acknowledge.
+
+Ryan draws on learning theorists Chris Argyris and Donald Schön, who distinguish “single-loop” learning (correcting errors within existing frameworks) from “double-loop” learning (questioning the underlying assumptions themselves). Traditional military institutions are archetypal single-loop organisations. They teach tactical adaptation within doctrinal boundaries and resist revising core doctrines. They reinforce familiar routines even when those routines no longer match the operational environment.
+
+Western defence bureaucracies have not adapted with the times. They remain trapped in pre-existing ideas, fail to understand accurately what occurs in foreign wars, draw misleading lessons, and struggle to sustain the implementation of useful ones. In an era when war has never been more visible, choosing not to learn is a strategic decision with grave consequences.
+
+Western military institutions display what Ryan calls “schema rigidity”—the tendency to interpret new information through pre-existing frameworks rather than updating those frameworks. This produces learning disabilities and organisational inertia. Lessons from another country’s conflict that confirm existing doctrines are readily absorbed; those that challenge them are marginalised, reinterpreted or ignored.
+
+Charles Darwin’s ideas of “survival of the fittest” and natural selection offer a useful construct. Institutions that can identify environmental change, analyse its implications and alter behaviour accordingly will outcompete those that cannot or will not. Those that adapt survive; those that do not, perish.
+
+Military organisations exist in a permanently competitive environment, in both peace and war. This requires continuous evolution of learning and adaptation cultures that combine individual competence with institutional processes.
+
+Adaptation does not occur at a single moment, in a single mode or in a single place. Three distinct forms matter: adaptation before war, adaptation during the transition from peace to war, and adaptation while war is under way. Each phase demands different organisational and leadership imperatives, proceeds at a different pace, and requires a different institutional disposition.
+
+Peacetime adaptation is the foundation of wartime performance. An institution’s proficiency at organisational learning in peacetime shapes how it prepares for conflict, how it performs in the early stages of war, and how quickly it can close the gap between pre-war assumptions and wartime reality.
+
+Military culture may be the most important factor not only in military effectiveness but also in the processes of military innovation needed to prepare for the next war. There is a permanent tension between “exploitation” (applying existing competencies to well-understood problems) and “exploration” (investigating new competencies and solutions to emerging challenges).
+
+Western military organisations, operating under the fiscal and bureaucratic pressures of liberal democratic governance, have in recent years leaned sharply toward exploitation at the expense of genuine exploration. They refine what they have always done rather than exploring new approaches.
+
+Several factors shape learning in military institutions. Organisational culture—the beliefs, norms and assumptions embedded below conscious articulation—exerts powerful influence. It determines how far leaders recognise change and how much risk they will accept. A culture that rewards conformity, penalises failure and promotes leaders for managerial competence rather than innovative thinking produces poor learning organisations.
+
+Western institutions have often treated Ukraine’s experience as too specific to apply to other contingencies, such as in the Pacific. Australia’s 2024 National Defence Strategy largely ignored the war (partially redressed in the 2026 version). Another obstacle is the rush to draw preliminary findings and seek data that confirms them, discouraging attention to operational and strategic dynamics and promoting static rather than dynamic learning. Institutions look for what they already expect to find and stop once they have found it.
+
+Perhaps the most fundamental obstacle is a humility deficit: a failure to maintain genuine intellectual openness about what an adversary or a war might reveal.
+
+Ryan cites three prominent recent examples: Russia’s catastrophic underestimation of Ukrainian national resilience in February 2022; the collective failure by Ukraine and its Western supporters to grasp the depth of Russian defensive preparation before the 2023 counteroffensive; and Israel’s failure to appreciate Hamas’s operational planning before 7 October 2023.
+
+In each case the institution possessed substantial intelligence. What it lacked was the willingness to take that intelligence seriously, follow its implications and adapt before being surprised.
+
+The most disorienting feature of modern war is the speed of change. Ukrainian drone units adapt and update software daily. Unit-level tactics evolve every one to two weeks. Higher-level combined-arms tactics on both sides evolve on cycles of two to three months.
+
+Against this tempo, Western institutions operate on procurement cycles measured in years, doctrine revision cycles measured in decades, and leadership selection processes that reward managerial over innovative competence.
+
+When armies, air forces and navies go to war they invariably do so with plans, tactics and equipment not optimised for the fight ahead. The ability to adapt quickly can therefore be decisive. Learning quickly matters.
+
+Artificial-intelligence-enabled learning infrastructure can accelerate adaptation. Public attention has focused on AI for targeting, weapons allocation and kill-chain acceleration. Less visible but critical is AI applied to the aggregation of battlefield data and the rapid translation of operational experience into institutional knowledge.
+
+Ukraine has built one of the world’s most consequential live battlefield AI learning platforms. The OCHI system, a non-profit initiative, centralises video feeds from more than 15,000 frontline drone crews. Since 2022 it has aggregated two million hours of footage-equivalent to roughly 228 years of continuous observation-from which AI models are trained on combat tactics, target recognition and weapons effectiveness. This is AI for learning: building a continuously updated model of what works, what fails and why, from the largest contemporary combat dataset ever assembled.
+
+In March 2026 Ukraine opened this infrastructure to multiple AI vendors, creating the first multi-party platform for training models on near-real-time battlefield data designed to close the gap between laboratory simulation and unpredictable operational conditions. The practical results are already clear: AI guidance integrated into Ukrainian first-person-view drone operations has raised strike effectiveness from 30–50 per cent to 80 per cent.
+
+Israel has institutionalised AI for military learning through organisational architecture rather than a single platform. Unit 8200 of the Israel Defence Forces maintains an embedded AI Centre focused on continuous system improvement from operational data. Unit 3060, within the Intelligence Division, was established specifically to advance operational and visual AI systems for ongoing combat use.
+
+After the 7 October 2023 intelligence failure, the IDF rapidly cleared AI tools for deployment, with technology-company reservists supplying capabilities not previously available inside the military establishment.
+
+Western militaries must confront their systemic learning deficit. The wars in Ukraine and Iran have shown that the side that learns and adapts faster gains a decisive edge. Survival in the competitive environment of modern war requires institutions willing to question their assumptions, reward innovation, and institutionalise lessons at the speed of the

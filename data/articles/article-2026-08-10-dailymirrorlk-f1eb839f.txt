@@ -1,0 +1,17 @@
+Google Drive is ending Google Photos backup starting August 10
+
+THE TIMES OF INDIA - Google has confirmed that its Drive desktop app will stop supporting automatic Google Photos backup starting August 10, 2026. The change means that the users who rely on Drive’s desktop client to sync photos and videos from their computers will no longer see a new media automatically backed up to Google Photos. The company said that this move is part of its effort to simplify backup tools and also focus on dedicated photo management via the Photos app. “Google Drive for desktop ends support for Google Photos backup on August 10, 2026. To stop backing up existing folders before this date, use these instructions. To continue backing up folders after this date, you must add photos & videos from Google Drive to Google Photos,” said Google.
+
+Currently, the Google Drive desktop app allows users to designate a folder on their computer to be automatically backed up to Google Photos, a convenient way to keep photo libraries synced to the cloud without manual uploads. From August 10, that automatic connection between Drive for desktop and Google Photos stops working entirely. Any folders still configured for this kind of backup will no longer upload new photos or videos once the cutoff hits.
+
+Importantly, this doesn't mean Google Drive or Google Photos themselves are shutting down. Regular file syncing through the Drive desktop app will continue to work exactly as before — it's specifically the automatic bridge that pushed photos from a Drive-synced folder into Google Photos that's being removed. Google has also confirmed that any photos and videos already backed up to Google Photos through this method will remain safely stored and won't be affected by the change.
+
+For anyone who wants to keep automatic photo backups running, Google is directing users to set things up directly through Google Photos instead of via the Google Drive desktop app. There are two main options:
+
+Continuous folder backup: In Google Photos, using the "+" button, users can select "Back up folders" and choose the computer folders they want backed up going forward, similar to how the Drive desktop app worked before.
+
+Import from Drive: Users can also import photos that are already stored in their Google Drive folders directly into Google Photos.
+
+It is important to note that unlike the old Google Drive desktop integration, backups set up through the Google Photos website only run while the Google Photos site is open in a browser, rather than happening automatically in the background — a change that some users may find less convenient than the setup they are replacing.
+
+For casual users who mainly back up photos from their phones, this change will likely go unnoticed, since phone-based backups through the Google Photos app are not getting impacted. But for anyone who has used a computer folder — say, images imported from a camera or scanned documents — as their primary photo backup pipeline via the Google Drive desktop app, the deadline is worth acting on now. Missing it won't delete any existing backups, but it will quietly stop new photos from being backed up until the new setup is in place.
