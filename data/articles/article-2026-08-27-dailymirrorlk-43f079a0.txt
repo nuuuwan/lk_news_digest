@@ -1,0 +1,65 @@
+Meta agrees to pay $18 billion to settle US lawsuits over children’s social media addiction
+
+(Reuters) - Meta Platforms will pay up to $18 billion over the next decade and strictly limit how teenagers use Facebook and Instagram under an agreement with nearly all U.S. states to resolve claims it designed those social media platforms to addict children.
+
+The settlements announced on ​Wednesday end a federal trial over allegations Meta's products harmed children and the company misled the public about their safety. Four of the states — California, Colorado, Kentucky and New Jersey — were expected to seek close to $200 billion in civil ‌penalties.
+
+While Meta will not undergo a fundamental overhaul, the accords represent a sweeping effort to define how it serves young users.
+
+It could provide a template for resolving thousands of other lawsuits against social media companies. Governments around the world are trying to curb children's access to harmful online content, including a ban in Australia on social media for children under 16.
+
+“The focus of this case was to protect our kids," Colorado Attorney General Phil Weiser said in a statement. "The relief we are getting in this settlement is very meaningful and well beyond what any court has ordered or is likely to order."
+
+Meta agreed over the next decade to restrict teenagers' use of Facebook and Instagram ​to two hours a day and block all usage from midnight to 6 a.m., absent parental consent.
+
+These limits could be tightened if the social media platforms Snapchat, TikTok and YouTube adopt similar terms. Meta will also disable most push notifications to teenage users ​during school hours of 8 a.m. to 3 p.m. and enhance measures to prevent children from accessing age-restricted content.
+
+The settlement does not require Meta to abandon personalized recommendations or targeted advertising. It also does not ⁠address some content Meta researchers found particularly problematic, including posts that made Instagram users uncomfortable with their body image.
+
+Meta denied wrongdoing in agreeing to settle. The total payout represents about three to four months of profit and about one month of revenue for Meta.
+
+"Ensuring teens have a safe ​and productive experience on our platforms is an absolute imperative for Meta," the Menlo Park, California-based company said in a blog post. "We want to get this right for parents and teens."
+
+Meta agreed to make maximum payments ​of about $16.7 billion to 47 U.S. states, Washington, D.C., Puerto Rico, American Samoa and the Northern Mariana Islands.
+
+California could receive a $2.2 billion payout, while New York could receive $1.1 billion. Texas reached a separate settlement worth more than $1 billion.
+
+Some states will deposit funds in general accounts, while others will earmark portions to address children's mental health.
+
+"This is a big deal," said James Speta, a Northwestern University law professor who specializes in telecommunications and internet policy.
+
+"Meta and other companies were facing pressure to change business practices whether or not they lost the lawsuits, from the public and from Congress and state legislatures," he continued. "These restrictions will change the experience on Instagram and ​Facebook, and they are designed to reduce engagement."
+
+The settlement includes guaranteed payments of about $12.7 billion, with another $5 billion contingent on whether Snap Inc's Snapchat, ByteDance's TikTok and Alphabet's YouTube impose similar protections for children.
+
+Those companies were not immediately available for comment. Meta plans to publish a letter on ​Thursday in national newspapers to push TikTok and YouTube to improve protections for children. A Meta spokesperson said the company was "hopeful" Snap would make similar changes.
+
+Wednesday's settlements also call for Meta to pay $459 million to resolve states' privacy claims related to the Cambridge Analytica scandal, where a British consulting firm collected personal ‌data of millions of ⁠Facebook users without authorization.
+
+U.S. District Judge Yvonne Gonzalez Rogers approved the main settlement late Wednesday. She had overseen the trial that began on August 18.
+
+At a hearing, she called the settlement "a good step forward," and told lawyers for Meta and the states: "I am quite happy to not have to finish up this trial."
+
+Instagram head Adam Mosseri had begun testifying before the settlement was announced, and Meta Chief Executive Mark Zuckerberg had been expected to testify.
+
+Mosseri told representatives of the states last month that Meta would appeal any verdict it lost but would make constructive changes if a settlement could be worked out, people familiar with the matter said.
+
+Social media companies still face thousands of lawsuits in federal and state courts by individuals, school districts, municipalities and other government entities claiming they knowingly sought to addict children and caused a mental health crisis including harms such ​as anxiety, depression and suicide. Gonzalez Rogers oversees many of these ​cases.
+
+The Meta trial included claims by California, Colorado, Kentucky and New ⁠Jersey that the company's conduct violated state consumer protection laws.
+
+It also included claims by 29 states that Meta violated the federal Children's Online Privacy Protection Act by knowingly collecting personal data from children without parental consent, and using the data to train generative AI.
+
+Meta had long argued that it could not have misled consumers because "social media addiction" was not a recognized psychiatric condition.
+
+Before the trial began, Meta said California, Colorado, Kentucky and ​New Jersey were seeking up to $1.4 trillion in penalties.
+
+Earlier this month, a New Mexico judge ordered Meta to pay $567 million and implement youth safety measures, in addition to $375 million a jury ordered Meta to pay ​in the same case in March for ⁠misleading users about its platforms' safety.
+
+Also in March, a Los Angeles jury found Meta and Alphabet's Google negligent in designing their platforms, and ordered them to pay $6 million to a 20-year-old woman who said she became addicted to Instagram and YouTube as a child.
+
+Last month, the European Commission threatened to fine Meta unless it changed some product features, after preliminarily finding that the company breached a 2022 European Union regulation governing the removal of harmful content by large online platforms. A spokesperson said the commission remains in dialogue with Meta on possible changes.
+
+Raul ​Torrez, the New Mexico attorney general, said the resolution missed some changes his case spurred in his state, including safeguards against adults targeting children and banning sexualized AI chatbot ​interactions with children, yet "represents real progress and adds momentum to finish the job of protecting kids online."
+
+"The payouts to the states are peanuts compared to the profound harms Meta’s profit-driven addictive features have inflicted on our children," Florida Attorney General James Uthmeier said in a statement. "We’ll see them at trial."

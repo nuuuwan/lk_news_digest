@@ -1,0 +1,67 @@
+Are our banks losing credibility and public confidence?
+
+Colombo, Aug. 24 (Daily Mirror) - An alleged $1 billion money-laundering scheme executed through “phantom imports” has shattered confidence in Sri Lanka’s banking sector. With 13 banks under investigation for processing thousands of fraudulent transactions, the scandal exposes severe breakdowns in basic Know Your Customer protocols and real-time Customs integration. Uncovering this vast network of shell companies proves that compliance cannot remain a mere paper-pushing exercise. To prevent catastrophic capital flight, Sri Lanka must radically transform its financial governance into an active, intelligence-driven defensive shield.
+
+Sri Lanka’s banking sector is facing a defining test of credibility as investigations into an alleged large-scale foreign-exchange and money-laundering operation reveal how vast sums of money could allegedly be transferred overseas through the banking system under the guise of imports that never arrived.
+
+The issue is no longer simply about individual fraudsters or isolated weaknesses in internal controls. It raises a far more serious question. Can the public and international investors continue to have confidence in a banking system if billions of rupees can allegedly pass through commercial banks using fabricated import documentation, shell companies and thousands of telegraphic transfers without triggering effective intervention?
+
+Authorities have disclosed investigations into an extensive network involving 105 shell companies, 227 bank accounts and more than 24,000–26,000 telegraphic transfers, with approximately US$715 million identified in one investigation. Separately, President Dissanayake has referred to an alleged outflow approaching US$1 billion through advance payments for imports that apparently never materialized. Investigators have also examined links to suspected money laundering and other criminal activity.
+
+This figure is staggering. Nearly US$1 billion is not merely another financial-crime statistic. The alleged outflow is comparable to roughly one-third of the IMF financing Sri Lanka received under its current programme. It represents a significant portion of the foreign exchange resources of a country that only recently emerged from its worst economic and sovereign-debt crisis in t
+
+Investigating authorities have disclosed that 13 Banks in Sri Lanka were involved in processing transactions currently under investigation.
+
+This raises an even more fundamental question. Were the most basic banking safeguards actually being applied?
+
+Banks have a fundamental obligation to conduct adequate Customer Due Diligence (CDD) and Know Your Customer (KYC) procedures. These are not optional administrative formalities. They are among the most basic and paramount safeguards in the global banking system against fraud, money laundering, illicit transfers and the misuse of financial institutions.
+
+Yet investigators have identified instances where KYC is not followed and accounts were allegedly opened without the named account holder being physically present.
+
+There are also reports of accounts being closed at one branch and subsequently reopened at another, in circumstances where officers moved between branches over the years. How could a customer’s banking history and risk profile be effectively monitored if accounts could effectively move from one branch environment to another without adequate institutional scrutiny?
+
+According to information disclosed by authorities, money was transferred abroad as payment for hardware, bathroom fittings, Gold, jewellery and other purported imports, while corresponding goods allegedly never entered Sri Lanka. Investigators have identified thousands of transactions and a network of companies that were repeatedly established and closed, raising serious questions about how such activity escaped detection for so long.
+
+The main issue is not that banks can never be victims of fraud. They can. The issue is whether banking officers, compliance systems and supervisory mechanisms performed the checks that they were supposed to perform.
+
+If customers colluded with bank employees to circumvent controls, the banking sector must confront an uncomfortable reality. the weakest link was not necessarily the technology—it may have been human integrity and institutional accountability.
+
+A commercial bank is not merely a payment machine. It is a critical gatekeeper of the national financial system. When a bank approves large international payments, particularly payments supposedly connected to imports, it carries a responsibility to establish that the transaction is commercially credible, properly documented and consistent with the customer’s profile and regulatory requirements.
+
+The existence of thousands of suspicious transactions involving hundreds of accounts and more than 100 companies should raise an obvious question:
+
+One of the clearest weaknesses exposed by the investigations is the absence, or previous inadequacy, of real-time connectivity between banking systems and the Customs/import-monitoring infrastructure.
+
+That gap effectively created an opportunity for money to leave the country before the system could establish whether the promised goods ever arrived.
+
+This is no longer acceptable. Sri Lanka must move immediately towards a fully integrated digital foreign-trade monitoring system, linking commercial banks, Sri Lanka Customs, the Central Bank, the Financial Intelligence Unit, the Import and Export Control authorities and other relevant agencies.
+
+Every import-related outward remittance should generate a digital transaction trail from the bank to Customs and back to the bank. If an importer receives approval to remit US dollars for a shipment, the system should automatically monitor whether the shipment arrives. If it does not arrive within the prescribed period, the transaction should automatically be flagged, escalated and subjected to investigation.
+
+Though the Government has already moved towards tighter controls, including requirements for real-time reporting of import-related foreign-currency payments and registration of importers with Customs. But sadly, it appears these are remaining merely regulatory requirements on paper. Unless these measures are implemented comprehensively there is a risk of repeat frauds.
+
+Sri Lanka needs a zero-tolerance banking integrity framework built on real-time bank–Customs data integration, automated monitoring of suspicious transactions, enhanced due diligence, independent approval of high-value remittances, regular rotation of high-risk banking staff, protected whistle-blower channels, forensic audits, strong board-level oversight, personal accountability for collusion or bribery, and intelligence-sharing across banks. The objective must be simple. Prevent fraud before money leaves the country and ensure that no customer or bank employee can exploit regulatory gaps with impunity. Most importantly, the banking industry must stop treating compliance as a paperwork exercise. Compliance must become an intelligence function.
+
+A credibility crisis cannot be solved by arrests alone. The arrests of bank employees, if supported by evidence and ultimately established through due process, are important. But they should not become the conclusion of the story.
+
+They should become the beginning. The deeper question is whether the country’s banking architecture allowed a sophisticated network to operate for an extended period without sufficient detection. If the answer is yes, institutional responsibility must also be examined.
+
+Bank’s senior management, compliance units and regulators must be held accountable. How many alerts were raised, investigated and reported? Were suspicious patterns identified, employees warned, accounts restricted and authorities notified? If red flags existed, why was decisive action not taken earlier?
+
+Another dimension that cannot be ignored is the growing culture among some young officials of seeking instant wealth and overnight success at any cost. When legitimate achievement is replaced by the pursuit of quick money, fraud, bribery, money laundering and financial manipulation can become dangerously normalized. Sri Lanka must confront this mindset by strengthening financial ethics, accountability and awareness—because a society that glorifies unexplained wealth risks creating a generation that values money over integrity.
+
+Country cannot afford another credibility crisis in its financial sector. Following the economic collapse, the country has worked hard to restore international confidence, rebuild reserves, strengthen fiscal discipline and convince investors that the financial system is becoming more resilient.
+
+This confidence is fragile. A banking system perceived as vulnerable to insider collusion, fraudulent documentation and large-scale capital flight risks damaging not only individual banks but also Sri Lanka’s reputation as an international financial and investment destination.
+
+The country therefore needs more than prosecutions. It needs a fundamental strengthening of financial governance.
+
+Sri Lanka’s banks are custodians of the country’s financial security not gateways for capital flight. Customers who deliberately manipulate the system must face the full force of the law. Bank employees who knowingly facilitate such transactions must be held individually accountable. Institutions that fail to maintain effective controls must face meaningful regulatory consequences.
+
+The billions allegedly taken out of the country must not disappear into the international financial system.
+
+Present investigation has exposed a dangerous vulnerability. The country’s response will determine whether this episode becomes another chapter in Sri Lanka’s history of financial scandals or the moment when the nation finally draws a line under weak controls, institutional complacency and impunity.
+
+The question is no longer simply whether money was illegally taken out of Sri Lanka.
+
+The question is whether Sri Lanka is prepared to protect every dollar that remains—and restore the confidence that its banking system must command.

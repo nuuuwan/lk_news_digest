@@ -1,0 +1,31 @@
+Brazil fines TikTok owner ByteDance for unlawful processing of teenagers’ data
+
+Reuters - Brazil's data ‌protection authority, ANPD, has fined TikTok owner ByteDance 153.8 million reais ($29.81 million) for allegedly violating the country's General Data Protection Law, according to a decision published in the official gazette on Tuesday.
+
+ANPD said that the local unit of China's ByteDance had processed personal data of teenagers aged 13 to 18 without ​a valid legal basis.
+
+The regulator estimated that, during the period under review, TikTok may have processed the data of at ​least 8 million children, reflecting what it described as shortcomings in the platform's age-verification system.
+
+Brazilian authorities are ⁠stepping up scrutiny of online platforms' safeguards for children and teenagers, part of a broader global trend that has seen countries, including ​Australia, France and China, impose or consider stricter rules on use of social media by minors.
+
+This month, ANPD ordered chat platform Discord to suspend livestreaming ​features over concerns about children's and teenagers' exposure to harmful content.
+
+ANPD Director Lorena Giuberti Coutinho said at a press conference on Tuesday that the agency was separately overseeing TikTok's compliance with Brazil's Digital Child and Adolescent Statute, a law that took effect in March.
+
+On Friday, the regulator opened two new monitoring proceedings covering 22 digital platforms and social media networks to assess compliance with the ​new law to protect children.
+
+ANPD highlighted concerns about TikTok's "logged-out feed," which allows users to browse content without creating an account, enabling widespread use ‌of the ⁠platform by children and teenagers in Brazil without effective age-verification checks.
+
+The feature, the regulator said, is available in Brazil but not in the U.S. or Europe, where access is restricted to registered users.
+
+The regulator added that TikTok also lacked adequate safeguards to mitigate the risks associated with the large-scale processing of children's and teenagers' data.
+
+TikTok said in a statement the fine relates to conduct dating back to 2021 ​and does not take into ​account a compliance plan approved ⁠by ANPD in 2025, as well as additional safeguards introduced since then.
+
+It added the measures comply with Brazil's data protection law for both logged-in and logged-out users and will continue to engage with ​the regulator as it evaluates possible legal steps.
+
+ANPD Director Coutinho told reporters that ByteDance had committed ​to implementing a plan ⁠aimed at bringing TikTok into compliance with Brazilian law.
+
+According to Tuesday's decision, ByteDance must delete the personal data of teenagers registered on the platform if the necessary parent, guardian, or other legal support arrangements are not provided and documented within 60 days.
+
+The company faces fines of 137,081.49 ⁠reais ​per day if it fails to comply with the data-deletion, reporting, or notification requirements. ​The total fine, the regulator added, could be reduced by 25% if ByteDance waives its right to appeal and swiftly pays the penalty.

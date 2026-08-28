@@ -1,0 +1,15 @@
+SLAM Power Solutions commissions Peradeniya University microgrid system
+
+SLAM Power Solutions officially commissioned a state-of-the-art microgrid system at the Faculty of Engineering, University of Peradeniya.
+
+The initiative addresses the long-standing grid instability concerns, providing uninterrupted power for the faculty’s computer laboratories and high-demand artificial intelligence (AI) servers.
+
+Conventional backup UPS systems provided only a few minutes of power during grid outages, while traditional diesel generators faced operational risks, high costs and fuel availability constraints. Under the vision of University of Peradeniya Faculty of Engineering Dean Prof. Lilantha Samaranayake, to foster sustainable engineering solutions, the project successfully bridges the critical backup power needs with clean energy.
+
+SLAM Power Solutions executed the project by retrofitting an existing, non-functional 60 kW solar PV system installed more than 10 years ago and integrating a 100 kWh BSLBATT Lithium-Ion battery storage system. The microgrid is powered by Victron Energy inverter-chargers from the Netherlands and incorporates the UK-based Shelly Automation systems for intelligent lighting and automated load management.
+
+The project was funded by the E72-75 batch of Faculty of Engineering University of Peradeniya, to have a reliable power supply to the labs and as an initiative to bringing exposure to new technologies for future engineers of the university.
+
+Chief guest University of Peradeniya Vice Chancellor Prof. Terrence Madhujith, guest of honour Sri Lanka Sustainable Energy Authority Chairman Prof. Wijendra Bandara, Dr. Sunil De Silva with other representatives from the E72-75 batch, along with the representatives from National System Operator, industry experts and academic staff participated in the project launch ceremony.
+
+In addition to securing the mission-critical IT infrastructure, the project serves as an active educational laboratory, where the engineering students gain direct exposure to advanced renewable energy storage, automation and microgrid design.

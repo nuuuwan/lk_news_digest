@@ -1,0 +1,27 @@
+PUCSL sets higher solar-storage payments
+
+Colombo, Aug. 24 (Daily Mirror) - The Public Utilities Commission of Sri Lanka (PUCSL) has introduced higher feed-in tariffs for renewable energy projects equipped with battery storage, as the authorities seek to add at least 450MW of solar PV and battery energy storage capacity to the national electricity system by March next year.
+
+The revised tariffs, which come into effect tomorrow (25), will remain valid until February 24, 2027, covering renewable energy plants, rooftop solar prosumers and projects incorporating Battery Energy Storage Systems (BESS).
+
+The move comes as the National System Operator (NSO) has been directed to secure sufficient additional capacity to address a projected electricity capacity shortfall during the first quarter of 2027 and avoid power cuts caused by inadequate generation capacity.
+
+Under the new tariff framework, rooftop solar systems combined with battery storage will receive significantly higher payments during the prioritised feed-in period.
+
+For systems above 250kW and up to 1,000kW, the tariff has been set at Rs. 45.53 per unit for the first 15 years, while systems exceeding 1,000kW will receive Rs. 42.49 per unit during the prioritised period.
+
+Separate tariffs have also been introduced for ground-mounted and floating solar projects equipped with BESS, creating an additional incentive for developers to combine renewable generation with energy storage.
+
+The PUCSL has also imposed a cost ceiling on BESS capacity already offered to the system. The NSO has been instructed to ensure that the average monthly cost of the 160MW of BESS already offered does not exceed Rs. 20 per kWh.
+
+Any cost exceeding the Rs. 20 per kWh threshold will not be recognised, recovered or permitted to be passed on to electricity consumers through the end-user tariff.
+
+Meanwhile, new rooftop solar PV systems without battery storage will receive tariffs ranging from Rs. 23.11 per unit for systems up to 10kW to Rs. 15.81 per unit for systems exceeding 250kW.
+
+The revised tariff structure also covers mini-hydro, wind, biomass, municipal solid waste, waste heat recovery, ground-mounted solar PV and floating solar PV projects.
+
+PUCSL said the tariff methodology was approved under Section 29 of the Sri Lanka Electricity Act No. 36 of 2024 following a public consultation process. Stakeholder submissions and project cost data were considered in determining the final rates.
+
+The introduction of higher tariffs for solar-plus-storage projects signals a shift towards using battery systems to store renewable electricity and make it available when demand is high, particularly during periods when additional generation capacity is required.
+
+With the NSO targeting 450MW of solar PV with BESS by March 2027, the latest tariff decision is expected to play a key role in efforts to strengthen Sri Lanka’s electricity supply while expanding renewable energy generation.

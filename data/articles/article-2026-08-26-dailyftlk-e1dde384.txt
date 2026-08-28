@@ -1,0 +1,37 @@
+Governance and technology – Focus on AI
+
+The governance landscape continues to evolve as jurisdictions around the world balance local needs while navigating increased global competition. Advancing this field requires strong commitments to international alignment and cooperation on AI governance, centred on safety and fair risk assessment.
+
+Recognising the strategic implications of AI for both economic prosperity, national security, and accelerated investments in domestic AI infrastructure have begun to foster a more competitive international environment. However, international trade and global cooperation remain crucial for realising the economic benefits of AI while effectively managing its risks.
+
+To address these emerging risks, governance must take precedence over data-driven technology deployment. With the unprecedented growth of technology and the integration of Artificial Intelligence (AI) into every facet of daily life, new opportunities have emerged for informed efficient decision-making.
+
+However, a robust regulatory framework is vital to align technological trajectory with public expectations and control. Most countries are still in the early stages of developing these frameworks as they weigh and calibrate the benefits and risks of technological innovation. As historians have noted, in the absence of such standards, humans are being redefined not as "mysterious souls,” but as “hackable animals” and once compromised, can easily be engineered without their knowledge – posing danger and risks.
+
+Data science and AI are transforming social behaviour and reshaping comparative policy analysis—a systematic research approach that examines similarities, differences, and policy effectiveness across countries, regions, or time periods. Since the mid-twentieth century, this field has shifted from speculative theory to pervasive infrastructure. AI has emerged as a transformative technology, driving major changes across public administration, public policy, and soritical life.
+
+The rapid advancement of data-driven technologies has revolutionised the theory and practice of comparative public policy across State, the public, and private enterprises. However, governance and final decision-making must remain within the domain of human executives rather than relying solely on AI predictions. Although machine learning enables automated cognitive problem-solving, ultimate accountability still rests with executives and administrators.
+
+Algorithmic systems are rapidly gaining popularity and are now extensively used in decision-making processes, particularly in the finance industry. However, shifting from human to algorithm-based decision-making is sometimes viewed as relinquishing accountability and passing blame when failures occur.
+
+Every decision—whether made by technology, AI, or humans—carries a probability of risk based on the data volume used. To minimise these risks, regulatory frameworks must be carefully constructed to address societal needs. Mapping the evolving AI governance landscape requires country profiles that examine how different nations develop, regulate, adopt, and govern AI capabilities across their public sectors. Rather than building systems from scratch, jurisdictions should utilise globally available research and standardised frameworks.
+
+Each country profile should offer an overview of the jurisdiction's regulatory approach, highlighting high-level principles, definitions, policy initiatives, and standardisation systems. These profiles encompass legal instruments, national strategies, and public investments. Developers must focus on harmonising international standards to enable seamless, low-risk global integration.
+
+Public policy covers laws, regulatory measures, funding priorities, and guided actions enacted to address public issues. The ongoing evolution of AI offers substantial benefits alongside real risks to policy formulation. Growing interest among academics and practitioners is driving real-world data into mathematical models that assess complex societal challenges. AI and data-driven applications open new avenues for enhancing public policy processes, enabling faster and more precise responses.
+
+In the policy-setting process, identifying and framing public problems is essential to garnering public and political support. Input is drawn from media narratives, public opinion, and advocacy groups. For instance, controversial policy moves—such as the Sri Lankan Government's proposal to increase the retirement age of Supreme Court judges—demonstrate how public policy decisions can be viewed as unethical or indicative of authoritarian overreach.
+
+The European Union has advanced its AI regulatory framework around three overarching objectives: boosting AI uptake across the economy to strengthen technological capacity, addressing socio-economic challenges, and developing an ethical and legal framework for trustworthy AI. This creates an environment that supports safe, lawful innovation. Building effective AI frameworks requires ensuring data governance, data quality, traceability, technical documentation, transparency, accuracy, security, and—most importantly—human oversight.
+
+Adoption of AI by countries in 2026: Key insights and trends
+
+A report in Sri Lanka’s Daily Mirror noted that 81% of Sri Lankans now use AI instead of traditional Google searches. While surprising, this shift primarily reflects consumer behaviour rather than public sector governance.
+
+AI systems and their outcomes are machine-based, operating with varying degrees of autonomy by inferring patterns from manually entered or scraped datasets. Consequently, comprehensive rules tailored to local market and State conditions are necessary. Relying on imported datasets and external inferences may not suit local contexts.
+
+Because Sri Lanka is in the early stages of AI deployment, it should seek guidance from jurisdictions that have already established legal and regulatory frameworks, such as the EU. The EU released its "Knowledge4Policy (K4P)" dataset in 2018 to establish a trustworthy foundation for AI applications. By contrast, Sri Lanka’s foundational dataset, Lanka Data Net (LDN), emerged in early 2026 and remains premature for deriving complex public policy outcomes. Without robust local datasets, Sri Lanka is not yet ready to base core public policy on AI predictions, though standard applications may be used with strict human oversight. Has Sri Lanka fully equipped with relevant skillsets and international exposure to fast track AI development especially in public policy domain or continue political manoeuvring?
+
+Although AI development is driven by mathematicians and software engineers, administrators, legal professionals, and finance executives often dominate implementation and decision-making. Engineers should play a central role in ensuring system trustworthiness, safety, and operational accountability. Because AI can compute risk probabilities with high mathematical certainty, technical governance should remain heavily guided by technologists rather than solely administrative personnel.
+
+This dynamic recalls the privatisation era under British Prime Minister Margaret Thatcher and the US President Ronald Reagan, where corporate boards became dominated by legal and financial professionals with minimal engineering representation. That structure contrasted sharply with Germany's governance model for State-managed and industrial institutions, which emphasised technical expertise to maintain global competitiveness.

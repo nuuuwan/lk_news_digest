@@ -1,0 +1,45 @@
+From basement to nation’s backbone: 30 years of Just In Time
+
+In 1996, four people set up a shop in a 100-square-foot basement office down Walukarama Road in Colombo 3. With a modest capital, a handful of computers to sell, and a conviction that would prove far larger than their premises: that Sri Lanka deserved access to the same technology transforming the rest of the world, and that a Sri Lankan company could deliver it.
+
+Three decades later, that basement venture is one of the country’s foremost systems and solutions integrators, employing over one hundred skilled professionals and quietly underpinning many of the digital systems the nation relies on every day. This is the story of how a dealership for desktop computers grew into a builder of national infrastructure - Just In Time Group (JIT) and of the people and principles that carried it there.
+
+JIT was founded by a stalwart of Sri Lanka’s IT industry whose career in technology stretches back well before the company itself. What began with marketing computers and laptops was never meant to stay there. From the outset, the founding vision was to bring the latest and most essential technology to Sri Lanka, to facilitate knowledge transfer, and to build local skills rather than simply import finished products.
+
+“We never set out to sell technology — we set out to build capability for our country. Thirty years on, what makes me proudest is not how far we have come, but the trust placed in us by the institutions that keep this nation running, and the talented Sri Lankans who have made it all possible,” said Just In Time Group Founder and Chairman Jit Warnakulasuriya.
+
+The defining shift in JIT’s journey was the move from selling hardware to integrating entire systems,  pioneering the concept of “Integrated Solutions” in a market that had not yet embraced it, and introducing technologies never before used in Sri Lanka. Today the Group’s expertise spans systems integration, information security, data analytics, infrastructure solutions etc.  serving the banking, telecommunications, government, defense, and enterprise sectors.
+
+But the clearest measure of how far JIT has travelled lies in the projects that now carry its fingerprints, work that touches the daily life of nearly every Sri Lankan, often without them knowing it.
+
+JIT’s most enduring contribution has been to Sri Lanka’s financial infrastructure. As the local implementation and support partner, JIT helped deliver and implement the Central Bank’s Real-Time Gross Settlement (RTGS) system, the high-value interbank payment rail that moves money securely across the country in near real time - a project recognised at The Banker magazine’s Technology Awards in 2004. Sri Lanka became the first nation in South Asia to implement both RTGS and Scripless Securities settlement, with JIT at the heart of both. When the Central Bank modernised its treasury and reserve-management operations, JIT was again the systems integrator.
+
+The company went on to implement LankaClear’s Common Card and Payment Switch, the national payment switch known to the public as LankaPay - which today connects 99.95% of every ATM in the country and operates round the clock, every day of the year.
+
+JIT also supported People’s Bank’s core banking system across a nationwide network serving more than four million customers, and partnered the bank on its digital banking journey, helping turn ordinary branches into full digital branches.
+
+Beyond banking, JIT’s work extends across the systems that keep the wider nation connected and identified. For Sri Lanka Telecom, JIT deployed next-generation OSS and BSS platforms, making SLT the first operator in the Asia-Pacific region to replace all of its legacy systems with a single unified platform supporting the telecommunications backbone of the country — a system where accuracy and uptime are non-negotiable.
+
+JIT has also helped build the foundations of national identity. The company contributed to the National Identity Card system, the bedrock of citizen identification on which countless public and private services depend, bringing modern and highly secure technology to one of the most fundamental records the state maintains for its people.
+
+That same trust extends to how Sri Lankans travel the world. JIT played a part in the National Passport system, supporting the secure issuance of the travel document that represents the country at every border  -  a responsibility that demands the highest standards of reliability and security.
+
+JIT has also served Sri Lanka’s defence sector, delivering some of the most sensitive and mission-critical technology the country relies on, work carried out with the highest levels of trust and discretion.
+
+The common thread across this work is not a single sale but decades of unbroken service. Some of these systems JIT has supported for more than twenty years, and because they are mission-critical, the company built specialised, high-performance teams designed around a single principle: keep the country running. These teams operate 24 hours a day, 365 days a year, with the stated goal of reducing downtime to zero, providing proactive, personalised support with direct escalation to management. When payment switches, core banking platforms, and national systems must stay alive through any circumstance, including the country’s most difficult periods — it is these teams, quietly on standby, that keep them alive.
+
+JIT’s growth has been propelled by two forces working in tandem. The first is a client base of progressive, forward-looking organisations willing to embrace change and trust a local partner with their most critical systems.
+
+The second is JIT’s role as the Sri Lankan bridge to the world’s leading technology companies. Over three decades the company has partnered global giants bringing world-class platforms to Sri Lanka and adapting them to local needs. It is a model that delivers the best of global technology with the assurance of local expertise and support.
+
+Today JIT stands stronger still as a member of Agility Innovation, the holding company of a growing ICT conglomerate with an asset base exceeding Rs. 10 b. Alongside fellow group companies in enterprise infrastructure, cybersecurity, software, GIS and IT resourcing and consultancy, JIT is part of a wider ecosystem built to deliver future-ready technology at national scale — in cloud, AI, analytics and beyond. For JIT’s customers, it means the agility and personal attention of a trusted partner, backed by the depth and reach of one of the country’s most capable technology groups.
+
+It takes something rare for a business to keep its doors open and growing for thirty years — especially in an industry that reinvents itself every few years. JIT’s longevity is, in many ways, a story about trust: trust earned from the institutions that form the spine of the national economy, and trust kept through quiet, reliable support during the country’s most challenging times, when keeping essential digital services running was itself a national service. These were never services that could afford to pause; many of them have run without a break for years, as the country nor its economy could function if they stopped.
+
+The road was never smooth. Thirty years brought their full share of challenges - economic shocks, technological upheaval, and seasons of genuine uncertainty. There were ups and downs, moments of doubt, discrimination, and no shortage of those who underestimated a small local company taking on work many believed only foreign giants could deliver. Through all of it, JIT held to the principles it began with: trust and integrity and doing right by its customers. The company counts itself fortunate, and grateful for the blessings that carried it through — and it is no small testament that, three decades on, most of the systems JIT built and stood behind are still running today, still quietly serving the nation.
+
+As a locally owned company, JIT has done more than deliver technology. It has built local skills and ecosystems around the systems it implements, kept high-value technical work and expertise within the country, and increasingly carried Sri Lankan capability outward — extending its footprint regionally and internationally in fields such as cyber security, artificial intelligence, and data.
+
+From four people and a basement to a diversified group -the rails on which the country’s money and identity move - JIT’s thirty-year journey mirrors Sri Lanka’s own digital coming-of-age.
+
+The company that began the year the nation believed it could do anything has spent three decades turning that belief into infrastructure. Thirty years on, the basement is long behind it — but the spirit that started there, of progress for the nation, its people and its customers, remains exactly where it has always been: at the centre of everything.

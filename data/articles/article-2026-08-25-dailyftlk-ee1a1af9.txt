@@ -1,0 +1,19 @@
+Ministerial ‘Musical Chairs’ fell by nearly 75% under AKD Presidency compared to his two predecessors
+
+Government departments (including statutory institutions and public corporations) saw nearly five times fewer ministerial changes during the first year of President Anura Kumara Dissanayake’s presidency compared to the first year of his predecessors Gotabaya Rajapaksa, according to the newest ‘Department Flow’ visualisation by the Lanka Data Foundation.
+
+The Foundation’s Department Flow View helps visualise changes in ministries at the level of departments, statutory institutions and public corporations during the terms of each president since 2019, through an interactive Sankey visualisation across multiple dates of institutions being gazetted.
+
+According to its latest data, under President Dissanayake, only 37 departments had any change of subject minister within the first year. By comparison, 90 departments saw their minister changed at once during President Gotabaya Rajapaksa’s first year, while the figure stood at 91 under President Ranil Wickremesinghe. The reshuffling under President Gotabaya Rajapaksa was particularly pronounced: 40 departments had three different ministers within the first year, and 3 more departments were moved under four different ministers.
+
+Across the last three presidencies, the largest number of times departments changed minister occurred during the first year of the Gotabaya Rajapaksa presidency.
+
+Among the three presidencies, the largest ministerial portfolio reorientation was seen under President Ranil Wickremesinghe, with 22 departments breaking out of the Minister of Industries and moving to two state ministries after forming his government in July 2022.
+
+Under Gotabaya Rajapaksa, the biggest ministerial portfolio change at the start of the first year, after the cabinet was formed, was a 18 departments change for the State Minister of National Security, Home Affairs and Disaster Management.
+
+Under Anura Kumara Dissanayake, the biggest ministerial portfolio change was 19 departments under the Minister of Urban Development, Construction and Housing moving to the Minister of Ports and Civil Aviation.
+
+The periods considered were when the newly-elected presidents consolidated power in the parliament, following a general election, or being elected by parliament (for President Wickremesinghe). Accordingly, the time periods under consideration were: August 2020-August 2021; July 2022-July 2023; and November 2024-November 2025. The first year was selected as the period of analysis, as the current government has been in office for less than two years.
+
+More details on the methodology and the Department Flow View can be accessed at www.opendata.lk website.

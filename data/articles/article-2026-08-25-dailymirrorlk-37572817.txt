@@ -1,0 +1,33 @@
+Sri Lanka’s data appetite surges 29% in 2Q as satellite broadband gains momentum
+
+Total data consumption reaches 1.48mn TB, led by mobile streaming and digital platforms
+
+Satellite broadband usage climbs to 13,118 TB as Starlink subscriptions near double to 8,455
+
+Smartphones dominate terminal landscape, with 17.59mn active units, while legacy voice minutes contract
+
+Sri Lanka’s national data consumption expanded at a rapid pace in the second quarter of 2026, driven by an insatiable appetite for mobile streaming and social media, alongside a notable surge in satellite broadband adoption, according to the latest statistics from the Telecommunications Regulatory Commission of Sri Lanka (TRCSL).
+
+Total data usage across the fixed, mobile and satellite networks reached an all-time high of 1.48 million terabytes (TB) during the three months ending June 30, 2026, a 29 percent year-on-year (YoY) increase from 1.14 million TB in the corresponding quarter of 2025.
+
+The most striking driver of that growth was satellite broadband; the consumption on the Starlink Lanka’s network, the country’s sole licensed satellite broadband operator, climbed to 13,118 TB in the quarter, up from 10,585 TB in the first quarter of 2026 and just 1,254 TB when the TRCSL first began tracking the segment in the third quarter of 2025.
+
+The satellite subscriptions nearly doubled over the same period, rising from 4,471 at end-2025 to 8,455 by June 2026, reflecting a swift uptake among the users seeking resilient connectivity beyond the terrestrial network boundaries.
+
+Mobile broadband remained the bedrock of national digital consumption, accounting for close to 70 percent of overall traffic. The mobile data usage crossed the one-million-TB threshold for the first time, reaching 1.03 million TB in the quarter, up from 786,636 TB a year earlier. The fixed broadband networks handled 432,137 TB, an increase of nearly 21 percent YoY, supported by the ongoing migration toward the fibre and LTE connections.
+
+The growth comes against a backdrop of a slightly shrinking population base — the TRCSL’s density calculations for the quarter are pegged to a 2025 mid-year population estimate of 21.757 million, down from 21.916 million a year earlier — underscoring how the per capita data consumption is rising even faster than the headline growth figure suggests.
+
+The hardware ecosystem reflects the same shift toward high-capacity connectivity. Of the 24.82 million mobile end-user devices active on the local networks as of June 2026, smartphones and tablets accounted for 17.59 million units or roughly 71 percent. Basic feature phones continued their decline, falling to 5.61 million devices or about 23 percent of the total, down from 6.39 million devices a year earlier. .
+
+The dedicated data devices such as dongles and routers numbered 475,619, while the internet of things (IoT) segment appeared as a newly tracked category for the first time, with 267,458 connected devices — highlighting how enterprise and consumer hardware is increasingly aligning with the heavy bandwidth requirements. The remaining 877,469 devices or 4 percent, fell into the TRCSL’s “other” equipment category.
+
+The subscriber metrics displayed a more mixed picture. Total cellular mobile subscriptions stood at 29.42 million as of June 2026, while the mobile broadband connections reached 21.86 million, a penetration rate of just over 100 per 100 inhabitants.
+
+The fixed broadband subscriptions stood at 2.02 million. Across all 2.71 million fixed-line connections — spanning both voice and data services — LTE technology dominated, with a 60 percent share, followed by fibre at 19 percent, while the legacy copper and ADSL lines held 14 percent and 6 percent, respectively.
+
+The traditional circuit-switched voice services maintained their long-term structural decline as the consumer behaviour shifted decisively toward the digital over-the-top applications.
+
+International outgoing voice traffic fell to 11.28 million minutes in the first half of 2026. That migration is underlined by the mobile social media engagement, where WhatsApp and Facebook led the market with 16.54 million and 16.50 million users, respectively, closely followed by YouTube, with 16.00 million users and TikTok, with 13.61 million users as of mid-2026.
+
+The sector’s workforce continued to consolidate even as network automation and digital self-care adoption expanded. Total direct employment across the mobile and fixed access operators held broadly steady at 9,074 in June 2026, up slightly from 9,066 a year earlier but still well below the 12,498 jobs the industry reported 15 years ago.
