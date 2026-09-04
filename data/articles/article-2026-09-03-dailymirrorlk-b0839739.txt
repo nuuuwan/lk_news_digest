@@ -1,0 +1,17 @@
+Aventude commits US$1mn to Skarpa.ai
+
+Aventude Pte Ltd, the AI-native software engineering firm, announced a US$1 million commitment to Skarpa.ai, a platform positioned as a bet on the next decade of software, built on a single conviction: software is about to become a living thing.
+
+Skarpa is designed as the operating backbone for how IT organizations will work: building products, running systems, maintaining what exists, and forming what never existed before. Its scope spans the full breadth of enterprise engineering, from product development and data to managed services, observability, and project delivery.
+
+At its core, Skarpa learns everything an organization knows. Every system, how those systems connect, the domain knowledge behind them, and the thinking of the people who built them. It then puts that knowledge to work, so that software takes shape around the business rather than the business bending around its software.
+
+On Skarpa, everyone in IT works with intelligent agents as colleagues rather than tools. Teams can bring agents built on any platform, and when a skill is missing, a security specialist or a data expert, they simply invite a specialist agent into the conversation and solve the problem together.
+
+The platform also removes one of the industry’s oldest barriers. Business stakeholders, long separated from the technology production floor, work in the same live environment as engineers and agents, seeing what is really happening as software forms.
+
+“We are convinced we are witnessing, and actively shaping, an entirely new era of software,” said Thurupathan Vijayakumar, Co-Founder and CEO of Aventude. “Most of the industry is using AI agents to do the old work faster. We believe the work itself is changing. With Skarpa, software will no longer be a static thing that is built, shipped, and left to age. It will be a living organism. Skarpa is where a company’s collective knowledge lives, speaks, and takes shape, so that software forms around the business in real time. This is our bet on the next decade of software, and this commitment gives Skarpa the foundation to make it real.”
+
+Aventude’s decision to invest is grounded in years of deep, deliberate work in AI-native development for its customers. Rather than bolting AI onto old processes, the firm rethought software delivery from the ground up, with humans and AI working as genuine collaborators in production, not in pilots. That thinking has been tested where it matters most: in highly regulated environments across Europe, the United States, and Asia, serving public sector and enterprise customers whose demands for reliability, compliance, and accountability leave no room for experiments that fail.
+
+Those engagements are the conviction behind this investment. Aventude has seen firsthand how enterprises adopt AI, govern it, and extract real value from it. It has also seen the gap between today’s tools and how tomorrow’s organisations will work. Skarpa is the platform Aventude believes will close that gap, and backing it is the clearest expression yet of where the firm believes software is going. It also positions Aventude to serve an entirely new generation of enterprises in the years ahead.

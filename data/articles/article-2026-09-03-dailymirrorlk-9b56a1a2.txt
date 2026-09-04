@@ -1,0 +1,23 @@
+TekGeeks and Parliament win Gold and Overall Silver at BestWeb.LK 2026
+
+Secretary to the Prime Minister G. Pradeep Saputhanthri presents the Gold Award for Best Government Website to the TekGeeks team for parliament.lk, developed by TekGeeks
+
+Digital engineering and web development firm TekGeeks (Pvt) Ltd, in collaboration with the Parliament of Sri Lanka project team, has secured a double victory at BestWeb.LK 2026, the country’s benchmark competition for web excellence, organised annually by the LK Domain Registry.
+
+The joint team won Gold for Best Government Website and took Silver in the Overall category, placing second nationally against state and private sector entrants drawn from 24 competition categories.
+
+The award-winning portal, parliament.lk, was co-developed by combining TekGeeks’ technical and design capabilities with the Parliament team’s deep domain expertise.
+
+“This collaborative effort was driven by a clear mission: to construct a world-class platform that other public-sector institutions can benchmark as a model for digital governance and visual presentation,” Kasun Gamage, Managing Director and Chief Executive of TekGeeks said.
+
+“TekGeeks treats every public sector engagement as a national priority. By overcoming significant scope challenges, strict compliance standards, and technical complexity, we have shown that with the right vision and dedication we can build world-class digital experiences for our citizens.”
+
+“The credit belongs to our project team, who worked tirelessly over many months to craft this award-winning product. I am exceptionally proud to lead such a talented team, and to partner with the Parliament of Sri Lanka on this journey.”
+
+TekGeeks (Pvt) Ltd is a leading Sri Lankan technology and web engineering firm specializing in high-performance digital with clients in US, Canada, Australia and New Zealand.
+
+A core objective of the project was to fully realise the “Open Parliament” concept, bridging the gap between citizens and the nation’s legislative process. The platform is designed to be highly engaging and interactive, allowing citizens to follow proceedings in Parliament in real time.
+
+Crucially, the portal introduces a dedicated channel for public participation, enabling citizens to share their views on both ongoing and past legislative discussions directly with the House.
+
+Securing the Overall Silver is particularly significant, as public sector web development requires navigating uniquely rigorous compliance, security, and administrative frameworks. The joint team designed, developed, and deployed the portal within those constraints, proving that government platforms can stand shoulder to shoulder with the country’s leading corporate and private websites on user experience, speed, and design.

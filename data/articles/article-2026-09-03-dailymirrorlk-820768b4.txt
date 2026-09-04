@@ -1,0 +1,17 @@
+99x strengthens AI capabilities through ELEVATE Agentic AI Hackathon
+
+The use of AI in software engineering is moving beyond code generation towards AI agents that can take on defined tasks, work across systems and support multiple stages of a development workflow.
+
+It is a shift that 99x, a global technology company, is actively exploring through its AI-driven development lifecycle (AI-DLC). The company has been investing in its people through initiatives that give engineers hands-on exposure to AI, including its Forward Deployed Engineers (FDEs), who help teams identify and apply AI in practical engineering environments.
+
+One of the latest initiatives was ELEVATE 2026, an internal hackathon held recently, bringing together more than 150 employees across 30 teams to build AI agents around problems from their own project domains. The scale of the initiative was reflected in its judging, with five panels comprising technical and business leaders evaluating the teams across their solutions.
+
+99x’s Xianix platform brings specialised AI agents, Forward Deployed Engineers (FDEs) and engineering guardrails together within a delivery pod. Its core agents cover requirement analysis, technical design, pull request review, test planning and release management, with human engineers remaining accountable for decisions at each stage. ELEVATE provided an opportunity to take that concept out of the product architecture and put it into the hands of 99x employees.
+
+Yohan Gunathilaka, Senior Manager – Software Engineering at 99x, stated, “The ELEVATE hackathon was structured around problems our teams already encounter in delivery. We wanted teams to go beyond prompting an AI model and think about an agent as part of an engineering workflow, what triggers it, what it produces, how that output moves to the next stage and, importantly, where a human needs to make the decision. That is where agentic development becomes much more than simply generating code faster.”
+
+The company does not position its AI agents as replacements for engineers. As AI agents take on routine analysis, preparation and first-pass tasks, engineers need to develop the ability to evaluate AI output, manage risk, provide the right context and make decisions where human judgement is required.
+
+Asitha Weerasinghe, Senior Technical Architect from the ELEVATE organising team stated, “Last year, our focus was largely on getting teams comfortable with AI-assisted development. ELEVATE shows how quickly that conversation has moved. We are now looking at how agents can participate across the lifecycle, not just help an individual developer with a task. The challenge for us is to make that useful in real delivery without losing the engineering discipline and accountability that our customers expect,”
+
+Today, 99x is experimenting with what it means to work with a team of AI agents while keeping FDEs, who work closer to the delivery environment responsible for the outcome. As AI takes on a more active role within software delivery, the company’s focus remains on developing the people who work alongside it engineers who can determine what to delegate, question what comes back and remain accountable for the outcome.

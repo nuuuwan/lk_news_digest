@@ -1,0 +1,47 @@
+Salesforce deepens Sri Lanka push with key John Keells partnership
+
+From left: Salesforce Country Sales Head Sri Lanka Pablo Tachil, John Keells Holdings EVP and Group CIO Ramesh Shanmuganathan, Salesforce Managing Director India and Sri Lanka Mankiran Chowhan and John Keells Holdings Senior Vice President and Head of IT Retail Sector Osanda Warnekulasooriya
+
+Partners Keells Supermarket and JKCG Auto to drive AI-led customer engagement and automotive lifecycle management
+
+Rolls out 4-pillar strategy spanning digital skills, start-ups, partner network and enterprise transformation
+
+Global customer relationship management leader Salesforce has signalled an aggressive expansion into Sri Lanka, anchoring its market push with landmark digital transformation partnerships across two prominent subsidiaries of John Keells Holdings PLC (JKH).
+
+These strategic developments and corporate roadmaps were shared at a press conference held in Colombo yesterday, in concurrence with the company’s inaugural Salesforce Innovation Day in Sri Lanka.
+
+The newly announced enterprise collaborations involve Keells Supermarket and John Keells CG Auto (JKCG Auto), the authorised distributor for the BYD passenger vehicles in Sri Lanka.
+
+Addressing the media personnel and industry leaders, Salesforce Managing Director for India and Sri Lanka Mankiran Chouhan highlighted that Sri Lanka’s macroeconomic recovery and digital trajectory present an ideal environment for technological expansion.
+
+“Today we’re in Sri Lanka and we’re really excited about the opportunity,” Chouhan stated.
+
+“I think where you are as a country with regards to your digital ambitions—whether it’s the 15 billion mindset in the economy by 2030 or your 200,000 plus digital skilled labour that you’re looking to create or the fact that you have a consistent year-on-year growth of 5 percent plus in the economy—the momentum is right for us to partner with you in your country to help the businesses in Sri Lanka grow.”
+
+At the core of the retail engagement is a comprehensive modernisation of Keells Supermarket’s Nexus loyalty platform, which currently connects over two million active members. Departing from the traditional, generic discounting models, Keells is deploying Salesforce Loyalty Management, Customer 360, MuleSoft and Agentforce Service to establish real-time, hyper-personalised customer journeys.
+
+Explaining the evolution from the legacy systems, Keells representative Asanka noted that the rapid scale necessitated a fresh architectural approach.
+
+“Because we were growing so fast and we have exceeded the two-million-member base, instead of giving generic discounts, we wanted to move in the direction of personalisation. With Salesforce coming in, we are mapping user journeys, understanding the customer buying patterns, behaviours, what they buy and when they buy, to automate all these user journeys and give meaningful and relevant offers to the customer,” he explained.
+
+Concurrently, JKCG Auto is implementing Salesforce Automotive Cloud to unify the end-to-end customer lifecycle for its electric vehicle portfolio. The deployment enables JKCG Auto to capture and convert the incoming leads while maintaining continuous engagement across vehicle delivery, periodic maintenance, warranty management and post-sales servicing.
+
+Salesforce Country Sales Head for Sri Lanka Pablo Tachil pointed out that while the retail operations like Keells require high-frequency transactional engagement, the automotive sector demands high-touch, long-term relationship tracking, underscoring the versatility of Salesforce’s industry-specific cloud infrastructure.
+
+Delivering a pragmatic perspective on enterprise adoption, JKH Executive Vice President and Chief Information Officer Ramesh Shanmuganathan stressed that digital investments must be driven by organisational readiness and quantifiable business outcomes rather than
+
+“You can’t put a V8 engine on a Maruti, right? You can’t bolt on AI or an experience strategy onto a legacy organisation or legacy systems. You’ve got to look at your foundation,” Shanmuganathan emphasised.
+
+He cautioned that technological initiatives often stumble due to poor change management rather than software limitations.
+
+“Always start with the problem statement. What are you trying to solve, for whom and what’s the value you’re trying to create? How will I measure it? If it ticks the box, scale it. If it doesn’t, kill it. Technology is always exponential; organisations are not. Leadership has to bridge that gap.”
+
+Salesforce outlined a structured four-pillar strategy to underpin its Sri Lankan operations, focusing on digital skills development, start-up enablement, partner ecosystem expansion and customer transformation.
+
+Under its skills initiative, the company is equipping the local students and professionals with job-ready capabilities through Trailhead and its Agentblazer community, complementing the rollout of the Salesforce Startup Programme to mentor the local tech founders.
+
+To drive localised deployment, Salesforce is collaborating with an extensive domestic partner network comprising local consulting partners and resellers such as DMS, MillenniumIT ESP, Softlogic, South Asian Tech, Cybersoft and Altria, alongside global system integrators including Virtusa, TCS, HCLTech, Tech Mahindra, Wipro and Deloitte.
+
+The platform architecture showcased at the event highlights the rise of the ‘Agentic Enterprise’, where autonomous AI agents collaborate directly with human workforces across sales, service, marketing and commerce. Built on the unified Data 360 foundation with federated zero-copy architecture and MuleSoft connectivity, the platform integrates Salesforce’s AI Trust Layer to safely deploy leading foundation models within strict enterprise
+
+Reinforcing its stakeholder commitment, Salesforce integrated its foundational 1-1-1 corporate philanthropy model into the Colombo launch. Having globally contributed over 10.84 million volunteer hours, US $ 970 million in all-time equity giving and US $ 348 million toward training and reskilling initiatives, Salesforce partnered with Colombo-based non-profit SERVE during the event to assemble educational and essential supply kits for 100 vulnerable children, exemplifying its core philosophy that business serves as a powerful platform for societal change.

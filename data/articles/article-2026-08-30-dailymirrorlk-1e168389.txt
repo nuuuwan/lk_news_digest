@@ -1,0 +1,29 @@
+WSO2 opens 1st Africa-based office in Johannesburg
+
+WSO2 Chief Revenue Officer Devaka Randeniya and General Manager for Africa Dinal Gooneratne with WSO2 team
+
+WSO2, a leader in enterprise digital infrastructure technology, announced the opening of its first Africa-based office in Johannesburg, South Africa, underscoring the continent’s growing importance to the company’s global business.
+
+The investment comes as governments, banks, telecommunications providers and retailers across Africa accelerate efforts to modernise legacy systems and prepare their digital foundations for artificial intelligence (AI).
+
+The Johannesburg office marks the next phase of WSO2’s expansion across Africa. Over the coming years, the company plans to extend its presence into additional markets across East, West and North Africa, taking a measured approach focused on long-term value creation and strong local partnerships.
+
+The announcement also precedes WSO2Con Africa, taking place in Nairobi, Kenya, from September 22 to 24, marking the first time WSO2 has brought its flagship technology conference to the continent. The event will bring together business and technology leaders to discuss modernisation, integration, digital sovereignty and the emergence of agentic AI.
+
+“Africa isn’t a peripheral market for WSO2. It’s one of the fastest-growing parts of our business and this office launch reflects our long-term commitment to the region,” said WSO2 Vice President and General Manager for Africa Dinal Gooneratne.
+
+“Organisations across the continent are moving from experimentation to execution. Establishing a permanent presence in Johannesburg allows us to work more closely with the customers and partners as they modernise critical systems and adopt AI at scale.”
+
+Africa has been one of WSO2’s fastest-growing regions over the past two years, delivering approximately a 30 percent year-on-year revenue growth. The company’s customer base has expanded from around 40 to more than 65 organisations, increasing its footprint to 25 countries across the continent, including the recent growth in Benin, Egypt and Côte d’Ivoire.
+
+Public-sector adoption has been a key driver of that momentum. Organisations including Uganda’s National Information Technology Authority (NITA-U), Egypt’s Ministry of Petroleum and Mineral Resources, Government of Malawi, Kenya Revenue Authority, Uganda Revenue Authority and Lesotho Revenue Services use WSO2’s technology to deliver secure, connected digital services for citizens and businesses.
+
+WSO2 attributes its growth in Africa to three converging trends: rising demand for digital-first experiences across industries, increased investment in legacy modernisation and growing interest in AI initiatives that require secure, connected and governed digital infrastructure.
+
+Built on an open-source foundation, WSO2’s platform gives organisations the flexibility to deploy across cloud, on-premises and hybrid environments while maintaining control over their data and digital infrastructure. This approach aligns closely with the growing emphasis on digital sovereignty and open standards emerging across the region, including principles outlined in Kenya’s recently unveiled draft AI policy.
+
+The company’s continued expansion has been enabled by a growing ecosystem of regional partners and WSO2 plans to further invest in those relationships to provide localised expertise and support across Africa.
+
+DeARX Business Development Executive Steven Grundlingh said, “WSO2’s decision to establish a permanent presence in Johannesburg sends a strong signal to the market. We’ve seen firsthand how its open-source, API-first approach enables organisations to modernise and digitally transform into and within the new interconnected business ecosystems. Having WSO2 on the ground will accelerate collaboration and deliver even greater value for our shared customers.”
+
+Sybyl Kenya CEO Shailendra Yadav added, “As governments and financial institutions across Africa increasingly prioritise data sovereignty and open standards, WSO2 is well positioned to support those ambitions. This investment strengthens our confidence in bringing WSO2 into more public-sector engagements across the region.”
