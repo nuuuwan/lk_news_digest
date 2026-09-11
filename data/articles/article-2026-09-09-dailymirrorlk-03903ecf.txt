@@ -1,0 +1,21 @@
+Roar Global introduces Sri Lanka’s first AI gateway
+
+Roar Global has introduced Roar AI, Sri Lanka’s first AI gateway, giving developers, startups and businesses access to more than 200 leading frontier and open-source AI models through a single platform.
+
+Built in Sri Lanka, Roar AI is designed to address some of the practical barriers organisations face when building with artificial intelligence - from fragmented access to multiple models and complex international payments to application hosting, cost management and data governance.
+
+Through a single integration, Roar AI users can access and build with a wide range of global AI models such as Anthropic, Gemini, Perplexity, Llama, Deep Seek and Kimi - choosing the right model for each application or workload without having to manage multiple platforms, accounts and billing relationships.
+
+Beyond model access, Roar AI provides the infrastructure needed to deploy and operate AI applications, including locally hosted applications, integrated databases, transactional email and automated backups. The platform also incorporates usage controls, budgets and guardrails to help organisations manage how AI is accessed and used across their teams.
+
+Billing in Sri Lankan rupees gives local businesses greater predictability and control over AI expenditure, while local infrastructure and engineering support provide a closer-to-home option for organisations looking to build and operate AI applications.
+
+“AI adoption should not be limited by where a business is based or by how easily it can access global infrastructure,” said Mustafa Kassim, Founder and CEO of Roar Global. “We built Roar AI to bring the world’s leading AI capabilities closer to Sri Lankan builders and businesses, together with the infrastructure and local expertise they need to turn those capabilities into real products.”
+
+Roar AI is not a standalone AI application or chatbot. It acts as an infrastructure layer that allows developers to connect AI models to their own products, platforms and workflows. This gives teams the flexibility to experiment with different models, optimise for performance and cost, and scale their AI capabilities through one locally supported platform.
+
+The launch reflects Roar Global’s broader evolution from a digital media and platform consultancy into a venture-building group operating across AI, technology platforms and the creator economy. The Group has made significant investments in AI-led innovation, with its teams already processing more than 10 billion AI tokens across the products, applications and workflows it has built.
+
+Roar AI also represents a wider commitment to strengthening Sri Lanka’s participation in the global AI economy. By making advanced AI infrastructure easier to access locally, Roar aims to help developers, entrepreneurs and enterprises move beyond experimenting with individual AI tools and towards building scalable products and businesses with AI at their core.
+
+“We don’t want Sri Lanka to simply be a market that consumes AI products built elsewhere,” Mustafa added. “We want Sri Lankan developers and businesses to have the infrastructure to build those products here and take them to the world.”

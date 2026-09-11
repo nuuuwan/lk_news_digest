@@ -1,0 +1,107 @@
+Before drought comes landslide: Sri Lanka’s watershed was already broken
+
+El Niño threat, published in the Daily FT on Monday. Where his warning centres on the macroeconomic exposure — the foreign exchange drain, hydropower shortfalls, and food-import risk that a coming El Niño cycle could trigger — this piece looks upstream, at the physical watershed degradation that makes each of those shocks worse than
+
+More than two-thirds of Sri Lanka’s forest cover has disappeared over the past hundred years, a loss now linked directly to the island’s landslides, floods, and droughts 1. Roughly a third of the country’s land area is classified as landslide-prone, making it the third most common hazard nationally, behind only flood and drought 2. Agricultural land has fared little better: over half is now degraded, with low organic carbon, depleted nutrients, and rising acidity 3.
+
+The coastline tells a parallel story. Sri Lanka has lost more than half its mangrove cover since the 1980s to urbanisation and aquaculture, stripping away a natural buffer against storm surge 4. Some shorelines are retreating by 3.5–4.0 metres a year, driven substantially by river sand mining and coral mining — historically the source of roughly 90% of the lime used in domestic construction 5. Warming, more acidic seas are separately stressing reefs and fish stocks 6. Inland, a national groundwater hazard survey puts 3.6–3.8 million people at risk of poor-quality water, in a belt already associated with chronic kidney disease of unknown origin 7.
+
+Sri Lanka is not short on monitoring capacity. The Department of Meteorology runs some 20 stations nationwide 8; the National Building Research Organisation issues landslide warnings from ground-crack and subsidence data 9; the Coast Conservation Department tracks the 1,660 km shoreline 10; the Water Supply and Drainage Board and Water Resources Board hold groundwater datasets, albeit single-point rather than continuous 11; and the Sri Lanka Space Agency processes satellite imagery for land use and disaster response 12. A national geoportal aggregates much of this 13. The gap is not data — it is integration. No single body is responsible for turning these separate signals into forward-looking watershed management.
+
+The popular claim that 103 rivers radiate from Sri Lanka’s central highlands overstates the case — only 29 rivers reach the sea directly, and just 8 originate above the 1,200-metre highland contour; “103” actually counts river basin units 14. That correction only sharpens the highlands’ importance. Horton Plains National Park, just 31 km², is simultaneously the headwater of three of the country’s most important rivers — the Mahaweli, Kelani, and Walawe — plus the Mahaweli’s longest tributary, the Kotmale Oya 15. This makes Horton Plains the single highest-leverage point for intervention in the country, yet it faces active, documented pressure: illegal cultivation inside protected wetlands, unexplained dieback across 22 plant species, and rising tourism pollution 16.
+
+On unprotected slopes, tea cultivation loses soil at up to 75 tonnes per hectare per year, against 2 tonnes/ha/yr on well-managed plots 17; shifting cultivation shows similarly extreme rates, roughly 100 times faster than natural regeneration 18. In the Upper Mahaweli Catchment specifically, land-use change has pushed erosion to more than 100 times background levels, with the worst plots losing up to 7,500 tonnes per square kilometre annually 19. Roughly 30 cm of topsoil has been stripped from the mid- and up-country over the past century, and decades of ammonium sulphate use have pushed soil pH below 4.0 in places — near the point where tea itself can no longer grow 20.
+
+The fixes are proven, not theoretical. Terracing plus vetiver grass, tested at the Kenilworth estate, cut soil loss to just 0.17 t/ha/yr 21; isotope-based erosion mapping piloted by the FAO/IAEA in the Dolosbage sub-catchment achieved a 42% reduction by targeting the worst-contributing plots precisely 22; and organic fertiliser has been shown to measurably reverse tea-soil acidification over time 23.
+
+None of this stays in the highlands. Sediment travels downstream into the reservoirs that generate 35–50% of Sri Lanka’s electricity 24. Forest cover in the Mahaweli catchment fell from 44% to 24% between 1956 and 1992, and the Rantembe reservoir lost 72% of its storage capacity within three years of being built 25. The Upper Uma Oya, a Mahaweli sub-catchment, records the worst sediment yield measured anywhere in the country 26. Siltation does double damage: it cuts power generation and shrinks flood buffering simultaneously, since a reservoir with less spare capacity reaches its spill threshold sooner for the same rainfall 27 — a dynamic that played out directly during Ditwah.
+
+Sri Lanka’s two most critical basins, the Mahaweli and Kelani, are sensitive to the El Niño–Southern Oscillation. El Niño years typically suppress the Southwest Monsoon that feeds wet-zone reservoirs, and drought risk peaks when El Niño coincides with a positive Indian Ocean Dipole 28. The 2023 El Niño triggered a severe drought affecting 17 districts and roughly 248,000 people 29, and Mahaweli basin droughts have grown more frequent and severe since 2000 30. Tea yields hit a 30-year low in 2020 amid persistent drought 31. Modelling suggests a modest 1.5°C rise by 2040 could displace suitable habitat for narrow-range endemic species, with hotspot regions like Sri Lanka’s highlands potentially losing up to 31% of biodiversity by 2100 32; dieback in tropical upper montane forest is already an observed phenomenon 33, and forest loss itself is known to raise local temperatures independently of global warming in comparable montane systems 34.
+
+Victoria, Kotmale, Randenigala, and Moragahakanda are now explicitly flagged by post-disaster analysts as facing accelerated siltation from sediment washing off Ditwah’s landslide-scarred slopes 35. Victoria hosts the country’s largest hydropower station; Kotmale sits at the top of the Mahaweli cascade, so degradation there propagates through the entire downstream system 36. During the storm, Upper Kotmale was forced to open its spill gates under sustained rainfall, with authorities warning downstream residents of rising water 37. Notably, the Kotmale valley had already been flagged years earlier as landslide-prone, with experts warning that raising reservoir levels could destabilise surrounding scree slopes and recommending satellite radar (InSAR) monitoring be reinstated 38.
+
+Recovery is real but uneven. Erosion on treated slopes can be brought under control within a single growing season using terracing and vetiver 39; soil chemistry is genuinely reversible with organic fertiliser, but over 3–5 years, not instantly 40. Vegetative cover on landslide scars establishes in 1–3 years, though full slope-stabilising structure takes 5–10.
+
+Some losses are not reversible on any practical timescale. Reservoir storage already lost to siltation does not self-correct — recovering it needs active dredging or controlled sediment flushing, which carries its own downstream ecological costs 41. The 30 cm of topsoil already stripped from the mid- and up-country is gone for good: soil forms naturally at roughly 1 tonne/ha/yr, while unprotected slopes have been losing it 70–100 times faster 42 43. Old-growth forest structure and any endemic species already displaced are not recoverable at all — replanting restores cover, not a centuries-old ecosystem.
+
+A national action plan built around the Upper Mahaweli Catchment sets out five workstreams: stopping active damage at the Horton Plains/Peak Wilderness source (cultivation bans, tourism caps, dieback containment, buffer-zone enforcement); cutting erosion at the slope level (isotope-based source mapping, terracing and vetiver retrofits, converting abandoned tea land to hedgerow systems, protecting Kandyan home gardens); reversing soil chemistry (shifting fertiliser practice, targeted liming); protecting reservoir capacity and flood buffering (reinstating InSAR monitoring at Kotmale, continuous water-quality sensing, drone revegetation of the roughly 2,200 hectares scarred by Ditwah, feasibility studies on dredging); and fixing the institutional gap by establishing a dedicated inter-agency watershed authority with a single reporting line across the relevant agencies.
+
+Deforestation, tea-slope erosion, a landslide-prone highland, soil acidification, mangrove loss, and coastal erosion together describe a system under sustained, measurable stress well before Cyclone Ditwah struck. The storm did not create this vulnerability — it triggered the response a degraded system was already primed to give. Kandy district, home to the Victoria catchment, took the worst landslide damage in the country; Kotmale, immediately downstream of Horton Plains, had to open emergency spill gates.
+
+What Sri Lanka lacks is not scientific knowledge or proven interventions — nearly every method above has already worked at pilot scale within the country. What is missing is integration: treating the Upper Mahaweli Catchment as one system to be managed as a whole, before the next major storm arrives.
+
+1 World Bank, cited in “Impact of Climate Change in Sri Lanka,” Ministry of Defence, Sri Lanka. https://www.defence.lk/Article/view_article/27439
+
+2 Navigating uncertainty: an assessment of climate change risks to the marine and coastal environment of Sri Lanka, ScienceDirect. https://www.sciencedirect.com/science/article/pii/S2212096325000968
+
+3 Integrated Plant Nutrient Management in Major Agricultural Soils of Sri Lanka, Springer Nature Link. https://link.springer.com/chapter/10.1007/978-981-15-3673-1_10
+
+4 Sri Lanka’s Disappearing Shores: How Climate Change is Accelerating Coastal Erosion, Climate Fact Checks (citing IUCN). https://climatefactchecks.org/sri-lankas-disappearing-shores-how-climate-change-is-accelerating-coastal-erosion/
+
+5 Climate Change and Ocean Ecosystems: Protecting Coral Reefs in Sri Lanka, SLYCAN Trust. https://www.slycantrust.org/blog-posts-knowledge/climate-change-and-ocean-ecosystems-protecting-coral-reefs-in-sri-lanka
+
+7 Assessing the water quality hazard and challenges to achieving the freshwater goal in Sri Lanka, PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC11933399/
+
+9 NBRO issues early landslide warnings for three areas in Badulla and Monaragala, Newswire. https://www.newswire.lk/2026/05/10/nbro-issues-early-landslide-warnings-for-three-areas-in-badulla-and-monaragala/
+
+10  Assessing adaptation responses to climate change in Coastal Zones of Sri Lanka, Centre for Climate Change Studies / UNFCCC. https://unfccc.int/sites/default/files/basnayake_coasts.pdf
+
+11  Assessing the water quality hazard and challenges to achieving the freshwater goal in Sri Lanka, PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC11933399/
+
+14  Understanding the River Basin Classification of Sri Lanka, WILDLANKA. http://www.dr.lib.sjp.ac.lk/bitstream/handle/123456789/9130/2020%20Paper%20%20RIVER%20BASINS%2008_04%20WILDLANKA.pdf
+
+15  Central Highlands of Sri Lanka, ILH travel guide (headwater description). https://www.isankalionholidays.com/central-highlands-of-sri-lanka
+
+16  Central Highlands of Sri Lanka, World Heritage Outlook, IUCN. https://worldheritageoutlook.iucn.org/node/1158
+
+17  Quantification of Soil Loss under different Soil Conservation Practices of the Mid-Country Tea Lands in Sri Lanka. https://www.academia.edu/118301688/
+
+18  Quantifying sheet erosion in agricultural highlands of Sri Lanka by tracking grain-size distributions, ScienceDirect. https://www.sciencedirect.com/science/article/pii/S2213305415300217
+
+19  Effect of land use in the upper Mahaweli catchment area on erosion, landslides and siltation in hydropower reservoirs of Sri Lanka, Journal of the National Science Foundation of Sri Lanka. https://jnsfsl.sljol.info/articles/abstract/10.4038/jnsfsr.v38i1.1721/
+
+20  Soil degradation in Sri Lanka, in Response to Land Degradation, Taylor & Francis. https://www.taylorfrancis.com/chapters/edit/10.1201/9780429187957-14/soil-degradation-sri-lanka-jayakody
+
+21  Quantification of Soil Loss under different Soil Conservation Practices of the Mid-Country Tea Lands in Sri Lanka (Kenilworth estate field trial). https://www.academia.edu/118301688/
+
+22  Isotope Techniques Trace Erosion Source to Sri Lanka’s Terraced Tea Plantations, IAEA. https://www.iaea.org/newscenter/news/isotope-techniques-trace-erosion-source-to-sri-lankas-terraced-tea-plantations
+
+23  Improvement of soil acidification in tea plantations by long-term use of organic fertilizers and its effect on tea yield and quality, PMC. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9822707/
+
+24  Drained Out or New Potential?: Hydro Power and Sri Lanka’s Energy Challenge, Institute of Policy Studies. https://www.ips.lk/talkingeconomics/2014/03/21/drained-out-or-new-potential-hydro-power-and-sri-lankas-energy-challenge/
+
+25  Effect of land use in the upper Mahaweli catchment area on erosion, landslides and siltation in hydropower reservoirs of Sri Lanka, Journal of the National Science Foundation of Sri Lanka. https://jnsfsl.sljol.info/articles/abstract/10.4038/jnsfsr.v38i1.1721/
+
+26  Impact of soil and water conservation measures on soil erosion rate and sediment yields in a tropical watershed in the Central Highlands of Sri Lanka, ScienceDirect. https://www.sciencedirect.com/science/article/abs/pii/S0143622816308049
+
+27  Rapid Revegetation as a Post-Disaster Mitigation Strategy for Landslide Effected Slopes After Cyclonic Storm ‘Ditwah’, Sri Lanka, LankaWeb. https://www.lankaweb.com/news/items/2026/03/25/rapid-revegetation-as-a-post-disaster-mitigation-strategy-for-landslide-effected-slopes-after-cyclonic-storm-ditwah-sri-lanka/
+
+28  Identifying El Niño--Southern Oscillation influences on rainfall with classification models: implications for water resource management of Sri Lanka, HESS. https://hess.copernicus.org/articles/23/1905/2019/
+
+29  Crippling Drought Devastates Rural Sri Lanka, Gammadda. https://www.gammadda.lk/news/crippling-drought-devastates-rural-sri-lanka
+
+30  Interdecadal Change of Drought Characteristics in Mahaweli River Basin of Sri Lanka, Frontiers in Earth Science. https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.00306/full
+
+31  Evidence of Climate Change Impacts in Sri Lanka -- A Review, Sri Lanka Journal of Economic Research. https://sljer.sljol.info/articles/205/files/65e8a45667f1f.pdf
+
+32  Mounting risks due to climate change threaten Sri Lanka’s endemic species, Mongabay. https://news.mongabay.com/2025/06/mounting-risks-due-to-climate-change-threaten-sri-lankas-endemic-species/
+
+33  Climate Change Impacts on Biodiversity and Ecosystems in Sri Lanka: A Review. https://www.academia.edu/34974753/
+
+34  Deforestation amplifies climate change effects on warming and cloud level rise in African montane forests, PMC. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11324879/
+
+35  Rapid re-vegetation of Ditwah scars urgently needed for SL’s economic health, The Island (citing UNOSAT Geodata). https://island.lk/rapid-re-vegetation-of-ditwah-scars-urgently-needed-for-sls-economic-health/
+
+37  Upper Kotmale Dam Spill Gate Opened, Residents Warned of Rising Water Levels, Hiru News. https://hirunews.lk/en/410853/upper-kotmale-dam-spill-gate-opened-residents-warned-of-rising-water-levels
+
+38  Raising of the Kotmale dam -- misconceptions and facts, The Island. https://island.lk/raising-of-the-kotmale-dam-misconceptions-and-facts/
+
+39  Quantification of Soil Loss under different Soil Conservation Practices of the Mid-Country Tea Lands in Sri Lanka (Kenilworth estate field trial). https://www.academia.edu/118301688/
+
+40  Improvement of soil acidification in tea plantations by long-term use of organic fertilizers and its effect on tea yield and quality, PMC. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9822707/
+
+41  Tackling reservoir siltation by controlled sediment flushing: Impact on downstream fauna and related management issues, PMC. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6590828/
+
+42  Quantifying sheet erosion in agricultural highlands of Sri Lanka by tracking grain-size distributions, ScienceDirect. https://www.sciencedirect.com/science/article/pii/S2213305415300217
+
+43  Soil degradation in Sri Lanka, in Response to Land Degradation, Taylor & Francis. https://www.taylorfrancis.com/chapters/edit/10.1201/9780429187957-14/soil-degradation-sri-lanka-jayakody

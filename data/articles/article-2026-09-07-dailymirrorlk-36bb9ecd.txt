@@ -1,0 +1,53 @@
+Salesforce signals long-term commitment to Sri Lanka’s digital economy push
+
+As Sri Lanka navigates a critical phase of economic recovery, both the government and local enterprises are aggressively pursuing a resilient digital economy.
+
+Recognising this tipping point, global CRM leader Salesforce, headquartered in San Francisco, hosted its first-ever Innovation Day in Colombo on August 31, bringing together over 200 business leaders, technology professionals and partners to explore how trusted artificial intelligence (AI), connected data and intelligent automation can redefine business operations. Far from viewing the island as merely an emerging consumer market, Salesforce views Sri Lanka as a hub for digital talent and entrepreneurial ambition.
+
+At the heart of that push is Pablo Tachil, Country Sales Head for Sri Lanka at Salesforce — a frequent visitor to the island, drawn partly by its emerging diving scene.
+
+Tachil is emphatic that Salesforce isn’t bringing a rigidly boxed solution to the country but a flexible, modular platform built for the specific needs of Sri Lankan businesses — from AI deployed with strict human-in-the-loop guardrails to support for the local start-up ecosystem.
+
+On the sidelines of Salesforce Innovation Day Colombo, he sat down with Mirror Business for a discussion on Salesforce’s roadmap for the market, why it’s pushing enterprises to move beyond the pilot projects and how Sri Lankan businesses can use AI to compete globally.
+
+Q How would you define Salesforce’s role in Sri Lanka’s digital ecosystem and what’s your long-term vision for the market?
+
+After India, Sri Lanka is where we’re seeing the most entrepreneurs building out a real digital economy. The market is gearing up and the government is doing a lot to see digital initiatives delivered and scaled. We’re at a stage where the local conglomerates, retailers and manufacturers are doing genuinely innovative things to engage customers and Sri Lanka has always been a customer-centric market. That combination — digital talent and customer-centricity — gives us the edge to step in, which is why we think this is the best time to enter.
+
+Q You’ve cautioned against a ‘copy-paste’ model from larger markets. How does Salesforce tailor its approach for Sri Lankan corporates?
+
+The first step is understanding the nuances of the local industry and market — you can’t just retrofit a product built for India or the US. Our advantage is a modular structure, like Lego blocks: foundational components companies can use to build exactly what Sri Lanka needs. The layers of trust and security stay uniform but the business applications are modularised. We think of it as a ‘Sri Lanka for Sri Lanka’ product.
+
+Q Which specific areas of the local ecosystem need the most focus and investment?
+
+Our strategy rests on four pillars. First, skilling the local workforce for an AI-driven world — as AI reshapes how work gets done, people on the ground need to be reskilled to handle that shift. Second, supporting the start-up ecosystem — we launched our start-up programme here earlier this year. Third, building a local partner ecosystem, because you need people on the ground who understand the context to execute the vision; you can’t have non-Sri Lankan partners doing the heavy lifting. And fourth, bringing skills, start-ups and partners together into a continuous, thriving digital economy.
+
+Q Salesforce has been talking about ‘Headless 360’. What does that mean in practice for the local businesses?
+
+In the past, buying Salesforce meant adopting our full platform, interface included. But many businesses here already have their own customer-facing interface they want to keep. Headless 360 lets them use that existing front end while plugging into the strength of the Salesforce platform underneath — the AI, the security, the data workflows. Claude, as an Anthropic product, could be the interface, for instance, while the platform running behind it is still ours. It gives the local businesses the flexibility to innovate on their own terms without giving up world-class backend technology.
+
+Conversations are already underway with multiple customers across different industries here.
+
+Q Smaller enterprises here tend to stay stuck in the pilot phase, given a limited risk appetite. How feasible is it for them to push AI straight to production?
+
+The assumption that platforms like Salesforce are only for massive enterprises needs to go away — our small business market is huge, globally. The real issue with risk appetite is that companies fall into endless experimentation: a lot of capital gets burned on proof-of-concepts that never reach production, because nobody’s planned for data privacy or scale. Our focus is helping customers skip that stall and get to production fast, so they start seeing returns instead of just running pilots. For Sri Lanka, that means bringing in expertise from markets that have already gone through this cycle, while building up local teams and partners to carry it forward themselves.
+
+Q How do you evaluate the local talent pool’s technological readiness compared to larger regional markets?
+
+I wouldn’t call it a gap in expertise. Some of the smartest people I’ve worked with in 24 years have been from Sri Lanka. It’s an exposure gap — events like the Innovation Day exist to make sure the local developers see the latest global advances, alongside things like our Trailhead academy. We have no doubts about the quality of talent here; it’s about building the ecosystem that lets them unlock it.
+
+Q There’s often cultural apprehension around AI, particularly fear of job displacement. Are Sri Lankan enterprises culturally ready for this shift?
+
+Sri Lankan organisations look at AI through a positive lens — they understand what it can do for how they connect with the customers. But they’re rightly watchful about how it scales and what it means for the workforce. The question I get most is whether AI will take jobs. It isn’t about replacing people; it’s about how organisations and governments reimagine a world with AI in it. We build a human-in-the-loop model into everything, because the empathy and trust that come with how humans operate is still a long way from what AI can do today. I’d urge corporate boards to stop treating this as a replacement conversation and start focusing on enablement and reskilling instead.
+
+Q With key data privacy regulations due around 2027, how should the local businesses prepare and what can Sri Lanka learn from other regulatory environments?
+
+Sri Lanka has the advantage of watching what’s worked and failed elsewhere and applying that through a local lens. The 2027 regulation is going to shape the next decade or more here. The biggest lesson from other markets is that change management can’t be an afterthought — those conversations need to start early. The other is platform flexibility: a rigid system means constant, costly rework every time rules shift, which happens often in fast-moving sectors like banking.
+
+Q With agentic AI, where autonomous agents interact with one another, how does Salesforce make sure these systems don’t act unpredictably or go rogue?
+
+It’s one of the most pertinent concerns right now. We built guardrails into the system early — agents have a level of autonomy to work with other agents or customers but they’re built to know when a matter needs to go to an actual human. Companies configure those guardrails themselves. We’ve all heard the Terminator-style stories; we don’t want any of that, so the checks are built into the architecture rather than left to chance.
+
+Q If you had to name one single priority for Salesforce in Sri Lanka over the next 12 months, what would it be?
+
+Bringing world-class technology tailored to a Sri Lankan lens, so the local organisations can connect with their customers at a different, more personalised level — sustainably, in terms of both growth and long-term agility.

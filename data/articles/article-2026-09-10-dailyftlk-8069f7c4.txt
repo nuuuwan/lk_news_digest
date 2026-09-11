@@ -1,0 +1,21 @@
+How N-able and FIS are bringing global treasury technology to Sri Lanka’s banks
+
+Sri Lanka’s financial institutions are navigating a period of significant pressure. Tightening regulatory requirements, rising customer expectations, and growing market complexity are pushing banks to rethink how they manage treasury operations, Balance Sheet risk, and foreign exchange, often with legacy systems ill-equipped for the task.
+
+It is against this backdrop that N-able, a technology solutions and systems integration provider with deep roots in the local market, has partnered with FIS, a global leader in financial technology, to bring enterprise-grade treasury and capital markets platforms to banks across the country.
+
+The collaboration gives Sri Lankan institutions access to a suite of FIS Capital Markets solutions, including FIS Treasury and Risk Manager – Quantum, the Global FX Portal (GFX), and FIS Balance Sheet Manager (BSM), deployed and supported locally by N-able. The platforms are designed to automate treasury workflows, provide real-time visibility into liquidity and risk exposures, and extend digital foreign exchange capabilities to corporate clients.
+
+For N-able Chief Executive Officer Shirantha Herath, the partnership represents a natural extension of the firm’s financial services focus.
+
+“Financial institutions today are under increasing pressure to modernise treasury operations while delivering greater efficiency, transparency, and resilience,” he said. “Our partnership with FIS enables us to bring globally proven treasury and capital markets solutions to banks in Sri Lanka; solutions that deliver measurable business value.”
+
+On the FIS side, the appeal lies in pairing global platform capability with on-the-ground expertise. FIS APAC Head of Sales Alex Erskine described the combined offering as addressing one of the central challenges facing regional banks: fragmented views of risk across the Balance Sheet.
+
+“FIS Treasury and Risk Manager – Quantum and FIS BSM provide a comprehensive platform combining front, middle, and back-office treasury operations with enterprise-wide ALM, FTP, liquidity, and regulatory analytics,” he explained. “Built on a common data foundation, the integrated solution gives banks a single, consolidated view of treasury and balance sheet risk, enabling better decision-making, stronger regulatory compliance, and improved financial performance.”
+
+Erskine adds that the local dimension is equally important: “FIS and N-able together deliver proven financial solutions backed by local expertise, enabling Sri Lankan customers to modernise operations, improve efficiency, and reduce risk.”
+
+The solutions themselves are not new to the global stage. FIS treasury and capital markets platforms are in use at financial institutions worldwide, but their availability through a locally anchored partner with implementation, consulting, and support capabilities is a meaningful shift for the Sri Lankan market. Banks that have historically relied on manual processes or fragmented point solutions now have a clearer path to the kind of integrated treasury infrastructure their regional and global counterparts have long operated on.
+
+For Sri Lanka’s financial sector, still deepening its capital markets and modernising core banking infrastructure, that path is becoming harder to defer.

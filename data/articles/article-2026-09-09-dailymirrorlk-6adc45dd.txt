@@ -1,0 +1,27 @@
+Fintech leadership needs strategy, not just talent, says tech veteran
+
+Sri Lanka has the engineering talent and small-market agility but no single national AI and fintech strategy, Finetech’s Clehan Pulle says
+
+Puts local AI adoption at about 6.2 percent against roughly 11.6 percent in India
+
+Says adoption depends on trust, and that AI should facilitate investor decisions rather than make them
+
+Sri Lanka has the engineering talent and the small-market agility to build a competitive financial technology sector, but potential does not translate into leadership without a single national strategy tying policy, infrastructure and skills together, a technology sector veteran said yesterday.
+
+Speaking at a panel discussion held to launch StockBee in Colombo yesterday, the new mobile trading application of Softlogic Stockbrokers, Finetech Consultancy (Private) Ltd Co-Founder and Director/Chief Executive Officer Clehan Pulle said the country’s main advantage is its size. Finetech, established in Colombo in 2010, is the only Google Premier Partner for Sri Lanka, the Maldives and Bangladesh, and Pulle has more than three decades in the industry.
+
+“We have the engineering talent, the creative drive is there, and we are also in a compact market, which is easy to manoeuvre. There is a perfect rapid innovation platform,” he said. But he added that “the potential doesn’t automatically translate into leadership,” and that the one priority he would put to policymakers is a national AI and fintech strategy, resting on a policy and sandbox environment, digital public infrastructure, and public-private partnerships in talent development and education.
+
+On current uptake, Pulle said AI adoption in Sri Lanka stands at about 6.2 percent against roughly 11.6 percent in India.  Most of what he called for already exists on paper. The Central Bank opened its FinTech Regulatory Sandbox in February 2020, but four years on it had drawn only about six applications and no participant had graduated from it, with officials acknowledging that the requirement for an independent third-party audit report had deterred applicants unwilling to spend heavily on products they were not certain would reach the market. The Central Bank said in March 2024 that it planned to relax parts of the framework, possibly following the Reserve Bank of India, which asks sandbox applicants only for a proof of concept. Separately, a draft national strategy on artificial intelligence covering 2024 to 2028 was released for public consultation by the Committee on Formulating a Strategy for AI, and Cabinet approved an institutional framework in mid-2025 placing national AI policy work under the ICTA on an interim basis, ahead of a planned Digital Economy Authority.
+
+What has not followed is uptake, and Pulle was not asked about that at the launch.
+
+Pulle said the main barrier to adoption is trust, and that platforms have to build it in.
+
+“It must not be about a black box approach,” he said, adding that platforms should be able to show how data is used and explain the logic behind results, and that users need to be educated on the limits of the technology “because AI doesn’t know everything.” Compliance, he said, is a baseline and not a ceiling, and the industry should be working through policy sandboxes linking private developers, the Central Bank and the stock exchange.
+
+He said investors should not hand the decision itself to the technology. “AI is not the decision-maker. AI is only a facilitator for you to make that decision,” he said, adding that its use is in processing volumes of data an investor could not go through manually.
+
+StockBee carries live prices, charting, sector and company data, order management and portfolio tracking. It also carries AI-assisted market insights through StockGPT, the research tool Softlogic Stockbrokers built on Microsoft Azure OpenAI in 2024.
+
+Softlogic Stockbrokers Director and Chief Executive Officer Dihan Dedigama said the application had been roughly three years in development and is free to download. “With this trading app, it will take significant time out of an investor’s need to be connecting with a broker if he doesn’t need to, and this is the start of a new journey to take this stock market to our retail investors,” he said. The firm was among the first local brokers to move retail onboarding online, cutting CDS account opening to under an hour in 2022, and was the first broker to offer trading through Dialog’s genie platform.

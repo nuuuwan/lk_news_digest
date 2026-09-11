@@ -1,0 +1,41 @@
+AI disruption puts Sri Lanka’s IT export model under pressure
+
+Frontier Research says cheaper AI-generated code could squeeze value of coding and back-office services
+
+AI data centre push offers potential new foreign exchange channel
+
+Sri Lanka’s growing IT and business process management (BPM) export sector faces pressure from rapid advances in artificial intelligence (AI), which could reduce what overseas clients are willing to pay for coding and back-office services, Frontier Research has warned.
+
+In its latest ‘Big Story’ analysis on the global AI race, the think tank identified Sri Lanka’s ICT and BPM industry as the country’s primary exposure to the technology shift, even as AI data centres and productivity gains could open new opportunities.
+
+ICT and BPM exports earned $ 150.49 million in June, up 11.31% year-on-year, compared with 3.75% growth in overall services exports, Frontier Research noted.
+
+However, it cautioned that cheaper machine-written code lowers the value clients may attach to coding and back-office work, areas which have contributed substantially to Sri Lanka’s technology services growth.
+
+The development raises questions over how Sri Lanka positions its technology export industry as AI increasingly automates work traditionally supplied through relatively labour-intensive outsourcing models.
+
+Frontier Research identified the Government’s proposed AI data centre initiative as a second channel through which the global technology shift could affect Sri Lanka.
+
+It noted that Digital Economy Deputy Minister Eranga Weeraratne has said procurement is underway to establish AI data centres serving local and regional customers, with foreign exchange earnings among the objectives.
+
+The initiative comes as Sri Lanka targets $ 5 billion in technology exports and prepares to host Sri Lanka AI Week from 28 September to 4 October.
+
+Frontier Research also pointed to a potentially wider economic role for AI as Sri Lanka confronts falling birth rates and an ageing workforce.
+
+It said a declining share of working-age people could constrain growth over the medium to long term, raising the question of whether AI-augmented capital could substitute for some labour and allow the economy to produce more with a smaller workforce.
+
+“Much of this is still unknown, but if this is a possibility it would be a considerable shift from the traditional workflows Sri Lanka is currently used to,” Frontier Research said.
+
+The Sri Lankan implications come amid an intensifying US-China contest over AI technology, computing capacity and access to advanced semiconductors.
+
+Frontier Research noted estimates that the US could produce between 21 and 49 times as much AI compute as China during 2026, even under a scenario in which chip exports to China are fully permitted. The Council on Foreign Relations estimates Chinese frontier AI models remain around six to eight months behind their US counterparts.
+
+The contest is increasingly shifting towards Government controls over access to computing power. US authorities are examining Chinese companies’ use of computing capacity rented in third countries, while Washington is preparing a further rewrite of its semiconductor export rules.
+
+China, meanwhile, is seeking to reduce its dependence on foreign technology, with Beijing drafting a $ 295 billion national computing network plan intended to operate with 80% domestically produced chips. Chinese chips accounted for close to 41% of their domestic market last year, compared with foreign suppliers holding 90% or more before 2023, according to the analysis.
+
+Frontier Research said the US lead itself rests on substantial investment. AI-linked companies accounted for 85% of gains in the S&P 500 this year, while data centre construction represents half of US business investment and more than 80% of global venture capital investment during the first half flowed into AI start-ups.
+
+The physical infrastructure required to sustain that expansion is also increasing pressure on electricity systems. Bank of America estimates data centres could add about 125 gigawatts to US electricity demand by 2030.
+
+For Sri Lanka, Frontier Research’s analysis suggests the global AI contest therefore carries two contrasting implications: disruption to an existing technology-export model built partly around human-delivered coding and back-office services, and an opportunity to deploy AI infrastructure and capital to generate exports and address emerging domestic labour constraints.

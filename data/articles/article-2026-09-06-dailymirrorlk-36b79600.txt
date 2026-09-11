@@ -1,0 +1,17 @@
+UN backs new world map to show continents more accurately
+
+The United Nations General Assembly has endorsed a resolution calling for a more accurate representation of the world’s continents, potentially changing the way the world map is presented in schools, institutions and digital platforms.
+
+The resolution, adopted on September 4 with 164 countries voting in favour, one against and six abstentions, promotes the use of the Equal Earth projection instead of the widely used Mercator projection. The United States was the only country to vote against the resolution.
+
+The Mercator projection, developed by Flemish cartographer Gerardus Mercator in 1569, was designed primarily for maritime navigation. However, it significantly exaggerates the apparent size of land areas farther from the equator.
+
+For example, Greenland can appear comparable in size to Africa on a Mercator map, although Africa is about 14 times larger than Greenland in actual land area.
+
+The Equal Earth projection, introduced in 2018, is designed to preserve the relative area of continents more accurately. The UN resolution encourages governments, educational institutions, international organisations and technology companies to use Equal Earth or other equal-area projections where accurate representation of land area is important.
+
+The resolution does not ban the Mercator projection or impose a single map, and Mercator remains useful for certain navigation purposes.
+
+France has separately announced that its Foreign Ministry will move away from Mercator and adopt the Eckert IV projection, another map that represents continental areas more accurately.
+
+The initiative was led by Togo on behalf of the African Union, with supporters arguing that conventional maps have contributed to an inaccurate visual perception of Africa and other equatorial regions.

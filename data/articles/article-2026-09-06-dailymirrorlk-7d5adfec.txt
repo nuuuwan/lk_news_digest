@@ -1,0 +1,7 @@
+Google Translate rolls out new upgrades for iOS and Android.
+
+News from Google - Google Translate’s live translate brings natural, near-real time audio translations to 70+ languages. Today, we're introducing two updates to make translations even more seamless.
+
+First, because more than a third of live translation sessions now last longer than five minutes, Android users can now keep live translations running in the background. This is perfect for longer sessions where you need to multitask or want to lock your phone screen. iOS support is coming soon.
+
+Second, iOS users worldwide can now get live translations directly through their phone’s earpiece. (The feature is already available on Android.) When you don't have headphones handy, just hold your phone to your ear. It’s great for catching announcements at noisy airports or following along on crowded tours.

@@ -1,0 +1,31 @@
+Surge acquires majority stake in IDEA8 to launch Surge Robotics
+
+Surge has acquired a majority stake in IDEA8, an internet of things (IoT) and embedded systems company, to launch Surge Robotics.
+
+The new business will focus on industrial automation, intelligent hardware and connected manufacturing.
+
+The acquisition moves Surge beyond enterprise software into physical technology. It combines Surge’s software, artificial intelligence (AI) and cloud capabilities with IDEA8’s expertise in embedded systems, sensors and industrial IoT.
+
+IDEA8 has deployed technology across Sri Lanka, India, Singapore, Thailand, Spain and South Korea. Projects include a pilot at a Uniqlo manufacturing facility in India, alongside engagements with MAS and Brandix.
+
+IDEA8’s systems run on platforms including ESP32, STM32, Raspberry Pi and NVIDIA Jetson, using BLE, Wi-Fi, CAN and MQTT. The technology connects machinery, collects real-time data and brings automation to environments where legacy equipment has stayed offline.
+
+Surge Robotics will combine these capabilities with Surge’s software, data and AI infrastructure. The business will initially focus on manufacturing, apparel, warehousing and logistics, covering machine monitoring, predictive maintenance, production analytics, computer vision, asset tracking, quality control and factory automation.
+
+“The next phase of enterprise technology will not stop at software,” said Surge Managing Director Bhanuka Harischandra.
+
+“There are millions of machines and physical assets across emerging markets that are still disconnected from the digital economy. IDEA8 gives us the engineering capability to connect that physical infrastructure to software, data and AI.”
+
+He added, “Surge Robotics allows us to work across the entire technology stack, from the sensor attached to a machine, through edge computing and connectivity, all the way to the ERP, analytics and AI layer used by management. We believe that combination can meaningfully change how industrial businesses digitise.”
+
+IDEA8 will continue to be led by Chanaka Prasad, with its engineering team forming the foundation of Surge Robotics.
+
+The company brings more than 40 professionals across embedded engineering, electronics, IoT, edge computing and software development.
+
+Surge Robotics will also establish an advisory board. Henry Wu joins as an advisor, bringing more than 25 years of experience developing and operating luxury hotels and restaurants. He holds bachelor’s and master’s degrees in electrical engineering and computer science from MIT, where he later taught and researched computer hardware and artificial intelligence.
+
+Sarath Sathkumara joins as an advisor and minority investor, bringing more than 30 years of experience across global capital markets. He has held senior investment roles at Capital Group, State Street Global Advisors, SBI Venture Capital and Taiyo Pacific Partners and helped establish Capital’s asset management venture with the Birla Group in India.
+
+The acquisition is part of Surge’s strategy of building and acquiring specialised technology capabilities. It adds robotics and industrial IoT to a group already working across payments, enterprise software, commerce and digital transformation, extending Surge’s reach from financial systems into factories and physical operations.
+
+Surge Robotics will operate as a dedicated business within the Surge ecosystem, with international expansion and further investment in hardware, sensors, computer vision and automation planned over the coming years.
