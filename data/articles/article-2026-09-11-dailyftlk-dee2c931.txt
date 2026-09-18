@@ -1,0 +1,53 @@
+Industrial policy for Sri Lanka: New legitimacy, old debates
+
+An industrial policy for Sri Lanka requires a bolder ‘whole system’ approach that views the economy less in terms of partitioned sectors, and more in terms of an ecosystem with a productive core. Lack of state capacity need not be an excuse to do nothing, ‘using what you have’ and ‘learning by doing’ is how every country has industrialised
+
+Industrial policy (IP) is no longer a taboo in mainstream economic policy debates. What the IMF described in 2019 as the ‘policy that shall not be named’ is now named so often as to be unavoidable in economic policy and academic circles. The question today is not whether to do IP, but how to do it most effectively under a given set of resources and constraints.
+
+On 13 July 2026, the Centre for a Smart Future (CSF) and the SOAS Centre for Sustainable Finance hosted a discussion titled ‘The Return of Industrial Policy: Considerations for Trade, Competitiveness, and Green Growth for Sri Lanka’. A summary of the discussion, published on the CSF website, reveals that despite the renewed legitimacy of IP, old debates have not been settled.
+
+In fact, the ‘return of industrial policy’ means only that the Overton window has moved from the market fundamentalist position that the ‘State must do nothing’, to the moderate position that ‘the State must do something’. However, we are far from consensus on what is to be done and how, despite a veritable renaissance of literature on IP.
+
+The CSF report outlines ten key takeaways from the discussion, two of which this article shall engage with.
+
+Takeaway number three is that “In recent decades Sri Lanka has neglected the manufacturing sector, with policies biased against industrial development. New IP approaches practiced globally necessarily prioritise improving industrial capabilities – for export competitiveness, R&D and technology adoption, and supply-chain resilience.”
+
+This recognition is most welcome and should have been the first and most important takeaway.
+
+The post-1978 liberalisation program had a destructive effect on the still cellular heavy industrial sector in Sri Lanka. Prior to liberalisation, import-substitution industries may not have been internationally competitive, but basic capabilities in steel production, chemical industries, and textiles had begun to take shape. Privatisation and premature exposure of these commanding heights to international competition changed the industrial structure to a more labour-intensive paradigm.
+
+The industrial structure that took off since the late 1980s was based primarily on labour-intensive manufactures with limited value-addition. The exhaustion of this paradigm by the mid-2000s, and the failure to climb up the value chain, has caused the so-called ‘middle-income trap’. Upgrading the Sri Lankan industrial sector requires precisely the heavy industrial base and capital-intensive activities that were shed in the earlier period of liberalisation.
+
+Sri Lanka has hit an industrialisation cul de sac, or what is termed ‘premature deindustrialisation’, with labour-intensive production closing down and relocating. This has led to a decline in manufacturing output and employment. Since the manufacturing sector is the main driver of research and development spending, premature deindustrialisation sets in motion a deadly spiral of relative technological ‘downgrading’ – widening the gap between Sri Lanka and the industrialised countries and worsening the ‘middle-income trap’.
+
+These dynamics require a shift in economic thinking – rather than being viewed as just one of many sectors of the economy, manufacturing needs to be reframed as the core of the entire national economy and the motor which generates growth and innovation spillovers to the rest of the economy.
+
+Takeaway number four is that, “There were strong competing views around whether the Government should support certain strategic sectors or provide more horizontal support instead. The broader consensus seemed to be that there is little State capacity to effectively target sectors, and therefore tackling structural economy-wide constraints might be more desirable. Yet, it was clear that different parts of Government are currently pursuing both approaches at once.”
+
+The literature on IP tends to distinguish between vertical IP (i.e. selective policies that target specific sectors and activities) and horizontal IP (i.e. policies that improve factor conditions like skills and infrastructure across the board). The CSF note suggests that horizontal IP may be preferable in Sri Lanka as certain bottlenecks related to factor mobility apply across the board.
+
+I would argue that the concept of ‘horizontal IP’ is indistinguishable from the kinds of social and capital investments that even the most liberal States engage in. IP by its very nature is selective of sectors that are the most conducive for generating long-term productivity gains and linkages. The intent is to break a certain path dependency or actively change a country’s comparative advantage. Tackling ‘economy-wide constraints’ would not change the structural composition of the economy. It may even be desirable to impose constraints on one sector while easing them for another.
+
+I would argue in favour of a vertical approach to IP for two reasons.
+
+First, ‘economy-wide constraints’ are the product of a historically conditioned political economy – in other words, a social contract. Any attempt to overturn these settlements in one go would generate political opposition or unforeseen social consequences. A key lesson from China’s reform process is the effectiveness of sandboxing reform within certain economic sectors or geographic spaces to assess their effectiveness, and then encourage economy-wide emulation at a later point.
+
+Second, Sri Lanka’s post-war infrastructure program is a lesson that a horizontal approach aimed at easing transaction costs through better physical infrastructure can still enforce path dependency and fail to advance structural transformation. Road linkages between the Western and Southern Provinces, and the construction of Mattala Airport and Hambantota Port in proximity to an agrarian hinterland with a labour surplus, should have (in theory) facilitated the emergence of an export-oriented, agro-industrial cluster.
+
+However, Hambantota’s failure was precisely the ‘build it and they will come’ mentality inherent in the horizontal approach. There was a lack of selective institutional support for export-oriented manufacturing – from low-cost, patient capital, to technical training, to abundant and affordable efficient energy. The irony is that the Port of Hambantota has become another node of transhipment and importation rather than a site through which traffic in manufactures is pushed outwards to the world.
+
+The entire post-war infrastructure construction spree should be a cautionary tale that horizontal IP is no less risky than vertical IP. The goal of IP should be to change the structure of the economy, not to reduce transaction costs for the existing structure.
+
+Sri Lanka’s existing policy framework – as judged primarily by the National Export Development Plan (NEDP) – is an export-competitiveness and trade-facilitation agenda with a thin selective layer bolted on, operating under the fiscal constraints of an IMF program. Many of the specific policy instruments are related to reducing transaction costs: a National Single Window, customs digitalisation, a National Tariff Policy, logistics/port capacity, quality infrastructure and accreditation, intellectual property administration, and free trade agreement expansion.
+
+Moreover, the existing Public Investment Program (PIP) demonstrates that the State is not the primary investor, and that the industrial sector is not a priority for public investment. The PIP envisages the State contributing to 13% of investment between 2026 and 2030, meaning that around 87% of investment will be determined by the private sector. Within public investment, the PIP allocates 3.1% of cumulative spending to industry, trade and investment and tourism, compared to 26.3% for roads alone (Table 1). Therefore, the investment strategy remains broadly horizontal.
+
+This pattern reflects the constraints of a debt-ridden country where interest payments alone account for about half of public expenditure. The danger is ‘derisking’ of private sector investment in the name of IP. But lack of public financing capacity need not translate to lack of leverage over directing private capital towards socially determined uses.
+
+This is where the National Mineral Policy (NMP) can come into play. Since the State does not have the fiscal capacity to make the indivisible investments needed in strategic industries, it could leverage natural resource monopolies to induce fixed investments by private capital. This follows the playbook used by countries such as Indonesia (nickel), and most recently Zimbabwe (lithium). For Sri Lanka, graphite and rare earths can provide leverage over critical emerging technologies.
+
+What is needed is a greater synergy between the NEDP and NMP. For example, the NEDP’s singling out of auto parts as a strategic priority may synergise well with NMP’s focus on graphite and rare earths as both are needed for electric vehicles. But this potential is under-articulated and there is always a danger that the two policies would operate in silos.
+
+New technologies tend to arrive in clusters that constitute a new paradigm – from energy, to materials, to mechanics, to information systems. An industrial policy for Sri Lanka requires a bolder ‘whole system’ approach that views the economy less in terms of partitioned sectors, and more in terms of an ecosystem with a productive core. Lack of State capacity need not be an excuse to do nothing, ‘using what you have’ and ‘learning by doing’ is how every country has industrialised.
+
+(The author is a researcher at Tricontinental: Institute for Social Research and a co-editor of Wenhua Zongheng: A Journal of Contemporary Chinese Thought. He has an MSc in Economic Policy from SOAS University of London)

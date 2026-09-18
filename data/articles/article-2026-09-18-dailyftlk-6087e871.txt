@@ -1,0 +1,141 @@
+7 sad AI-conomic truths you may not want to know
+
+Every technological revolution arrives wrapped in optimism. The steam engine would liberate us from drudgery. Electricity would transform living standards. The computer would make work faster and more efficient. The Internet would democratise knowledge and connect humanity.
+
+Now, artificial intelligence promises to supercharge productivity, solve complex problems, democratise expertise and unlock unprecedented economic growth.
+
+But beneath the glossy promises lies a more uncomfortable reality—one that business leaders, policymakers and investors are still largely unprepared to confront. As AI reshapes economies and societies at breakneck speed, it is also capable of entrenching old inequalities and creating entirely new ones.
+
+The central economic question is therefore not simply how much wealth AI will create. It is who will capture that wealth, who will lose from the transition, and what happens to those who are unable to participate meaningfully in the new economy? What follows are seven sobering truths about our AI-driven economic future. They are not predictions of inevitable doom. They are warnings about risks that could become realities if today’s decisions are allowed to shape tomorrow’s economy without sufficient thought.
+
+We’ve spent decades discussing the “digital divide”—the gap between those with access to computers, telecommunications and the internet and those without. The emerging AI divide could be far more consequential.
+
+The numbers already tell a troubling story. According to Microsoft’s AI Diffusion Report, 24.7% of the working-age population in Global North countries had used generative AI by the end of 2025, compared with 14.1% in the Global South. The gap widened during the year rather than narrowing.
+
+Within countries, the divide is equally striking. In the United States, AI usage is substantially higher in large urban areas than in rural communities. The geography of AI adoption also appears closely associated with educational and institutional concentration.
+
+This matters because AI is not merely another digital service. A person with access to an AI assistant can potentially acquire capabilities that previously required years of training: translating documents, analysing data, writing software, preparing presentations, conducting preliminary research or creating marketing material.
+
+But that advantage compounds. A well-educated professional with a powerful AI system, high-speed connectivity, good data and organisational support can become dramatically more productive. A worker without those resources may find the same technology inaccessible or incomprehensible.
+
+The result could be a productivity divide layered on top of the existing digital divide. And the problem extends beyond individuals. Countries that possess advanced computing infrastructure, large datasets, research institutions, semiconductor access and AI talent can develop capabilities much faster than countries that merely consume AI services.
+
+This creates a particularly difficult dilemma for developing countries. If AI becomes a major source of economic productivity, being an AI consumer rather than an AI producer could increasingly resemble the difference between importing technology and developing it domestically.
+
+The United Nations Development Programme has warned that AI could contribute to a “Great Divergence” reminiscent of earlier periods of industrial transformation. The danger is therefore not simply that some people will have AI while others do not. It is that those who have AI may increasingly pull away from those who do not.
+
+For years, warnings about AI-driven unemployment were dismissed as technological pessimism.
+
+The standard response was reassuring: technology destroys some jobs but creates others.
+
+Historically, that has often been true. Agricultural mechanisation reduced farm employment but created opportunities elsewhere. Computers eliminated certain clerical tasks but generated entire industries.
+
+AI may follow the same pattern—but there is one important difference.
+
+Previous waves of automation primarily attacked physical or routine cognitive tasks. Generative AI is increasingly capable of performing tasks associated with knowledge workers themselves. Lawyers, accountants, programmers, designers, translators, analysts, customer-service representatives, journalists and administrative professionals are all encountering systems capable of performing portions of their work.
+
+More than 250,000 technology workers have reportedly been laid off since January 2025, while companies across the technology sector have been restructuring around AI and automation. Tata Consultancy Services, for example, announced plans to reduce its workforce by up to 12,000 employees. The important question is not whether every AI-exposed job disappears.
+
+It is what happens to the number of people required to perform the same amount of economic activity.
+
+A company that previously needed 100 analysts may eventually need 60 highly AI-enabled analysts. A software company that required 50 programmers may discover that 20 experienced developers working with AI can produce what 50 previously produced. That is an enormous economic gain for the company. It is not necessarily an equivalent gain for the 30 people whose jobs disappear.
+
+And there is another subtle danger: entry-level jobs may disappear first. Young professionals traditionally learn by performing relatively simple tasks before progressing to more complex responsibilities. If AI can perform the simple tasks, organisations may have fewer incentives to employ large numbers of inexperienced workers.
+
+That could create a strange paradox: AI makes experienced professionals more productive while simultaneously reducing the opportunities through which future experienced professionals acquire their experience. The result could be a broken career ladder.
+
+The most uncomfortable truth may be this: Not everyone displaced by AI will find a new role.
+
+The optimistic version of technological change assumes that displaced workers can simply retrain.
+
+But retraining is not magic. A 50-year-old administrative worker cannot necessarily become a machine-learning engineer after completing a six-month online course. Nor can every factory worker become a data scientist, every call-centre employee become a software developer, or every displaced accountant become an AI entrepreneur.
+
+There is also a question of scale. If millions of people need to acquire entirely new skills simultaneously, who will provide the training? Who will finance it? Who will support workers while they retrain? And, perhaps most importantly, will the economy actually generate enough new positions for everyone who successfully retrains?
+
+Historian Yuval Noah Harari has used the phrase “unemployable class” to describe a possible future in which large numbers of people become economically redundant because machines can perform many tasks more effectively.
+
+His argument raises a question that conventional economics struggles to answer: what happens when economic value is no longer sufficiently dependent on human labour?
+
+For centuries, employment has been more than a way of earning money. It has provided social status, identity, structure and participation. If AI eventually reduces the demand for human labour substantially, simply distributing money may not solve the deeper social problem.
+
+A person receiving income but feeling economically unnecessary may still experience exclusion.
+
+This is why the AI debate cannot be reduced to productivity statistics. The future of work is also a question about the future meaning of work.
+
+4. AI is devouring resources—and the environment is paying the price
+
+AI may look weightless. We ask a chatbot a question, receive an answer and see nothing more than text on a screen.
+
+Behind that apparently weightless interaction, however, exists a massive physical infrastructure: data centres, servers, chips, cooling systems, electricity grids, fibre-optic networks and water supplies.
+
+The environmental cost is becoming difficult to ignore. Amazon disclosed that its global data centres consumed more than 9 billion litres of water in 2025. The United Nations University Institute for Water, Environment and Health has estimated that the global water footprint of data centres could reach trillions of litres annually by 2030.
+
+And water is only one part of the equation. AI requires enormous amounts of electricity. As demand for computation increases, countries must decide how that electricity will be generated. If additional demand is met primarily through fossil fuels, some of the environmental benefits expected from digital transformation could be undermined.
+
+There is also the environmental cost of manufacturing the hardware itself. Advanced AI requires increasingly sophisticated chips. Mining the minerals, manufacturing semiconductors, constructing data centres and eventually disposing of obsolete equipment all carry environmental costs.
+
+This creates a contradiction. AI is frequently presented as a tool that could help humanity address climate change—through better energy management, improved weather modelling, optimised transport and smarter agriculture. But the technology designed to solve environmental problems can itself consume enormous quantities of energy, water and materials.
+
+The answer is not necessarily to stop AI development. It is to recognise that “digital” does not mean “immaterial.” Every AI service has a physical footprint. And in countries already facing water shortages, electricity constraints or fragile infrastructure, that footprint could become economically significant.
+
+5. Wealth and power are concentrating at an unprecedented scale
+
+The economics of AI strongly favour scale. Training frontier models requires enormous computing resources, specialised chips, engineering talent, datasets and capital. Operating them at a global scale requires still more infrastructure.
+
+This creates a powerful economic advantage for companies that already possess capital, cloud infrastructure, data and global distribution networks. The concentration is visible in financial markets. A relatively small group of technology companies has come to represent an extraordinary share of major stock-market valuations.
+
+The AI economy therefore presents a paradox. AI is frequently described as a technology that democratises capabilities. A small business can use the same basic generative-AI tools that a multinational corporation uses.
+
+But the underlying infrastructure is becoming increasingly concentrated. The small business may use AI. The corporation may own the AI infrastructure. That distinction matters.
+
+If a handful of companies control the most advanced models, cloud platforms, chips, app ecosystems and distribution channels, they can capture a disproportionate share of the economic surplus created by AI.
+
+This could produce a new form of economic inequality—not simply inequality between workers and employers, but inequality between owners of computational capital and users of computational capital.
+
+There is also a competition issue. When the same companies control cloud infrastructure, AI models, operating systems, search engines, advertising platforms and distribution channels, their ability to shape markets can become extraordinary.
+
+As nations awaken to AI’s strategic importance, a new geopolitical competition is taking shape. Countries increasingly want AI sovereignty—the ability to develop, control and deploy critical AI capabilities without depending entirely on another country.
+
+The United States, China, the European Union and other countries are investing heavily in computing infrastructure, semiconductor manufacturing, research, talent and domestic AI ecosystems. Technology restrictions are becoming instruments of geopolitical policy.
+
+Semiconductors have become strategic assets. Access to advanced computing is increasingly treated not merely as a commercial issue but as a matter of national security.
+
+The danger is that the AI economy could fragment into competing technological spheres.
+
+Imagine a world in which American, Chinese, European and other AI ecosystems operate according to different technical standards, regulations, cloud infrastructures and data regimes.
+
+Such fragmentation could increase costs for businesses and reduce the benefits of global interoperability. For smaller countries, the consequences could be particularly significant. A developing nation may be forced to choose between competing technological ecosystems—or become dependent on whichever external provider offers the cheapest or most accessible infrastructure.
+
+There is another concern. If AI becomes strategically important to military, intelligence and cyber capabilities, the incentives for governments to accelerate development may become stronger than the incentives for international restraint.
+
+That creates a classic security dilemma: one country’s defensive investment can look like an offensive threat to another. The AI race could therefore become a new form of geopolitical competition—less about tanks and territory, and more about chips, compute, data and algorithms.
+
+Every AI system runs on data. And increasingly, the most valuable data is personal data. Our faces, voices, locations, purchasing habits, online behaviour, professional histories and personal communications can all become inputs into increasingly sophisticated systems.
+
+The bargain is seductive. Give the system more information, and it gives us greater convenience. But there is a hidden economic transaction taking place. We may be paying for supposedly “free” services not with money, but with information about ourselves.
+
+Facial recognition demonstrates the problem particularly clearly. In Brazil, hundreds of facial-recognition projects have been identified, potentially affecting tens of millions of people. Meanwhile, studies by the U.S. National Institute of Standards and Technology have documented demographic differences in the performance of facial-recognition systems.
+
+The issue is not simply accuracy. It is power. Who gets to identify whom? Who stores the data? Who can access it? How long is it retained? Can an individual challenge an automated decision? What happens when an algorithm makes a mistake?
+
+AI can make surveillance dramatically cheaper and more scalable. A human officer cannot watch millions of people simultaneously. An automated system can potentially analyse millions of images, transactions or communications continuously.
+
+This changes the economics of surveillance. And once surveillance infrastructure exists, there is always the possibility that its use expands beyond its original purpose. The most dangerous erosion of privacy may therefore not happen through one dramatic decision.
+
+It may happen incrementally. One convenient service here. One biometric database there. One automated identification system somewhere else. Until eventually we discover that privacy has become an exception rather than the norm.
+
+The bigger problem: AI may change the distribution of economic power
+
+These seven truths have something in common. They are not really about Artificial Intelligence.
+
+They are about power. Who has access to AI? Who owns the infrastructure? Who controls the data? Who captures the productivity gains? Who bears the environmental costs? Who gets displaced? Who decides the rules? That is why simply measuring AI’s contribution to GDP will not be enough.
+
+Suppose AI increases national productivity by 20%. That sounds wonderful.
+
+But what if most of the additional income goes to a small group of technology companies and highly skilled workers? What if millions of workers experience stagnant wages or declining employment? What if electricity and water consumption rises sharply? What if smaller countries become increasingly dependent on foreign AI infrastructure?
+
+The economy may become richer while parts of society become poorer.
+
+That is perhaps the most important lesson for policymakers. The objective should not simply be to maximise the speed of AI adoption. It should be to ensure that the economic benefits of AI are broadly distributed and that its costs are not disproportionately imposed on those least able to absorb them. That requires thinking beyond technology policy. It means reconsidering education, taxation, competition policy, labour regulation, social protection, data governance, infrastructure investment and international cooperation.
+
+(The author is a policy researcher and can be contacted at [email protected]. All ideas her are personal. AI tools including ChatGPT, DeepSeek and Claude have been used in ideation and construction of this article)

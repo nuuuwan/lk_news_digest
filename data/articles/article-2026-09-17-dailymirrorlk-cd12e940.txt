@@ -1,0 +1,17 @@
+BPC supports DFCC Bank’s eight-language ATM and CRM innovation
+
+BPC, global leader in payments technology, has supported DFCC Bank in introducing Sri Lanka’s first ATM and Cash Recycler Machine experience available in eight languages. The innovation is backed by modernised ATM, CRM, card-switching and card-issuing infrastructure implemented through BPC’s next generation SmartVista platform.
+
+Making self-service banking easier and more accessible for Sri Lankans and international visitors, the facility allows customers to select their preferred language at the beginning of a transaction and proceed in English, Sinhala, Tamil, French, Chinese, Russian, Hindi or German.
+
+The multilingual capability is available across DFCC Bank’s ATM and CRM network, including locations with significant international and tourist activity, such as the arrivals terminal at Bandaranaike International Airport, Ella, Arugam Bay and Hiriketiya.
+
+DFCC Bank developed the multilingual proposition in response to a clear customer need. As Sri Lanka welcomes visitors from a wider range of international markets, the Bank recognised that language should not become a barrier to completing an essential financial transaction.
+
+For international visitors, the facility removes the uncertainty of navigating an unfamiliar banking interface in another language, allowing them to withdraw cash with greater confidence and independence. Sri Lankan customers also benefit from a self-service experience available in Sinhala, Tamil and English.
+
+Commenting on the initiative, Vindya Solangaarachchi, Senior Vice President and Chief Information Officer of DFCC Bank said, “Technology creates the greatest value when it removes difficulty from an everyday experience. For someone arriving in Sri Lanka, an ATM may be one of their first interactions with the country. Being able to complete that transaction in a familiar language provides confidence from the outset.
+
+Equally important is ensuring that self-service banking remains accessible to our local customers in Sinhala, Tamil and English. This initiative reflects our belief that technology should adapt to the customer, rather than expecting the customer to adapt to the technology.”
+
+The implementation reflects a shared view that successful digital transformation must connect technical capability with a genuine customer need. While SmartVista provides the infrastructure behind each transaction, DFCC Bank’s multilingual experience determines how simply and confidently the customer can complete it. Together, these capabilities strengthen the Bank’s self-service banking ecosystem and create a foundation for further customer-focused innovation.

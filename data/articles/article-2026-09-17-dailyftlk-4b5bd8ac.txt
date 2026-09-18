@@ -1,0 +1,67 @@
+Country of origin is a reorder gate, not a static product field
+
+The buyer should not assume the product has become originating in the new country, nor assume the first shipment's origin remains valid. It should hold the reorder, identify the producer and process, obtain the applicable assessment, rebuild the landed-cost scenario, confirm document availability and revise channel data for the affected batch. If the evidence is complete and the commercial case still works, the order can proceed. If the evidence is incomplete, the importer can request production at the previously approved site, change the timing or price assumption, or decline the batch
+
+A Sri Lankan importer approves a product made in one factory, receives the first shipment and stores "China" in the product master. Six months later, the brand offers the same model, barcode and packaging at the same price. The repeat order looks routine.
+
+One sentence in the supplier's message changes the decision: production will move to another country, or a different producer will assemble the next batch.
+
+The commercial product may look unchanged, but the origin evidence is not automatically unchanged. The repeat order should return to an approval gate before price, duty, documents and claims are carried forward from the first shipment.
+
+Sri Lanka Customs lists a country-of-origin certificate and preferential-trade-agreement documents among the import documents required where applicable. The Department of Commerce explains that origin is determined under applicable rules and that supporting evidence can include cost statements, material records, invoices and production information. A brand's headquarters, the supplier's office and the port of loading do not answer that test by themselves.
+
+The operational lesson is simple: country of origin is a shipment fact supported by evidence, not a permanent marketing attribute attached to a SKU.
+
+The seller is the entity issuing the commercial offer or invoice. The producer is the entity that makes or processes the goods. The production site is the physical facility used for the relevant batch. The shipment origin is where the goods begin the export movement or are loaded.
+
+Those locations may be the same. They may also differ. A Chinese brand can use a contract manufacturer in another country. Goods can move through a regional warehouse. An invoice can come from a trading entity that never handled production.
+
+The importer should therefore record all four without assuming that one proves another. The actual origin conclusion must follow the rule that applies to the product and intended treatment, with qualified advice where needed.
+
+"Same product, new factory" is not a complete change notice.
+
+A useful notice should identify the exact model and purchase orders affected, the old and new producer, the old and new production site, the intended first batch, any material or process changes, the origin the supplier expects to declare and the evidence it expects to provide.
+
+The date matters. A supplier may have old stock from one site and new production from another. If both can appear under the same order, the importer needs batch separation and matching documents rather than one statement for the entire SKU.
+
+The notice should also cover indirect changes. A product may continue to be assembled at the same factory while a material source or processing step moves. Whether that affects origin depends on the applicable rule. The importer does not need to guess; it needs enough information for the competent adviser or authority to assess the shipment before it is committed.
+
+Landed-cost models are often duplicated from the previous order. Quantity, freight and exchange rates are updated, while the tariff treatment and origin document assumptions remain locked.
+
+That shortcut can make the new order look comparable when it is not. Preferential treatment, where available, depends on the relevant agreement, product and origin requirements. A certificate does not create eligibility if the underlying conditions are not met, and a supplier's promise to provide one is not the same as a verified document plan.
+
+The buyer should ask three separate questions. What tariff treatment is being modelled? Which origin rule and shipment facts support it? Which document, issued or endorsed by which competent route, will be available when required?
+
+If any answer changes, the landed-cost version should change too. The old margin should not remain the approval baseline.
+
+A general factory profile is useful for qualification but weak for shipment control. The reorder record should connect evidence to the exact goods being bought.
+
+Six fields are enough to create that connection: purchase order, producer, production site, origin basis, expected certificate or supporting document, and first effective shipment or batch.
+
+Each field needs an owner and status. "Requested" is different from "received"; "received" is different from "reviewed"; and "reviewed" is different from "accepted for this treatment". The importer should not release final payment or shipment merely because a file with the right filename exists.
+
+The commercial invoice, packing list, transport document, product markings and certificate should also tell a consistent story. Consistency does not determine legal origin by itself, but inconsistency is a reason to stop and resolve the record.
+
+Origin appears outside Customs as well. Retail listings, packaging, tenders, dealer catalogues and customer contracts may describe where a product is made. A production move can make those materials inaccurate even when the product name and barcode stay constant.
+
+The importer should map which channels hold the origin field and who updates them. Old product photographs may show a label from the previous site. A dealer may repeat a country claim copied from an earlier catalogue. A marketplace listing may not distinguish batches.
+
+The correction plan should be ready before mixed stock reaches the channel. The objective is not to turn every origin change into a marketing event. It is to prevent yesterday's product data from becoming today's unsupported claim.
+
+Consider an illustrative importer that bought a small appliance from a producer in China. The supplier later proposes production by an affiliated factory in another country while keeping the model and packaging design.
+
+The buyer should not assume the product has become originating in the new country, nor assume the first shipment's origin remains valid. It should hold the reorder, identify the producer and process, obtain the applicable assessment, rebuild the landed-cost scenario, confirm document availability and revise channel data for the affected batch.
+
+If the evidence is complete and the commercial case still works, the order can proceed. If the evidence is incomplete, the importer can request production at the previously approved site, change the timing or price assumption, or decline the batch.
+
+The important control is that the origin question is answered before the goods are irreversible, not during clearance.
+
+Release the reorder when the actual producer and site are known, the applicable origin assessment is supported, shipment documents are planned, the landed cost reflects that treatment and product claims match the affected batch.
+
+Hold the reorder when a factory or material change is known but the supplier cannot yet connect it to an origin basis and document path. A hold is a request for evidence, not an accusation.
+
+Reprice or redesign the order when the new origin facts change duty exposure, document timing, customer commitments or the commercial promise attached to the product.
+
+A repeat SKU is not always a repeat import decision. When production moves, country of origin must move from the static product master back into the approval workflow. That is how the second shipment remains as deliberate as the first.
+
+(The author is the founder of ChinaBrandPath and publishes practical guidance at https://chinabrandpath.com/ for international importers, local-market distributors and channel partners evaluating whether a Chinese brand merits due diligence, a controlled pilot, distribution talks or a repeat order)

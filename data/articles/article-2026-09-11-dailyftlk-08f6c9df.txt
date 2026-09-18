@@ -1,0 +1,77 @@
+AGI: From Excel assistance to new world of human capability
+
+Professionals should prepare for this future in several ways. First, they should improve their ability to ask good questions. Prompting is becoming a new professional skill. Second, they should strengthen critical thinking because AI outputs must be reviewed carefully. Third, they should improve data literacy because future decisions will be highly data-driven. Fourth, they should understand ethics, governance and risk management. Finally, they should remain adaptable because many traditional job roles will change
+
+Artificial General Intelligence, or AGI, is a much broader idea. AGI refers to an artificial intelligence system that can understand, learn and perform a wide range of intellectual tasks at a human level or beyond. Unlike current AI tools, which are powerful but still limited, AGI would be expected to reason across different fields, learn from experience, remember useful information, adapt to new situations and solve unfamiliar problems
+
+Artificial General Intelligence may become one of the most powerful developments in human history. It can create opportunities that are difficult to imagine today. But the benefits will not come automatically. They will depend on how carefully we design, regulate, use and question the technology. The best future with AGI is not a future without humans. It is a future where humans become more capable, more informed and more responsible with the support of intelligent machines
+
+AGI may take this transformation to a much higher level. It could become a partner in learning, working, analysing, creating and solving problems. It may help humanity address complex issues in education, healthcare, business, climate, governance and public service. But AGI should not replace human values
+
+A few years ago, I was not very good at Excel. I could do simple things such as entering data, applying basic formulas and calculating totals using the SUM function. But when the task became more advanced, such as creating a dashboard, preparing a work monitoring sheet, analysing trends or presenting data visually, I usually felt that it required strong technical knowledge.
+
+That situation changed with the emergence of Generative AI tools such as ChatGPT. With the right prompt, I was able to do tasks that previously looked difficult. For example, I could create a work monitoring sheet within a few minutes, including task number, task description, responsible officer, deadline, status, completed work, outstanding work and remarks. I could also create a dashboard with graphs showing completed tasks, pending tasks and overdue tasks.
+
+This experience taught me an important lesson. In the past, the main requirement was technical knowledge. Today, the more important skill is the ability to clearly explain what we want. A person who may not be an Excel expert can still produce a useful output by giving a clear instruction to an AI tool and then reviewing the result carefully.
+
+A similar change is happening in data analytics. Earlier, if someone wanted to use audit or data analytics software, they often had to know commands, scripts or coding logic. For example, to identify duplicate payments, unusual transactions, weekend payments or exceptions, the user needed some technical knowledge. But now, with the emergence of Large Language Models, many analytics tools are moving towards natural-language commands. Instead of writing technical code, a user may type: “Identify duplicate invoice numbers,” “Show payments above the approval limit,” or “Find transactions posted during weekends.” The system can then help convert that request into an analytical procedure.
+
+This is a major development. It reduces the gap between technical experts and ordinary professionals. A finance officer, auditor, manager, teacher or student can now perform tasks that previously required specialised technical knowledge. Generative AI has therefore started to democratise technical capability.
+
+However, Generative AI is not the same as Artificial General Intelligence (AGI).
+
+Generative AI can write, summarise, explain, translate, analyse, generate formulas, prepare documents and assist with decision-making. But it still has limitations. It can misunderstand the context. It can give incorrect answers confidently. It may not know whether its own answer is correct. It works best when a human gives clear instructions, checks the output and applies professional judgement.
+
+Artificial General Intelligence, or AGI, is a much broader idea. AGI refers to an artificial intelligence system that can understand, learn and perform a wide range of intellectual tasks at a human level or beyond. Unlike current AI tools, which are powerful but still limited, AGI would be expected to reason across different fields, learn from experience, remember useful information, adapt to new situations and solve unfamiliar problems.
+
+In one discussion on the future of AGI, Google Deepmind CEO Demis Hassabis, highlighted that important capabilities are still required before true AGI can be achieved. These include continual learning, long-term reasoning and memory. This is an important point because current AI systems can answer many questions, but they do not always learn continuously in the way humans do. They can also struggle with long-term planning, reliable reasoning and remembering context in a meaningful way over time.
+
+Therefore, AGI should not be understood simply as a bigger chatbot. It would be a much more capable system. It would not only answer questions but also understand goals, plan actions, learn from outcomes and apply knowledge across many areas.
+
+If today’s Generative AI is like a highly capable assistant, AGI may become more like a general intellectual partner.
+
+The question is: what will the world look like if AGI becomes a reality?
+
+One major change will be in professional work. Today, a person may ask AI to prepare an Excel formula, write a report or summarise a document. With AGI, the same person may ask the system to understand an entire business problem, analyse available data, identify risks, compare alternatives and recommend the best course of action. A finance manager may ask AGI to analyse profitability, cash flow, working capital and market conditions, and then prepare a board-level recommendation. An auditor may ask AGI to review a full set of transactions, identify high-risk areas, suggest audit procedures and prepare exception reports. A teacher may ask AGI to identify weak areas of students and prepare individual learning plans.
+
+In other words, AGI may move beyond task support and become a partner in judgement, planning and problem-solving.
+
+Education could also change significantly. Today, students can use AI to explain difficult theories in simple language. With AGI, learning may become highly personalised. Each student could have an intelligent tutor that understands their level, learning style, speed and weaknesses. If a student struggles with accounting, mathematics, economics or strategy, AGI could explain the concept in different ways until the student understands it. This could reduce the learning gap between students who have access to strong teachers and students who do not.
+
+Healthcare may also benefit. AGI could help doctors analyse patient history, symptoms, test results and medical research. It could support early diagnosis, suggest treatment options and help doctors make better decisions. In countries where there are shortages of medical specialists, AGI-supported systems may help improve access to quality healthcare. However, final responsibility should remain with qualified medical professionals because human life and safety are involved.
+
+Business decision-making may become faster and more evidence-based. AGI could help organisations forecast demand, identify customer behaviour, improve supply chains, detect fraud, monitor risks and optimise resources. Instead of simply giving data, AGI may explain what the data means and what action should be taken. This could improve productivity and reduce waste.
+
+Scientific discovery may be one of the most powerful areas of AGI. Existing AI achievements such as AlphaGo and AlphaFold show that AI can solve highly complex problems. AlphaGo demonstrated the ability of AI to master a difficult strategic game, while AlphaFold showed the potential of AI in solving major scientific challenges. With AGI, scientific research could become much faster. It may help discover new medicines, design new materials, improve climate modelling and solve complex problems that are difficult for humans to handle alone.
+
+This means AGI may not only improve office work. It may help humanity solve some of its biggest problems.
+
+For developing countries, AGI could create important opportunities. Small businesses may receive expert-level support without hiring expensive consultants. Government institutions may improve public service delivery. Professionals may become more productive even without advanced technical backgrounds. A person who is weak in Excel today may become capable of preparing dashboards, analysing data and making better decisions with AI assistance.
+
+However, the future of AGI should not be viewed only with excitement. It also requires caution.
+
+The first concern is employment. If AGI can perform many intellectual tasks, some jobs may disappear or change significantly. Routine work in accounting, administration, customer service, reporting, data entry and even some professional services may be automated. This does not mean humans will become useless. But it does mean that people must continuously upgrade their skills. The safest professionals may not be those who reject AI, but those who learn how to work with it.
+
+The second concern is overdependence. If people rely too much on AGI, they may lose their own thinking ability. If students use AI to answer every question without understanding the subject, education will become weak. If professionals accept AI outputs without review, errors may enter reports, audits and decisions. Therefore, human judgement will remain essential.
+
+The third concern is accuracy and accountability. If AGI gives a wrong recommendation, who is responsible? Is it the developer, the organisation, the user or the AI system itself? This is especially important in banking, healthcare, legal work, auditing and Government decision-making. A wrong decision in these areas can harm people. Therefore, AGI must be supported by strong governance, review mechanisms and ethical standards.
+
+The fourth concern is privacy and data protection. AGI systems may require access to large amounts of personal, financial, business and Government data. If such data is misused, leaked or manipulated, the damage could be serious. Organisations must therefore ensure proper approvals, access controls, cybersecurity measures and data protection policies.
+
+The fifth concern is inequality. If powerful AGI systems are controlled only by a few large companies or wealthy countries, the benefits may not be shared fairly. Rich organisations may become more powerful, while smaller organisations may fall behind. Therefore, AGI development should consider fairness, affordability and access.
+
+The sixth concern is transparency. In professional fields such as auditing and finance, it is not enough to say, “AI said so.” Decisions must be explainable, evidence-based and reviewable. If AGI is used in important decisions, humans must be able to understand the logic, assumptions and evidence behind its recommendations.
+
+Therefore, the future with AGI will depend not only on technology but also on human wisdom. The key question is not only what AGI can do. The more important question is how humans will use it responsibly.
+
+Professionals should prepare for this future in several ways. First, they should improve their ability to ask good questions. Prompting is becoming a new professional skill. Second, they should strengthen critical thinking because AI outputs must be reviewed carefully. Third, they should improve data literacy because future decisions will be highly data-driven. Fourth, they should understand ethics, governance and risk management. Finally, they should remain adaptable because many traditional job roles will change.
+
+The movement from Excel formulas to Generative AI already shows us something important. Technology can give ordinary people extraordinary capability. A person who once struggled to create a simple spreadsheet can now build a monitoring system and dashboard with the help of AI. A professional who once needed coding knowledge to analyse data can now use natural language to perform analytical tasks.
+
+AGI may take this transformation to a much higher level. It could become a partner in learning, working, analysing, creating and solving problems. It may help humanity address complex issues in education, healthcare, business, climate, governance and public service.
+
+But AGI should not replace human values. It should support them. Human beings must continue to provide purpose, ethics, empathy and accountability. The future should not be a world where machines think and humans stop thinking. It should be a world where machines expand human ability and humans guide machines with wisdom.
+
+In conclusion, Artificial General Intelligence may become one of the most powerful developments in human history. It can create opportunities that are difficult to imagine today. But the benefits will not come automatically. They will depend on how carefully we design, regulate, use and question the technology. The best future with AGI is not a future without humans. It is a future where humans become more capable, more informed and more responsible with the support of intelligent machines.
+
+(The author is an IS Audit Expert and having CISA-ISACA(USA), Certificate in Artificial Intelligence (AI) and also a senior Chartered Accountant with over 23 years of experience, primarily in the banking sector including Bank of Ceylon (BOC) and currently working as AGM-Audit in one of the main banks. He is a visiting lecturer at PIM, CA Sri Lanka, and IBSL)

@@ -1,0 +1,59 @@
+Sri Lanka eyes world-first universal basic AI pilot to plug digital dollar drain
+
+Presidential Secretariat directs Digital Economy Ministry on UBAI pilot: founder
+
+Free Sovereign Engram app to run up to 80% of everyday AI work on personal laptops
+
+Solar-powered PicoDC edge nodes to handle heavier workloads, local assembly planned
+
+The Presidential Secretariat has directed the Digital Economy Ministry to take forward the world’s first national pilot for universal basic AI (UBAI), an initiative to be run in Sri Lanka and Australia to secure digital sovereignty and retain capital onshore, Anthosa and Sovereign Stack Founder Chamara Somaratne said.
+
+Somaratne said the directive (Ref: PS/PRD/PR/12/03/09/02/230663) was issued this week after two years of representations to President Anura Kumara Dissanayake, who also holds the Digital Economy portfolio and Senior Presidential Adviser on Digital Economy Dr. Hans Wijayasuriya.
+
+“Now this is actually formally sanctioned by the president himself,” he said.
+
+The pilot targets what Somaratne describes as a severe macroeconomic distortion. He estimated Sri Lanka spends about US $ 600 million (over Rs.180 billion) a year on foreign digital services, outstripping what he cited as a roughly US $ 550 million food import bill.
+
+The outflow spans cloud services, software platforms ranging from Microsoft 365 to ride-hailing apps and the “attention economy” of digital advertising. Australia faces the same pressure on a larger scale, spending about A$ 35 billion a year on the US technology, he said.
+
+Somaratne, an Australia-based Sri Lankan systems engineer, brings a 30-year career across deep-tech and corporate strategy. A mechatronics engineering graduate of the University of New South Wales, he spent a decade in semiconductor manufacturing and five years in financial services, followed by 15 years in management consulting. That included leading the strategy, transformation and innovation practices at Wipro and DXC Consulting.
+
+Eight years ago, he founded Anthosa, a Melbourne-headquartered digital transformation consultancy that announced alliances with 10 technology providers including AWS, Databricks, Snowflake and WSO2 in 2024. At its peak, its 20 to 25 consultants spanned four continents. Somaratne stepped back from consulting in mid-2025 to build Sovereign Stack full-time.
+
+Somaratne acknowledged that he independently engineered Sovereign Stack’s bare-metal execution engine, which runs AI directly on the processor without the layers of software abstraction common in today’s AI tools. The codebase spans more than one million lines across 108 repositories on the company’s private servers, with a three-member team supporting testing, hardware design and supply chain coordination.
+
+Somaratne described the outflow as an extractive drain on the domestic economy.
+
+“The way the digital economy in America is working at the moment is like a parasitic wasp,” he said.
+
+In a white paper last year, he estimated Australia risked losing about A$ 0.8 trillion over five years, representing around 30 percent of its GDP.
+
+Somaratne dismissed the push for hyperscale data centres as an unsustainable model built to preserve the recurring cloud revenues.
+
+“We don’t need these massive data centres to be built,” he said.
+
+“This whole question about we need gigawatts and gigawatts of power to run AI, it completely collapses on its own.”
+
+Instead, the framework relies on decentralised PicoDC edge networks—ultra-low-power computing nodes running on solar panels and battery storage that place no additional demand on the grid.
+
+The nodes will be co-located at renewable power sites to create “Cognitive Power Plants” that sell computing capacity alongside electricity.
+
+The UBAI framework centres on Sovereign Engram, a local-first application installed directly on the personal laptops. It lets the users handle up to 80 percent of everyday AI work, without cloud dependencies or subscription fees, under a fully encrypted, zero-data-collection design.
+
+The app ships with a 4.5 gigabyte entry model, with larger models loading silently in the background. Somaratne said the engine reaches 140 to 160 tokens per second on a standard MacBook, five to seven times the roughly 20 tokens per second typical when open-weight models run on the same machine.
+
+An Engram Scholar Edition for the school students, free of behavioural tracking, is planned for a later phase.
+
+Somaratne said Sovereign Stack has submitted three open standards to the IETF, W3C and IEEE. They cover how models are packaged, how inference engines read them and how the users can verify a model’s creator, check for tampering and optionally, see what data it was trained on. He said this could help the creators identify models built on their copyrighted work.
+
+The rollout begins on Apple macOS, followed by Linux, with a Windows version targeted within two to three months. Heavier workloads will be handled by the PicoDC network at affordable per-task prices.
+
+Anthosa and Sovereign Stack are setting up a Sri Lankan operating entity to deploy the infrastructure, keeping spending onshore apart from the initial hardware fabrication.
+
+While the first PicoDC hardware will be imported, Sovereign Stack aims to set up the local “last-mile assembly” operations to build engineering capacity and stimulate domestic manufacturing.
+
+Somaratne cautioned that reliance on the offshore AI platforms threatens national competitiveness.
+
+“If we keep outsourcing our thinking to frontier models, you’re going to collapse the whole world into what I call statistical mediocrity,” he warned.
+
+“This is something that’s going to change Sri Lanka’s future and I’m pretty sure about it.”

@@ -1,0 +1,93 @@
+Can a campaign build a culture of tax compliance?
+
+“Taxation is the price we pay for civilisation” — Oliver Wendell Holmes Jr.
+
+On 6 July 2026, the Government launched the National Tax Week component of “Badu Shakthi 2026” /” Tax Power 2026” under the Revenue Administration, Reform and Modernisation Unit of the Presidential Secretariat. The initiative seeks to change negative public attitudes towards taxation and build a culture of voluntary compliance. At the launch, the Speaker of Parliament described it as not merely a tax collection campaign, but a national program intended to cultivate responsible citizens.
+
+The framing is right. The instinct behind it is right. But a campaign, however well intentioned, cannot manufacture tax morale. Tax morale is not something the State communicates to its citizens. It is a conclusion citizens reach from how the State behaves. On that measure, Sri Lanka’s numbers tell a more complicated story than the campaign’s messaging suggests.
+
+Tax morale refers to the intrinsic motivation of individuals and businesses to comply with tax laws, beyond the fear of audits or penalties. It is shaped by trust in government, perceived fairness, transparency, the quality of public services and civic responsibility. In essence, tax morale reflects how citizens view the legitimacy of the tax system and their own place within it.
+
+High tax morale supports voluntary compliance and reduces reliance on costly enforcement. It can strengthen fiscal sustainability by broadening the base of taxpayers who comply willingly. It also has an important equity dimension: when compliance is widely shared, the burden is less likely to fall disproportionately on taxpayers whose income and transactions are already visible to the State.
+
+Sri Lanka’s fiscal recovery since 2022 has been significant. Government tax revenue rose to approximately Rs. 5.05 trillion in 2025. However, composition matters as much as quantum. The Inland Revenue Department’s Annual Performance Report 2025 records that the national direct-to-indirect tax ratio widened from 28:72 to 23:77, against a stated Government objective of moving towards 60:40 in favour of direct taxes.
+
+Heavy reliance on consumption taxes has distributional consequences. A lower-income worker and a middle/high income generating person generally face the same VAT rate when purchasing the same taxable item, even though the tax consumes a much larger share of the lower-income worker’s resources. Perceptions of fairness, institutional trust and the quality of the fiscal exchange between citizens and government are central to tax morale.
+
+The most revealing feature of Sri Lanka’s tax administration is the gap between identifying taxpayers and securing their active participation in the system.
+
+Since Taxpayer Identification Numbers became mandatory for specified transactions on 1 January 2024, the IRD has issued nearly 13 million TINs. Yet the number of personal income tax files stands at just over 1.2 million. These figures are not directly comparable: holding a TIN does not necessarily mean that an individual has an income tax liability. Even so, the scale of the gap shows that near-universal taxpayer identification has not yet produced a comparably broad personal income tax base.
+
+A tax system should not only be fair in design but also convenient in practice. The most revealing feature of Sri Lanka’s tax administration is the gap between identifying taxpayers and securing their active participation in the system
+
+Registration data nevertheless shows meaningful progress. The number of registered income taxpayers rose from 1,093,134 at the end of 2024 to 1,302,596 at the end of 2025, while VAT registrations increased from 21,227 to 33,187. These gains are significant, but they represent only the first step: registration is an administrative act; compliance is a behavioural one.
+
+Completed employer returns analysed by the IRD contained APIT records for 2,547,322 employees for the 2024/2025 year of assessment. Of these employees, 1,924,903—or approximately 75.6%—had no tax deducted.
+
+Among the 622,419 employees, from whom tax was deducted, 83,397 earning more than Rs. 3.7 million contributed approximately Rs. 150.47 billion. This represented about 78.4% of total APIT collections of Rs. 191.91 billion.
+
+Set these figures against the IRD’s own estimate that more than 40% of taxable transactions may be cash-based and untraceable, and the fairness concern becomes explicit. The estimate was stated publicly by the Department’s Commissioner and Media Spokesperson at the campaign launch and reported in the Daily FT on 1 July 2026 in “Govt. launches ‘Tax Power 2026’.” The Department has acknowledged, however, that the estimate is not supported by quantified /rupee value.
+
+In 2024/2025, 94% of large corporate taxpayers filed on time, compared with just 35% of other corporate taxpayers. Although the on-time filing rate for individual income tax returns rose from 14% in the previous year to 25%, 75% of expected returns were still not filed by the statutory deadline as per publicly available statistics.
+
+The OECD’s work on tax morale offers a useful framework because it locates the problem not only in taxpayer attitudes, but also in institutions. Trust in government, perceived fairness, effective public services and a sense that the system is responsive to citizens can influence willingness to comply. Simplicity and taxpayer education matter because complex systems increase compliance costs and discourage participation.
+
+The OECD also points to the mutually reinforcing relationship between effective public services and citizens’ willingness to pay tax. Service delivery demonstrates how revenue is used, while satisfaction with that delivery can strengthen the social contract. Tax morale, on this reading, is earned through the quality of governance and expenditure, not created by communication alone.
+
+For businesses, tax certainty is an important entry point. Predictable interpretation, consistent administration and timely dispute resolution shape whether the tax system is experienced as legitimate and fair. Sri Lanka would benefit from local, segment-level research on the factors that actually drive compliance behaviour among employees, professionals, small businesses and large corporates.
+
+Sri Lanka has demonstrated that it can collect more revenue. The harder question is whether it can build a system that citizens believe in, one where contribution feels reciprocal rather than extractive.
+
+Badu Shakthi 2026 should be judged not by seminar attendance or social-media reach, but by measurable outcomes: whether wider TIN registration produces a broader, more active income tax base; the direct-to-indirect tax ratio moves towards the Government’s 60:40 target; filing compliance improves; and the disputed proportion of assessed tax arrears falls
+
+In the same year that the Government launched a campaign intended to make taxation feel less punitive, the Inland Revenue (Amendment) Act No. 11 of 2026 introduced prosecution-related provisions for specified compliance failures. Certified on 3 June 2026, the Act provides that failures relating to registration, tax returns and annual statements may, following the applicable statutory process, lead to prosecution. Upon conviction, the relevant provision permits a fine of up to Rs. 400,000, imprisonment for up to six months, or both.
+
+This is not an argument against enforcement. Deterrence and tax morale are complementary, not competing, objectives. Every credible tax administration requires effective sanctions, and voluntary compliance cannot be sustained where persistent non-compliance carries no meaningful consequence.
+
+But sequencing and signalling matter. Criminal sanctions may strengthen enforcement once a taxpayer or a specific compliance obligation has been identified. On their own, however, they cannot expose cash-based transactions that remain outside the tax administration’s information systems. A campaign that presents taxation as a civic duty while criminal enforcement is being expanded must therefore be matched by visible action to detect hidden economic activity, strengthen taxpayer services and ensure fair treatment for those who already comply.
+
+There is a further dimension that receives too little attention: tax certainty.
+
+Outstanding amounts under IRD assessments increased from approximately Rs. 1,150 billion at the beginning of 2025 to Rs. 2,164 billion by 31 December 2025. Of the closing balance, approximately Rs. 1,679 billion, or 77.6%, was classified as disputed and held over. The remaining Rs. 485 billion was classified by the IRD as collectible.
+
+These statistics raise important questions about the quality of assessments, the consistency of interpretation and the capacity of the dispute-resolution system. For corporate taxpayers, tax morale is shaped as much by predictability and certainty as by sentiment.
+
+The IRD conducted 143 awareness programs reaching 47,597 participants in 2025. That is commendable, but modest relative to the registered taxpayer base. Badu Shakthi should become part of a sustained taxpayer education strategy rather than remain a periodic communications exercise. Expanded e-filing support, accessible guidance and genuinely multilingual assistance should form part of that strategy.
+
+Sri Lanka should develop and publish credible VAT and income tax gap estimates. Without a measurable estimate of the difference between potential and actual collections, “broadening the base” remains an aspiration rather than a program that can be evaluated over time.
+
+The publication of Sri Lanka’s Tax Expenditure Statement marked an important step in fiscal transparency. The Statement reports personal income tax expenditure of Rs. 10.461 billion and corporate income tax expenditure of Rs. 119.290 billion for 2023/24, while VAT tax expenditure for calendar year 2024 amounted to Rs. 333.295 billion. Although the reporting periods are not fully aligned, the relative scale remains striking. Reported corporate income tax expenditure was approximately eleven times the detailed PIT amount, while reported VAT tax expenditure was approximately thirty-two times that amount.
+
+The composition of personal income tax expenditure raises a broader question about perceived fairness. Of the Rs. 10.461 billion reported in the detailed PIT section, Rs. 7.253 billion, nearly 70%, arose from the 25% relief available on rental income, a measure intended to encourage private investment in housing and the formal reporting of rental income. A further Rs. 2.270 billion related to relief for expenditure on solar panels, while qualifying payments accounted for Rs. 938 million.
+
+These objectives are legitimate: encouraging housing investment and renewable energy can deliver important economic and social benefits. From a tax morale perspective, however, the structure reveals a notable imbalance. Individuals earning rental income receive tax relief, while salaried taxpayers financing a primary residence through long-term borrowing receive virtually no comparable support. Although this distinction may be technically defensible, it may appear inequitable to households facing rising housing costs while carrying a visible direct-tax burden.
+
+Tax morale is shaped by perceptions as much as by economics. When individuals observe substantial exemptions, concessions and other tax expenditures benefitting particular activities, sectors and categories of consumption, but limited relief directed at aspirations such as home ownership, the risk is a gradual erosion of confidence in the equity of the system.
+
+Stronger tax morale cannot be achieved through communication or enforcement alone. It depends on rebuilding trust, ensuring fairness and nurturing civic responsibility. Taxation may be the price of civilisation, but that price must be matched by ethical governance, inclusive policymaking and a renewed fiscal compact between the State and its citizens
+
+Publication is therefore only the beginning. Each material tax expenditure should be reviewed periodically for effectiveness, distributional consequences, economic rationale and continued consistency with national priorities. Transparency creates visibility; evaluation creates accountability.
+
+If the objective is to strengthen voluntary compliance and reinforce trust, policymakers should consider whether carefully targeted household relief could generate benefits beyond its direct fiscal cost. Options may include wider lower-income tax bands, a capped deduction for housing-loan interest on an owner-occupied first home, or a targeted first-home tax credit. Any measure should be designed with clear eligibility rules, a reasonable cap, distributional analysis and a published estimate of its revenue cost.
+
+Such measures should not be viewed solely as concessions. They can also serve as instruments of tax morale by creating a visible link between compliance and household aspirations. Awareness campaigns matter, but citizens are more likely to internalise a culture of compliance when the tax system demonstrably recognises their economic realities.
+
+Filling critical vacancies and addressing infrastructure constraints are not administrative footnotes. They are preconditions for better taxpayer service, timely dispute resolution and consistent administration. Ethical governance must also be visible through proper controls, accountability and service-oriented training.
+
+Public consultation on tax reform, faster appeal resolution, consistent published guidance and recognition of compliant behaviour would reinforce legitimacy. Policymakers may also examine whether carefully designed earmarking of selected revenues could strengthen visibility between payment and public benefit, while recognising the budget-management risks that earmarking can create.
+
+Equally important is the digitalisation of tax administration and the simplification of compliance processes
+
+A tax system should not only be fair in design but also convenient in practice. Taxpayers should be able to register, file returns, make payments, obtain refunds, and communicate with the Inland Revenue Department through efficient digital channels without the need for repeated physical visits. Excessive administrative burdens increase the cost of compliance, discourage voluntary participation, and can undermine trust in the tax system. Modern tax administrations around the world have demonstrated that when compliance is made simple, accessible, and user-friendly, taxpayers are more willing to meet their obligations. Importantly, taxpayers should be treated with dignity, respect, and professionalism at every point of interaction. A service-oriented and technology-enabled tax administration strengthens the relationship between the taxpayer and the State, fostering a culture of trust and voluntary compliance that is essential for improving tax morale.
+
+Sri Lanka has demonstrated that it can collect more revenue. The harder question is whether it can build a system that citizens believe in, one where contribution feels reciprocal rather than extractive.
+
+Badu Shakthi 2026 should be judged not by seminar attendance or social-media reach, but by measurable outcomes: whether wider TIN registration produces a broader, more active income tax base; the direct-to-indirect tax ratio moves towards the Government’s 60:40 target; filing compliance improves; and the disputed proportion of assessed tax arrears falls.
+
+Stronger tax morale cannot be achieved through communication or enforcement alone. It depends on rebuilding trust, ensuring fairness and nurturing civic responsibility. Taxation may be the price of civilisation, but that price must be matched by ethical governance, inclusive policymaking and a renewed fiscal compact between the State and its citizens.
+
+When taxpayers are treated with respect, can comply easily and regard the administration as fair and responsive, paying tax becomes less a legal burden and more a civic duty willingly accepted. That is the foundation of sustainable tax morale.
+
+(The views expressed in this article are the author’s own and are presented in her personal capacity)
+
+Reference has been made to OECD, Tax Morale: What Drives People and Businesses to Pay Tax (2019), Inland Revenue Department of Sri Lanka, Annual Performance Report 2025, Inland Revenue (Amendment) Act, No. 11 of 2026, certified on 3 June 2026, Ministry of Finance, Planning and Economic Development, Tax Expenditure Statement 2024/2025.

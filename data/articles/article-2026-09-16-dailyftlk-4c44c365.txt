@@ -1,0 +1,69 @@
+Legislating for change: Looking at how quota laws for women in the Boardroom panned out globally
+
+Sri Lanka’s consistently low rankings on economic gender parity reflect a structural problem that will not resolve itself incrementally. With 40% of the top 30 CSE-listed companies not having a single woman on their Boards, something must change
+
+Sri Lanka’s position on gender parity in economic participation is, frankly, uncomfortable reading. We rank 130th out of 143 countries on the World Economic Forum’s Global Gender Gap Index 2025, and we are the only country in the world to have recorded a negative rate of advancement since 2006. With 99.8% of females receiving the same level of education as males (ranked 48th in the world) and a Health & Survival score of 97.9% (ranked 32nd), we are well-educated, and we are healthy. We simply are not represented in the workforce.
+
+One of the most frequently debated interventions to accelerate female participation in corporate leadership is the introduction of gender quotas. These legislated minimums compel companies to appoint women to their boards, but the debate is often heated: proponents argue that voluntary progress is too slow and too fragile, while critics contend that mandated appointments undermine meritocracy. Setting aside such ideological arguments, let’s take a look at empirical evidence to determine what actually happens when countries pass these laws. This article examines the cases of  Norway, France, and India and asks an honest question: Did the legislation work?
+
+Norway was the first country in the world to introduce a mandatory gender quota for corporate boards. In December 2003, an amendment to the Norwegian Companies Act was passed requiring a minimum of 40% representation of each gender on the boards of all publicly listed limited liability companies (PLCs). The legislation initially allowed for voluntary compliance, with a deadline of July 2005. When women held only around 12% of board seats by this deadline, the government made the consequences for non-compliance severe. Announced in 2006, companies that failed to meet the quota by January 2008 could be denied registration, dissolved, or subjected to ongoing financial penalties.
+
+The results in terms of board representation were swift and unambiguous. At the time the law was passed, women held approximately 9% of board seats in Norwegian PLCs. By 2008, that figure had reached 43%. The quota was met, and to date it has held.
+
+But the story beyond the boardroom is more nuanced. A 2019 study by economist Marianne Bertrand, published by the National Bureau of Economic Research, found that the quota had no discernible effect on broader female labour market outcomes, wages, or the pipeline of women into senior executive roles. Only 8% of board chairs are women, and women account for just 4% of chief executives and 12% of chief financial officers among Oslo Stock Exchange-listed companies. The quota elevated a few select women into boardrooms, but it did not automatically elevate women throughout organisations.
+
+Another unintended consequence was that a significant number of companies chose to delist rather than comply. Of the 563 firms that were PLCs in 2003, only 179 remained so by 2008. Some converted to private limited company status specifically to avoid the quota requirement.
+
+On financial performance, older studies documented a short-term decline in Tobin’s Q, a measure of firm value, following the law’s announcement and attributed this to boards becoming younger and hence less experienced in the immediate post-quota years. More recent analyses reject any lasting negative impact on firm profitability. What is broadly agreed upon is that the new women directors appointed under the quota were, on average, more highly qualified, better educated, and higher-earning than their female predecessors, disproving the common assumption that quotas compromise quality.
+
+The verdict: Norway’s quota succeeded in its primary goal of achieving gender balance at the board level. Its limitations lie in the absence of spillover effects into the broader organisation and the loophole created by permitting companies to restructure to avoid compliance.
+
+France was not always a champion of legislative intervention, instead choosing to pursue a ‘soft law’ approach that relies on governance codes and voluntary commitments to improve gender diversity on boards. Progress was minimal, and by 2009, women held just 8.4% of board seats across listed companies, one of the lowest rates in Europe.
+
+The turning point came in January 2011, when the Assemblée Nationale passed the Copé-Zimmermann law. The legislation required all listed companies, as well as non-listed companies employing more than 500 people or generating revenue of over €50 million, to achieve at least 20% gender parity on their boards by 2014, rising to 40% by 2017. The enforcement mechanism was meaningful: companies that failed to comply could not compensate any board members, and new board appointments that did not contribute to the gender parity were automatically invalidated.
+
+By 2020, women represented 44.6% of board directors at CAC 40 companies and 45.2% at SBF 120 companies. By 2024, these figures had risen further to 46.7% and 46.4% respectively, making France not only compliant but a global leader, ranking second worldwide in board gender diversity, behind only Iceland.
+
+Unlike Norway, France also saw a positive shift in shareholder attitudes. A study published by EDHEC Business School, examining over 2,700 director elections between 2007 and 2020, found that shareholder support for female directors increased markedly after the law’s introduction. Female candidates received greater support than male candidates in post-quota elections, suggesting that the quota did not merely fill seats, but actively changed perceptions of women’s qualifications and legitimacy as directors.
+
+Research published in the journal Environmental and Social Governance found that companies with more women on their boards showed measurably improved environmental and social performance. Women directors tended to have more E&S experience than their male counterparts and were shown to steer companies toward more responsible governance practices.
+
+The limitations of the Copé-Zimmermann law mirror Norway’s in one critical respect: the gains did not cascade downward. In 2020, women made up only 21% of executive committee members at the largest French listed companies, and only 10% of those held operational positions. France recognised this gap and, in December 2021, passed the Rixain Act, extending quota obligations to executive committees and senior management, with targets of 30% by 2027 and 40% by 2030.
+
+The verdict: France’s experience is the most convincing evidence that hard law outperforms soft law on this issue. The speed and scale of change following a mandatory quota, backed by meaningful financial penalties, is categorically different from what voluntary measures produced. The lesson for policymakers is that the glass ceiling does not shatter on its own, but also that the glass ceiling in the boardroom is not the same as the one in the executive suite
+
+India’s approach to legislating for women in boardrooms takes the form of Section 149 of the Companies Act 2013, that mandated all listed companies and large public companies to appoint at least one woman director to their board. The deadline for compliance was set for April 2015. The Securities and Exchange Board of India subsequently extended the requirement to the top 500 listed firms by April 2019 and the top 1,000 by April 2020. Penalties for non-compliance include fines ranging from INR 50,000 to INR 500,000, with daily fines for ongoing violations.
+
+Unlike the Norwegian and French laws, India did not set a%age threshold. The requirement was simply one woman. This reflects the broader challenge of the Indian corporate context, where, prior to the Act, women were almost entirely absent from boardrooms, and family-controlled conglomerates dominate the listed company landscape.
+
+The law produced a sharp, visible increase in women’s board representation immediately following the April 2015 compliance deadline. A decade on, Nifty-500 companies average approximately one in five board members being women. However, 223 of those 500 companies fulfil precisely the minimum mandate with only one woman director, suggesting that many companies have met the letter of the requirement without embracing its spirit.
+
+Researchers at The Wire and other institutions have found more encouraging signals within the data. Studies using employee review platforms found that firms with higher proportions of women on their boards had measurably better workplace culture scores. Importantly, firms were, on average, appointing more women than the bare minimum required, suggesting that the legal mandate sent a signal that companies internalised beyond mere compliance.
+
+The weaknesses of India’s approach are well-documented. A single mandatory appointment does not constitute critical mass. Research suggests that women need to comprise at least 15% of a board, ideally holding three or more seats, before they can meaningfully influence board deliberations and governance outcomes. One woman in a room of fifteen is tokenism with a legal certificate.
+
+The verdict: India’s Companies Act 2013 opened the door but did not widen it. A minimalist mandate in a country with a deeply patriarchal corporate culture produced incremental compliance rather than transformative change. However, there are signs of positive cultural shifts in firms that have gone beyond the minimum and point to the value of stronger, more ambitious legislation.
+
+Across these three case studies, a clear pattern emerges. Mandatory legislation with teeth delivers measurable results. Soft approaches, voluntary commitments, and governance code nudges do not. Norway’s pioneering law and France’s Copé-Zimmermann Act both demonstrate that gender balance at the board level is achievable, and achievable quickly, when the state decides to require it. India’s experience shows that a minimum mandate is better than nothing, but is insufficient on its own to change corporate culture.
+
+The three important caveats: First, boardroom quotas do not automatically produce pipeline change. In both Norway and France, the gains at the board level have not been replicated in the executive suite, in operational leadership, or across mid-management. Quotas are a ceiling intervention, and they need to be complemented by floor interventions, such as mentoring, sponsorship, pay equity, and care infrastructure, to reshape organisations from within. Second, the quality of women appointed under quotas is not diminished, and thus, the meritocracy argument against quotas does not survive empirical scrutiny. The evidence consistently shows that women appointed to boards following quota legislation are as qualified, or more qualified, than their predecessors. Third, the design of the mandate matters enormously. Effective legislation requires ambitious targets, enforceable consequences, and a genuine commitment to closing not just the board gap but the leadership gap at every level.
+
+Sri Lanka’s consistently low rankings on economic gender parity reflect a structural problem that will not resolve itself incrementally. With 40% of the top 30 CSE-listed companies not having a single woman on their Boards, something must change.  The Women Directors Forum advocates for a considered, evidence-based conversation about whether legislative intervention has a role to play in accelerating change in our boardrooms. The evidence from these three countries suggests it does.
+
+(The author is the Vice-Chair of the Women Directors’ Forum, Sri Lanka Institute of Directors & PhD Candidate in Medical Physics, University of Colombo)
+
+Bertrand, M., Black, S.E., Jensen, S. & Lleras-Muney, A. (2019). Breaking the Glass Ceiling? The Effect of Board Quotas on Female Labor Market Outcomes in Norway. The Review of Economic Studies.
+
+Garcia-Blandon, J. et al. (2023). Direct and spillover effects of board gender quotas: Revisiting the Norwegian experience. Business Ethics, the Environment & Responsibility.
+
+EDHEC Business School. (2024). On the Effectiveness of Gender Quotas: Insights from Shareholder Preferences. https://www.edhec.edu
+
+Gide. (2025). Increasing Gender Diversity in the Management Bodies of Major Companies. https://www.gide.com
+
+India Briefing. (2023). Understanding the Mandate for Women Directors Under India’s Company Law. https://www.india-briefing.com
+
+The Wire. (2024). Has the ‘Woman Director’ Mandate Served Corporate India Well? https://m.thewire.in
+
+Chicago Booth Review. Do Quotas for Corporate Boards Help Women Advance? https://www.chicagobooth.edu
+
+Philanthropy Roundtable. (2022). Improving Board Diversity: Lessons from Sweden and Norway. https://www.philanthropyroundtable.org

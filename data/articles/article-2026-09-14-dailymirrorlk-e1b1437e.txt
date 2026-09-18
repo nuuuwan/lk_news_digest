@@ -1,0 +1,25 @@
+King Charles to host AI executives as threat fears mount
+
+Reuters - Britain's King Charles will host the leaders of major artificial intelligence companies this week to discuss whether a shared set of principles is ​needed to guide a technology that has sparked growing warnings about its threat ‌to humanity.
+
+With the biggest names in AI calling for a slowdown in its development, Charles will host executives from Nvidia (NVDA.O), Google DeepMind, OpenAI, Anthropic, and the UK minister for AI, to discuss how the technology can ​be harnessed to benefit society and uphold human dignity.
+
+The debate about AI was thrust back ​into the spotlight when two Anthropic researchers issued warnings that the rapidly progressing ⁠technology could lead to the extinction of the human race in the not-too-distant future.
+
+The chief executive of ​Anthropic, Dario Amodei, said on Saturday that companies must slow the pace of advance of AI ​models.
+
+Attendees at the king's summit will include Nvidia founder and chief executive Jensen Huang, Google DeepMind founder and chairman Demis Hassabis and Paolo Benanti, an adviser to the Vatican on AI, according to the Sunday Times.
+
+Britain's Minister ​for Artificial Intelligence Kanishka Narayan will also attend.
+
+San Francisco-based Anthropic released a threat intelligence report ​last week detailing how several actors had used its Claude AI models for activities ranging from weapons development and ‌cyber ⁠operations to surveillance and fraud.
+
+However, securing a global stance will be difficult: U.S. President Donald Trump rejected any talk of a slowdown on Sunday while China's Global Times tabloid said it was really a "Cold War playbook" targeting Beijing.
+
+Charles, both as king and when he was the Prince of Wales, ​has used his position ​to convene meetings to ⁠discuss a range of topics, most notably on the environment.
+
+Buckingham Palace said the gathering would discuss how AI could be harnessed in ways that ​benefit society and contribute "to the flourishing of both people and the planet".
+
+Britain, ​the European ⁠leader in AI funding and startups, has favoured a light-touch approach to AI regulation, aligning more closely with the United States than the European Union.
+
+Britain's AI Security Institute, established after the AI Safety Summit ⁠in 2023, ​receives pre-deployment access to AI models under voluntary agreements ​with the major AI companies, enabling it to assess their capabilities and risks, and giving it a window into frontier AI ​development.
