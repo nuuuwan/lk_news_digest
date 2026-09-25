@@ -1,0 +1,19 @@
+Evolution Auto highlights importance of TOPS Power Score in NextGen EVs
+
+Evolution Auto is highlighting the growing importance of vehicle computing power as the automotive industry moves towards Software-Defined Vehicles (SDVs), with its current portfolio offering AI computing capabilities ranging from 48 TOPS in the XPENG L03 to 100 TOPS in the AVATR 07, the highest TOPS score among SUVs in Sri Lanka.
+
+For consumers, one way of understanding a vehicle’s computing capability is through TOPS, or Trillion Operations Per Second. In simple terms, TOPS indicates the theoretical AI processing capability of a computing system, representing how many trillion operations it can theoretically perform in one second. The figure is calculated based on the computing architecture of the system: TOPS = AI compute cores × operations per clock cycle × clock frequency.
+
+As vehicles become increasingly software-driven, computing capability is becoming an important part of what a vehicle can do. The vehicle’s computing platform can be viewed as its “brain”, processing information from cameras and other sensors while supporting intelligent functions, Advanced Driver Assistance Systems (ADAS), and AI-powered features.
+
+The computer platform in a Software-Defined Vehicle provides the foundation for its intelligence, much like the processor in a smartphone supports applications, processes information, and enables new features. This represents a shift in how consumers can assess next-generation vehicles, alongside more familiar specifications such as horsepower, battery capacity, acceleration, driving range, and charging capability.
+
+Nuran Silva, spokesperson for Evolution Auto, said: “The automotive landscape is moving from vehicles that are primarily defined by their mechanical systems to vehicles where software and computing are becoming central to the experience. This means consumers are being introduced to specifications like TOPS, that were not traditionally part of the car-buying conversation. Our portfolio, ranging from 48 TOPS in the XPENG L03 to 100 TOPS in the AVATR 07, reflects the computing capabilities now available in next-generation vehicles. In addition to bringing these technologies to Sri Lanka, we believe it is our role to educate consumers about them so they can make better decisions as mobility evolves.”
+
+TOPS is usually measured using INT8 precision for AI inference and is based on peak theoretical processing capability. However, a higher TOPS figure does not automatically translate into better real-world vehicle performance. How computing capacity is applied depends on factors including software optimisation, sensor architecture, thermal management, and the wider computing platform.
+
+As vehicle architecture evolves, this distinction becomes increasingly important. Many Electronic Control Units (ECUs) are used in traditional vehicles to control different systems. Software-Defined Vehicles are increasingly adopting more centralised computer architectures, enabling software and computing capability to have a greater influence on how vehicles operate and develop.
+
+This means looking at an EV as more than just an electric powertrain for consumers. While battery capacity, driving range, and charging are still crucial, buyers can also take into account a vehicle’s computing capability, AI, ADAS, sensor integration, software architecture, and Over-the-Air (OTA) capabilities, all of which affect how intelligently it can function and how its technology can change over time.
+
+The portfolio of Evolution Auto offers a tangible reference for this developing specification, giving consumers a clear view of the range of AI computing capability available across its next-generation vehicles.

@@ -1,0 +1,21 @@
+Payable launches Payments.lk gateway
+
+Takes on traditional payment gateways by offering zero monthly fees, lowest published rates Payable, Sri Lanka’s largest payments aggregator, has launched Payments.lk, a new payment gateway designed to make accepting digital payments simpler, cheaper and more accessible for the Sri Lankan businesses of all sizes.
+
+For years, the businesses in the country have had to work around the economics of legacy payment gateways that are known for setup fees, monthly charges, complicated pricing and better rates often reserved for larger merchants.
+
+Payments.lk is built differently, as there are no setup fees, no monthly fees, no minimum commitments and no fixed per-transaction charges.
+
+The local card rates start from 2.29 percent, while LankaQR and LankaPay payments start from 0.99 percent. Payments.lk has also been designed to offer the lowest published standard rates in the market across its core pricing bands, while removing the recurring costs traditionally associated with payment gateways.
+
+Payments.lk is intended for more than established companies. The platform is designed for start-ups, SMEs, online sellers, freelancers, entrepreneurs and licensed professionals, giving a much broader segment of the market access to digital payments.
+
+Doctors, lawyers, accountants, consultants and other eligible professionals can also apply using their professional registration.
+
+Payable Chief Executive Officer and Co-Founder Yohan Wijesiriwardane stated, “We believe everyone should have a payment gateway. Whether you are making your first online sale or processing millions of rupees every month, access to payments infrastructure should be simple, transparent and affordable. We have built Payments.lk and positioned it against what we call legacy gateways – platforms built around older commercial models where the merchants often pay simply to maintain access to payment infrastructure. Payments.lk takes the opposite approach. If you do not make a sale, your gateway should not cost you money. There is no monthly subscription and no fee simply for keeping the service active. Payments.lk earns when its merchants earn.”
+
+While Payments.lk is a new platform, the infrastructure behind it is already operating at scale. Payable’s payment infrastructure serves more than 40,000 merchants across Sri Lanka and has processed over Rs.145 billion in card payments to date. This allows Payments.lk to combine the simplicity and economics of a modern technology platform with proven payments infrastructure, banking integrations and merchant operations.
+
+The company sees Payments.lk as more than simply another gateway. It is being built as a set of modern payment rails that can increasingly connect payments with QR, point-of-sale, invoicing, ERP, payroll, lending and working capital.
+
+Established in 2016, Payable is focused on enabling businesses to accept digital payments through modern and scalable payment solutions.

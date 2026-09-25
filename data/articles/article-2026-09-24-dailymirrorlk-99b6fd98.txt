@@ -1,0 +1,19 @@
+SLT-Mobitel unveils Nutanix powered ‘Enterprise Premium Cloud’
+
+Riyaaz Rasheed - CEO, SLT‑Mobitel, and Faiz Shakir = VP Sales – Nutanix, Southern Asia unveil the Premium Cloud
+
+SLT-Mobitel, the enterprise services arm of Sri Lanka Telecom PLC, unveiled the SLT-Mobitel Enterprise Premium Cloud powered by Nutanix at the Lanka Tech Summit 2026, held at ITC Ratnadipa, Colombo recently.
+
+Purpose-built to accelerate digital transformation across Sri Lanka, the Premium Cloud empowers enterprises to modernise IT infrastructure, run mission-critical workloads with greater resilience, and adopt AI-ready capabilities with confidence. Combining hybrid multi-cloud flexibility with enterprise-grade performance, the service enables organisations to strengthen business continuity through seamless disaster recovery, scalable cloud deployments, and enhanced operational agility.
+
+The launch marks a significant milestone in SLT-Mobitel Enterprise’s multi-cloud journey, reinforcing its commitment to delivering secure, scalable, and future-ready cloud services that enable Sri Lankan businesses to innovate, grow, and compete in an increasingly digital economy.
+
+A key highlight of the launch is SLT-Mobitel Enterprise becoming the first service provider in the region to join the Nutanix Elevate Service Provider Program (NESPP), underscoring its commitment to bringing globally recognised cloud technologies and best practices to Sri Lankan enterprises.
+
+Powered by Nutanix, a global leader in hybrid multicloud computing, the service is built on a unified cloud platform that simplifies infrastructure management while enabling seamless application and data mobility across on-premises environments, public clouds, and edge locations. This collaboration further strengthens SLT-Mobitel Enterprise’s multi-cloud portfolio by combining world-class cloud innovation with local expertise and support, delivering enterprises a resilient, secure, and high-performance cloud experience.
+
+Hosted within SLT-Mobitel’s Tier III data centre infrastructure, the Premium Cloud offers enterprise-grade security, reliability, flexibility, and business continuity while providing the scalability required to meet evolving business demands. The platform is designed to help organisations optimise IT operations, improve workload performance, and accelerate digital innovation without compromising security or compliance.
+
+The introduction of SLT-Mobitel Enterprise Premium Cloud represents an important milestone for the company in expanding its Multi-Cloud portfolio. Built on Nutanix’s globally recognized hybrid multicloud platform and hosted within SLT‑Mobitel’s Tier III data centre infrastructure, the newservice delivers enterprise-grade capabilities with unmatched scalability, flexibility, security, and business continuity.
+
+Lanka Tech Summit 2026 brought together CIOs, CTOs, technology leaders, and business decision-makers to explore the latest developments shaping hybrid multi-cloud adoption and enterprise digital transformation.

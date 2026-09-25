@@ -1,0 +1,33 @@
+Flights at major US airports delayed after cable cut by construction workers
+
+BBC - Hundreds of flights have been delayed at major airports in the US after construction workers accidentally cut a cable needed for air traffic control.
+
+Ground stops and delays were issued on Monday afternoon for airports in New York, Pennsylvania, New Jersey and Massachusetts.
+
+Hours later, US Transportation Secretary Sean Duffy said the cable had been repaired and airports would resume normal operations, though delays were still expected.
+
+The major east coast disruption came ahead of the UN General Assembly (UNGA) in New York City on Tuesday, which is expected to be attended by scores of world leaders arriving into New York-area airports.
+
+That includes UK Prime Minister Andy Burnham, who managed to board his flight before the delays began and arrived as planned.
+
+The delays happened after the damaged cable impacted the Terminal Radar Approach Control system, which is used to guide planes during takeoff and landing, transport officials said.
+
+New Jersey public transportation agency NJ Transit told CBS News, the BBC's US partner, that its construction workers had accidentally severed the line and that markers had been wrongly placed at the digging site.
+
+Duffy earlier said the damage was caused by workers from Amtrak, the US national operator of intercity railroad service, who were doing the construction work. This "caused a telecom outage" which forced the Federal Aviation Administration (FAA) to ground flights, Duffy posted on X.
+
+An Amtrak spokesperson said in a statement, reported by US media, that the incident involved a NJ Transit contractor. Telecommunications company Verizon, which owns the cable, also said it was not responsible.
+
+The severed cable was actually a backup network, and the error was only discovered after the primary circuit failed, according to the head of the FAA, Bryan Bedford.
+
+Newark Liberty International Airport in New Jersey - one of the three major airports that services New York City - was the most heavily impacted by today's air traffic control disruptions, according to flight-tracking website FlightAware.
+
+It reported that 267 departing flights were delayed today, while a further 257 flights destined for Newark were also delayed.
+
+John F Kennedy International Airport and LaGuardia Airport, both in New York, were also affected, as was Philadelphia International Airport.
+
+One passenger, Douglas Tewnion, said he boarded a flight to New York from Edinburgh and that his plane had been diverted to Boston, Massachusetts instead.
+
+He told the BBC that, two hours after his flight was due into New York, he and the other passengers were still "sitting on the same plane, on the tarmac at Boston with no information".
+
+Though "everyone is in good spirits", Tewnion said "it's just a pain" to see two more hours waiting added onto a lengthy flight.

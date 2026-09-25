@@ -1,0 +1,29 @@
+Sri Lanka can leapfrog into agentic AI era: Salesforce South Asia CEO
+
+Sri Lanka’s comparatively lower level of digital activity gives its businesses an opportunity to leapfrog into agentic artificial intelligence (AI) and become globally competitive, Salesforce South Asia President and CEO Arundhati Bhattacharya said at a virtual press conference held yesterday.
+
+Responding to media queries, Bhattacharya noted that Salesforce has been engaging regularly with the local clients to demonstrate the value of becoming an Agentic Enterprise, a model in which the AI agents orchestrate workflows alongside human employees, with a human retained in the loop to validate the outcomes.
+
+“While Sri Lanka may not yet have become as digitally active as some other markets, I believe this gives the country an opportunity to leapfrog,” she remarked, cautioning that she did not believe the businesses could remain relevant over the long term without a strong technology backbone.
+
+She added that Salesforce was keen to bring its latest technologies into Sri Lanka and ensure that the local enterprises have equal opportunities to deploy them, surfacing the latent demand that is not yet sufficiently visible for the companies to capitalise on.
+
+Pointing to early traction in the market, Bhattacharya revealed that Salesforce’s first Innovation Day in Colombo, held on August 31, had been planned for around 400 participants but drew approximately 800 registrations, double the target, with some 600 professionals attending, 50 percent above the planned audience.
+
+“So, there is clearly a huge amount of curiosity and interest among the businesses in ensuring that they are not left behind and that they too move towards becoming Agentic Enterprises,” she observed.
+
+Among the capabilities outlined at the briefing was AIforce, which extends Salesforce data and business logic into third-party interfaces, beginning with Claudeforce, a partnership with Anthropic, in which Claude serves as the front end while Salesforce supplies the enterprise context and grounding.
+
+The company also detailed Koa, a CRM reasoning model built with NVIDIA Nemotron technology and an Enterprise AI Harness that wraps large language models in governed data, guardrails and permission controls.
+
+Meanwhile, Salesforce South Asia Vice President of Solution Engineering Gavin Barfield argued that the consumable, out-of-the-box agents would help prevent an AI divide from opening between large corporates and smaller firms without sizeable IT budgets.
+
+“It is important that the SMEs are able to take advantage of this technology in exactly the same way that the larger enterprises can,” he told the briefing.
+
+However, Barfield acknowledged that the fragmented legacy estates remain a barrier to scaled deployment, contending that AI cannot perform effectively on inconsistent data dispersed across multiple systems. In his view, consolidating that data into a trusted, governed layer through Data 360 and Informatica, which Salesforce acquired partly for this purpose, is the critical first step.
+
+Bhattacharya stressed that the company does not favour a rip-and-replace approach.
+
+“We try to ensure that whatever investments a company has already made, whether in a data layer or other applications, can be used and brought into the architecture alongside Salesforce,” she explained, noting that Data 360’s zero-copy architecture allows intelligence to be applied to data residing in the existing lakehouses without replicating it.
+
+81% of Sri Lankans Now Use AI Instead of Google — Is That Safe?
