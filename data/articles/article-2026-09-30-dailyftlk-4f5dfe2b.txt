@@ -1,0 +1,57 @@
+AAT Sri Lanka Conference 2026 explores what makes accountants valuable in age of AI
+
+CA Sri Lanka Immediate Past President and David Pieris Group Director of Finance Heshana Kuruppu delivers the keynote
+
+From left: Dasanayaka Associates Managing Partner Prasad Dasanayaka, The Open University of Sri Lanka Professor in Legal Studies Prof. Sanath Sameera, CA Sri Lanka Immediate Past President and David Pieris Group Director of Finance Heshana Kuruppu, Colombo Stock Exchange Senior Vice President Legal Enforcement and Compliance Shivandini Liyanage and moderator Advocata Institute CEO Dhananath Fernando
+
+As artificial intelligence makes information increasingly accessible, the competitive advantage of finance professionals may no longer lie in producing information, but in knowing what it means, what decisions it should inform and when human judgement must prevail.
+
+That was a central message emerging from the second technical session of the AAT Sri Lanka Conference 2026, where speakers highlighted the need for accountants to move beyond routine reporting functions and develop stronger business judgement as AI transforms the profession.
+
+Held under the theme Precision of Power at Waters Edge, Battaramulla, on 8 and 9 September, the session featured a keynote address by CA Sri Lanka Immediate Past President and David Pieris Group Director of Finance Heshana Kuruppu and followed by a panel discussion titled Govern to Grow, moderated by Advocata Institute CEO Dhananath Fernando.
+
+Delivering the keynote address, Kuruppu opened with the example of Kodak engineer Steven Sasson, who developed the world’s first self-contained digital camera in 1975. He said Kodak had the technology, patents and resources to lead digital photography but failed to act because doing so would have threatened its film business.
+
+“Kodak did not struggle because it did not see the future; it struggled because embracing the future meant letting go of past success,” he said, posing a direct challenge to the audience: “When the future of accounting arrives, which side of that story would you like to sit on?”
+
+Citing 2025 World Economic Forum research, Kuruppu said 86% of participants expected AI and information processing to transform business by 2030, with 39% of core skills expected to change and 78 million new job types projected globally within three to five years.
+
+He outlined what he termed the Four-Role Principle for accountants: Value Reporter (historical reporting), Value Preserver (governance and risk management), Value Enabler (decision support), and Value Creator (strategy and growth).
+
+Kuruppu warned that Value Reporting had already been largely automated through robotic process automation and, more recently, AI, while Value Preserving retained relevance chiefly through risk management.
+
+“Risk management is not about generating risk matrices or filling form registers; it is about seeing the future before it happens,” he said.
+
+Explaining his 3I Model — Information, Insight, Influence — for value enabling, Kuruppu used a stock-ageing example to demonstrate how raw data becomes valuable only when translated into insight and ultimately into action.
+
+Information on stock age brackets, for example, could reveal that 80% of sales came from 20% of line items and lead to actionable recommendations such as targeted discount schemes to clear slow-moving stock.
+
+He said finance functions historically depended on an information monopoly arising from accountants’ 360-degree organisational view. That monopoly is now eroding as departments such as sales, procurement and production adopt their own embedded AI agents.
+
+“When every manager can ask an AI agent a natural language question, preparing the answer is no longer a competitive advantage,” he said. To build sound business judgement, Kuruppu proposed a PAUSE Model — Purpose, Options/Assumptions, Uncertainty and Stakeholders, and Test/Post-evaluation. He said future performance would depend on combining human judgement with AI capability and urged professionals to consider which parts of their jobs AI should take over and what new capabilities would become more valuable as a result.
+
+Opening the panel discussion, Fernando said sound judgement today required accountants to understand tax frameworks, legal structures, capital markets and macroeconomic trends.
+
+Dasanayaka Associates Managing Partner Prasad Dasanayaka said Sri Lanka’s tax administration had shifted from manual paper-based processing in 2009 to increasingly technology-driven systems, particularly after 2020. However, adoption remained uneven.
+
+“The Government sector, in my personal judgment, remains nearly 30 years behind,” he said, adding that while large corporates with integrated systems were ready for further digitalisation, SMEs remained largely unprepared.
+
+Colombo Stock Exchange Senior Vice President for Legal Enforcement and Compliance Shivandini Liyanage said capital-market regulation had evolved from a largely rules-based, disclosure-driven model to a proactive, risk-based governance and enforcement-oriented approach.
+
+She said the SEC Act No. 19 of 2021 and CSE Listing Rules had expanded supervisory oversight and board accountability, with non-compliance carrying strict administrative and monetary penalties for listed entities and individual directors.
+
+The Open University of Sri Lanka Professor in Legal Studies Professor Sanath Wijesinghe identified five regulatory areas professionals needed to monitor: privacy, cybersecurity, data protection, AI regulation and intellectual property.
+
+He noted that Sri Lanka’s Intellectual Property Act No. 36 of 2003 remained human-centric and that globally, IP law did not extend copyright or patent protection to AI-generated creations.
+
+“Use AI as a servant, not as a master,” he said, warning that uploading confidential or copyrighted material into AI tools carried significant legal exposure.
+
+Responding to questions on AI replacing professional judgement, Kuruppu said accountability could not be transferred to a machine, comparing current anxieties with those triggered by mainframe computers in the 1950s and 1960s.
+
+“AI is not going to replace my job. It is someone who knows AI that is going to replace my job,” he said, adding that communication, critical decision-making and commercial acumen were becoming essential soft skills.
+
+Liyanage also highlighted sustainability disclosures under SLFRS S1 and S2 standards and CSE listing rules, requiring greater transparency around how sustainability risks and opportunities are integrated into corporate strategy.
+
+The session further highlighted that under Section 56 of the Personal Data Protection Act No. 9 of 2022, employers carried strict vicarious liability for the handling of personal data, reinforcing the need for a human in the loop over AI-generated analysis.
+
+Closing the session, Fernando summarised that while information had become universal, judgement remained what distinguished successful accountants. He urged the profession to treat AI as a tool, stay abreast of evolving regulation and continue sharpening judgement through ongoing learning.

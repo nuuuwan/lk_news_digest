@@ -1,0 +1,45 @@
+SpaceX’s Starship makes orbital debut deploying Starlinks before early ending
+
+Reuters - SpaceX's (SPCX.O), giant Starship rocket reached orbit for the first time on Monday and deployed new Starlink satellites, achieving milestones in its 14th test flight despite an engine failure and a decision to cut ​the mission short.
+
+The uncrewed mission was scheduled to last 10 hours, but was reduced to three after one of Starship's three main engines shut down prematurely following separation from the spacecraft's ‌lower-stage Super Heavy booster rocket.
+
+It is unclear how much of a setback Monday's engine failure, the latest glitch since Starship test flights began in 2023, will pose for the goal of Elon Musk's newly public company to put the powerful spacecraft into routine service later this year.
+
+Unlike past Starship flights, Monday's mission was both a high-stakes test of the next-generation rocket and an operational endeavor carrying millions of dollars' worth of Starlink satellites to orbit, representing Starship's first revenue-generating mission, even though its final design is still under ​development.
+
+SpaceX shares fell 2% on Monday. Much of SpaceX's market worth and continued investor confidence in the company — valued at $2 trillion as of Friday's close — ride on the success of Starship, which was designed as ​the world's first fully reusable spacecraft.
+
+The 40-story-tall vehicle, consisting of a Super Heavy booster rocket topped by the main upper-stage Starship vessel, launched from SpaceX's Starbase complex along ⁠the Gulf of Mexico near Brownsville.
+
+The Super Heavy booster lofted the Starship upper stage into space before returning itself to Gulf waters for an engine-controlled splashdown, following hard landings for the booster on two previous missions. Some ​engines on that booster stopped working during its descent, SpaceX said.
+
+Upon reaching space, one of Starship's three main engines shut down prematurely, a development that led SpaceX spokesperson Dan Huot to announce on the company's live stream of ​the mission that the craft would be unable to reach orbit.
+
+"The team has made the call not to commit to orbit," Huot said.
+
+But Huot reversed course minutes later after an update from engineers confirmed that the craft could still attempt to fire other onboard engines that would boost it into orbit, which Starship successfully did minutes later.
+
+Once in orbit, Starship deployed 26 next-generation Starlink satellites one by one at an altitude of roughly 269 km (161 miles), marking the ship's first orbital deployments.
+
+"All 26 Starlink V3 operational ​satellites deployed and operating nominally," Musk wrote on X.
+
+"Deploying all 26 Starlink V3 satellites into target orbit is a huge win, especially since this marks Starship's very first revenue-generating commercial flight," said Dean Sladen, quality manager and ​aerospace engineer at Accu Components. "But from an engineering perspective, the real story was how the team handled that engine failure during ascent."
+
+Engine issues have popped up on some of Starship's previous suborbital flights in space, a lingering challenge for the program ‌in an area ⁠crucial to the rocket's ability to maneuver in space. While that function is less critical for low-orbiting Starlink deployments, it is crucial for Starship's future assignments of taking NASA astronauts to the moon.
+
+NASA administrator Jared Isaacman, writing on X, congratulated SpaceX on "getting Ship to orbit and managing every step in a safe, responsible, and especially inspirational way."
+
+Starship's controlled descent into the Pacific culminated with a thruster maneuver that flipped the vehicle vertically so that it hit the sea in a nose-up position. Fire engulfed the base of the rocket as it touched down on the ocean surface before tipping on its side, followed by a large fireball. The company had not planned to recover and reuse the ​spacecraft from the sea following the mission.
+
+Starship was built to launch SpaceX's Starlink ⁠satellites more frequently and carry future NASA missions to the moon. Reaching orbit, a primary benchmark for any new rocket designed to deliver payloads to space, was a long-delayed feat for Starship, which Musk once predicted would be achieved in 2022, to be followed by satellite deployments in 2023.
+
+All 13 of Starship's previous test flights since 2023 ​were limited to suborbital space in a nearly decade-long development campaign that has cost SpaceX more than $15 billion to date. Musk has said he envisions ultimately ​flying hundreds or thousands of Starship ⁠missions a year, a launch pace unprecedented in the space industry.
+
+"Starship is 2 to 3 years away from hourly flights," Musk wrote on X on Sunday.
+
+Analysts estimate Monday's launch of SpaceX's new V3 Starlink satellites equals hundreds of millions of dollars in projected revenue for its Starlink unit, based on the network's added customer capacity — underscoring Starship's role in serving the company's profit nucleus.
+
+According to SpaceX, the V3 Starlink satellites deployed on Monday can handle 10 times more data than their ⁠predecessor V2 mini-sats ​that the company has launched 20 or 30 at a time on its workhorse Falcon 9 rockets. Seeking to build out his ​broadband satellite constellation at a faster pace, Musk wants to launch the V3s in batches of 60 per launch once Starship goes into routine operation.
+
+Starship's orbital debut came three months after SpaceX went public with a record-shattering IPO in June that made it the sixth-biggest US company by ​value and turned Musk, who founded it in 2002, into the world's first trillionaire.

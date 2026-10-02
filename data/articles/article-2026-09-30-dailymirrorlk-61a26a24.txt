@@ -1,0 +1,39 @@
+Sri Lanka’s AI ambitions hinge on private capital and control of critical systems
+
+Dr Hans says decisions on infrastructure should follow an assessment of how sensitive the underlying data and the intelligence produced from it would be
+
+Says the north star will be if government becomes an excellent platform and enabler, and it’s the private sector who multiplies that investment by 4x or 8x to 10x
+
+Ministry of Digital Economy asserts the ambition should not be for Sri Lanka to become a mere consumer of global AI technology, but to become a creator and producer of AI-powered solutions
+
+SLT Group Chief points out SL does not have the computing infrastructure to train large language models at scale or the hyperscale data centres that power sovereign AI innovation
+
+Sri Lanka will need private investment to turn its emerging digital infrastructure into economic gains, while retaining control over the AI systems and data it considers critical, Presidential Digital Economy Advisor Dr. Hans Wijayasuriya said yesterday.
+
+Acknowledging the country could not afford to build or own every part of its AI infrastructure, Wijayasuriya said it needed to decide what to build, buy, rent and share, and where national control was essential.
+
+“What’s important more than the physical presence of servers or GPUs? What’s important is the degree of control that you have,” Wijayasuriya said, while addressing AI Conference 2026 organised by the Ministry of Digital Economy and SLT-MOBITEL. The event is part of the Sri Lanka AI Week 2026 which kicked off on 25 September.
+
+He cautioned that dependence on systems another party could switch off would carry serious consequences if AI became central to Sri Lanka’s economy, public services and human development. Decisions on infrastructure should therefore follow an assessment of how sensitive the underlying data and the intelligence produced from it would be, he said.
+
+The government’s role, Wijayasuriya argued, was to establish shared digital platforms that companies could use to develop products and raise productivity across industries. The measure of success would be how much investment and innovation those platforms generated beyond the public sector.
+
+“The win here, the victory, the north star will be if government becomes an excellent platform and enabler, and it’s the private sector who multiplies that investment by 4x or 8x to 10x,” he said.
+
+However, he noted that the strategy also has an access test since AI tools could widen existing inequalities if they reached only people with the language skills, connectivity and means to use them. He cited an English-language tutoring app as an example of a product that could improve outcomes for some students while leaving others further behind.
+
+Ministry of Digital Economy Secretary Waruna Sri Dhanapala, addressing the opening ceremony said AI had to be treated as part of Sri Lanka’s broader development strategy, with businesses, researchers and startups helping to turn the technology into jobs and products that could compete internationally.
+
+“Our ambition should not be for Sri Lanka to become a mere consumer of global AI technology. Our ambition must be to become a creator and producer of AI-powered solutions,” he said.
+
+Dhanapala shared the government was working on the policy and regulatory environment, but infrastructure alone would not deliver that ambition. Sri Lanka also needed people capable of developing its own applications, rather than merely operating technology created elsewhere.
+
+Meanwhile, the immediate constraint is computing capacity, according to SLT Group Chairman Dr. Mothilal De Silva.
+
+“Sri Lanka lacks sufficient GPU capacity. We do not have the computing infrastructure to train large language models at scale or the hyperscale data centres that power sovereign AI innovation. This is our most critical gap,” he said.
+
+De Silva said SLT-MOBITEL would upgrade its data centres to support AI, while efforts were under way to attract investment in GPU infrastructure. Given the scale of spending by major technology companies overseas, Sri Lanka’s better opportunity lay in smaller, lower-cost models tailored to its languages and practical needs, he said.
+
+“For Sri Lanka, the lesson is clear. We do not need to build the next GPT. We need practical, affordable AI solutions designed for our languages, infrastructure and budgets,” De Silva said.
+
+As Sri Lanka AI Week 2026 enters its final day today (30 September), the public are invited to visit the AI Exhibition located at the Monarch Imperial, Colombo, experience these innovations first-hand and discover how the theme of ‘AI Amplified’ is translating into real-world technologies and solutions shaping Sri Lanka’s AI-powered future.

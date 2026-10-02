@@ -1,0 +1,45 @@
+The expert shortage we are building
+
+A final-year medical student in Sri Lanka does not shadow a doctor. She clerks patients, presents them, and is questioned on her reasoning by a consultant who will correct her in front of the ward. She has practised, under supervision, with consequences, for years, before anyone hands her a degree.
+
+We already know how to produce a graduate who arrives experienced. Medicine does it. Chartered accountancy has done it for decades. We simply decided supervised practice was necessary for some disciplines and optional for everyone else. That was survivable while firms spent years turning graduates into experts. They are no longer willing to, and AI is the reason.
+
+Stanford Digital Economy Lab researchers, tracking US payroll data through mid-2026, find no evidence of widespread job displacement — but employment among 22-to-25-year-olds in AI-exposed occupations sits 19% below where it would be had it kept pace with older, less-exposed peers. A separate study of 65 million workers across 280,000 firms found companies adopting AI sharply cut junior hiring while senior employment stayed flat. Not layoffs — firms simply stopped hiring at entry level.
+
+Every expert alive today was once a junior allowed to be slow, allowed to be wrong, corrected by someone senior who had time. That was not charity; it built the expertise the firm now runs on. Each firm cutting junior hiring is individually rational. Collectively, the senior pipeline empties, because the cohort meant to replace it was never trained.
+
+In my own line of work, the most valuable people are not the ones who can produce research. They are the ones who can reach a defensible judgment where the answer is genuinely ambiguous — and who are fluent enough in technology to build a working solution around it. That combination typically takes five or more years to build, and the entry-level job that used to build it is disappearing. The job that remains increasingly demands what the job used to teach.
+
+This is not only a graduate-employment problem. Sri Lanka’s knowledge and innovation sector is a $ 2 billion, 175,000-strong industry — our third-largest export earner. Its comparative advantage has always been cost arbitrage on capable people. AI does not undercut that advantage; it removes it, because the labour content it prices falls toward zero. And every efficiency we gain from foreign AI providers is partly paid straight back out, in dollars, to the same companies compressing demand for what we sell.
+
+What changed is not that knowledge became worthless. Access to it did. Judgment — the instinct for which assumption is doing all the work in a model, built only by applying knowledge and being corrected — is worth more than ever. A graduate without foundations does not become AI-leveraged. They become an unsupervised conduit for whatever the model produced.
+
+So universities must stop producing internship-ready graduates and start producing experienced ones.
+
+That means purpose before syllabus: three months mapping what each subject is actually for, before choosing a direction. It means knowledge on demand from real problems, not a fixed timetable. It means soft specialisation from month four, so students build judgment on particular problems rather than in the abstract. It means 60–70% of the final two years doing paid, real work for real firms — paid, because an unpaid student is a favour that gets dropped, while a paid one is a cost centre that gets properly supervised. And it means examining the person, not the artefact: defending real work under questioning, the way it is already done in some departments, but standardised and resourced properly.
+
+We do not need to invent this from nothing. CA Sri Lanka has required three years of supervised practical experience for decades, certified by a named professional, with a viva at every credential level. The CFA charter does the same: 4,000 hours of qualifying investment work over at least three years, required separately from the examinations. Neither treats passing the exam as the finish line. The task now is to build that architecture into the degree itself, not just the professions that follow it.
+
+Capacity is the obvious objection, and sequencing answers most of it. The first three months are discovery: sector immersion days where several firms come to the university, company visits, small-group observation beside an expert, then mentorship once students know enough to ask a useful question. None of these requires a firm to host anyone for long. Focused placements begin only after a student has chosen a direction — a concentrated week with a defined task and a defended output, which a firm can absorb as a project rather than an open-ended commitment. Industry problem briefs, contributed and reviewed by firms, run throughout and require no desk space at all. Outstation universities should pool placement offices regionally; the effort a firm spends agreeing to host is largely the same whether it takes two students or ten.
+
+The quieter failure point is academic incentives. The work this asks of academics — supervising a student inside a firm, sustaining an industry partnership, examining by viva — has no specified place in the promotion framework. It is not excluded so much as unweighted, which amounts to the same thing when someone is planning a career. Three changes would fix it without devaluing research: a defined allocation for supervised industry engagement, so an academic knows what it is worth before committing years to it; standardisation of what counts, so the same contribution is recognised the same way across universities; and practice-track appointments for experienced practitioners, which add capacity rather than asking existing staff to absorb more. Brokerage should not sit with academics at all. It is professional work, and should be staffed as such.
+
+None of this is costless. It asks universities to reward industry supervision as seriously as publication, asks firms to pay trainee stipends instead of waiting for someone else to train their future experts, and asks the state to spend its education budget differently rather than spend more of it.
+
+But there is an opportunity here as well as a threat, and it is genuinely new. Every previous technological wave reached Sri Lanka late, second-hand and expensive. Frontier AI is the first exception: the most capable model in San Francisco is available in Colombo the same day, at the same price. For the first time, access is not our constraint. Judgment is — and judgment is the one thing we can build ourselves.  That also resolves the trap of paying foreign AI providers. It is a losing trade only while we sell hours.
+
+Sell judgment, and the spend becomes input cost rather than tribute. But everyone else has the same access. The only durable advantage is the quality of judgment in the workforce, and that takes years to build.
+
+A student entering university in 2027 graduates in 2031 into a market wanting a junior who can already validate an AI-produced model. Some will get in. Many will not — and they will not arrive at the expertise layer late. They will never arrive.
+
+Universities: start with one department and one cohort, and appoint placement staff before asking academics to work differently.
+
+Corporations: the expertise you will need in 2035 is not being built anywhere; hosting and paying students is not charity but the cheapest insurance against a succession problem you have not yet priced.
+
+Professional bodies: you are the natural brokers, able to convene members on behalf of several universities in a way no single institution can.
+
+Parents and students: ask any institution what proportion of its programme involves real work for real organisations, and treat the answer as the most important number it gives you.
+
+Where will the next expert come from? Not from firms, who have rationally stopped building them. Not from graduates, who cannot manufacture experience nobody gives them. That leaves universities — and the model for how is a few buildings away, in the teaching hospital, where we have always known judgment cannot be learned from a book. Only by being made to defend it.
+
+(The author is a CFA charterholder and a board member of CFA Society Sri Lanka. The views expressed are personal and do not represent the writer’s employer or its clients. No confidential or proprietary information has been used. AI tools were used in the research and drafting of this article)

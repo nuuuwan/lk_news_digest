@@ -1,0 +1,89 @@
+Rainwater harvesting in Sri Lanka: How to start at home before the dry months
+
+Rainwater harvesting is the practice of collecting the rain that falls on your roof, storing it in a covered tank or drum, and using it later. In Sri Lanka, it can cut water bills, help households through dry spells, and ease pressure on drains. A single 100 m² roof collects about 2,000 litres from one heavy shower.
+
+The timing matters this year. As of September 19, drought has affected 169,071 people from 51,959 families across 10 districts, according to the Disaster Management Centre (DMC). Monaragala is the worst hit, with more than 42,000 people affected, and water bowsers are now supplying over 142,000 people.
+
+The Meteorology Department puts the chance of a strong El Niño developing between October and December at 98 percent. The DMC expects heavier rain from late September, followed by a significant water shortage between January and March 2027. The rain of the coming weeks may be the last good rain for months, and most of it will be lost.
+
+Rainwater harvesting means collecting the rain that falls on your roof instead of letting it disappear into the stormwater drains. At its simplest, you need a roof, a gutter and a container. Sri Lankan villages have done this for generations, often with nothing more than a barrel under the roof's edge during the rains.
+
+A more complete system adds a first-flush diverter, a fitting that throws away the first and dirtiest water off the roof (dust, leaves, bird droppings) before the cleaner water flows into your tank. If you plan to drink the water, you also add a filter. Neither needs specialised equipment.
+
+In May 2026, the Minister of Construction and Water Supply announced a pilot project in which the National Water Supply and Drainage Board (NWSDB) will fit rainwater harvesting systems to at least 100 state institutions in the Colombo District. The harvested water will go to non-drinking uses such as landscaping and washing vehicles. The Minister pointed out that the NWSDB's Western Region alone serves about 1.3 million consumers, and questioned whether supply can keep up with demand over the next decade.
+
+Schools are another large, untapped source. In 2024, speaking at a seminar organised by the Institution of Engineers Sri Lanka (IESL), Ariyananda said Colombo has about 340 schools with an average roof area of 1,000 m². By her estimate, those roofs could collect 548,800 cubic metres of rainwater a year. "If we calculate the value of water at 60 rupees a cubic meter, it comes to 32,928,000 rupees," she said.
+
+The law already points in this direction. Sri Lanka adopted a National Rainwater Harvesting Policy in 2005, and regulations under the UDA (Amendment) Act No. 36 of 2007, published in Gazette No. 1597/08 in 2009, require rainwater harvesting for many new buildings in UDA areas. Implementation is still incomplete, though.
+
+What are the benefits of rainwater harvesting for Sri Lankan homes?
+
+The first benefit is money. Many household jobs don't need drinking-quality water, such as watering the garden, washing the car, mopping floors and flushing toilets. Rainwater can handle all of them, so you use less piped water and your bill comes down.
+
+The second is security. If supply in your area is intermittent, or if the dry spell forecast for early next year arrives as expected, a full tank keeps you going until the tap comes back on or the bowser arrives.
+
+There is a neighbourhood benefit too. In a heavy downpour, every litre sitting in your tank is a litre that isn't flooding already overloaded drains on your street.
+
+Over the long term it simply makes sense. Our rain comes in seasons, but we need water every day. Saving some of the wet months' surplus for the dry months is one of the easiest ways a household can become more water secure, year after year.
+
+A basic rainwater harvesting system has five parts, and each one does a single job. The roof catches the rain. The gutter and downpipe carry it down. The first-flush diverter dumps the dirtiest first flow. A covered tank stores the rest. Finally, the outlet sends the water to everyday uses, or through a filter and then boiling if you want to drink it or cook with it.
+
+Figure 1: How the five parts connect, from roof to tap. Every opening marked in red needs a tight lid or fine mesh.
+
+To work out how much rainwater a roof can collect, multiply the roof area in square metres by the rainfall in millimetres and by a runoff factor of 0.8 to 0.9 for tile or metal roofs. The answer is in litres. A 100 m² roof collects about 2,000 litres from a single 25 mm shower.
+
+Litres collected = roof area (m²) × rainfall (mm) × runoff factor
+
+The runoff factor allows for water lost to splashing and evaporation. Use a lower figure for roofing materials other than tile or metal.
+
+Over a whole year, the same 100 m² roof in an area that gets 2,000 mm of rain (normal for much of the wet zone) could collect between 160,000 and 180,000 litres. You won't need a tank anywhere near that big. The formula is there so you can size a tank to what your household actually uses, rather than guessing.
+
+Figure 2: The sizing formula, with two worked examples for a 100 m² roof.
+
+A drum is the cheapest start. A repurposed drum with a mesh cover, placed under a downpipe, is a real system. A single 200-litre drum is enough to noticeably cut the water you use for the garden and cleaning. If you're unsure, begin here.
+
+A polyethylene tank is the middle ground. Poly tanks are light, quick to install and reasonably priced. They suit most homes that want more storage without any building work.
+
+Concrete or ferrocement lasts longest. Precast concrete and ferrocement tanks cost the most and need space, but they pay for themselves over time through lower water bills.
+
+Choose the downpipe that drains the largest section of your roof.
+
+Set a drum or tank under the downpipe on a firm, level base.
+
+To stop dengue mosquitoes from breeding in a rainwater tank, cover it completely with a tight lid or fine mesh, screen the inlet and overflow, keep gutters clear, check the system every week, and scrub the tank walls when you clean it.
+
+This part is not optional. The National Dengue Control Unit has recorded more than 99,000 dengue cases and 76 deaths in Sri Lanka so far in 2026, with Gampaha and Colombo together accounting for over 39,000 of those cases. The mosquitoes that spread dengue breed in clean, still water, which is exactly what a rain tank holds. Even a small gap in a lid is enough for them to get in and lay eggs, putting your family and your neighbours at risk. These habits prevent that:
+
+Cover every container completely. Every tank, drum and barrel needs a tight-fitting lid or fine mesh screen, with no gaps.
+
+Screen every opening. Put fine mesh over the inlet, the overflow pipe and the first-flush chamber as well as the top of the tank.
+
+Keep gutters clear. A blocked gutter holds pools of water on the roof where nobody sees them. Check and clean gutters regularly, especially after heavy rain.
+
+Check your setup once a week. Walk around the system and look for gaps, sagging mesh, and pooled water nearby.
+
+Scrub the tank walls when you clean it. Mosquito eggs can stick to the inside walls and survive after the water is gone, so rinsing isn't enough. Scrubbing also stops algae from building up.
+
+Empty anything you can't cover. Buckets, basins, and pots collecting rain around the house should be emptied and turned upside down.
+
+Looked after this way, a covered tank is safer than the scattered puddles and open containers found around most homes.
+
+Not sure if it’s dengue or seasonal flu? Read the full Daily Mirror guide here
+
+Where can you learn more about rainwater harvesting in Sri Lanka?
+
+The National Building Research Organisation (NBRO) has published a design manual for rooftop rainwater harvesting. The Lanka Rain Water Harvesting Forum offers a free online calculator, built with USAID support, that sizes a tank for your roof, your district's rainfall, and your household's water use. The Forum has worked in this area since 1996 and runs training sessions for anyone who wants to go beyond the basics.
+
+Only after treatment. A first-flush diverter gets rid of the dirtiest runoff, and drinking water should then be filtered and boiled. Most households that harvest rain use it for non-drinking purposes and keep municipal or well water for cooking and drinking.
+
+A house in Colombo with a 100 m² roof can collect about 192,000 litres of rainwater a year, according to the Lanka Rain Water Harvesting Forum. For a family of four, that works out to about 130 litres per person per day.
+
+It depends on the storage you choose. A basic drum and diverter costs relatively little. A ferrocement or concrete tank costs more up front but pays back over time through lower water bills.
+
+For many new buildings, yes. Regulations under the UDA (Amendment) Act No. 36 of 2007, published in Gazette No. 1597/08 in April 2009, require rainwater harvesting for many new developments in UDA areas, with plots under 150 m² (about six perches) exempt. The regulations also say storage tanks must be covered. A simple drum at an existing home needs no approval.
+
+As a supplement, yes. Going into a dry spell with a full tank gives you a buffer, though it won't fully replace piped supply in a long drought.
+
+Only if it is left open or neglected. A tight lid, mesh on every opening, clear gutters and a weekly check keep it safe.
+
+Now, while the rain is falling. With a water shortage forecast for January to March 2027, every shower you catch this season is water you won't have to buy or wait for later.
