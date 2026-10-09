@@ -1,0 +1,31 @@
+Cenmetrix-Nolimit drive RFID shift in retail
+
+Retail is entering a new phase where technology is no longer simply supporting the shopping experience; it is beginning to reshape it. At the centre of this shift is RFID, a technology changing how the retailers manage products, improve visibility and create faster, more convenient experiences for the customers.
+
+Nolimit is among the leading retailers driving this transformation in Sri Lanka. In partnership with Cenmetrix, the company has successfully integrated RFID technology into its operations, with the solution now playing a pivotal role at Nolimit’s flagship showroom at One Galle Face.
+
+The collaboration brings together Nolimit’s vision for a more technology-driven retail experience with Cenmetrix’s experience in RFID and enterprise technology deployments. While the most visible application is RFID-enabled self-checkout, the value of the technology extends well beyond the checkout counter.
+
+Unlike the traditional barcodes, which generally require the items to be scanned individually, RFID allows multiple tagged products to be identified almost instantly. For the customers, this means a faster, more convenient checkout experience.
+
+For the retailers, it creates the foundation for better product visibility, improved stock accuracy and more efficient store operations.
+
+RFID can also reduce the time spent on manual stock counts and make it easier for the store teams to locate the products, sizes and colours.
+
+“RFID is much bigger than simply replacing a barcode at checkout,” said Cenmetrix Director Chittananda Kulatilake.
+
+“Its real value is in creating visibility. When the products can be identified quickly, the retailers can improve inventory accuracy, reduce manual processes and serve customers faster. Self-checkout is one visible example of what becomes possible when that information is available in real time.”
+
+For Nolimit, the collaboration forms part of its focus on using technology to enhance the in-store experience.
+
+“Working together on this initiative has allowed us to bring RFID into the customer journey in a practical way. For our shoppers, the result is simple: a faster, easier and more convenient experience,” said Nolimit Senior Manager IT Mohamed Haseel.
+
+The Nolimit One Galle Face implementation demonstrates how RFID can be successfully applied within Sri Lankan retail and reflects a broader shift towards more connected, technology-enabled stores. It also shows how collaboration between the retailers and technology providers can turn the emerging technologies into practical business and customer benefits.
+
+For Cenmetrix, the project builds on more than two decades of experience implementing RFID and intelligent automation solutions across multiple industries. As adoption grows, the company sees retail as an important area where RFID can deliver measurable value through greater visibility, efficiency and convenience.
+
+“What is exciting is that we are only beginning to see the possibilities for RFID within Sri Lankan retail,” added Kulatilake.
+
+“Companies such as Nolimit are willing to embrace new technology and rethink established processes. Collaborations like this help move the market forward and demonstrate what the next generation of retail can look like.”
+
+As the consumers increasingly expect speed, convenience and digitally enabled experiences, RFID is likely to play an important role in the evolution of physical retail. The Cenmetrix–Nolimit collaboration represents a step in that journey, combining the local retail insight and technology expertise to help shape a smarter, more connected retail environment.

@@ -1,0 +1,53 @@
+Beyond access to information: How Sri Lanka’s RTI Commission became an access-to-justice forum
+
+Interpretive principles, access-to-justice case clusters, and the Court of Appeal's 2026 ruling in CIPM v. RTIC
+
+Refused copies of two complaint letters held against him by the Health Ministry, a consultant oncologist turned to the Right to Information Act, No. 12 of 2016, and in August 2026 the Right to Information Commission (RTIC) ordered them released. In TISL v. Presidential Secretariat, the Commission described its purpose as ensuring “that citizens have the information required to participate meaningfully in the democratic process and to hold the governors accountable to the governed.” Most of its thousands of orders since 2017 settle routine administrative disputes. But a recurring set of principles and issue clusters show the Act working as an access-to-justice mechanism. This article maps that work, and the Court of Appeal's latest word on it.
+
+1. The right is constitutional, and restrictions on it must be proportionate
+
+In Verite Research v. CBSL, RTIC App. 26/2018, the Commission held that the right to information is a fundamental right under Article 14A, and that any restriction on it must be proportionate and rationally connected to a legitimate democratic aim.
+
+Section 32(4) of the Act requires a public authority to prove it acted lawfully in refusing a request. In Verite Research, the Commission rejected the Central Bank's claim that disclosure would prejudice an ongoing investigation, because the Bank never showed how harm would follow. Dr. N. Jeyakumaran v. Ministry of Health & Mass Media, RTIC App. 910/2025, applied the same logic to a bare invocation of Section 5(1)(h). As Justice Mathew of India's Supreme Court put it in State of U.P. v. Raj Narain (1975), “the responsibility of officials to explain and to justify their acts is the chief safeguard against oppression and corruption.”
+
+Dileep Amuthan v. Ministry of Defence, RTIC App. 70/2018, held that authorities cannot require applicants to justify a request, a position reaffirmed in T. Rusiripala v. People's Bank, RTIC App. 774/2019. Dilangani Niroshika v. Bogambara Prison, RTIC App. 228/2018, went further: a stated research purpose is legally irrelevant to entitlement.
+
+In TISL v. Presidential Secretariat, RTIC App. 06/2017, an organisation's failure to state its citizenship in its original request was treated as a defect the Commission could cure at the appeal stage. Form does not defeat substance.
+
+5. No fees for information released on the Commission's order
+
+Under Rule 11 of the Commission's 2017 Rules, a public authority may not charge a citizen for information released following a Commission decision, as R. Karupudyan v. Colombo Municipal Council, RTIC App. 724/2018, and N. Suhaibu v. NWSDB, RTIC App. 1671/2019, establish.
+
+The Commission can compel disclosure but cannot adjudicate the grievance behind a request. Sabaratnam v. SLIC, RTIC App. 117/2018, declined to assess the competence of officers who decided an insurance claim as outside Section 32. C. Amarasinghe v. HRC, RTIC App. 1627/2019, likewise held that the Commission may examine only whether information about a complaint was disclosed, not how the complaint was handled.
+
+Summoned to a Ministry inquiry, Dr. Jeyakumaran sought the two complaint letters to prepare a defence: precisely the information “required for the exercise or protection of a citizen's right” that Article 14A(1) of the Constitution guarantees. The Ministry refused under Section 5(1)(h), citing a preliminary investigation open for about two years. The Commission held that such an investigation is fact-finding, not a verdict on guilt, and that its exemptions protect the process rather than “create an immunity from disclosure”. The Ministry's fears of witness exposure and tampering were never tied to the letters. Release was ordered on pain of prosecution under Section 39. For public servants facing internal charges, the Act can secure what natural justice promises: knowing the case one must meet.
+
+The Commission's guidance confirms that “public authorities” include courts and tribunals. Siriwardena v. Judicial Service Commission, RTIC App. 31/2018, and Parthiban v. Magistrate's Court, Hatton, RTIC App. 1185/2019, test how far RTI reaches into judicial administration itself.
+
+Suren D.E. Perera v. Attorney General's Department, RTIC App. 88/2017, sought the file notes explaining the Attorney General's decision not to appeal an acquittal in a torture prosecution. After initial objections, the Department agreed before the Commission to release them.
+
+A large cluster of appeals, including Jayawardena v. Sri Lanka Police and Edirisinghe v. Department of Police, RTIC App. 675/2018, show citizens using RTI to learn whether the police acted on their complaints. Others target the Bribery Commission, as in Karunasena v. CIABOC, RTIC App. 563/2018.
+
+Section 25(3) of the Act requires a response within 48 hours where a request concerns a citizen's life or personal liberty: a statutory acknowledgment that information can itself be a due-process matter.
+
+Seneviratne v. Department of Prisons, RTIC App. 1492/2019, and the Niroshika order above involve people whose access to remedies is constrained by incarceration.
+
+The Commission's case index keeps a standalone category for Section 5(1)(j), weighing disclosure against contempt of court and prejudice to pending proceedings, and its Legal Commentaries (2019–2021) highlight an order on draft transitional-justice legislation.
+
+The Court of Appeal on institutional accountability — CIPM v. RTIC (2026)
+
+The most recent appellate decision on an RTIC matter is CIPM v. RTIC & 6 Others, CA/WRT/0566/2024, decided on 10 July 2026. The Chartered Institute of Personnel Management (CIPM) sought certiorari quashing an RTIC order that held it a “public authority” under Section 43(b) and ordered disclosure about the termination of a member's status.
+
+CIPM argued that the Sinhala text of Section 43(b) uses a term meaning “Board”, narrower than the English “any body”, and that under Article 23(1) of the Constitution and Section 44 of the Act the Sinhala text prevails. The Court found no genuine discrepancy and endorsed the RTIC's reasoning that the narrow reading is absurd: the RTIC itself, a statutory body, would fall outside the Act it administers.
+
+Incorporation by an Act of Parliament, the Court held, is “the highest status and form of recognition” a body can receive, so it is “not irrational or unreasonable” to expect such a body to be transparent and accountable. It also endorsed Chamara Sampath v. Neil Iddawala, CA/RTI/0004/2021: even where an exemption applies, information should be disclosed if the public interest outweighs the harm.
+
+Two further rulings matter for access to justice. First, the applicant whose request started the case was a “necessary and essential party” to any challenge to the order in his favour: a citizen cannot be sidelined from litigation over a right he exercised. Second, interlocutory jurisdictional rulings by the RTIC, unlike final Section 32 decisions, are reviewable by writ under Article 140 of the Constitution, not only by statutory appeal under Section 34.
+
+This body of law shifts leverage from institutions to individuals. Ordinary citizens with grievances over salaries, land, examinations and pensions make up most of the caseload, helped by low-cost procedure. Civil society has opened up procurement, banking and defence-related information. CIPM v. RTIC extends this logic to institutions: statutory incorporation becomes a ground for accountability, not a shield against it.
+
+State secrecy is checked, not eliminated: national security and commercial material can still survive scrutiny, and third-party privacy is balanced. The sharpest limit is remedy: the Commission can order disclosure, but cannot fix the grievance disclosure reveals. Dr. Jeyakumaran received the letters, late and by post; whether he is treated fairly is for another forum. RTI works more like evidence discovery than justice delivered.
+
+In 1924 Lord Hewart, England's Lord Chief Justice, held in R v Sussex Justices that justice “should not only be done, but should manifestly and undoubtedly be seen to be done.” The RTIC gives Sri Lankans a way to see it. Most justice systems release information at the end of a dispute; the Commission puts it in a citizen's hands at the start: the complaint against you, the status of your police report, the reasons a prosecutor walked away. Appeals cost nothing, orders bind, and the burden sits on the state. Compliance can be slow, but the right is enforceable.
+
+And CIPM v. RTIC adds that a body created by Parliament must expect to answer to the public.

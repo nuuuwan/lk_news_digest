@@ -1,0 +1,49 @@
+German and US scientists win Nobel medicine prize for work on light and brain
+
+Reuters - American Karl Deisseroth and Germans Peter Hegemann and Georg Nagel won the 2026 Nobel Prize in Physiology or ​Medicine on Monday for developing optogenetics, a technique that uses light to control individual nerve cells in the brain.
+
+The Nobel Assembly of Sweden's Karolinska Institute said Deisseroth, ‌54, Hegemann, 71, and Nagel, 73, were selected for their "discoveries concerning light-gated ion channels and optogenetics." They will share a prize sum of 12 million Swedish crowns ($1.2 million).
+
+"This method makes it possible to switch on, or off, the activity of individual nerve cells in a living brain," said Thomas Perlmann, Secretary-General of the Nobel Assembly at Karolinska Institutet.
+
+"This method is now being used in laboratories around the world to reveal the brain's mysteries," he said.
+
+The breakthrough began ​in the early 1990s when Hegemann investigated how the alga Chlamydomonas reacts to light in half a millisecond. He hypothesised that a single protein both captured light and acted as ​an ion channel.
+
+Nagel tested this hypothesis by injecting Chlamydomonas genes into frog eggs, discovering channelrhodopsin-2, a light-sensitive ion channel.
+
+In 2003, they published findings that this ⁠protein could be introduced into human and hamster cells to generate electrical impulses using light. At Stanford, Deisseroth demonstrated the technique in rat nerve cells two years later, and the method was named ​optogenetics in 2006.
+
+Perlmann said all three laureates were "surprised and delighted" when informed of the award.
+
+"All three said the same thing — that they thought it was absolutely wonderful to receive the prize together, calling each ​other friends. That it's such an honour to receive it together."
+
+The trio's research is already providing insights about brain disorders. Animal models are being used to understand schizophrenia, Alzheimer's disease, Parkinson's disease, epilepsy and addiction — conditions that affect millions of people worldwide and have limited treatment options.
+
+Deisseroth used optogenetics to control the movements of mouse whiskers by activating specific nerve cells in the motor cortex. He also used light to wake sleeping mice, confirming that specific ​nerve cells control wakefulness.
+
+"There are mouse models of dementia, epilepsy, addiction. By understanding which cells are active in these diseases in mice, we can understand where to look in humans," said Anna Wedell, ​Professor of Molecular Medicine at Karolinska.
+
+Researchers are also applying the technique to try and restore vision to people blinded by retinitis pigmentosa - a progressive eye disease - by inserting a light-sensitive protein into the retina.
+
+"Optogenetics has been used ‌to partially ⁠restore vision in blind patients with retinitis pigmentosa," said Per Svenningsson, Professor of Neurology at Karolinska.
+
+"The patients lose their photoreceptors, the rods and cones in the retina. But healthy cells remain. Researchers use optogenetics to stimulate these healthy cells, activating the optic nerve and generating visual perception in the brain."
+
+They also hope optogenetics could improve cochlear implants, potentially allowing more precise stimulation of the auditory nerve than current electrical devices.
+
+The most advanced of these treatments are autism spectrum disorder therapy by US-based biotech company MapLight and a vision restoration medicine for retinitis pigmentosa by Nanoscope, which is also based in the United States, ​though they are both still some time away from ​reaching patients.
+
+The physiology ⁠or medicine prize traditionally opens the annual Nobel announcements, with awards in physics, chemistry, literature, peace and economics to follow over the coming days. The winner or winners of the 2026 Nobel Peace Prize will be announced on Friday.
+
+Born in Boston in 1971, Deisseroth grew up drawn to both science and literature.
+
+Initially set ​on neurosurgery, he shifted to psychiatry after encountering suffering patients, asking why depression steals joy and what causes autism. A summa cum laude Harvard ​graduate, he completed his ⁠PhD and MD at Stanford.
+
+Hegemann, who was born into a family of doctors, developed an early fascination with science and exploration.
+
+An enthusiast of astronomy and explorers such as Christopher Columbus, Fridtjof Nansen and Roald Amundsen, he had said after winning the prestigious 2020 Shaw Prize — sometimes referenced as Asia's answer to the Nobel prizes — that scientific research was akin to charting unknown territory.
+
+Nagel, who was born in southern Germany, became seriously ill ⁠at the age ​of five and spent many summer holidays undergoing surgery.
+
+He later said, when receiving the 2020 Shaw Prize, that he loved ​mathematics, physics and biology as a child, worked as a teacher, opened a cafe and took up hang gliding in his spare time. Nagel has said he first met Hegemann at the Max Planck Institute of Biophysics in Frankfurt.

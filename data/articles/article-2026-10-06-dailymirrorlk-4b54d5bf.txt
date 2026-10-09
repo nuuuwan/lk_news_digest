@@ -1,0 +1,51 @@
+Nobel prize in physiology or medicine is awarded for discoveries in neuroscience
+
+ABC News - The Nobel Prize in medicine was awarded Monday to three scientists whose work led to a tool that uses light to help unravel how the brain works.
+
+Karl Deisseroth, Peter Hegemann and Georg Nagel have carried out research into light-gated ion channels and optogenetics. The Nobel Assembly lauded their work and said their tool is now being used in laboratories around the world to reveal the brain’s mysteries.
+
+Deisseroth, 54, is a Howard Hughes Medical Institute investigator and Stanford University professor in California. Hegemann, 71, is at Humboldt University in Berlin, and Nagel, 73, most recently worked at the University of Würzburg, also in Germany, the assembly said.
+
+Optogenetics opened what the Nobel assembly called a new era in neuroscience following the discovery of a light-controlled switch to turn on and off nerve cells and circuits in the brain to better learn how it works. The research has started unraveling the pathways that lead to behavior and disease.
+
+The breakthrough began when Hegemann explored how a single-celled type of green algae can swim toward light. He and Nagel discovered a particular protein that, when illuminated by blue light, opens a channel to create an electrical impulse. Putting that protein into other cells makes them light-sensitive.
+
+Deisseroth then worked with the gene that controls that protein to create a light-controlled switch for nerve cells in the brains of living mice.
+
+“People usually think about light as a way of collecting information to observe things,” he said. “But this is the opposite of that. This is using light to control things, to make things happen, and to do it in a very precise way.”
+
+Deisseroth first developed tiny fibers to deliver light to cells modified with the light-sensitive gene and said there now are other techniques to switch on or off neurons being studied.
+
+Optogenetics is mostly a research technique to learn how specific neurons and neural circuits work, which can then lead to development of treatments, including regimens for autism and schizophrenia that other scientists are pursuing, he said. A technique he called direct optogenetics is being used to test a treatment for a genetic form of vision loss called retinitis pigmentosa.
+
+Brain cells communicate in milliseconds, and optogenetics for the first time offered scientists a way to control them at the same speed in a laboratory, said Patrick Forcelli, the chairman of the pharmacology and physiology department at Georgetown University, whose lab uses optogenetics.
+
+Now a mainstay in neuroscience labs, the field has moved from using fixed maps of brain activity to building functional wiring diagrams. It has also jump-started additional techniques to explore neural complexity.
+
+“It has let us go from a ‘Rand McNally’ road atlas of the brain to something more akin to ‘Google Earth,’” Forcelli said in an email.
+
+The University of Pittsburgh’s Jeremy Berg was at the U.S. National Institutes of Health in the early 2000s when it awarded Deisseroth major funding for “this vision of optogenetics that was pretty much spot-on the way it played out.”
+
+“It’s a very precise set of tools for doing experiments about how the brain works that are pretty hard to do any other way,” Berg said.
+
+Abdel El Manira, a member of Nobel Assembly, said the impact of optogenetics goes beyond the understanding of a healthy brain.
+
+“It has also helped reveal how specific brain circuits are disrupted, with implications for conditions such as blindness, depression, addiction and dementia," El Manira said. "Yet despite these extraordinary advances, the brain still holds countless mysteries, with much more left to learn and discover. And optogenetics has given us a powerful means to take on these challenges.”
+
+Deisseroth, a self-described night owl, said he was up late in his Northern California home working on papers and emailing students. He had just gone to lie down when he got the call from the Nobel Assembly.
+
+“No real sleep was achieved,” he told The Associated Press in a phone call an hour after the announcement.
+
+He said the next task on his to-do list was to pack school lunches for his children, who were still sound asleep.
+
+“That’s my one obligation I have in the next few hours, to make sure I make their sandwiches,” he said.
+
+Thomas Perlmann, the secretary of the medicine committee, said he was able to reach all three winners Monday. The AP could not immediately reach Hegemann and Nagel.
+
+The prize was announced at the Karolinska Institute in Stockholm, kicking off Nobels week. The prize money this year is 12 million Swedish kronor (about $1.2 million), whether for an individual, small group of laureates or organization.
+
+Last year, the prize went to three scientists researching the immune system.
+
+Monday's medicine prize is followed by the physics prize on Tuesday, chemistry on Wednesday and literature on Thursday.
+
+After Friday’s peace prize is awarded, the Nobel Memorial Prize in Economic Sciences will be announced on Oct. 12.
