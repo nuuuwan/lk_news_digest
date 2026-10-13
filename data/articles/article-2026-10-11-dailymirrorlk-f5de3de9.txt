@@ -1,0 +1,29 @@
+How Much Have Prices Changed? Explore Sri Lanka in 2016 vs 2026
+
+How much have prices in Sri Lanka changed over the past decade? This AI-powered Daily Mirror interactive compares prices from 2016 and 2026 across 65 everyday food items, Petrol 92, Auto Diesel, a 22K gold sovereign and the US dollar. Select an item to see the price difference, percentage increase and how many times its value has changed, or ask the AI Price Assistant to explore the figures for you.
+
+Explore 65 everyday foods and the US dollar to see how their rupee values changed over ten years.
+
+Colombo District: 2016 annual average vs fourth week of September 2026
+
+Rs. 119.79 more per kg The 2026 price is 2.6 times the 2016 price.
+
+Which rose the most?Which rose the least?What more than tripled?What happened to the dollar?Explain this item
+
+Start with a question above. The assistant will calculate its answer from the published figures.
+
+The 65 food comparisons cover open market prices in Colombo District. The 2016 figures are annual averages. The 2026 figures are weekly averages from the fourth week of September. Only products with matching units and sufficiently clear descriptions were included. Minor spelling and naming differences were standardised for readability. This is a price comparison, not a formal inflation index.
+
+The dollar comparison uses the CBSL monthly average USD/LKR spot series for September 2016 and September 2026. CBSL changed its published spot reference methodology in March 2023, so this is a historical comparison, not a banknote buying or selling quote.
+
+2016 food prices Department of Census and Statistics, Bulletin of Selected Retail and Producer Prices 2013-2016, Colombo District tables.
+
+2026 food prices Department of Census and Statistics, open market weekly averages for main markets in Colombo District.
+
+US dollar rate Central Bank of Sri Lanka, published USD/LKR spot exchange rate series.
+
+Prices vary by market, quality, size and week. The selector identifies grades, sizes and pack weights where they matter. This comparison covers individual prices, not a complete household food basket.
+
+This comparison shows how the prices of food, fuel and gold, together with the value of the rupee, have changed over time. Explore each category or use the AI Price Assistant to identify the largest increases and understand individual comparisons.
+
+The figures are based on data from the Department of Census and Statistics, Ceylon Petroleum Corporation, Central Bank of Sri Lanka and published gold-market sources. These price changes are the combined result of many interconnected factors, including inflation, exchange rates, taxation, global commodity prices, supply conditions, seasonality, product quality and market location. No single factor should be viewed as the sole cause of an increase. This interactive presents a historical price comparison and is not intended to serve as a formal inflation index or a detailed analysis of the causes behind each price change.

@@ -1,0 +1,39 @@
+AAT Sri Lanka Conference examines new rules shaping finance
+
+Panelist : Prasad Dasanayaka - Managing Partner, Dasanayaka Associates; Prof. Sanath Sameera - Professor in Legal Studies (OUSL), Heshana Kuruppu - Group Finance Director, David Pieris Group; Shivandini Liyanage - Senior Vice President (CSE) and Moderator Dhananath Fernando – CEO  Advocata Institute
+
+From artificial intelligence and digital tax systems to sustainability disclosures and data protection, finance professionals are navigating a rapidly changing environment in which technical knowledge alone may no longer be enough.
+
+These evolving responsibilities came into focus during the second technical session of the AAT Sri Lanka Conference 2026, where speakers examined developments across taxation, capital-market regulation, AI, data protection, sustainability disclosure and professional judgement.
+
+Held under the theme ‘Precision of Power’ at Waters Edge, Battaramulla, on 8 and 9 September, the session featured a Special address by Heshana Kuruppu, Group Director of Finance at David Pieris Group and Immediate Past President of CA Sri Lanka, followed by a panel discussion titled ‘Govern to Grow’, moderated by Dhananath Fernando, Chief Executive Officer, Advocata Institute.
+
+Delivering the Special address, Kuruppu cited 2025 World Economic Forum research. He said 86 percent of participants expected AI and information processing to transform business by 2030, with 39 percent of core skills expected to change and 78 million new job types projected globally within three to five years.
+
+He outlined what he termed the Four-Role Principle for accountants: Value Reporter (historical reporting), Value Preserver (governance and risk management), Value Enabler (decision support), and Value Creator (strategy and growth).
+
+He warned that Value Reporting had already been largely automated through robotic process automation and, more recently, AI, while Value Preserving retained relevance chiefly through risk management.
+
+“Risk management is not about generating risk matrices or filling form registers; it is about seeing the future before it happens,” he said.
+
+Explaining his 3I Model — Information, Insight, Influence — for value enabling, Kuruppu used a stock-ageing example: raw data on stock age brackets became valuable only once translated into insight, such as identifying that 80 percent of sales came from 20 percent of line items, and ultimately into actionable recommendations such as targeted discount schemes to clear slow-moving stock. He said finance functions historically depended on an information monopoly arising from accountants’ 360-degree organisational view, a monopoly now eroding as departments such as sales, procurement and production adopt their own embedded AI agents.
+
+“When every manager can ask an AI agent a natural language question, preparing the answer is no longer a competitive advantage,” he said.
+
+To build sound business judgement, Kuruppu proposed a PAUSE Model — Purpose, Options/Assumptions, Uncertainty and Stakeholders, and Test/Post-evaluation — and said future performance would depend on combining human judgement with AI capability.
+
+Opening the panel discussion, Fernando said sound judgement today required accountants to understand tax frameworks, legal structures, capital markets and macroeconomic trends.
+
+Prasad Dasanayaka, Managing Partner of Dasanayaka Associates, said Sri Lanka’s tax administration had shifted from manual paper-based processing in 2009 to increasingly technology-driven systems, particularly after 2020. However, he said adoption remained uneven.
+
+“The government sector, in my personal judgment, remains nearly 30 years behind,” he said, adding that while large corporates with integrated systems were ready for further digitalisation, SMEs remained largely unprepared.
+
+Shivandini Liyanage, Senior Vice President for Legal Enforcement and Compliance at the Colombo Stock Exchange, said capital-market regulation had evolved from a largely rules-based, disclosure-driven model to a proactive, risk-based governance and enforcement-oriented approach.
+
+Professor Sanath Wijesinghe of the Open University of Sri Lanka identified five regulatory areas professionals needed to monitor: privacy, cybersecurity, data protection, AI regulation and intellectual property.
+
+He noted that Sri Lanka’s Intellectual Property Act No. 36 of 2003 remained human-centric, and that globally, IP law did not extend copyright or patent protection to AI-generated creations.
+
+Responding to audience questions on AI replacing professional judgement, Kuruppu said accountability could not be transferred to a machine, comparing current anxieties to those triggered by mainframe computers in the 1950s and 1960s.
+
+“AI is not going to replace my job. It is someone who knows AI that is going to replace my job,” he said, adding that communication, critical decision-making and commercial acumen were becoming essential soft skills.

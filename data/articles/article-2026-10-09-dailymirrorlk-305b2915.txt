@@ -1,0 +1,55 @@
+ODI calls for trade reforms to unlock Sri Lanka’s digital potential
+
+Report recommends a National E-Commerce Policy with measurable targets and service standards, alongside a simplified customs clearance channel for low-value shipments and programmes to prepare smaller businesses for international marketplaces
+
+Asserts success ultimately depends on maintaining this evidence-based approach to policy development, establishing systematic data collection mechanisms and ensuring coordinated implementation across government agencies and private sector stakeholders
+
+Sri Lanka needs to clear a faster path from online orders to overseas markets, with a new ODI Global report calling for integrated customs systems, pooled freight services and targeted support for small exporters to help deliver the country’s US$15 billion digital economy ambition.
+
+The report recommended a National E-Commerce Policy with measurable targets and service standards, alongside a simplified customs clearance channel for low-value shipments and programmes to prepare smaller businesses for international marketplaces.
+
+Its central conclusion is that Sri Lanka has substantial business readiness for digital trade, while weaknesses in trade infrastructure, skills and coordination require targeted policy action to translate that readiness into wider economic gains.
+
+“Success ultimately depends on maintaining this evidence-based approach to policy development, establishing systematic data collection mechanisms and ensuring coordinated implementation across government agencies and private sector stakeholders,” the report said.
+
+The October 2026 publication, ‘E-commerce and international trade in Sri Lanka’, draws on an island-wide survey of 953 trading enterprises conducted between October 2025 and February 2026. Prepared by ODI Global in collaboration with SLASSCOM and GovTech Sri Lanka, it sets out reforms to support the government’s target of expanding the digital economy from US$3.5 billion–US$4 billion to US$15 billion by 2030.
+
+The proposed National E-Commerce Policy would establish measurable goals for growth and participation in digital trade, define minimum infrastructure standards and set expectations for payment services, delivery timelines and platform reliability.
+
+The authors recommend that the policy serve as a framework for coordination and goal-setting, with strong public-private engagement, rather than introduce additional regulatory layers.
+
+Customs reform is a central priority with the report proposes a next-generation National Single Window, supported by a national digital trade platform and data exchange, through which businesses could submit information once for automatic sharing across relevant agencies.
+
+The system would connect traders, logistics providers, banks, insurers and regulators, enabling coordinated approvals, real-time tracking, electronic payments and risk-based clearance.
+
+Rather than require an immediate wholesale replacement of existing systems, the report suggested retaining ASYCUDA where necessary in the short to medium term while progressively developing interoperable, locally adapted systems.
+
+For micro, small and medium-sized enterprises and startups, it recommended a simplified customs “green channel” for low-value cross-border e-commerce shipments.
+
+The proposed regime would reduce documentation, enable digital submissions and provide expedited, risk-based clearance while maintaining customs oversight. Eligibility would be restricted to formally registered businesses, with simplified procedures applying to imports and exports up to a predetermined monthly threshold.
+
+The recommendations respond to substantial administrative difficulties reported by surveyed firms. Some 80 percent of e-commerce exporters cited customs documentation challenges, while 66 percent identified customs delays as a shipping constraint.
+
+To address delivery costs and reliability, the report proposes pooling smaller firms’ shipping demand through a scheduled freight programme serving key export markets.
+
+Under the proposal, the government could competitively procure logistics providers and offer an initial minimum demand guarantee to help secure competitive rates, it said. Support would be time-bound and withdrawn as shipment volumes became commercially sustainable, with management passing to private providers and industry associations.
+
+The wider logistics agenda include incentives for partnerships with global operators and e-commerce companies to establish fulfilment centres near ports and airports, alongside modernisation of Sri Lanka Post and improvements to addressing and shipment tracking.
+
+A National Digital Readiness Programme would equip early-stage firms with capabilities in e-commerce, digital payments, cybersecurity and online marketing. An Export Product Readiness Programme would help growing businesses improve quality, obtain certifications and meet overseas market requirements.
+
+A Global Marketplace Readiness and Incentive Programme would then support export-ready firms with marketplace entry, compliance assistance and time-bound incentives linked to performance.
+
+The report also calls for sector-specific assessments, initially including gems and jewellery, to identify barriers and direct resources towards industries with strong export potential.
+
+Skills and cybersecurity reforms form another part of the proposed policy response. The authors recommend a private sector-led digital training institution linked to the emerging GovTech Academy, offering industry-designed courses, practical training and pathways to employment.
+
+A separate cybersecurity capacity-building programme would operate under a tiered national certification framework, supported by public awareness campaigns and systematic reporting of digital fraud and cybercrime.
+
+The survey found that 63 percent of exporters reported digital marketing skills gaps, while only 23 percent had received formal training in digital trade, e-commerce or export readiness.
+
+Nevertheless, adoption is already substantial: about 70 percent of surveyed exporters use e-commerce, rising to 72 percent among smaller exporters. The report finds an association between digital adoption, wider market access and product diversification.
+
+It concluded that stronger data collection is essential to monitor progress towards the 2030 target and adjust policy.
+
+Despite the sector’s importance, the authors describe the digital economy as largely a “black box” in terms of systematic data collection, with surveys remaining a principal source of evidence on firms’ experiences.
