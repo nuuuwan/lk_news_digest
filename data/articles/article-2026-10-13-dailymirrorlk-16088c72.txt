@@ -1,0 +1,21 @@
+99x launches AI-Hub to increase visibility on AI-assisted workflows
+
+From left: Chrishan de Mel, Odd-Sverre Østlie, Shehani Seneviratne and Kalana Wijesekara
+
+99x, a product engineering company headquartered in Norway, has launched AI Hub, an observability platform designed to provide greater visibility into AI-assisted workflows and performance metrics.
+
+The event also celebrated 99x’s xians.aiplatform being recognised as Sri Lanka’s Best Agentic AI Solution at the National AI Awards.The 99x leadership also shared updates on the Group’s global growth, evolving market outlook and the opportunities emerging for Sri Lankan technology talent in the AI era.
+
+The event brought together members of the 99x leadership team including Odd-Sverre Østlie, Group CEO, 99x Norway, Kalana Wijesekara, Chief Developer Experience Officer, 99x Product Engineering, Shehani Seneviratne, Chief Operating Officer, 99x Product Engineering, and Chrishan de Mel, Chief Marketing and Corporate Affairs Officer, 99x Product Engineering.
+
+Opening the event, Chrishan de Mel shared how 99x’s Agent Control Plane xians.ai wasawarded as the “Best Agentic AI Solution” at recently concluded National AI Awards. The platform was also awarded nationalrecognition at the SLASSCOM National Ingenuity Awards as the “Best Innovation in Internal Processes, Technology or Framework” category. Earlier this year, the 99x’s AI-first initiatives won the Overall Gold award at the Best Management Practicesawards.
+
+As 99x increasingly adopts AI tools and agents across engineering, support and other functions, the company identified the need for greater visibility into how these AI-assisted workflows perform. This aligns with 99x’s AI Development Lifecycle (AI-DLC) approach, which focuses on integrating AI across the different stages of developing and delivering digital products.
+
+As AI continues to reshape traditional engineering workflows, it also creates new opportunities to improve productivity, quality and speed. This need led to the development of AI Hub, 99x’s new platform for observing and measuring AI-assisted workflows.
+
+Speaking at the AI Hub launch, Kalana Wijesekara, Chief Developer Experience Officer of 99x, said, “AI adoption is happening at a remarkable pace, but adopting more tools does not automatically mean achieving better outcomes. AI Hub gives teams the visibility to understand what is happening within their AI-assisted workflows, measure what matters to them and make informed decisions about how those workflows should evolve.”
+
+Sharing an update on the 99x Group’s global journey and market outlook, Odd-Sverre Østlie highlighted the company’s continued expansion across Europe, the Americas and Asia, alongside growing demand from customers seeking to integrate AI into their products and operations. He stated, “AI is fundamentally changing the expectations our customers have from their technology partners. They want to move faster, experiment more quickly and increasingly understand how AI can create measurable business value. Our ambition is to be a long-term engineering partner that can help customers navigate this transformation,”.
+
+The discussion also explored how AI is reshaping the technology workforce and the opportunities this creates for Sri Lanka’s IT industry. Shehani Seneviratne, COO of 99x Product Engineering, highlighted the emergence of roles such as the Forward Deployed Engineer (FDE), engineers who work closely with customers to understand real-world challenges and apply technology directly to solve them.

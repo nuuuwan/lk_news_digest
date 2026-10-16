@@ -1,0 +1,123 @@
+Solar at crossroads: Fix the grid, don’t destroy private investment
+
+Solar panels will continue generating electricity during daylight hours regardless of whether consumers operate under Net Metering, Net Accounting or Net Plus
+
+Why should households and businesses risk their savings if Government policy makes the financial returns increasingly unattractive?
+
+In the wake of severe fuel shortages and soaring electricity costs, Sri Lanka’s private sector and households invested heavily in rooftop solar, generating over 2,600 MW. However, proposed regulatory shifts from Net Metering to Net Plus threaten this progress. By slashing financial returns, the policy risks destabilizing 800 companies and 21,000 jobs. Sri Lanka must fix its grid constraints through storage and modernization—not by destroying private investment.
+
+Sri Lanka has already learnt, at enormous economic and social cost, what happens when a country becomes excessively dependent on imported energy. Fuel queues, power cuts, foreign-exchange shortages and soaring electricity bills demonstrated that energy security is inseparable from national economic security.
+
+It is therefore deeply troubling that proposed changes to rooftop solar arrangements could weaken one of the country’s most successful privately financed energy initiatives. Rooftop solar capacity has reportedly exceeded 2,600 MW, much of it funded by households and businesses investing their own savings rather than relying on Government expenditure.
+
+Under proposals reportedly affecting certain new connections and extensions, Net Metering and Net Accounting would give way to Net Plus, while shorter agreement periods are also under discussion. The authorities must publish the precise rules, explain their economic implications and protect existing contractual commitments.
+
+The financial difference is substantial. Traditional net metering allows households to offset electricity consumption against solar generation, helping justify investments that may cost Rs. 1.5–2 million. Under Net Plus, electricity generated is sold to the grid while consumption is billed separately.
+
+Industry calculations suggest that generating 550 units could earn approximately Rs. 13,000, while purchasing a similar quantity could cost Rs. 47,000–48,000 under certain tariff assumptions. These figures require independent verification, and actual bills depend on consumption levels and applicable tariff categories.
+
+Nevertheless, the fundamental question remains: Why should households and businesses risk their savings if Government policy makes the financial returns increasingly unattractive?
+
+Sri Lanka need not reinvent the wheel. Several Asian and African countries have demonstrated how sensible regulation, financial incentives and private investment can accelerate renewable-energy development.
+
+India has encouraged residential rooftop solar through financial assistance and incentives for electricity distribution companies. Vietnam has promoted self-produced, self-consumed rooftop electricity for households and businesses. Both recognise the importance of mobilising private capital to strengthen domestic electricity generation.
+
+When South Africa confronted severe electricity shortages and prolonged load-shedding, it introduced temporary tax incentives for qualifying household and business renewable-energy investments. Rather than relying exclusively on public-sector generation, it encouraged consumers and businesses to become part of the solution.
+
+Kenya adopted Net-Metering Regulations in 2024, enabling eligible consumers to feed surplus renewable electricity into the network under defined conditions.
+
+Kenya also offers an important lesson in industrial competitiveness. Manufacturers, hotels, agricultural enterprises and commercial establishments increasingly invest in solar installations to manage electricity costs and improve operational efficiency.
+
+If Kenyan businesses are investing in solar to reduce production costs, Sri Lanka should be asking how to help its businesses do the same, not how to make such investment less attractive.
+
+Namibia has maintained net-metering arrangements to encourage customer generation, while Mauritius has pursued household solar and battery-storage initiatives that combine consumer participation with better management of intermittent electricity supply.
+
+These countries operate under different electricity-market structures, and their policies cannot be transplanted blindly. Nevertheless, they demonstrate that technical constraints can be addressed through regulation, investment and innovation without unnecessarily discouraging renewable-energy development.
+
+Solar generation peaks during daylight hours, while electricity demand frequently rises during the evening. Concentrated solar exports can create voltage fluctuations, reverse power flows and operational challenges for distribution networks. Variable renewable generation also complicates national electricity balancing.
+
+Allowing unlimited connections without assessing network capacity would therefore be irresponsible.
+
+However, changing the payment mechanism alone does not eliminate these physical challenges. Solar panels will continue generating electricity during daylight hours regardless of whether consumers operate under Net Metering, Net Accounting or Net Plus.
+
+The real solution lies in modernising how electricity is generated, consumed, stored and distributed.
+
+Battery Energy Storage Systems (BESS), smart meters, smart inverters, dynamic export limits, time-of-use tariffs and targeted distribution upgrades can help integrate additional renewable generation.
+
+Battery storage is particularly important. Surplus daytime electricity can be stored and released during evening demand peaks, where technically and economically justified. This can improve grid flexibility, reduce renewable-energy curtailment and potentially lessen dependence on expensive conventional generation.
+
+Sri Lanka reportedly has approximately 33,000 distribution transformers. Installing batteries at every transformer would neither be necessary nor economically sensible. Instead, engineers should identify overloaded feeders, voltage-sensitive locations and areas with high solar penetration, then prioritise investments according to measurable technical and financial benefits.
+
+The Government should also examine incentives for household and commercial battery installations. Consumers who store surplus solar electricity for evening use could reduce pressure on distribution networks while improving the economic value of their investments.
+
+Grid modernisation must become a national investment priority, not an excuse for discouraging private-sector participation in renewable energy.
+
+The consequences of poorly designed solar policy extend far beyond household electricity bills.
+
+Industry representatives warn that more than 800 companies and approximately 21,000 jobs could be affected if rooftop solar demand collapses. Although these estimates require independent verification, the potential damage to employment, technical expertise, small enterprises and local supply chains deserves serious attention.
+
+Investor confidence is built over years but can be destroyed by a single ill-conceived policy decision.
+
+Families and businesses commit substantial capital to solar installations based on long-term financial expectations. Abrupt regulatory changes, without adequate consultation or transitional safeguards, send a troubling message not only to solar investors but to every entrepreneur considering a long-term commitment in Sri Lanka.
+
+A country desperately seeking private investment cannot afford policies that undermine the confidence of those who have already invested.
+
+Electricity costs also directly influence the competitiveness of exporters, manufacturers, hotels, supermarkets, agricultural enterprises and small and medium-sized businesses.
+
+For these sectors, affordable and reliable electricity is not a luxury. It is a fundamental requirement for productivity, profitability and survival.
+
+Higher operating costs can weaken export competitiveness, discourage industrial expansion and ultimately affect employment and foreign-exchange earnings.
+
+Energy policy is therefore economic policy, industrial policy and investment policy. Decisions taken in the electricity sector have consequences throughout the national economy.
+
+Sri Lanka does not have to choose between rooftop solar expansion and electricity-grid stability. Both objectives can be achieved through carefully designed regulation.
+
+Net Metering, Net Accounting and Net Plus should remain available where technically appropriate, with eligibility determined by system size, consumption patterns, local network capacity and fair allocation of grid costs.
+
+Areas with sufficient distribution capacity should not face unnecessary restrictions merely because other parts of the network experience technical constraints.
+
+Commercial consumers could be encouraged to adopt storage, time-of-use pricing and demand-management systems. At the same time, regulators must ensure that non-solar consumers are not unfairly required to bear network costs avoided by solar customers.
+
+A sound electricity policy must balance three essential objectives: reasonable returns for investors, fair treatment of consumers and the financial sustainability of the national electricity system.
+
+Before introducing major changes, the Ministry of Energy should convene transparent consultations involving the Public Utilities Commission of Sri Lanka, the National System Operator, electricity utilities, the Sustainable Energy Authority, financial institutions, solar-industry representatives, businesses and consumers.
+
+Decisions affecting billions of rupees in private investment should be supported by independently assessed technical evidence and transparent economic analysis.
+
+The Ministry of Energy should urgently commission an independent technical and economic review of the proposed arrangements.
+
+Such a review must examine their effects on household investment returns, electricity tariffs, distribution-network stability, employment, industrial competitiveness and long-term national energy security.
+
+The findings should be made public, followed by a credible transition framework that protects legitimate investor expectations while addressing genuine technical constraints.
+
+Modernise the electricity grid through targeted distribution upgrades, smart technologies and improved system management.
+
+Accelerate economically viable battery storage to improve flexibility and manage surplus renewable generation.
+
+Preserve workable consumer choices through fair and technically appropriate solar arrangements.
+
+Guarantee regulatory predictability through transparent consultation, reasonable transition periods and respect for existing contractual commitments.
+
+The Government must also recognise the wider economic value of domestically generated renewable electricity.
+
+Every economically viable unit of renewable electricity that displaces imported fuel can help conserve foreign exchange, reduce exposure to international energy-price shocks and strengthen national resilience.
+
+Likewise, every commercially sound private investment in electricity generation can potentially reduce the amount of public capital required to expand the country’s energy infrastructure.
+
+These are economic advantages that Sri Lanka, still recovering from a devastating financial crisis, cannot afford to overlook.
+
+One path encourages private investment, modernises the electricity grid, strengthens industrial competitiveness and reduces dependence on imported energy.
+
+The other risks discouraging investment, undermining confidence and reversing years of progress in renewable-energy development.
+
+The country has already paid an enormous economic and social price for energy insecurity. Policymakers should have learnt that short-sighted decisions in the energy sector can produce consequences far beyond electricity generation.
+
+Sri Lanka’s renewable-energy transition must be guided by technical evidence, economic prudence, regulatory consistency and a clear understanding of national priorities.
+
+The Ministry of Energy must not allow a promising renewable-energy revolution, substantially financed by ordinary citizens and private enterprises, to become another missed national opportunity.
+
+The message to the Ministry of Energy is unmistakable. Fix the grid. Build storage. Modernize regulation. Protect private investment. Preserve consumer choice.
+
+Above all, do not turn a grid-management challenge into another national economic setback.
+
+(The writer, Ambassador Kana Kananathan, is Executive Director of the Imperial Group of Hotels Kampala, a businessman, former diplomat, lobbyist and expert on African affairs with over four decades of experience on the continent. A long-time resident of Africa, he served as Sri Lanka’s High Commissioner to Uganda and Kenya, with concurrent accreditation to 22 African nations, and as Permanent Representative to UN-Habitat and the UN Environment Programme. He is also an international election observer across Africa and has worked closely with African governments while building enduring relationships with African leaders. He also served as Economic and Investment Advisor to former President Professor Alpha Condéof the Republic of Guinea)
