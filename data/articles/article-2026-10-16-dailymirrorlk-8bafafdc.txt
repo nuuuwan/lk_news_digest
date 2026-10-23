@@ -1,0 +1,11 @@
+Google warns suspected China-linked hackers could exploit BeyondTrust flaw
+
+Reuters - Google has warned that organizations should prepare for "potential widespread exploitation" after a new bug was ‌found in US cybersecurity firm BeyondTrust's remote support appliances.
+
+Successful exploitation of the vulnerability ​gives attackers access to credentials, ​allows them to arbitrarily upload files ⁠and assume control of the ​host, according to Google Threat Intelligence ​Group and Mandiant.
+
+A suspected China-linked hacking group, known as Armory Castle, ​had exploited the then-unknown vulnerability ​in August, a post on Google's blog ‌said.
+
+The ⁠flaw affects BeyondTrust Remote Support, an enterprise tool that allows information technology teams to remotely access and ​troubleshoot computers ​and ⁠other devices.
+
+Google says now that the vulnerability has been ​disclosed, Armory Castle and others ​may ⁠try to exploit it widely, in line with past behavior and ⁠urged ​swift action to either ​patch or mitigate the vulnerability.

@@ -1,0 +1,165 @@
+Lanka’s renewable energy future: Are we solving real problems or undermining our own success?
+
+During the Q&A with President Anura Kumara Dissanayake at the Ceylon Chamber of Commerce Economic and Investment Summit, moderator and Vice Chairperson Bingumal Thewarathanthri raised two important questions, one of which concerned the proposed change in the feed-in tariff methodology.
+
+In his response, he spoke extensively about expanding the transmission network. However, he failed to address an equally important, if not more critical, issue: the modernisation and expansion of the distribution network, which is the backbone of distributed renewable energy generation.
+
+This distinction is fundamental to understanding the real challenges facing Sri Lanka's renewable energy sector.
+
+1. Rooftop solar has reduced electricity costs, not increased them
+
+Of approximately 3,000 MW of installed solar capacity in Sri Lanka, more than 2,550 MW has reportedly been developed through the feed-in tariff framework, predominantly through rooftop solar installations.
+
+This renewable energy capacity has contributed to displacing more expensive electricity generation, with an estimated avoided generation cost exceeding Rs. 22 per unit.
+
+Yet rooftop solar has increasingly been portrayed to the wider electricity-consuming public as a burden on the national grid and electricity tariffs.
+
+The reality, in my assessment, is quite the opposite. Rooftop solar has helped reduce electricity generation costs while strengthening the country's energy independence.
+
+This contribution benefits Sri Lanka's approximately 7.9 million electricity consumers, not merely those who have installed solar panels.
+
+2. Rooftop solar is a people's investment, not a privilege for large businesses
+
+Feed-in tariffs are applicable to renewable energy projects below 10 MW. However, when we examine the installed capacity under this framework, the average project size is reportedly less than 50 kW.
+
+The success of distributed solar generation in Sri Lanka has largely been driven by ordinary citizens, households, small businesses and commercial establishments rather than large-scale corporate investors.
+
+These investments have enabled Sri Lankans to participate directly in electricity generation, with the associated economic benefits distributed among thousands of households and businesses.
+
+The financial returns remain within the wider community rather than being concentrated among a handful of large corporations.
+
+This is one of the most significant economic and social achievements of Sri Lanka's rooftop solar program.
+
+Many countries successfully adopt a combination of feed-in tariffs for smaller renewable energy installations and competitive tendering for larger projects.
+
+While competitive tenders can be effective for large-scale procurement, they also involve considerable complexities, including land acquisition, financing, regulatory approvals, grid connectivity, contractual negotiations and project execution risks.
+
+Sri Lanka's own experience demonstrates why a balanced approach is necessary.
+
+While rooftop solar installations are generally compensated at approximately Rs. 17 per unit or less, the Siyambalanduwa tender was reportedly awarded at approximately US$0.08 per unit, equivalent to around Rs. 28 at the exchange rate used in this comparison.
+
+Furthermore, a US dollar-linked tariff exposes the cost of electricity to exchange-rate fluctuations, potentially increasing the rupee-denominated cost if our currency depreciates.
+
+Despite the project having been awarded approximately three years ago, it has reportedly yet to deliver electricity to the national grid.
+
+Meanwhile, thousands of rooftop solar investors have already completed their installations and are generating electricity.
+
+This is the fundamental difference between announcing generation capacity and actually delivering electricity to consumers.
+
+There has been a claim that approximately 1,500 MW of solar capacity was added during the past two years.
+
+However, we must ask a fundamental question: who actually invested in and developed this capacity?
+
+The overwhelming contribution has come from Sri Lankan prosumers — electricity consumers who have invested their own capital to generate electricity and supply surplus energy to the grid.
+
+Approximately 160,000 rooftop solar installations are reportedly connected to the national network.
+
+These investments were not directly financed or constructed by the Government. They were undertaken by households, entrepreneurs and businesses responding to the opportunities created by the existing renewable energy framework.
+
+The Government's role in facilitating this investment is important, but the investment itself belongs to the people.
+
+There also appears to be a discrepancy in the figures presented for capacity additions during 2024–2026, including a reference to 1,040 kW. These figures require clarification and reconciliation with official installation statistics.
+
+We are now being told that an additional 2,600 MW of solar generation capacity will be developed by next year.
+
+Large-scale renewable energy projects require substantial time for financing, land acquisition, environmental clearances, grid connection approvals, procurement and construction.
+
+Announcing ambitious capacity targets is relatively easy. Delivering operational power plants is an entirely different matter.
+
+The real measure of success is not how many megawatts are announced, tendered or awarded, but how many megawatts are actually commissioned and supplying electricity to the grid.
+
+I would welcome being proven wrong, but I remain deeply sceptical that the announced capacity will materialise within the stated timeframe.
+
+I am also concerned about the allocation process relating to approximately 650 MW of proposed projects. I have initiated legal proceedings concerning these matters, and the relevant issues are therefore subject to judicial consideration.
+
+Transparency, fairness and compliance with the applicable legal framework must remain fundamental to renewable energy procurement.
+
+Floating solar offers Sri Lanka a significant opportunity to expand renewable electricity generation without competing extensively for valuable land.
+
+The proposed 5 MW Bankatuwa floating solar project, for example, has been identified as a feed-in tariff project rather than a competitively tendered project.
+
+More importantly, proposals have been made to develop large-scale floating solar and battery storage facilities in the Puttalam Lagoon area.
+
+One such concept envisages covering approximately 13% of the lagoon with solar installations, supported by battery storage, as a potential alternative to conventional thermal generation at Norochcholai.
+
+If technically, environmentally and economically feasible, such an initiative could significantly reduce dependence on imported fossil fuels, strengthen national energy security and contribute towards Sri Lanka's net-zero ambitions.
+
+There is also the broader possibility of utilising portions of major reservoirs for floating solar installations.
+
+Preliminary proposals have suggested that covering approximately 15% of suitable reservoir surfaces could provide substantial electricity generation capacity, potentially enough to meet a significant share of national requirements.
+
+Such concepts require rigorous feasibility studies, environmental assessments and implementation planning. Nevertheless, they deserve serious consideration rather than being overlooked.
+
+7. Grid curtailment: Why are we restricting solar instead of fixing the network?
+
+The discussion on renewable energy storage brings us to perhaps the most important issue.
+
+Sri Lanka is increasingly curtailing solar generation, but where is the transparent, transformer-by-transformer technical assessment identifying the actual constraints?
+
+There are reportedly more than 33,000 distribution transformers across the national electricity network.
+
+According to information available to me, fewer than 500 transformers may be experiencing significant technical difficulties associated with high daytime solar penetration.
+
+If these figures are confirmed, the affected transformers would represent approximately 1.5% of the total transformer population.
+
+Yet the response appears to be broad curtailment rather than identifying and resolving the specific technical problems.
+
+To my knowledge, no comprehensive, publicly available assessment has been presented demonstrating that widespread restrictions are the most appropriate solution.
+
+A proper engineering study should identify the affected transformers and feeders, establish their hosting capacities and determine the most cost-effective remedies.
+
+These could include network reinforcement, improved voltage regulation, modern inverter controls, transformer upgrades and appropriately located battery storage.
+
+Where justified, installing Battery Energy Storage Systems at affected distribution transformers or upstream network locations could absorb surplus daytime solar electricity and release it during the evening peak.
+
+Even a carefully designed, limited curtailment regime — potentially around 15% at identified constraint points, if supported by technical studies — could prove considerably less disruptive than blanket restrictions.
+
+We should identify the problem, measure it and solve it — not penalise the entire renewable energy sector for constraints that may be concentrated in a small portion of the network.
+
+I personally submitted proposals requesting that renewable energy battery storage systems be made available duty-free.
+
+The objective was straightforward: make storage affordable for households, small businesses and distributed renewable energy investors, thereby reducing pressure on the grid and encouraging greater self-consumption.
+
+Unfortunately, the benefits introduced appear to have been directed primarily towards larger-scale investors.
+
+If we genuinely want distributed battery storage to support grid stability, the policy framework must also encourage smaller installations.
+
+Energy storage should not become an opportunity reserved for large businesses while ordinary consumers are excluded from the benefits.
+
+We also hear claims about reducing or eliminating diesel-based electricity generation.
+
+However, consumers continue to bear the cost of thermal generation capacity through contractual capacity payments, even when certain plants generate little or no electricity.
+
+Based on the capacity payment estimates I have referred to, consumers effectively bear an additional cost equivalent to approximately Rs. 2 per unit of electricity consumption.
+
+A further combined-cycle power plant under development could potentially increase this burden by an estimated Rs. 1 per unit.
+
+These figures require confirmation against the relevant power purchase agreements and national electricity sales data, but the underlying issue is important.
+
+Capacity payments can remain payable even when generation is low, and US dollar-linked contractual obligations can expose the electricity system to exchange-rate risk.
+
+There are also serious questions regarding the utilisation of existing thermal generation capacity.
+
+According to the operating figures available to me, one 300 MW unit recorded a plant factor of approximately 40% last year, while another reportedly operated for less than one week in total.
+
+These figures warrant independent verification, but they highlight why generation planning must examine actual utilisation, contractual obligations and the full cost borne by consumers.
+
+10. We must not undermine the very sector that has delivered results
+
+Sri Lanka has built approximately 3,000 MW of solar generation capacity, of which around 2,550 MW is reportedly associated with rooftop installations.
+
+This achievement was made possible largely through investments by Sri Lankan citizens and businesses.
+
+At a time when the country needs affordable electricity, energy independence, foreign exchange savings and greater renewable energy penetration, we should be strengthening this successful model.
+
+Instead, proposals to remove established rooftop solar mechanisms and alter investment conditions risk undermining the confidence of those who have already invested and discouraging future participation.
+
+We cannot expect citizens to invest their savings under one set of rules and then change the goalposts midway through the match.
+
+The appropriate response to increasing renewable energy penetration is to modernise the grid, improve system planning, introduce storage and develop transparent, technically justified operating procedures.
+
+Sri Lanka should not dismantle a successful distributed renewable energy model simply because its electricity infrastructure and operational practices have failed to evolve at the same pace.
+
+If we undermine the rooftop solar sector without delivering viable alternatives, we risk moving from a difficult situation into an even worse one.
+
+That would be a serious setback for affordable electricity, national energy security and the country's renewable energy future.

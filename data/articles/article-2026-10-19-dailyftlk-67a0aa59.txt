@@ -1,0 +1,91 @@
+Stranded capital at Colombo Port
+
+There have also been shifts in leadership, with four or five Managing Directors and Project Directors being changed during Phase II, and SLPA has been led by at least four Chairmen since 2021. Each change brings a period of familiarisation, reopens settled questions and weakens accountability, because no single leader has owned the project from design to delivery. Meanwhile, the Board, the Ministry, the Cabinet, procurement committees, the Attorney General, the courts and organised labour each hold  some situational power, and the reality is an expensive, idle terminal. The Sri Lanka Ports Authority, the line Ministry, and other stakeholders must  treat the ECT as a national economic priority. Continued delay costs Sri Lanka foreign exchange it cannot afford to lose. The ECT must deliver the revenue it owes
+
+Poor design, coordination failure, weak governance and the economics of delay at Colombo's East Container Terminal
+
+Few infrastructure assets in South Asia carry as much strategic weight as the East Container Terminal (ECT) at the Port of Colombo. Sitting on one of the busiest transhipment routes between Asia and Europe, it ideally should be a dependable earner of foreign exchange for a country still recovering from the worst economic crisis in its history. Yet, now more than a decade old and owned and developed by the Sri Lanka Ports Authority (SLPA), it is still not operating as intended despite the substantial public investment already committed.
+
+Economically, the ECT is a case study in how inadequate design, fragmented procurement, and unstable leadership turn productive capital into stranded capital. Every month of further delay adds to a cost that Sri Lanka as a whole must bear due to the consequences of weak decision-making.
+
+The first phase of the ECT was completed in mid-2015. For five years, it did not carry the container operations it was built for, denying SLPA the earnings expected from the completed investment.
+
+Compared to other terminals, CICT began construction in December 2011 and operations in July 2013, while CWIT began construction in early 2022 and its first phase of operations in April 2025. As different, their timelines underline the extent of the ECT delay.
+
+Between October 2014 and February 2021, the Cabinet and related bodies took many decisions on the terminal. They awarded a crane contract and rescinded it, endorsed a joint venture and then a public–private partnership before abandoning both, signed a trilateral Memorandum of Cooperation with India and Japan in 2019, and finally decided in February 2021 that SLPA would develop and operate the terminal as a wholly owned facility. Reversals could have been defensible politically, but it was SLPA that carried the idle asset and the interest on the loan. The cost of indecision was not the cost of any single bad choice but the value of the time lost between choices.
+
+Delays cannot be blamed on Cabinet reversals alone when the authority also made choices. These choices and failures can be salvaged. The SLPA management and its engineers did not prepare a complete, integrated design for the terminal before committing to contracts, one that settled the ground conditions, the yard and gate layout, the operating model, the equipment mix and the systems interfaces together. The terminal was instead designed in pieces as it was built.
+
+In 2021, SLPA set aside both a design consultant and a design-and-build contract, partly because it had no marine soil data for the site, and chose a measure-and-pay contract under which the cost of unforeseen conditions falls on SLPA itself. Soft cohesive soils required additional improvement, and the contract price rose by around 80%.
+
+Equipment was not staggered. The cranes arrived in 2024 and 2025, while the civil works, originally due in January 2025, slipped through three extensions of time (EOTs) to July 2026, with a fourth (EOT 4) requested but not yet granted.
+
+Automation readiness was neglected. A semi-automated terminal needs a stock of critical spare parts, trained maintenance technicians, a proper transfer of technology from the suppliers, and tested operating procedures before its first automated move. There is no evidence that a full census of the spare parts delivered with the 52 cranes has been carried out against the contract schedules, or that the parts have been checked for completeness, condition and storage.
+
+An interface gap was left open for years. The Equipment Control Interface Database (ECI DB), without which the terminal cannot run in semi-automated mode, was first raised in August 2023. The equipment supplier declared it outside its scope, the Attorney General advised arbitration, and more than two and a half years later, the component had still not been procured.
+
+Straddle carriers have been tendered five times since 2021, and four of those processes were cancelled. In the third round, an award that Cabinet had approved was suspended within weeks, reportedly on instruction, and later cancelled after a court challenge by the losing bidder.
+
+People and layouts were left unresolved. The 467 operational and engineering posts identified in 2023 still await approval from the Department of Management Services; there is no Chief Operating Officer, and the proposed operating company awaits the Attorney General's response. The entrance road and building layouts were changed after construction had begun. From these decisions we observe an authority that finds difficult to plan, manage contracts and stick to decisions.
+
+A container terminal is a tightly integrated system, whose output depends on its weakest component, a logic captured by Michael Kremer's O-ring theory of production. Phase II was split into three packages, civil works, container handling equipment and the Terminal Management System, with no single party accountable for how they fit together.
+
+All 12 ship-to-shore (STS) cranes and forty automated rail-mounted gantry (ARMG) cranes have been delivered. Yet four STS cranes are unutilised, only fourteen ARMGs have been commissioned, and the ARMG fleet in its entirety is reportedly idle. A trial at that stage, operating without straddle carriers, achieved only 7.8 moves per crane per hour. The World Bank's port performance benchmarks suggest over 20.
+
+The ARMGs illustrate the cost of poor sequencing. As the ECT yard was not ready, the cranes were unloaded elsewhere in the port, and some were used there temporarily. They must now be moved and re-erected on their assigned rails, at a cost that was never budgeted and with a risk of damage, misalignment of automation components, and disputes with the supplier over who is responsible for any defects.
+
+Delays depreciate what has already been bought, let alone receive revenue. Equipment warranties and defects liability periods usually run from delivery or acceptance, so cranes that arrived in 2024 and 2025 may lose their cover before performing a single commercial move. Software licences, support contracts and IT hardware age in the same way. SLPA may be paying support fees on systems that are not running, may find the installed software nearing the end of its support life before it is used, and will need security updates before connecting an automated terminal to live operations. Cranes standing idle in salt-laden air also deteriorate without lubrication, periodic running and corrosion protection.
+
+The Board must obtain a schedule of every warranty, licence and support expiry, and negotiate extensions while payments to suppliers are still outstanding and SLPA still has some leverage.
+
+The two phases are estimated to cost $ 755 million. Of this, $ 550 million had been spent by early 2026. A substantial balance remains to be paid, including for civil works, straddle carriers not yet awarded, equipment, the terminal system and the operation building. The estimates exclude the cost of relocating the ARMGs and any claims not yet decided. It is not clear how the balance will be funded.
+
+Idle capital is never free. At an illustrative 7% cost of capital, the spending already committed to Phase II represents an economic cost of more than $30 million a year before a single revenue-earning move is made.
+
+The civil contractor, a joint venture company, is waiting for a decision on EOT 4. Its prolongation claim on earlier extensions was rejected, so it appears to have received time without the associated cost. The contractor lodged a notice of dissatisfaction, often a precursor to FIDIC-based dispute proceedings. Other claims remain uncertified, and physical progress stood at around 80% at that stage. Delayed payments and unresolved claims can add to the slippage. Leaving EOT 4 undecided risks further claims and costs, while postponing the programme needed to complete the remaining works and earn revenue.
+
+There is a real danger that EOT 4 will not be the last. Revetment and dredging works are exposed to turbulent weather. A strong El Niño is predicted too, so the known monsoon risks should already be built in. Marine works should be scheduled for calmer months, with acceleration where needed and close oversight by the Employer and Engineer, so that construction is completed within EOT 4.
+
+The equipment supplier and terminal system vendor are awaiting payments under their contracts. The latter also depends on gate works, OCR portals, the ECI DB, staffing and integration testing. Completing one contract alone cannot make the terminal operational; these activities must be coordinated with the remaining civil works.
+
+Regardless of intentions, contractors will ultimately respond to the credibility of the employer, and undecided claims and unfunded payments do not exactly instill faith in contractors.
+
+A committee of senior SLPA officers estimates the revenue foregone in 2026 at between  $ 28.2 million and $ 105.6 million, or up to $ 8.8 million a month. In 2027, losses could reach $ 126.7 million if straddle carriers do not arrive. But this does not include actual economic costs of the delay. Only in the better scenario, with carriers from July 2027, does the year turn to a small gain of $ 8.2 million.
+
+These numbers represent the revenue SLPA lost, but do not include the money SLPA is spending while waiting. This includes interest on loans and the costs associated with capital. It also includes preserving, insuring, and securing idle cranes, as well as relocating ARMGs. Furthermore, warranties may expire while licence fees continue. The Engineer’s extended supervision and the contractor’s prolongation costs exacerbate this. Additional money is being spent on repeated re-tendering and on legal and arbitration proceedings. SLPA is also paying staff for an operation that has not yet begun. Nor do they account for the $ 550 million already sunk. Economically, sunk costs should not drive future decisions, but every stagnant year earns that investment nothing and lowers the eventual return entirely.
+
+The foregone revenue must also be viewed against Colombo’s existing terminal capacity. In 2024, SLPA-run terminals handled 2.41 million TEUs in total, compared with 3.35 million at CICT alone. The figures are not a direct measure of crane productivity, but they underline the importance of bringing ECT’s additional capacity into operation.
+
+Competition is also developing elsewhere in Sri Lanka. Hambantota’s container volumes rose from 53,169 TEUs in 2024 to 428,036 in 2025, and its operator is investing to raise annual handling capacity to 2 million TEUs. Disruptions to shipping routes in the Middle East have made reliable alternatives increasingly important. This does not mean that ECT has already lost business to Hambantota, but prolonged delays may influence where shipping lines choose to call.
+
+The opportunity cost of delay goes beyond revenue foregone in a particular year. Capital tied up in unfinished works cannot be used for improvements elsewhere in the port, while shipping lines plan their services around reliable terminals. Calls lost during the delay may not return even after ECT opens, and the longer-term loss of business is not captured in the committee’s estimates.
+
+The 14 December 2026 date now given for operationalising the terminal should thus be read with care. With straddle carriers not expected before July 2027, it is at best a date for partial operation.
+
+SLPA’s own engineers supervise the construction works and assess delays and contractual claims, including those arising from the Authority’s own instructions and decisions. This creates a clear conflict of interest, as SLPA is effectively assessing the consequences of its own actions. Such an arrangement is inconsistent with global industry best practice, which favours independent third-party engineering oversight and impartial assessment of contractual claims. An independent third-party Engineer should therefore be appointed to supervise the works and assess claims. Similar concerns arise in procurement, where parties with an interest in the straddle carrier award were able to reopen a completed technical evaluation.
+
+There have also been shifts in leadership, with four or five Managing Directors and Project Directors being changed during Phase II, and SLPA has been led by at least four Chairmen since 2021. Each change brings a period of familiarisation, reopens settled questions and weakens accountability, because no single leader has owned the project from design to delivery. Meanwhile, the Board, the Ministry, the Cabinet, procurement committees, the Attorney General, the courts and organised labour each hold a some situational power, and the reality is an expensive, idle terminal.
+
+The current management deserves credit for convening progress reviews and beginning to take stock, yet there is much to be done. We urge the Board to act hastily on the following:
+
+1.Appoint an independent third-party Engineer to supervise construction and assess claims, supported by port, automation and commissioning specialists reporting to the Board, with a 60 to 90 day mandate to verify the critical path, the cost to complete and the pending claims.
+
+2.Decide EOT 4 now and make it the last extension, on a realistic completion programme allowing for monsoon conditions.
+
+3.Pay what is certified, decide what is claimed, and agree a funded plan for the remaining expenditure.
+
+4.Procure the ECI DB now, while pursuing the dispute with the supplier in parallel.
+
+5.Protect what has been bought through a census of spare parts, a schedule of warranty and licence expiries, and proper preservation of idle equipment.
+
+6.Settle the straddle carrier award on an independent price assessment, and arrange interim operations meanwhile.
+
+7.Approve the cadre, appoint a Chief Operating Officer, enforce the suppliers' training and transfer of technology obligations, and keep one project director in post until completion.
+
+8.Name a single party accountable for systems integration, and report the full cost of delay to the Board every month.
+
+The ECT experience demonstrates the importance of completing proper site investigations and preparing an integrated design before construction begins. Where different components of a project must coexist, they should either be procured as an integrated system or have a single party responsible for coordinating their interfaces and ensuring compatibility. Civil works, equipment, operating systems and personnel should be planned and coordinated to be readily available. Adequate attention must be given to spare parts, staff training and maintenance requirements, rather than concentrating merely on construction. Cancellations of tenders demonstrates that the lowest procurement price does not equate to the lowest overall cost, particularly when delays postpone revenue generation. Continuity in project leadership and independent scrutiny of major decisions are equally important. Although Cabinet decisions contributed to postponement, the SLPA shares responsibility given the oversights in planning, procurement and decision-making.
+
+Therefore the Sri Lanka Ports Authority, the line Ministry, and other stakeholders must  treat the ECT as a national economic priority. Continued delay costs Sri Lanka foreign exchange it cannot afford to lose. The ECT must deliver the revenue it owes.
+
+(The author is Head, Department of Economics and Statistics, University of Peradeniya and a former Vice Chairman, Sri Lanka Ports Authority)

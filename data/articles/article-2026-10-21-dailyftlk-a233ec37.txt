@@ -1,0 +1,29 @@
+World Bank Group launches first digital strategy to expand access and create jobs
+
+Strategy focuses on connectivity, affordability, digital services, and readiness for AI
+
+The World Bank Group yesterday launched its first digital strategy, bringing together its public and private sector capabilities to help developing countries expand affordable digital access, improve services, and create jobs.
+
+The strategy addresses four priorities: expanding connectivity; making devices and data more affordable; strengthening digital services and skills; and helping countries build the foundations to benefit from artificial intelligence.
+
+“Digital technology can help countries create jobs and make scarce resources go further. Realizing that potential requires a comprehensive approach—from reliable connectivity and affordable devices to digital skills and useful services,” said World Bank Group President Ajay Banga. “Our first digital strategy brings these pieces together, helping countries build the foundations to benefit from today’s digital tools and the promise of small AI—AI for the people.”
+
+The launch comes as developing countries face twin challenges: constrained resources and a growing need for jobs. Over the next 10 to 15 years, 1.2 billion young people will reach working age in developing countries, while their economies are projected to create about 420 million jobs.
+
+Digital technology can support job creation across the World Bank Group’s five priority sectors: infrastructure and energy, agribusiness, health care, tourism, and value-added manufacturing. It can help businesses reach customers, improve productivity, and access finance, while reducing the cost of delivering public services.
+
+Yet substantial barriers remain. Over 2 billion people were offline globally in 2025. Only 23 percent of people in low-income countries used the internet, compared with 94 percent in high-income countries. Many people live within network coverage but cannot afford a smartphone or data, lack digital skills, or have limited access to services relevant to their needs.
+
+Expand reliable connectivity: The World Bank Group will help countries address gaps across the network, from international cables and national connections to the networks serving homes, businesses, schools, and clinics. Its approach includes supporting shared infrastructure, encouraging competition, and using public finance and guarantees to help attract private investment into underserved markets. Where electricity and connectivity are both missing, the strategy supports planning them together.
+
+Make devices and data more affordable: The strategy supports efforts to lower the cost of entry-level smartphones and broadband services that increase the cost of staying connected. Partnerships with manufacturers, mobile operators, financial institutions, and refurbishment businesses can help lower prices and expand responsible options for paying over time.
+
+Expand digital services and skills: The World Bank Group will support reliable systems for digital identification, payments, and secure information-sharing that make public and private services easier to access. It will also help countries strengthen digital literacy and training linked to employment, enabling more people and small businesses to use technology safely and productively.
+
+Build readiness for AI: The strategy will help countries strengthen connectivity, access computing resources, develop usable local data, and build skills. It emphasizes practical applications of “small AI”—tools adapted to specific tasks and local conditions, such as helping farmers identify crop disease, supporting health workers, or helping businesses manage inventory.
+
+Safeguards—from privacy to cybersecurity and fraud protection—run across all four priorities.
+
+The strategy brings together the World Bank Group’s financing, policy advice, private investment, and guarantees around country priorities. It also provides a basis for working with governments, technology companies, development partners, and philanthropy to extend digital opportunities to more people and businesses. Its aim is to help countries turn digital access into higher productivity, better services, and more opportunities to earn a living.
+
+Complementing the strategy’s AI readiness and adaptation priority, the World Bank Group also announced the AI Infrastructure and Readiness Initiative. This is a new effort to help governments in emerging markets access affordable compute capacity—and put small AI to productive use—through shared, pay-as-you-go GPU infrastructure (specialized computing power used to develop and run AI applications), offering a practical alternative to standalone national data centers. The initiative will have an initial focus on Africa and Latin America, with knowledge partners including Cassava Technologies and NVIDIA.

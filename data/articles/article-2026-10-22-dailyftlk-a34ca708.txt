@@ -1,0 +1,71 @@
+FinTech Forum to connect fintechs, build trust and open doors abroad
+
+FinTech Forum Sri Lanka Chairman and LankaPay CEO Channa de Silva
+
+The FinTech Forum Sri Lanka Chairman and LankaPay CEO Channa de Silva in this interview speaks of the origin, vision and progress of FinTech Forum as well as industry developments. A technology industry veteran with over 30 years of experience, de Silva also makes some suggestions on the way forward.
+
+A: My vision is for the whole industry to collaborate and move in one direction. Sri Lanka’s financial sector is robust and among the most technologically adopted industries in the country, with banks, finance companies and FinTechs already connected through LankaPay on a single national network. But each stakeholder was working in isolation: Among banks, finance companies, fintechs, startups, technology providers and international card companies, there was no dialogue, or even with the Government.
+
+Banks mainly served the corporate segment, with an estimated 80% of our population living in rural areas and were not reached by digital financial services. Fintechs had no direct licensing route to business and no way to take their grievances or suggestions to the regulator either.
+
+Around 2022, several fintechs and LankaPay got together and agreed that we needed an industry association in which every stakeholder is an integral part and a stakeholder. That became the Forum, with three key objectives. The first is to bring everyone to one table for a healthy dialogue. The second is to provide fintechs legitimacy, working with the regulators and the Government towards a licensing regime, not to stifle fintechs but progressive regulation to keep people’s money safe. The third is to create opportunities by attracting foreign/local investment for startups to scale and helping Sri Lankan fintechs expand into other countries.
+
+Q: How do you aim to raise and strengthen awareness of the Forum’s role within the country’s financial sector?
+
+A: The rails are in place and everyone, including the fintechs, are now connected. The next phase is awareness of the Forum’s role. We want to bring the industry into a progressive discussion mode, especially with international players coming on board.
+
+Our membership of the Asia Fintech Alliance (AFA) supports this. It conducts monthly meetings and quarterly general meetings, our members are invited to its events and offer fintechs the opportunity to travel to other member countries for events, share knowledge, network and opportunities to speak at regional events etc. It also holds the AFA Awards and encourages members to apply to be recognised regionally.
+
+Q: What sets the Forum apart as the industry body for Sri Lanka’s fintech sector?
+
+A: It brings every part of the ecosystem under one roof including banks, finance companies, fintechs, technology service providers and international card companies. Earlier attempts by private entities to set up associations did not achieve much. The Forum also provides fintechs a voice and a legitimate channel to lobby the Central Bank and the Government, which they did not have before.
+
+Our standing has also been recognised internationally. The AFA, an umbrella body of fintech associations from 16 countries and headquartered in Taipei, accepts only one association per country. It evaluates the association’s capability, membership, constitution and governance, and it selected the FinTech Forum as the sole representative from Sri Lanka. We have been a member for nearly two years.
+
+Q: How does the Forum convene key stakeholders, including banks, startups and regulators, to the same table?
+
+A: We started by bringing fintechs and LankaPay to a discussion around one table, and we agreed banks, finance companies, fintechs, startups, technology providers and card companies all had to be part and parcel of the body. The Forum grants each of them a place to work together, raise issues and hold healthy debates, and enables fintechs, who are not currently licensed by the Central Bank, a legitimate route to the regulator. We also work closely with the Digital Economy Ministry to support Government initiatives.
+
+Q: What have been the biggest challenges and successes in aligning the goals of traditional banks, agile startups and Government regulators? Have you seen progress?
+
+A: Yes, we have seen good progress. About six or seven years ago, LankaPay took the initiative to let fintechs join the national financial network by connecting through a single licensed bank or finance company. Since then, Digital payments have grown exponentially, mainly after the COVID pandemic. LankaPay, the national payment network, carries approximately half of all the total digital transactions in the country, and the other half happens digitally within the same bank. LankaPay handled over 537 million digitally enabled transactions in 2025 via all its systems with the total transaction value exceeding Rs. 42 trillion.
+
+Most of the growth was seen in the business-to-business segment. A huge part of the SME and retail segments remain elusive, and it is where fintechs have a significant role to play. On the Government side, we have worked with GovTech (formerly ICTA) and the Ministry of Digital Economy to set up GovPay. We are seeing traction in several areas, though overall adoption is still low.
+
+The biggest challenge is that fintechs are still not licensed or directly regulated. Payment service provider (PSP) licenses have not been issued, therefore room for fintechs to operate is limited. Yet fintechs are the growth engine of the sector, because they can reach every corner and individual of the country. We are on the right track, but there is still a long way to go.
+
+Q: You have witnessed Sri Lanka’s digital development from its infancy. How does the current digital shift compare to the mid-1990s?
+
+A: I have been in the technology industry since 1995, when Lanka Internet, the first internet service provider, started. I was the main engineer there and the first webmaster. I set up the first commercial website in Sri Lanka and was responsible for the first dedicated internet connection into the country.
+
+The technology was very primitive then. We knew there was potential, but we never understood how pervasive the internet would become in people’s lives. There were no smartphones at the time. Connecting to the Internet directly in 1995 was a big advantage, because we were one of the first countries in the region to do so. But three decades of war held back infrastructure development until it ended in 2009, as a result we are probably not where we should be by now.
+
+Still, we have everything in place to move forward. All the banks are fully digital and connected with finance companies and fintechs. The next phase is growing the retail segment and bringing the Government ecosystem into the digital world. We are not too late, and it is a matter of working together to get there.
+
+Q: As an industry veteran with experience at major multinationals such as Microsoft and IBM, what global fintech trends should Sri Lanka adopt to be competitive?
+
+A: We must be careful and practical, because each country’s context is different. India according to World Bank reports had banking penetration of 35% in 2011 before introduction of Aadhaar and reached around 89% by 2025. Sri Lanka does not have a digital ID, yet banking penetration is already about 90%, bank account penetration is not our primary problem, but getting people to put money into their bank accounts is.
+
+Mobile money is also a classic case. It took off in Kenya because people had little access to cash as banks and ATMs were few and far apart. In Sri Lanka, when the two telcos introduced it a decade ago, we never saw significant growth, because people already had easy access to cash via banks and ATMs. QR has also been very slow to adopt. After two decades of card presence, tap-and-go could potentially suit people more than scan-and-pay. The same goes for online police traffic fines, which only worked because we deliberately chose a low-tech design coupled with SMS and offline methods to successfully implement on the ground. My message in every forum is to look at our own context and adopt suitable technologies but not to simply follow the region.
+
+A recent islandwide survey shows over 70% of households have at least one smartphone, but only 36% of smartphone users use digital banking channels. Bringing the remaining 64% online is our low-hanging fruit, but the solution must fit the context of our country, our people and our culture.
+
+Q: How is the Forum building consumer trust in digital finance, particularly as scams and fraud become the biggest threat to that trust?
+
+A: What we are really seeing is not necessarily cyberattacks but serious financial frauds and scams. Fraudsters exploit people’s psychological and emotional context, tricking them into sharing passwords and OTPs or even making fraudulent transfers. An offer of 40 or 45% interest on investments is a typical bait, and people jump at it without questioning who could offer such benefits. Phishing links also take people to bogus sites and end up in frauds. We found approximately 11 internet banking portals of major banks had been replicated by fraudsters. Customers log in to the lookalike site by clicking on a phishing link losing all their money. These scams are the biggest threat to the trust factor.
+
+Social engineering is almost impossible to stop, but awareness matters. Together with the Central Bank and banks, LankaPay ran a national campaign about a year and a half ago to make people aware of how they could become victims and how to avoid it. The basics were the bank’s OTP and the ATM PIN should never be shared with others. It is really a balancing act, because if we scare people off, they will stop moving to digital. We want them to adopt digital but use it safely, but the messaging must be carefully crafted.
+
+Q: Can you explain any of the Forum’s initiatives that encourage new approaches to data security and fraud prevention?
+
+A: Working with the banking industry, the Central Bank and LankaPay, we introduced mobile number validation to counter OTP fraud. When someone registers a bank account on an app, we make an API call to the telcos to check if the mobile number on the device matches the number the bank holds. A fraudster normally uses a separate device, and the numbers generally do not match. Since we implemented it, frauds involving OTP sharing have dropped to near zero.
+
+The industry is also putting in place a centralised fraud management system to monitor transactions in financial sector entities, look for anomalies and monitor suspicious activities, and raise alerts.
+
+It is a bigger problem than the financial sector could handle alone. Banks have very little control over phishing links. We have to work with the telcos and the TRC to block those links and sites. The Government and law enforcement must also be involved, because even if a culprit is caught, the problem remains if the law cannot punish them. We work closely with the Central Bank and the Ministry of Digital Economy as no single entity or sector can do it alone.
+
+Q: What more needs to be done to bring the Government fully into the digital economy?
+
+A: We need to bring the Government fully into digital. One example is the recent National Single Window initiative led by the Treasury. Importers and exporters have to deal with multiple agencies to clear goods, and we have enabled digital payments to Customs, Inland Revenue, the Ports Authority, SLSI and the import and export control department, about eight agencies in all.
+
+Many more agencies still need to come in, because there is no point in digitising Customs, Inland Revenue or SLPA in isolation if a trader still must visit other agencies in person. The financial sector will make payments secure, efficient and seamless, but that is not enough if most of the remaining process is still manual. Unless people can complete the whole process digitally from home, adoption will not grow significantly. We are working with the Ministry of Digital Economy to automate the rest of the Government’s processes to make the end-to-end journey seamless.

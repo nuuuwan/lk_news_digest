@@ -1,0 +1,55 @@
+Rooftop solar with battery storage: Significant growth potential not recognised
+
+I have been following the recent grid connected rooftop solar PV conundrum posted on social media and feel compelled to respond.
+
+The State technocrats have been slow to adapt to the rapid developments taking place in the business of rooftop harnessing of solar. The term ‘disruptive technology’ is not new. However, the disruption today is supercharged, and national policy makers with conventional mindsets seem to be overwhelmed. They appear to lack vision, the ability to think out of the box and may be handicapped by the prevailing bureaucratic culture and outdated processes.
+
+Rooftop solar aligns closely with the national goal of renewable energy dominance to be attained over the coming decades. This sector also aligns development goals such as energy security, technological advancement, avenues for investment, skilled job creation, etc. with investment and job creation spread nationwide.
+
+The experience gained from the Sri Lanka Sooriya Bala program launched in 2016 (enhance renewable energy generation), continuing installations with lessons learned, emergence of new ideas and resulting debates, the experiences overseas (specially Australia) and the Solar Industries Association recommendations made recently to the PUCSL (Long Term Power System Development Plan) represents a significant resource of operational experiences and creative ideas for moving the rooftop solar program further forward rapidly.
+
+This effort is aided with falling costs of solar PV, and battery energy system storage systems (BESS) and technological advancements. Thus, the scale up potential for rooftop solar applications is significant.
+
+Prosumers are consumers of electricity who also produce their own electricity at the point of consumption (most commonly via rooftop solar). They can also handle their own electricity production by using BESS for storing and later consumption or for exporting electricity to the grid. The regulatory policies that facilitate the emergence of the prosumers already exist in Sri Lanka with Net Metering, Net Accounting, Net Plus and Net Plus Plus with these offering different commercial arrangements. These must be adapted to encourage storage, controllability and grid-support services rather than simply maximising uncontrolled solar exports. Unfortunately, while prosumer growth is on an upward trend, there are signs that the State technocrats seek to slow down or curtail this promising sector due challenges faced on the grid management front.
+
+Prosumers can emerge from the electricity consumer categories such as residential, commercial, industrial, military facility, hospital, campus, etc. and operate as a micro utility (networked or isolated).
+
+They could be subject to a market rate tariff (time of use) and daily peak demand charge. Additionally, they can be financially incentivised to sign up for a Demand Side Management (DSM) program where they volunteer to reduce grid imports, shift load, discharge batteries, limit charging, or - where technically and commercially permitted - export power. The prosumer can utilise smart controls aided with AI (if useful) to optimise benefits.
+
+We now have in place an element of the national power system that incorporates distributed generation and storage of electricity at scale. The system will be smart, integrated and network centric.
+
+The National System Operator (NSO) and Regional Electricity Companies (RECs) will utilise smart energy-management systems, increasingly incorporating AI-based forecasting and optimisation. The NSO and RECs would use load forecasts, weather forecasts, real-time measurements, and distributed-resource data to estimate regional and national demand and the expected output of distributed solar resources.
+
+Distributed system visibility is an important factor that needs to be addressed. How can the NSO and RECs effectively dispatch thousands of prosumer BESS individually?
+
+Inverter-based BESS can do considerably more than shift solar energy. They can potentially provide numerous services such as peak shaving and demand response, voltage/reactive-power support, frequency-response services, etc.
+
+Thousands of 5-100 kW resources are individually insignificant to the NSO. Aggregated, they could represent hundreds of MW. How can they be utilised effectively as virtual power plants? The technical aspects of control, operation management, and optimised operation of a networked system of prosumers need to be studied. Additionally, the commercial and legal aspects that arise when promoting rapid growth of the prosumer business should be addressed.
+
+High consumption electricity consumers (affluent demographic) will most likely transform into prosumers when electricity is sold at market rate. A variable tariff with smart meter and peak demand charge will coax the consumer to install grid connected rooftop solar with battery storage and smart devices for controlling load.
+
+Incentives such as duty-free imports and tax rebates should be offered to new entry prosumers since the nation benefits significantly from the energy and technology fronts.
+
+The prosumer’s investment converts the indigenous and freely available solar resource into electricity at the point of consumption, reducing dependence on imported fuels and avoiding part of the transmission and distribution burden associated with centrally generated electricity.
+
+The term “affordable electricity” should not apply to the groups identified. Service and industrial sectors that are vital to the national economy and unable to exploit solar energy for joining the ranks of the prosumers should be compensated via creative fiscal arrangements. Poorer segments of society should not be exempted from a market rate tariff. This will help to increase awareness among citizens and reduce waste and possible ‘electricity theft’. Where the Government wishes to protect vulnerable households, targeted social assistance could be considered as an alternative to broadly suppressing electricity price signals. The use of a State-controlled electricity sector to dispense social welfare is an outdated concept.
+
+The prosumer model could become an important element of Sri Lanka’s renewable-energy transition, alongside utility-scale solar and wind. Its greatest value is not simply adding more rooftop PV; it is creating thousands of distributed, controllable solar + BESS resources that can absorb surplus daytime solar, reduce evening peak demand, provide demand response, and eventually act collectively as a virtual power plant.
+
+What is described above is not rocket science. The industry is mature and operational at numerous locations worldwide and many industry professionals have presented papers that cover the technical and commercial aspects of the prosumer business thriving in a smart grid environment.
+
+Sri Lanka is not short of talent for mastering the technology and promoting this sector at scale. The Universities of Moratuwa and Peradeniya operate stateoftheart microgrid systems.
+
+The University of Moratuwa/LECO microgrid features 350 kW of solar PV, a 400 kWh BESS and a 630 kVA backup diesel generator, with remote load control and islanding capability.
+
+The University of Peradeniya microgrid features a 60 kW hybrid inverter, 100 kWh BESS integrated with its existing 60 kW solar PV installation. The university describes this as an advanced AC microgrid supporting computer servers and its developing AI laboratory.
+
+University academics have made presentations in the recent past that covered renewable energy penetration, distributed generation, and the emergence of prosumers. The Solar Industries Association has also presented a policy paper that describes this application.
+
+Unfortunately, while the CEB acknowledges the multiple challenges faced with rooftop solar such as distribution-level voltage constraints, with poor observability of distributed solar, midday surplus generation, etc. the prosumer idea has not spread far. This phenomenon is most likely due to docile advocacy and conventional thinking of State sector technocrats who act as reluctant elements rather than enthusiastic advocates excited by technological developments taking place in the rooftop solar and BESS fronts.
+
+While mastering and rapidly developing this vital sector shows signs of lethargy,
+
+technical universities will continue to offer subsidised engineering education to our youth for meeting the skilled human resource needs of the rapidly growing global renewable energy industry.
+
+(The author is a Management Consultant and Renewable Energy Specialist, and can be reached via [email protected])

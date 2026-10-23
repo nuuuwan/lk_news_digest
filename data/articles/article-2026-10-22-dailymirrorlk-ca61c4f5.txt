@@ -1,0 +1,61 @@
+Meta fined $25bn for ’lies’ over user data privacy
+
+BBC - Meta, the company behind Facebook, Instagram and WhatsApp has been hit with the largest ever fine against it for its business practices.
+
+A judge in New Mexico on Wednesday ordered the company to pay $25bn (£18.6bn) following a two-week trial earlier this year that found it had spent years lying to the public about how it handled Facebook user data.
+
+"The lies extend beyond Facebook's data practices as well," the judge said, adding they went to "the heart of Facebook's core business practices".
+
+Meta's head lawyer CJ Mahoney said the ruling made it "all but impossible to do business in the state of New Mexico". The company intends to appeal, a move Mahoney said will be successful.
+
+The fine is the largest to date against Meta, which has either been fined or agreed to settle several other lawsuits this year, including an $18bn deal with California over child safety.
+
+New Mexico's lawsuit stemmed from the role of Meta, then still doing business as Facebook, in what became known as the Cambridge Analytica scandal.
+
+That firm utilised data and information from millions of Facebook users as part of its work in political consulting, including on work related to the 2016 US Presidential election, which saw Donald Trump elected for the first time.
+
+New Mexico had also accused Meta of intentionally misleading the public on how it benefitted from content that included hate speech, and how such rules against it were enforced. The jury found the company had intentionally misled the public on those claims, too.
+
+Meta disputed those accusations. "At its core, this lawsuit seeks to impose a tax on speech to enforce new rules for what people can say online," Mahoney added.
+
+Lawyers for New Mexico sued the company over many statements Meta executives had made over the years that user data was never shared with or accessed by third parties without a user's permission, when in reality it had been.
+
+They claimed that the entire population of the state, roughly two million people, was impacted by Meta's dishonesty regarding the way it controlled user data. A jury found that Meta had violated state laws more than 40 million times.
+
+"For too long, powerful technology companies have operated as though their size and influence put them beyond the reach of the law," New Mexico Attorney General Raúl Torrez said on Wednesday.
+
+"Today's result makes clear that no corporation is too powerful to be held accountable."
+
+The state lawyers sought up to $40bn in fines against Meta. Meta had argued anything beyond $3.4bn would be unconstitutional.
+
+Judge Francis Mathew on Wednesday was direct in his decision to fine Meta an amount roughly equal to its profits each quarter.
+
+He said Meta's violations of law and misrepresentations to the public about how their Facebook data was used and shared were "willful" and spanned "more than 11 years", stretching from 2010 to 2021.
+
+Communications between senior executives, including Mark Zuckerberg, were "designed to mislead the public", Judge Mathew wrote in his order.
+
+While the full amount of the penalty against Meta, based on thousands of violations of state law, was calculated as $219bn, Judge Mathew reduced the penalty to the $25bn fine.
+
+It follows a $5bn fine levied by the US Federal Trade Commission in 2019 against the company over its data privacy practices.
+
+New Mexico has been one of Meta's most notable adversaries in court. The state this year also fined Meta almost $1bn for misleading the public about the safety of its social media platforms for children.
+
+The judge overseeing that lawsuit ultimately compared Meta to an industrial polluter of the air, with its form of pollution being "the psychological harm and sexual exploitation of children".
+
+As large as the fines against Meta are, the company is spending much more on infrastructure as it works to catch up with other tech companies in the artificial intelligence (AI) race.
+
+Zuckerberg said during a call with financial analysts that Meta's consumer-focused AI tool Muse was already being used by 10 million people.
+
+"Growing Muse to serve billions of people is both our mission and our strategy," Zuckerberg said.
+
+To that end, Meta expects to spend at least $135bn this year on mostly AI projects, but could spend up to $145bn.
+
+The company is spending so much on AI that it reported negative cash flow of more than $2bn - an apparent first for Meta since it listed on the public stock market 14 years ago, according to a BBC review of its past financial documents.
+
+Cash flow represents the money a company retains after paying for operations and investments. So, Meta is now spending more than it brings in, even as it brings in more money than ever.
+
+Meta's revenue increased 26% for July to September compared to a year ago, hitting $64.5bn. Its profits also tripled to $9.8bn.
+
+Still, the company intends to spend more on AI investments. Meta's chief financial officer Susan Li announced a new stock split on the call, in which existing Meta shareholders will receive one new share on non-voting stock.
+
+Li said the new class of stock was not yet intended for one specific investment, but she alluded to ongoing costs related to AI and said the company could use "more funding flexibility" next year.

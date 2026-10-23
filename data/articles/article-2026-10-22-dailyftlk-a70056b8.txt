@@ -1,0 +1,121 @@
+Sri Lanka’s new compliance era: Why MSMEs should consider incorporation
+
+From tax reforms and TIN requirements to paperless Customs, choosing the right business structure is becoming a strategic decision for Sri Lankan entrepreneurs
+
+supported by the International Monetary Fund (IMF), is bringing significant changes to the country’s tax policy, revenue administration, statutory compliance and digital infrastructure. While these reforms aim to strengthen public revenue, improve transparency and support economic stability, they also require businesses to reconsider how they organise, manage and protect their operations.
+
+Changes in direct taxation and indirect taxation, amendments to tax laws, the expansion of digital tax administration, the introduction of prescribed TIN Certificate procedures for specified transactions and the move towards paperless Customs declarations are transforming the compliance environment in which businesses operate.
+
+For Micro, Small and Medium Enterprises (MSMEs), these developments raise a fundamental question: Is continuing to operate as a sole proprietorship or traditional partnership still the most appropriate business structure, or should more entrepreneurs consider conducting their operations through a private limited liability company?
+
+As a Chartered Accountant and Tax and Management Consultant, I believe this question deserves serious consideration. For many growth-oriented MSMEs, incorporation should no longer be viewed merely as a formality required when a business becomes large. It should be considered an important measure of risk management, governance and long-term sustainability.
+
+A significant number of Sri Lankan entrepreneurs establish their businesses as sole proprietorships or partnerships. These structures are familiar, relatively straightforward to establish and may involve fewer administrative formalities at the outset.
+
+For a very small enterprise with limited transactions and low commercial risk, such an arrangement may initially be practical. However, the position can change significantly as turnover increases, employees are recruited, credit facilities are obtained, imports and exports expand, and contractual relationships become more complex.
+
+A critical distinction concerns the legal separation between the business and its owner.
+
+In a sole proprietorship, the owner and the business are not separate legal persons. Business debts and other liabilities can therefore expose the proprietor’s personal assets, subject to the applicable law and circumstances.
+
+In a traditional partnership, partners may also face personal exposure for partnership obligations. A disagreement between partners, an unauthorised transaction, a contractual default or a financial liability arising from business operations can consequently affect the personal financial position of the individuals concerned.
+
+This risk becomes particularly important when a business experiences a cash-flow crisis, accumulates tax arrears, defaults on a bank facility or faces legal action from suppliers, customers or other creditors.
+
+The proprietor may believe that the business is a small family operation, but the law does not necessarily separate personal wealth from business liabilities simply because the enterprise operates on a small scale.
+
+The central issue is not merely how much profit a business earns. It is also the extent of personal financial exposure its owners are prepared to accept.
+
+Sri Lanka’s evolving tax and regulatory environment makes this question even more relevant.
+
+The Inland Revenue (Amendment) Act, No. 11 of 2026, introduces a new prosecution mechanism under section 185A for specified failures to comply with statutory tax obligations, including failures to file prescribed statements or returns, register with the Commissioner-General where required, or appear before the Commissioner-General in compliance with a notice issued under section 123. The Commissioner-General must first issue written notice allowing 30 days for compliance. Failure to comply with the notice without reasonable cause can result in prosecution. Upon conviction, the penalty may be a fine of up to Rs. 400,000, imprisonment for up to six months, or both.
+
+These provisions should not be interpreted as meaning that every tax error automatically results in criminal proceedings. Nevertheless, they demonstrate why businesses must treat statutory filing, registration and related compliance obligations seriously.
+
+The same Act also requires every company incorporated or registered in Sri Lanka to register with the Commissioner-General of Inland Revenue within 30 days of incorporation or registration. This obligation is distinct from the TIN Certificate submission procedure applying to specified individual transactions.
+
+Furthermore, the IRD’s Circular No. SEC/2026/E/07, dated 22 September 2026, prescribes procedures for TIN Certificate verification in specified transactions from 1 November 2026, subject to the stated exemptions.
+
+In parallel, Sri Lanka Customs made the paperless Customs Declaration process at the Declaration Directorate (Long Room) mandatory from 1 October 2026. Importers and declarants are required to submit Customs Declarations and supporting documents using valid digital signatures. Manual processing and submission are no longer accepted under this procedure.
+
+These developments form part of a broader shift towards electronic records, digital verification, more structured reporting and stronger compliance controls.
+
+For MSMEs, the practical consequence is clear: maintaining reliable accounting records, reconciling transactions, meeting filing deadlines and preserving documentary evidence are becoming increasingly important.
+
+A business that relies entirely on informal bookkeeping, personal bank accounts, incomplete invoices and undocumented arrangements between family members may find it increasingly difficult to demonstrate compliance when required.
+
+Under the Companies Act, No. 7 of 2007, a company incorporated under the Act becomes a body corporate in its registered name. Section 87 also establishes that a shareholder is not liable for an act, default or obligation of the company merely because that person is a shareholder.
+
+A private limited company can enter into contracts, own assets, maintain bank accounts, employ staff and conduct business in its own name. Its financial records and obligations can be distinguished from those of its shareholders.
+
+Subject to the applicable law and circumstances, this separation can provide shareholders with an important layer of protection against ordinary business liabilities incurred by the company.
+
+Consider an MSME engaged in wholesale trading. The business may maintain substantial inventory, purchase goods on credit, employ workers, lease premises and borrow funds from a bank. If the business experiences serious financial difficulties, the distinction between company liabilities and the personal affairs of its shareholders may become extremely important.
+
+Operating through a properly managed private limited company can help establish that distinction, provided the business is genuinely conducted through the company and its legal and financial affairs are maintained separately.
+
+For entrepreneurs who have accumulated personal assets over many years, protecting those assets from ordinary commercial risks is a legitimate part of responsible business planning.
+
+It is essential, however, to understand that incorporation does not eliminate every form of personal liability.
+
+A private limited company is not a mechanism for avoiding tax obligations, concealing assets or disregarding statutory requirements. Its principal advantage is that it establishes a separate legal entity and generally separates shareholder liability from the company’s obligations.
+
+That protection does not necessarily extend to a director or shareholder who gives a personal guarantee for a bank loan, commits fraud, acts unlawfully, breaches an independent legal duty or becomes personally liable under another applicable legal provision.
+
+The Companies Act itself imposes duties on directors. Sections 187, 188 and 189 address acting in good faith in the company’s interests, compliance with the Act and the company’s articles, and the required standard of care.
+
+Directors must therefore take their responsibilities seriously. They cannot assume that the company structure provides immunity from the consequences of their own conduct.
+
+Similarly, a company’s incorporation does not automatically absolve an individual from personal responsibilities arising under tax, employment, environmental, regulatory or other applicable laws.
+
+The correct professional message is therefore not that incorporation removes all personal risk. It is that a properly structured and properly managed company can provide a more effective legal separation between business risk and personal wealth than an unincorporated business generally provides.
+
+First, incorporation encourages a clearer separation between business finances and personal expenditure. Maintaining separate bank accounts, recording amounts introduced by shareholders, documenting withdrawals and reconciling transactions can improve financial discipline.
+
+Second, a company structure supports more formal documentation of ownership, management responsibilities, contracts and business decisions. This can be particularly useful in family businesses where informal arrangements may otherwise create misunderstandings. Third, incorporation can improve the business’s readiness to approach banks, investors, suppliers and larger customers. A properly maintained company profile, financial statements and accounting records can support due diligence and make the business easier to assess.
+
+Fourth, a company may provide a more practical framework for succession planning, changes in ownership and continuity when a founder retires or a family member takes over management.
+
+Finally, incorporation encourages owners to distinguish between their roles as shareholders, directors and employees. This can improve accountability and help professionalise a business that has outgrown an owner-managed informal structure.
+
+These advantages do not arise automatically upon registration. They depend on proper implementation, consistent record-keeping and responsible management.
+
+One misconception must be addressed directly: a private limited company is not automatically more tax-efficient than a sole proprietorship or partnership.
+
+The appropriate tax outcome depends on the nature of the business, taxable profits, remuneration paid to owners, dividends, financing arrangements, applicable tax rates and other relevant provisions.
+
+A company may face additional accounting, secretarial, filing and administrative expenses. It must maintain its statutory records and comply with the obligations applicable to its legal form. Financial statement and audit requirements must also be considered according to the relevant law and any applicable exemptions.
+
+Consequently, the decision to incorporate should not be based solely on a perceived tax advantage.
+
+A proper assessment should compare the existing business structure with the proposed company structure, taking into account tax consequences, compliance costs, expected growth, personal liability exposure, financing needs and long-term objectives.
+
+The objective should be to select the structure that best supports the enterprise’s commercial requirements while maintaining statutory compliance.
+
+I recommend that MSME owners undertake a structured review of their business position before deciding whether to incorporate.
+
+The review should consider the scale and nature of operations, annual turnover, borrowings, contractual commitments, inventory and other assets, number of employees, tax exposure, regulatory obligations and the potential consequences of business failure.
+
+Businesses involved in wholesale and retail trading, manufacturing, construction, importing and exporting, security services, professional services and other activities involving substantial contractual or financial commitments should give particular attention to the risks inherent in their current structure. Where incorporation is appropriate, the transition should be properly planned. Business assets, contracts, stock, licences, employees, bank facilities and tax registrations should be reviewed to determine how they should be dealt with under the new company.
+
+Owners should also establish appropriate accounting systems, separate banking arrangements, internal controls, tax-compliance calendars and clear responsibilities for directors and management.
+
+Professional advice from a Chartered Accountant, tax adviser, company secretary and legal adviser, where appropriate, can help ensure that the transition is carried out correctly.
+
+It would be inappropriate to suggest that every small business must immediately become a private limited company. A low-risk enterprise operating on a very small scale may reasonably continue as a sole proprietorship if the owner understands the risks and the arrangement remains commercially suitable.
+
+However, when a business begins to employ people, borrow substantially, accumulate valuable assets, enter significant contracts, engage in international trade or expand beyond the founder’s direct control, its legal structure should be reconsidered.
+
+Incorporation is particularly worth considering when the personal assets of the proprietor or partners are increasingly exposed to risks arising from the business.
+
+The decision must be based on the individual circumstances of the enterprise—not merely its turnover or the desire to adopt a more impressive business name.
+
+Sri Lanka’s evolving tax and regulatory environment is changing the way businesses must operate. Digital tax administration, stronger enforcement, more structured reporting and paperless Customs procedures are making documentation, accountability and timely compliance increasingly important.
+
+For MSMEs, the response should go beyond employing better accounting software or engaging a tax consultant to prepare returns. It should include a fundamental assessment of the legal structure through which the business operates.
+
+My professional recommendation is that growth-oriented Sri Lankan MSMEs should seriously consider conducting their operations through a properly managed private limited company, where the benefits of legal separation, governance, continuity and risk management justify the additional costs and obligations.
+
+The objective is not to avoid statutory responsibilities. It is to establish a structure in which those responsibilities are clearly recognised, properly managed and supported by reliable records.
+
+A sustainable business needs more than profitability. It needs sound governance, a disciplined compliance culture and an appropriate legal structure to protect the enterprise’s future—and, within the limits of the law, the personal wealth of the people who built it.

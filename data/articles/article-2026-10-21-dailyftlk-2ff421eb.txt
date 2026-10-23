@@ -1,0 +1,81 @@
+The role of economic science in an era of global power dynamics
+
+If I were asked whether economic science, as it stands today, could play a positive role in an era of global uncertainty and structural crisis, my answer would be that it is unlikely to do so in its present form. Why do I say this? Let me begin with an anecdote.
+
+In 2008, at the height of the global financial crisis, Queen Elizabeth II visited the London School of Economics (LSE), an institution widely regarded as one of the leading centres of modern economic thought. The Queen reportedly asked a group of distinguished economists: “What actually caused this crisis?” Their answer was that the crisis had been caused by a stochastic shock. The Queen’s response was reportedly one of bewilderment: “What?”
+
+This anecdote captures something fundamental about the crisis of contemporary economic science. If economists cannot adequately explain a major crisis of capitalism in terms that are both intelligible and theoretically meaningful, can we reasonably expect their discipline to play an affirmative role in addressing the structural crises of our time?
+
+Several leading economists have attributed this predicament to the excessive use of mathematics in economic analysis. Let us consider the criticisms of a few prominent economists.
+
+Richard G. Lipsey, author of one of the most widely used economics textbooks, observed:
+
+“To get an article published in most of today’s top rank economic journals, you must provide a mathematical model, even if it adds nothing to your verbal analysis.”
+
+Milton Friedman, a leading figure in monetarism, was also critical of the direction taken by modern economic theory. He argued:
+
+“Economics has become increasingly an archaic branch of mathematics rather than dealing with real economic problems.”
+
+Mark Blaug offered an even more devastating assessment: “Modern economics is sick. Economics has increasingly become an intellectual game play for its own sake and not for its practical consequences for understanding the economic world. Economists have converted the subject into a social mathematics in which analytical rigor is everything and practical relevance is nothing.”
+
+Can the crisis of contemporary economic theory be attributed simply to the excessive mathematisation of the discipline? Or is this tendency a necessary consequence of the social sciences’ persistent attempt to emulate the methods of physics—a phenomenon often described as physics envy? Although these tendencies reinforce one another, I would argue that the fundamental problem lies in the mistaken ontological assumptions underlying mainstream economics—in other words, its conception of the social world that it seeks to explain.
+
+Let us turn to Frank Hahn, one of the leading contributors to general equilibrium theory, alongside Kenneth Arrow and Gérard Debreu. In his Jevons Memorial Lecture, Hahn acknowledged the centrality of three fundamental propositions in the dominant tradition of economic theory. The first is an atomistic conception of the individual, grounded in methodological individualism, in which individuals are understood as rational agents pursuing their objectives. The second is the proposition that interactions among rational individuals can generate an optimal solution. The third is that, although such an optimum may rarely be realised in practice, the commitment to it remains theoretically essential.
+
+This framework makes it relatively easy for economic theory to emulate the methods of physics. From within this perspective, mathematisation is not merely possible; it becomes almost imperative. Once the economy is conceptualised in terms of individual agents, their optimising behaviour, and the equilibrium outcomes of their interactions, mathematical modelling appears to offer the most appropriate means of analysis.
+
+The problem, however, is not mathematics itself. It is the nature of the assumptions upon which mathematical models are constructed and the relationship between those assumptions and the real world.
+
+From this perspective, the Queen’s reported question becomes particularly revealing. What, precisely, does the concept of a stochastic shock explain? In standard neoclassical modelling, stochastic shocks can encompass a range of disturbances that are not generated endogenously within the model. These may include market imperfections, policy interventions by the state, and natural or human-made disasters. The crucial point is that such disturbances are often treated as external to the model’s underlying economic mechanisms. Consequently, the dominant neoclassical framework struggles to provide a satisfactory account of crises that emerge endogenously from the normal operation of capitalism itself. Its limitations become particularly evident when we seek to explain recurrent financial crises, structural instability, and the contradictory dynamics of capitalist accumulation.
+
+How, then, can we overcome these limitations and make economic science a more useful instrument for understanding and addressing the crises of our time?
+
+I would argue that this requires a Kuhnian paradigm shift in economics, understood as a human and social science. In this presentation, I shall identify two proposed theoretical turns that could contribute to such a transformation: the ontological turn advocated by the British economist Tony Lawson and the classical turn advanced by the late Anwar Shaikh. Let me briefly discuss each in turn.
+
+Anwar Shaikh describes his intellectual journey away from mainstream economic theory in the following terms:
+
+“[T]he standard theory made no sense to me. Utility maximising, optimising, rational expectations, perfect competition just didn’t seem to me explain or even represent the world.
+
+So, I became involved in trying to consider some other foundations. And that lead me to read Joan Robinson and then Luigi Pasinetti, both Cambridge economists, and then from there, to go back to Marx and Smith and Ricardo. And as I did that I began to see that there was in this alternate tradition a way forward, one that began from a completely different beginning, which is how people actually behave, and from that one could derive all the basic tools of micro, and then talking about how economies behave, and having a macro story. But all the story had to be fit together and be consistent from one level to the other. And had to be consistent with empirical evidence and observations on capitalism. That took me a long time, a long, long time. It was a long time because I had to fill gaps.”
+
+The outcome of this intellectual journey was his magnum opus, Capitalism: Competition, Conflict, and Crises.
+
+Shaikh’s work seeks to develop a coherent account of capitalism by grounding microeconomic analysis in the actual behaviour of economic actors and deriving macroeconomic outcomes from the competitive dynamics of the system as a whole. His approach challenges the conventional opposition between microeconomics and macroeconomics by insisting that the two must be theoretically consistent and empirically grounded.
+
+A central element of this framework is his conception of real competition, which differs fundamentally from the idealised model of perfect competition. As Shaikh puts it:
+
+“[Real competition] is completely different from the fiction of perfect competition. Real competition is a war, and competitors use whatever means they can.”
+
+Competition in the real world is therefore not a harmonious process through which markets automatically converge towards an optimal equilibrium. It is a dynamic, conflictual process in which firms struggle for survival, profitability, market share, and competitive advantage. Through this process, economic actors generate outcomes that cannot be adequately understood by treating the economy as a system tending towards equilibrium under conditions of perfect competition.
+
+The classical turn, as developed by Shaikh, thus offers an alternative way of conceptualising the social realm. Rather than beginning with an abstract, hypothetical world of optimising individuals and perfectly competitive markets, it seeks to explain capitalism through the actual behaviour of economic actors, the dynamics of competition, and the systemic tendencies that emerge from their interactions.
+
+This approach also provides a stronger foundation for understanding the endogenous generation of economic crises. Instability and crisis are not necessarily external disturbances imposed upon an otherwise harmonious system. They can emerge from the ordinary workings of capitalist accumulation and competition themselves.
+
+Tony Lawson’s ontological turn begins from a different, although potentially complementary, point of departure. His primary concern is methodological, but his argument rests on the principle that ontology—the study of the nature of reality—must take precedence over epistemology, the study of how we acquire knowledge of reality.
+
+For Lawson, the central methodological problem in mainstream economics arises from its reliance on mathematical-deductive methods that presuppose closed systems, stable regularities, and specific forms of atomistic interaction. Such methods may be appropriate under certain conditions, but they are inadequate for explaining an open, complex, and changing social reality.
+
+Lawson therefore argues that economic inquiry must begin by examining the nature of the social world itself. This world consists not merely of isolated individuals but also of social relations, institutions, structures, and practices that emerge historically and shape human action. These structures are real, even though they are not always directly observable, and they possess causal powers that cannot be reduced to the actions or intentions of individual agents.
+
+Drawing on Roy Bhaskar’s philosophy of critical realism, Lawson understands social reality as layered and structured. What we observe at the empirical level does not exhaust the reality that generates observable events. A proper explanation must therefore move beyond appearances to investigate the underlying structures, mechanisms, and relations that produce them. As Marx famously observed, if the essence of things and their appearance directly coincided, science would be superfluous.
+
+Critical realism consequently challenges the idea that knowledge can be developed through induction or deduction alone. Instead, it emphasises retroduction: a mode of reasoning that asks what underlying structures, mechanisms, or relations must exist for a particular phenomenon to occur. Through this process, researchers move from observed events towards an explanation of the deeper causal mechanisms that generate them.
+
+The ontological turn therefore calls for a fundamental reorientation of economic science. Rather than imposing predetermined mathematical structures upon the economy, economists must investigate the nature of the economic reality they seek to explain and select their methods accordingly. The objective is not to abandon mathematics, but to ensure that mathematical techniques serve substantive explanation rather than dictate its terms.
+
+I propose that integrating Shaikh’s classical turn with Lawson’s ontological turn could provide a fruitful foundation for reconstructing economic science as a more powerful instrument for understanding the social world.
+
+Shaikh’s contribution lies in his reconstruction of classical political economy, particularly its account of competition, accumulation, conflict, and crisis. By grounding economic theory in the actual dynamics of capitalism, he offers an alternative to the idealised assumptions of mainstream neoclassical economics.
+
+Lawson’s contribution lies in his insistence that economic explanation must be grounded in an adequate understanding of social reality. His ontological approach draws attention to the structures, institutions, relations, and causal mechanisms that shape economic processes and cannot be reduced to the interactions of isolated individuals.
+
+These two approaches are not identical, and their integration would require further theoretical work. Nevertheless, they share an important commitment: economic theory must be answerable to the nature of the real world rather than to the internal requirements of abstract models alone.
+
+In an era characterised by global uncertainty, recurrent economic crises, growing inequalities, ecological breakdown, and geopolitical instability, economic science cannot fulfil its social responsibility if it remains confined within an abstract framework that struggles to explain the dynamics generating these problems.
+
+What we need is an economic science that combines theoretical rigour with empirical adequacy; that recognises the historically specific and structurally complex nature of capitalism; and that seeks to explain not only how economic systems function, but also why they generate instability, conflict, and crisis.
+
+I therefore conclude that bringing together Shaikh’s classical turn and Lawson’s ontological turn could make a significant contribution to the reconstruction of economic science. Such a reconstruction would help transform economics from an increasingly self-referential mathematical discipline into a socially relevant science capable of explaining the complex realities of our time—and, ultimately, of informing efforts to transform them.
+
+(The author is a retired teacher in Economics. This is a text of the speech presented at the Peradeniya International Economic Research Symposium (PIERS) 2016)

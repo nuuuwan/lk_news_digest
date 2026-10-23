@@ -1,0 +1,59 @@
+Why small faults are causing nationwide power failures
+
+At about 11:45 on Saturday morning, Sri Lanka’s electricity grid stopped. The National System Operator called it a total system failure; all three generators at the Norochcholai coal plant were reported to have shut down, water plants went offline and mobile and internet services faltered. Power returned in stages, and the operator said supply was fully restored later the same day.
+
+What caused it is not yet known. The Energy Minister, Anura Karunathilaka, said a breakdown at the Upper Kotmale hydropower station was suspected. No official investigation has reported, and no one has said why a fault at a single plant should be able to take down an entire island.
+
+That last question is the real one, and Sri Lanka is not the only country asking it.
+
+Investigators who have picked through the world’s biggest blackouts keep finding the same shape. In August 2003, tree contact on power lines in Ohio left about 50 million people in the United States and Canada without power. The task force that studied it blamed poor awareness among operators, inadequate tree trimming and failed monitoring at the utility involved.
+
+Six weeks later Italy went dark after two tree flashovers on Swiss lines. Operators did not realise how little time they had, and once Italy split from the rest of Europe, 62 generating units tripped at once and frequency collapsed within about two and a half minutes.
+
+In Turkey in 2015, four long transmission lines were already out for work when a protective relay, set in a way operations staff did not know about, tripped a key line. Generators disconnected when the rules said they should not. In South Australia in 2016, a storm caused repeated voltage dips, wind farms cut output because of a control setting, and the link to the rest of the grid then tripped. About 850,000 customers lost power.
+
+The most thoroughly studied recent case is Iberia. When Spain and Portugal blacked out in April 2025, the European grid body ENTSO-E found no single culprit. Its final report, published in March 2026, describes weak voltage control, oscillations and generators disconnecting early, and says the defences were unable to prevent the collapse.
+
+In each case the first fault was ordinary. In each, the system had little room left to absorb it.
+
+Engineers run grids to a rule known as N-1 security. “N” is the full set of power lines, transformers and generators in service, and “minus one” means the grid must keep working normally if any one of them suddenly fails. Think of a bridge designed so that losing a single cable does not bring it down. Under N-1, operators keep enough spare capacity, and enough alternative routes for electricity, that the loss of one big generator or one major line is an inconvenience, not a catastrophe. The investigations show how that safety margin quietly disappears.
+
+Margins are spent on maintenance. Turkey and continental Europe in 2006 both lost their margin because lines were taken out of service for planned work, leaving the system exposed to the next fault.
+
+Settings hide in the fine print. Relay thresholds, wind-farm control logic and inverter trip points decide whether a plant rides through a disturbance or walks away from it. In several blackouts, the people running the grid did not know what those settings were. A paper hosted by the Asian Development Bank on the February 2025 blackout reported that 11% of 1,608 sampled solar inverters were set to trip at 49.5 hertz rather than the intended 47.
+
+Defences are too slow or too small. When frequency falls faster than automatic load shedding can react, the grid cannot be saved. That is what happened in South Australia, and Turkey’s shedding, even at full capacity, was not enough.
+
+Modern grids are lighter on their feet. Spinning turbines give a grid inertia, a built-in resistance to sudden change. Rooftop solar and wind add clean energy but not inertia, so frequency can move much faster after a loss. Sri Lanka has added more than 1,000 megawatts of rooftop solar since 2018, while its automatic load-shedding scheme was last updated in 2018, according to the same paper.
+
+In short, a fault needs somewhere safe to go. When margins, settings and defences are not right, it goes everywhere.
+
+Saturday was not the island’s first total blackout. Documented islandwide failures include August 2020, late 2021, December 2023 and February 2025, and reports differ on some dates and durations.
+
+The 2020 failure began with a fault during maintenance at Kerawalapitiya, when a safety interlock had been bypassed. A ministry committee found that maintenance protocols recommended after earlier blackouts in 2009 and 2015 had never been put in place. A committee on the 2021 events recommended an auxiliary power supply and a review of relay settings.
+
+The February 2025 blackout, reportedly triggered by a monkey touching a transformer at Panadura, produced a dispute. The Ceylon Electricity Board’s expert panel blamed low system inertia from heavy solar output. The regulator, the Public Utilities Commission, declined to accept that report, held a public hearing and in February 2026 issued directions covering inverter settings, reserve generation, adaptive load shedding and a restoration manual.
+
+Those directions carry no deadlines and no penalties. Several themes, including auxiliary power, relay settings, maintenance and restoration procedures, recur across the committee findings and the 2026 directions. We found no public report on whether they were carried out. That does not prove they were not, but it is the question Saturday’s inquiry will have to answer.
+
+The institutional ground is also shifting. A new Electricity Act is splitting the State utility into successor companies, including the National System Operator and a transmission company, but the market for ancillary services, the reserves and fast responses that stabilise a grid, is not yet established. The then Energy Minister and the ministry secretary resigned in April, and the system operator had already had to cut rooftop solar output and some feeders on days in May and June because of imbalances.
+
+No expert quoted in the official reports promises an end to blackouts. After 2003 the US-Canada task force itself said it was impossible to guarantee that large blackouts would never recur. The realistic goals are fewer events, smaller ones and faster recovery.
+
+Keep real N-1 security, including during planned outages, with online monitoring that checks continuously whether the grid could survive losing its next line or generator.
+
+Audit protection and inverter settings regularly and test that plants stay connected during disturbances, as the rules require.
+
+Build fast, layered load shedding sized for today’s low-inertia grid. After its 2015 blackout Turkey expanded automatic shedding to 41 per cent of peak load.
+
+Add voltage and frequency support, such as batteries and dynamic reactive power. Ireland now allows up to 75% of its instantaneous power to come from wind and solar, using procured grid services.
+
+Fit disturbance recorders so investigators can establish causes. Missing data limited both the Iberian and earlier Sri Lankan inquiries.
+
+Test black start, the ability to restart a dead grid, under realistic conditions.
+
+The governance lesson may matter more. After 2003 the United States made reliability standards mandatory with penalties, and the energy department tracked all 46 recommendations one by one. Europe’s Iberia inquiry used a panel led by experts from unaffected operators and published findings in stages. By contrast, Argentina’s regulator had reportedly issued no fines a year after its 2019 blackout, and Chile’s critics say no one has been held accountable for February 2025.
+
+Independent proof that any single reform prevents repeats is thin. Much of the evidence is self-reported by the bodies that adopted the reforms, and Italy’s 2003 blackout was followed by a Europe-wide one in 2006. Whatever Sri Lanka adopts after Saturday, the evidence argues for publishing an independent inquiry, setting dated and enforceable obligations, and reporting publicly on whether they are met.
+
+The suspect at Upper Kotmale may yet be confirmed. If it is, that will explain how the blackout began. The inquiry’s harder job is to explain why nothing stopped it.

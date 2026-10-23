@@ -1,0 +1,31 @@
+Booking.com under investigation by EU regulators over fake listings and scams
+
+The Guardian - EU regulators have opened an investigation into Booking.com, alleging that the accommodation website has not done enough to protect consumers from fake listings and scams.
+
+The European Commission, which regulates the world’s biggest tech companies operating in the EU, said Booking.com may have breached the EU’s Digital Services Act (DSA) with its “absolutely substandard” approach to tackling fraudulent listings and phishing scams, where criminals impersonate a third party to trick people to hand over money.
+
+A commission official said Booking.com should be carrying out risk assessments and acting to prevent fraud as required under the DSA. “We feel that what they have done is absolutely substandard,” said the official. “Although they take measures, they could go much further and they could have much more solid systems to prevent fraud.”
+
+EU officials will also investigate whether Booking.com has breached advertising transparency rules, by potentially not making clear to users that some accommodation providers had paid to make their business more visible on the website.
+
+Under the EU’s DSA, which aims to protect people from harmful and illegal internet content, a company could be fined 6% of its worldwide annual turnover.
+
+The commission said that opening the investigation did not prejudge the outcome.
+
+Booking.com, which is headquartered in Amsterdam and claims to have 28m accommodation listings, said it was engaging constructively with the commission. “Security, trust and the protection of personal information are top priorities at Booking.com,” a company spokesperson said. “We remain committed to working with relevant governments, regulators, law enforcement and industry partners to ‌combat cybercrime and online fraud, and protect travellers and partners.”
+
+The investigation comes after researchers at the UK consumer group Which? exposed security lapses at Booking.com when they used the site to set up – and accept payment for – a fake offer to stay at 10 Downing Street.
+
+EU officials are investigating similar scams, with less high-profile addresses, where consumers thought they had booked a stay, only to find on arrival at a property that it had been fraudulently listed on Booking.com.
+
+Officials are also assessing a second category of scams, dubbed “reservation hijacks” where scammers use hacked data to impersonate an accommodation provider. Criminals send WhatsApp messages and have even used Booking.com’s own platform to request payments from Booking.com’s customers, supposedly to secure a stay. Cases seen by Guardian Money in 2025 involved the theft of several hundred pounds.
+
+EU officials will examine whether the company has sufficient safeguards to prevent data from being misused.
+
+The Dutch consumer association Consumentenbond said it had received 200 reports of scams costing people €65,000 that involved Booking.com in 2025, up from 89 reports worth €25,000 the previous year. These cases were “just the tip of the iceberg”, it said, as many victims would not report to its fraud helpdesk.
+
+Booking.com told the BBC in 2024 it had seen a 500 to 900% increase in scams in the previous 18 months, driven by generative AI tools that enable fraudsters to create very realistic-looking fake emails and internet booking links.
+
+Agustín Reyna, director general of the pan-European consumer group BEUC, said: “It is positive to see the European Commission investigating Booking.com for failing to meet EU digital rules. This is a systemic problem.”
+
+Henna Virkkunen, the commission’s lead official on tech policy, said: “Europeans should be able to book their holidays without fear of being scammed. The Digital Services Act sets clear responsibilities on platforms to address these risks, and we must ensure that the leading booking platform in Europe takes those responsibilities seriously.”

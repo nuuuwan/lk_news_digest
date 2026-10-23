@@ -1,0 +1,29 @@
+Nearly a third of banks AI-free as AI-enabled attacks jump 89%
+
+31% of licensed banks report no AI use and no immediate plans
+
+Nearly a third of Sri Lanka’s licensed banks have no plans to adopt artificial intelligence (AI), while those that have adopted it are leaning heavily on a handful of global technology providers at a time when AI-enabled cyber adversaries increased their operations by 89 percent last year, the Central Bank of Sri Lanka (CBSL) warned.
+
+A survey of all 29 licensed banks, conducted by the Central Bank in November 2025, found that 31 percent, or nine banks, reported no AI usage and no immediate plans, while a further 21 percent were still exploring the technology and 17 percent had pilot projects under development. Only 31 percent had moved to live deployment, which means as many banks were running AI in production as had no plans for it at all.
+
+“No bank reported an AI-first operational model,” the CBSL noted, adding that although 69 percent of banks had commenced some form of AI activity, the depth of adoption remained shallow, with just 4 percent integrating it extensively across operations. Use was largely confined to fraud and anti-money laundering monitoring, credit scoring, customer-facing chatbots and document processing.
+
+However, it was the sector’s reliance on outside providers that drew the regulator’s sharpest concern. Sixty-two percent of banks reported partnerships with a small group of international technology companies, when compared to 24 percent engaging local technology firms, while the right to audit vendor operations ranked lowest among the contractual safeguards banks reported, at 10 percent.
+
+“Narrow provider concentration combined with contractual controls that need strengthening is the most consequential finding of the survey,” the CBSL stated.
+
+It cautioned that where banks depend on the same limited set of cloud and model providers, a compromise or outage at a single provider “ceases to be idiosyncratic and becomes a common mode failure across institutions”, a risk magnified in emerging economies with thinner defensive resources and longer vendor patching cycles. “For Sri Lanka, this is the operative warning,” it added.
+
+The International Monetary Fund (IMF), in a note published in June, made a similar point, observing that critical cloud and frontier AI services are supplied by a small number of globally active firms and that the main threat to financial stability lies in the widening “blast radius” of breaches across shared infrastructure rather than in entirely new forms of attack.
+
+Meanwhile, data from US cybersecurity firm CrowdStrike, cited by both the IMF and the CBSL, shows that AI-enabled adversaries increased their operations by 89 percent in 2025 when compared to 2024. Over the same period, cybercriminals’ average breakout time, the window between initial entry and lateral movement across a network, fell to 29 minutes from 48 minutes, a reduction of nearly 40 percent, with the fastest breakout recorded at just 27 seconds.
+
+Closer to home, the Central Bank pointed out that generative models now enable phishing and business email compromise in fluent Sinhala, Tamil and English at scale, while synthetic voice and video can be used to impersonate customers and senior officers, threatening remote onboarding and video-based customer identification.
+
+In terms of Governance structures, the CBSL observed that those were still at  the early stages of forming. Only 8 percent of banks had established a board-level AI oversight committee, while 17 percent were yet to put any AI governance arrangement in place, more than double the share with board oversight.
+
+“AI is presently treated as a technological deployment matter rather than a driver of financial risk,” it remarked.
+
+In response, the Central Bank is in the process of issuing guidance on the safe and responsible adoption of AI, covering board accountability, model inventories and lifecycle validation, human oversight of consequential decisions and explainability. This will sit alongside the Banking Act Directions on outsourcing issued in March, which take effect on January 1, 2027, and tighten audit rights and exit planning for outsourced and cloud-based arrangements.
+
+Acknowledging that the position at banks may have shifted since the survey given the pace at which AI is evolving, the CBSL maintained that the window to set supervisory expectations ahead of scale “remains open”. (NF)
