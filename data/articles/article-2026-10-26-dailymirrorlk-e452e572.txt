@@ -1,0 +1,27 @@
+Audit exposes regulatory gaps in Sri Lanka’s electric vehicle sector
+
+Colombo, Oct 26 (Daily Mirror) -  The National Audit Office (NAO) has identified significant regulatory weaknesses, institutional shortcomings and inadequate management of used batteries in Sri Lanka’s rapidly expanding electric vehicle (EV) sector, warning that these issues could undermine the environmental benefits of the country’s transition to electric mobility.
+
+An environmental performance audit conducted under Auditor General L.S.I. Jayaratna examined the regulatory framework, infrastructure development and environmental impact management of electric vehicles during the 2020–2025 period. The report noted that the number of registered electric vehicles had exceeded 100,000 by mid-2026, highlighting the need for stronger regulatory mechanisms to manage the sector’s continued growth.
+
+Electric motorcycles accounted for nearly 84% of total electric vehicle registrations by late 2025, reflecting the growing adoption of electric two-wheelers. However, the audit found that several government initiatives had encountered administrative delays and implementation difficulties.
+
+The Global Environment Facility (GEF)-funded e-mobility project experienced prolonged administrative bottlenecks and changes in ministerial oversight, affecting its implementation.
+
+The audit also highlighted the failure of a Cabinet-approved initiative to procure 200 electric buses for the Sri Lanka Transport Board (SLTB). The procurement process was terminated after the sole bidder was disqualified over a fraudulent performance bond. According to the report, recovery action had not been taken as of late 2025.
+
+The report raised concerns about the environmental benefits of electric vehicles, noting that the carbon intensity of Sri Lanka’s electricity generation could limit the reduction in greenhouse gas emissions achieved through their use.
+
+It cited a national grid emission factor of approximately 0.83 kilograms of carbon dioxide per kilowatt-hour. The audit also found that Sri Lanka lacked a unified measurement, reporting and verification (MRV) framework to accurately quantify emission reductions from electric mobility for reporting under the Paris Agreement.
+
+The management of used electric vehicle batteries was identified as another major concern. The report noted that these batteries are classified as scheduled hazardous waste, but the country lacks a centralised system to track them throughout their lifecycle and has no domestic recycling facilities capable of managing the growing waste stream.
+
+As a result, used batteries risk being stored through informal arrangements or exported for treatment and recycling at considerable cost.
+
+The audit recommended that the Central Environmental Authority (CEA) and the Ministry of Environment expedite the introduction of technical guidelines and establish a national system to track electric vehicle batteries from their introduction into the market to their final disposal. It also called for the implementation of Extended Producer Responsibility (EPR) mechanisms to ensure that manufacturers and importers share responsibility for the collection and environmentally sound management of used batteries.
+
+On charging infrastructure, the report recommended that the Public Utilities Commission of Sri Lanka (PUCSL) establish a centralised register of charge point operators, introduce a transparent tariff framework and conduct regular safety inspections at public charging stations.
+
+The audit further called for targeted promotional programmes and financial incentives for electric two-wheelers and three-wheelers, identifying these segments as having significant potential for cost-effective carbon emission reductions.
+
+It also recommended integrating renewable energy into the expansion of electric mobility, including through solar-powered or solar-assisted charging facilities at vehicle depots, to reduce dependence on carbon-intensive grid electricity.

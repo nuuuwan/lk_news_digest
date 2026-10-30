@@ -1,0 +1,19 @@
+Doc990 launches SL’s 1st full-stack AI health assistant
+
+From left: Digital Health Head of Business Development Thiekshana Ekanayake, Digital Health Manager Finance Madara Abeysinghe, Digital Health Manager Marketing and Growth Devindi Wanasundara, Dialog Axiata Group Chief Digital Services Officer Renuka Fernando, Digital Health Chief Executive Officer Janitth Peiris, Digital Health Head of Technology Kasun Ranasinghe, Digital Health Associate Tech Lead Amila Jayashanka and Digital Health Software Engineer Charithra Jayasinghe
+
+Introduces Suvawi: Most advanced conversational healthcare platform in Sri Lanka
+
+Doc990, Sri Lanka’s pioneering digital health solutions provider operated by Digital Health (Pvt.) Ltd — a subsidiary of Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has officially launched Suvawi, a next generation virtual healthcare assistant designed to redefine how Sri Lankans access and navigate medical care.
+
+Seamlessly integrated into the Doc990 ecosystem, Suvawi leverages advanced conversational AI to transition the platform from a traditional booking tool into an intelligent, end-to-end digital health concierge.
+
+Unlike the standard chatbots, Suvawi solves one of the most frustrating challenges in patient care: matching immediate medical concerns with the real-world doctor availability.
+
+The users can now simply describe their physical symptoms to the chatbot and Suvawi’s medical intelligence engine will instantly identify the exact medical specialty required.
+
+Going a step further, the AI analyses real-time hospital schedules to recommend specific specialist channeling options tailored precisely to the user’s preferred date and geographical location.
+
+Doc990CEO Janitth Pieris said, “The launch of Suvawi marks a paradigm shift in how digital healthcare operates in Sri Lanka by eliminating the guesswork and fragmented steps of seeking medical help. With Suvawi, a patient can state what hurts, find the right specialist close to home for the exact day they are free and finalise their entire care cycle, all within a single, continuous conversation.”
+
+By integrating directly with Doc990’s extensive nationwide infrastructure, Suvawi retrieves real-time medical data to provide instantaneous, reliable guidance. The conversational assistant is now live and available to all users on the latest version of the Doc990 mobile app, paving the way for a faster, smarter and highly accessible healthcare experience across the island.

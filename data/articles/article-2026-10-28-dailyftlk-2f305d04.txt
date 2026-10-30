@@ -1,0 +1,19 @@
+Inextricable Group delivers SAP Go-Live for Browns Engineering and Construction
+
+Inextricable Group, a boutique British technology consultancy, has successfully delivered one of the most complex SAP implementations in the APAC region for Browns Engineering and Construction.
+
+The milestone go-live tested the very limits of SAP capabilities and set a new benchmark for enterprise resource planning in the construction sector.
+
+The implementation covered every module within the SAP ecosystem, including the highly intricate Project Systems (PS) module. By integrating these comprehensive capabilities, Inextricable Group has laid a powerful foundation for SAP predictive analytics. This robust data architecture will ensure that Browns Engineering and Construction can drive project and process profitability with unprecedented accuracy.
+
+McKinsey research shows that 70% of large-scale transformations fail to achieve their intended goals. Despite these industry-wide challenges, Inextricable Group continues to defy those odds, successfully delivering even the most complex S/4HANA programmes.
+
+Inextricable Group Group Program Director Nicola Carroll highlighted the significance of the achievement. She explained that this was not a standard deployment but a true test of what the technology can achieve when pushed to its limits. She noted that by focusing on design thinking and co-creation of value, the team built a system that does not just record data but actively drives business performance and robust profitability.
+
+The success of the project was driven by a collaborative approach, working shoulder-to-shoulder with the brilliant team at LOLC IT and the dedicated professionals at Browns Engineering and Construction. This partnership model ensured that the technology was perfectly aligned with the operational realities of large-scale engineering and construction projects.
+
+Inextricable Group Co-Founder Suresh Daniel reflected on what this go-live represents for the firm and the industry. He said that most people talk about digital transformation as if it were a technology problem. It is not. It is a discipline problem. The organisations that succeed are the ones willing to do the hard, unglamorous work of redesigning how their business actually operates before they ever touch a system.
+
+The go-live further cements Inextricable Group’s reputation as one of the most formidable delivery teams in enterprise technology consulting. With a leadership group that brings unmatched C-suite experience from global giants including MAS Holdings, Hugo Boss and Vedanta Group, the firm consistently delivers outcomes that others in the industry struggle to replicate.
+
+For Browns Engineering and Construction, the new SAP landscape provides the agility and insight required to scale operations and manage complex projects with total visibility.

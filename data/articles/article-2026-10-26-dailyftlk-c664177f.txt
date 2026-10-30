@@ -1,0 +1,103 @@
+Mercy, robes and the rule of law in Sri Lanka
+
+Presidential pardons and the disrobing of imprisoned Buddhist monks may appear to belong to distinct legal domains. Yet both bring into focus a fundamental question of constitutional governance: how should public power be exercised when it intersects with criminal accountability, religious authority and public trust?
+
+The relationship between religion and the State in Sri Lanka is frequently examined through the constitutional recognition accorded to Buddhism under Article 9 and the general guarantee of religious freedom under Article 14. These provisions raise enduring questions about the relationship between the State’s special constitutional obligations towards Buddhism and the protection of religious freedom.
+
+These questions have recently assumed renewed public significance, with a large gathering reported around Viharamahadevi Park in protest against State decisions concerning Buddhism. Against this backdrop, two developments invite closer constitutional scrutiny: the Supreme Court’s decision invalidating former President Maithripala Sirisena’s 2019 pardon of Ven. Galagoda Aththe Gnanasara Thero, and the introduction of new prison regulations governing the removal of the robes of imprisoned Buddhist monks. Although the two controversies concern different exercises of State authority, they converge on a common constitutional question: what limits should govern the exercise of public power when it intersects with criminal accountability, religious status and the rule of law?
+
+The two developments are legally distinct. Article 34 of the Constitution confers a power of presidential clemency, whereas the removal of monastic robes engages prison administration and the rules governing religious discipline. Nevertheless, both reveal the importance of distinguishing the existence of a power from the legitimacy of its exercise.
+
+A constitutional power may be broad without being arbitrary. Equally, respect for religious self-governance does not require the State to surrender its responsibility to administer criminal justice. The central challenge is to determine how these forms of authority can coexist without undermining the rule of law.
+
+The significance of these controversies becomes clearer when considered against the historical development of the pardon power, the political role of Buddhist clergy in Sri Lanka, and the symbolic and institutional significance of the monastic robe.
+
+The power to pardon has historically served as an exceptional mechanism for tempering the rigidity of criminal law in the interests of justice, equity and public welfare. It may provide a remedy for miscarriages of justice, mitigate disproportionate sentences, recognise rehabilitation, or respond to compelling humanitarian circumstances. Although wrongful convictions are ordinarily addressed through appellate remedies, clemency retains significance where judicial remedies are inadequate and in capital cases, where mitigating circumstances may warrant the commutation of a death sentence or longer prison sentences. Nevertheless, its exceptional nature demands that the power be exercised consistently with the rule of law.
+
+In England, the royal prerogative of mercy became concentrated in the Crown and was subsequently inherited, in modified constitutional forms, by several jurisdictions influenced by English common law.
+
+The historical association between clemency and sovereign authority explains its unusual constitutional character. Whereas courts determine criminal liability and impose sentences according to law, the power of mercy permits the executive to intervene after conviction. This intervention may serve legitimate humanitarian purposes, but it also creates the possibility of political favouritism and arbitrary interference with the administration of justice.
+
+The United States Constitution provides a useful comparison. Article II, Section 2 empowers the President to grant reprieves and pardons for federal offences, except in cases of impeachment. Although clemency may correct injustice or mitigate excessive punishment, its exercise has raised concerns about impartiality and accountability, particularly where beneficiaries have personal or political connections to the President, as illustrated by President Joe Biden’s controversial pardon of his son, Hunter Biden, in December 2024. However, American history also reveals a striking counterpoint: in United States v. Wilson (1833), George Wilson refused to accept a pardon granted by President Andrew Jackson for mail robbery. The case established that a pardon must be accepted to take effect, illustrating that even the extraordinary power of presidential mercy cannot necessarily be imposed upon its intended beneficiary.
+
+These examples expose an enduring dilemma. The pardon power may operate as an instrument of compassion, reconciliation and correction, but its exceptional breadth can also make it vulnerable to political manipulation. The appropriate response is not necessarily to abolish executive discretion. It is to identify the constitutional and institutional safeguards that distinguish legitimate mercy from arbitrary favour.
+
+Presidential clemency under Article 34: discretion as a constitutional trust
+
+Article 34(1) of the Sri Lankan 1978 Constitution authorises the President, in the case of an offender convicted of an offence by a court within Sri Lanka, to grant a free or conditional pardon, grant a respite, substitute a less severe punishment, or remit all or part of a punishment or penalty.
+
+The provision confers substantial discretion. However, the breadth of the language does not resolve the question of how that discretion should be exercised. In a constitutional democracy, the powers of public institutions derive their legitimacy from the Constitution and must be exercised consistently with its governing principles.
+
+The distinction between a constitutional power and a personal prerogative is therefore fundamental. A pardon is not a private act of generosity by the officeholder. It is an exercise of public authority capable of affecting the administration of justice, the interests of victims and the public’s confidence in the legal system.
+
+The constitutional position also requires a distinction between a pardon and the judicial determination of guilt. Clemency may relieve an offender from the execution of a sentence to the extent authorised by the pardon, but it does not empower the President to set aside the judicial determination itself. Otherwise, the executive would effectively assume a judicial function and disturb the constitutional allocation of powers.
+
+Although a pardon may lawfully affect the punishment imposed, an unexplained or arbitrary exercise of clemency in such circumstances may raise serious concerns about judicial independence and the authority of the courts.
+
+The question is therefore not simply whether the President possesses the power to pardon. It is whether the particular decision represents a lawful exercise of that power.
+
+These issues came into sharp focus in Centre for Policy Alternatives and Dr. Paikiasothy Saravanamuttu v. Maithripala Sirisena and Others, SCFR 256/2019, considered together with Sandhya Ekneligoda v. Attorney General and Others, SCFR 257/2019. In its judgment of 10 September 2026, the Supreme Court invalidated the pardon granted to Ven. Galagoda Aththe Gnanasara Thero in May 2019.
+
+Gnanasara Thero had been convicted by the Court of Appeal in 2016 on counts of contempt of court arising from his conduct at the Homagama Magistrate’s Court. The convictions concerned conduct that interfered with the authority and proceedings of the court. President Sirisena subsequently granted him a full pardon under Article 34(1). The petitioners challenged the pardon on constitutional grounds, arguing that it undermined the rule of law, judicial independence and the separation of powers and violated the guarantee of equality under Article 12(1).
+
+The Supreme Court’s decision is significant for reasons extending beyond the identity of the beneficiary. It affirmed that the exercise of presidential clemency is capable of judicial scrutiny under the fundamental rights jurisdiction of the Court. The constitutional discretion conferred by Article 34 does not place a presidential decision beyond review where the applicable constitutional requirements for such review are satisfied.
+
+A particularly important aspect of the judgment concerned the absence of a contemporaneous record adequately explaining the decision. The Court also examined the circumstances in which the pardon was processed, the treatment of requests both supporting and opposing clemency, and the apparent reliance on a recommendation prepared by the Additional Secretary (Legal), without a documented independent assessment by the President of the relevant considerations.
+
+The Court concluded that the decision was arbitrary and invalid. It declared the pardon, as recorded in the presidential minute dated 21 May 2019, null and void and of no force or avail in law. At the same time, it clarified that the decision did not permanently prevent a future pardon, provided that any subsequent decision was made lawfully and after proper consideration of the relevant material.
+
+The judgment thus drew a distinction between the existence of the pardon power and the legality of its exercise. The President retained the constitutional authority to grant mercy, but that authority could not be exercised in disregard of the constitutional framework.
+
+Presidential immunity and the possibility of judicial review and accountability in the exercise of clemency
+
+Presidential immunity under Article 35 of the Constitution is a qualified protection against personal civil and criminal proceedings, rather than an absolute exemption from constitutional accountability. It rests on the need to protect the functioning of the highest executive office, premised on the expectation that presidential powers will be exercised in the interests of the State and its people, and not to their detriment.
+
+The question of prison attire in previous cases does not appear to have provoked the same controversy as it has in the case of Ven. Gnanasara Thero. Neither Father Mathew Peiris’s case nor that of Ven. Somarama Thero appears to have raised any contestation over the clothing worn following conviction. The approach appeared to have upheld equality among prisoners and at the same time never intended to diminish their religious faith or prevent personal religious observance. Indeed, Peiris was reportedly seen wearing a cross bearing a figure of the crucified Christ even within prison premises
+
+The proviso to Article 35(1) preserves the right to institute fundamental rights proceedings under Article 126 against the Attorney-General in respect of acts or omissions of the President in the exercise of official functions. Significantly, the Nineteenth Amendment strengthened this safeguard by permitting such proceedings even while the President remains in office. Accordingly, proceedings challenging the legality of a former President’s official acts reinforce the principle that the exercise of executive power remains subject to constitutional scrutiny and that the rule of law does not cease to operate at the highest levels of government.
+
+The possibility of judicial scrutiny, in turn, raises the question of how the exercise of presidential clemency can be meaningfully assessed. Recording reasons for a pardon can help establish whether the decision was based on relevant considerations and exercised for a proper purpose, rather than for arbitrary or improper reasons. Such considerations may include the gravity and circumstances of the offence, the sentence imposed, the offender’s conduct and rehabilitation, the interests of victims, and the wider public interest. Their relative significance will depend on the circumstances of each case. The objective is not to replace presidential discretion with a rigid checklist, but to ensure that the exercise of this exceptional power remains reasoned, defensible and consistent with the rule of law.
+
+The monastic robe: religious status, prison administration and institutional competence
+
+The second controversy concerns a different form of authority. On 24 October 2026, an Extraordinary Gazette notification amended the Department of Prisons’ Standing Orders to establish procedures governing the removal of robes worn by Buddhist monks when they are imprisoned.
+
+Under the newly inserted Standing Order 356A, the Commissioner of Prisons is required to consult the Department of Buddhist Affairs concerning the removal of a monk’s robes. The Department must inform the relevant Nikaya or chapter and communicate its position on the proposed action within ten days. The amendments also address the clothing that a monk may wear when taken outside prison, including circumstances in which the relevant Nikaya or chapter has not permitted the wearing of robes.
+
+The significance of these provisions lies in the institutional distinction they recognise. Imprisonment is a matter for the State’s criminal justice and prison administration systems. The question of whether a monk should be disrobed, however, may also concern the disciplinary authority of the Buddhist monastic order to which the monk belongs.
+
+The robe is not merely an item of clothing. It signifies membership of the Sangha, a symbol of religious vocation and an institutional identity governed by religious traditions and disciplinary rules. Its removal can therefore have implications beyond the practical administration of imprisonment.
+
+The new procedures establish a formal channel between prison authorities, the Department of Buddhist Affairs and the relevant monastic institution. They recognise the relevance of ecclesiastical authority without displacing the State’s responsibility to enforce lawful sentences and maintain prison administration.
+
+This does not mean that the robe provides immunity from criminal law. A monk remains subject to investigation, prosecution, conviction and imprisonment in accordance with the law. Nor does imprisonment automatically establish that the monk has been formally disrobed. These are distinct questions requiring attention to their respective legal and institutional frameworks.
+
+The underlying issue is one of institutional competence: which authority is entitled to make which decision, and within what limits? The State must not surrender its responsibility for criminal justice, but it should also distinguish the administration of a prison sentence from the determination of religious status where the governing rules allocate a role to the relevant religious institution.
+
+Nevertheless, the involvement of religious authorities should not be confused with an exemption from criminal law. A monk remains subject to the law of the State. The robe cannot confer immunity from arrest, prosecution, conviction or imprisonment.
+
+The amendment is therefore best understood as an attempt to regulate the point of intersection between State authority and monastic discipline, rather than as a transfer of criminal jurisdiction to religious authorities. These principles extends to the clergy of other faiths, with appropriate regard for their respective religious traditions and institutional practices.
+
+The relationship between Buddhist monastic identity and political power has a long history in Sri Lanka. The assassination of Prime Minister S.W.R.D. Bandaranaike in 1959 provides a particularly revealing example.
+
+The political mobilisation associated with Bandaranaike’s rise to power was popularly described through the phrase “Sanga, Veda and Guru” - the Buddhist clergy, medical practitioners and teachers. The phrase captured the political significance of these groups in the social and electoral transformation of the 1950s.
+
+The irony of the assassination was that Ven. Somarama Thero, a Buddhist monk who was also an Ayurvedic practitioner and associated with teaching at an Ayurvedic institution, became the central figure in the criminal proceedings arising from Bandaranaike’s death. The religious and professional identities that carried social and political authority did not place him beyond criminal accountability.
+
+The historical record also contains an episode directly related to the symbolism of religious attire - the question of robes. During his trial, Somarama stopped wearing his yellow robes when appearing in court. Justice T.S. Fernando reportedly observed that Somarama had “a streak of conscience” because he did not attend court in his saffron robes.
+
+The episode should not be mistaken for a legal determination that Ven. Somarama had been formally disrobed by his monastic institution. The robe may communicate a symbol of religious vocation and social authority, but it cannot determine criminal liability. Nor should the wearing or removal of robes become a substitute for examining the conduct of the individual concerned. The distinction matters: personal conduct, institutional discipline and State-imposed punishment are separate matters, even when they intersect.
+
+The historical example illustrates the political significance of religious identity and the limits of the authority it confers.
+
+A comparative perspective: religious office and the limits of State authority
+
+The distinction between criminal punishment and religious status extends beyond Buddhist monastic life. The case of Anglican priest Father Mathew Peiris offers a useful, albeit institutionally distinct, comparison. Following his conviction for the murders of his wife, Eunice Peiris, and Russel Ingram, Peiris spent approximately twelve years in prison before his release in October 1997 under a general amnesty. He was reportedly permitted to wear clerical attire during his initial court proceedings and remand custody but wore ordinary prison clothing following his conviction. Upon release, he was again seen in clerical attire and continued to be addressed as “Father”. Contemporary reporting, however, indicated that he no longer held his Bishop’s licence and could participate in church activities only in the capacity permitted to lay members.
+
+His case illustrates the distinction between religious identity, ordination and institutional authorisation to exercise the functions of a religious office, particularly when a person is outside prison. While the State determined his punishment through its criminal jurisdiction, it also implies his attire during imprisonment in accordance with the principle of equality before the law.
+
+Significantly, the question of prison attire in previous cases does not appear to have provoked the same controversy as it has in the case of Ven. Gnanasara Thero. Neither Father Mathew Peiris’s case nor that of Ven. Somarama Thero appears to have raised any contestation over the clothing worn following conviction. The approach appeared to have upheld equality among prisoners and at the same time never intended to diminish their religious faith or prevent personal religious observance. Indeed, Peiris was reportedly seen wearing a cross bearing a figure of the crucified Christ even within prison premises.
+
+Also, it was Father Peiris who baptised Somarama Thero in Welikada Prison, giving him the name “Peter” just two days before he was hanged for the assassination of Prime Minister S.W.R.D. Bandaranaike. Father Peiris, by contrast, left Welikada Prison following his release under a general amnesty in October 1997.
+
+(The author is an Attorney-at-Law, and Senior Lecturer in Law, Asia Pacific Institute of Information Technology (APIIT), Sri Lanka)

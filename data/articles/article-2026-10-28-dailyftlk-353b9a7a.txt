@@ -1,0 +1,59 @@
+From consumption to capacity: Taxing those who can pay
+
+The World Bank has said what many Sri Lankan taxpayers have long felt. In a recent interview, World Bank Senior Economist Jakob Engel said Sri Lanka’s tax system should be progressive and simple, and focused primarily on taxing those who can most afford to pay. He also called for broadening the base, widening the tax net, and moving from indirect taxes towards direct taxes.
+
+The timing matters. As Budget 2027 approaches, the question is no longer whether Sri Lanka needs more revenue. The question now is who should pay it, and how.
+
+In 2022, Sri Lanka was collecting only around 7–8% of GDP in revenue, while even low-income countries were moving towards 15%. Under the IMF-backed reform program. VAT and income taxes were raised and exemptions were cut back. These measures were painful, but they were needed to restore fiscal stability.
+
+The results are clear in the Finance Ministry’s Final Budget Position Report 2025. Tax revenue rose to Rs. 5,049.2 billion in 2025, or 15.4% of GDP, up from 12.3% in 2024.
+
+The World Bank accepts this. It also makes the more important point: revenue has risen very quickly, and the task now is to make it sustainable. Revenue that depends on squeezing the same compliant taxpayers is not sustainable. It is borrowed time.
+
+Indirect taxes still account for the bulk of collections, and the Ministry’s own figures show the gap is widening rather than narrowing. Direct taxes made up 33.5% of total tax revenue in 2023. That fell to 27.7% in 2024 and to just 22.6% in 2025, leaving indirect taxes with 77.4% of the total.
+
+The composition tells the same story. In 2025, income tax brought in Rs. 1,139.4 billion, or 3.5% of GDP. Taxes on goods and services brought in Rs. 3,198.1 billion, or 9.8% of GDP, almost three times as much. VAT alone raised Rs. 1,746.9 billion, well above total income tax collections. Part of the 2025 shift reflects one-off factors such as excise duty on motor vehicles, which rose to Rs. 471.8 billion from Rs. 58.6 billion in 2024 as vehicle imports resumed. Even so, the long-term direction is clear: revenue growth is coming mainly from consumption.
+
+VAT and similar levies are paid by every consumer at the same rate, whatever their income. A daily wage earner buying essentials and a high-net-worth individual buying luxuries add to the same pool, but the burden weighs far more heavily on the first.
+
+Indirect taxes are efficient to collect, and no modern system can do without them. But when a tax system leans too heavily on consumption, it becomes regressive almost by default. It also weakens something harder to measure but essential to revenue: public trust.
+
+Perhaps the most telling part of the World Bank’s comments is the observation that a large number of people are not complying, and that significant leakages remain in the base, in compliance, and in administration.
+
+This is the heart of the matter. Sri Lanka does not mainly have a rate problem; it has a coverage problem. The number of registered taxpayers grew to around 1.3 million in 2025, which is real progress. But registration is not the same as contribution. Salaried employees have tax deducted at source. Registered businesses file, pay, and get audited. Meanwhile, a significant share of people with real economic capacity, such as owners of multiple properties, high-value professionals operating informally, and those whose lifestyles clearly exceed their declared income, remain partly or entirely outside the net. The burden falls on registered businesses too as reflected in the World Bank’s Sri Lanka Enterprise Survey 2025, 27.5% of business owners and top managers of 607 firms reported competing against unregistered or informal firms.
+
+When the compliant few carry the load for the non-compliant many, every further rate increase deepens the unfairness. Taxing those who can pay is not about raising rates. It is about finding those who should already be paying.
+
+Several measures could turn the World Bank’s principle into practice.
+
+Land registries, motor vehicle registrations, bank interest records, high-value transactions and foreign travel data together show a great deal about economic capacity. Systematically matching this information against tax filings would identify people who can pay but do not file, without adding any new tax.
+
+The Government has already introduced the process requiring a Taxpayer Identification Number for major transactions, such as property transfers, high-value vehicle purchases and large investments, which would steadily draw capacity into the net and leaves an audit trail.
+
+Moving from indirect to direct taxation should be sequenced, not sudden. With indirect taxes now making up more than three-quarters of tax revenue, a sharp cut in VAT or other consumption taxes would put the hard-won fiscal gains at risk. The shift should instead be tied to results. As income tax compliance improves and the base widens, the extra revenue should be used to ease the burden on consumption, for example by reviewing levies on essential goods or gradually phasing out overlapping taxes such as the SSCL which is a cascading tax in nature. Announcing this link in advance would make the commitment credible. That way, honest taxpayers see that compliance brings relief, not just more obligations.
+
+The World Bank has again called for moving away from distortionary taxes, especially para-tariffs, towards taxes that do not hold back private sector activity. A cleaner, simpler tax structure is both a growth measure and a compliance measure.
+
+In the World Bank’s Sri Lanka Enterprise Survey 2025, which interviewed business owners and top managers of 607 firms, tax rates ranked as the single biggest obstacle to doing business cited by 19.3%. Tax administration came third at 12.3%, nearly three times the South Asian average of 4.6%. Together, almost one in three named tax as their biggest constraint.
+
+Much of this burden can be eased without giving up revenue. Simplified returns, using shorter or pre-filled forms for both individuals and SMEs, would reduce compliance costs and honest errors. Predictable rulings, published on time, would give businesses certainty and prevent disputes. Faster refunds within set timelines, with interest paid on delays, would show that obligations run both ways. Consistent assessments would ensure compliant taxpayers are not targeted simply because they are easy to reach. None of these costs much in revenue, yet each does a great deal for the willingness to comply.
+
+The steps above, particularly data matching and TIN linkage, will give the Inland Revenue Department far greater visibility and reach. As the Government tightens tax administration and the Department is given stronger powers to access data, assess and collect, there must be an equally strong safeguard for taxpayers. An independent Tax Ombudsman would provide that. It would give taxpayers an accessible, low-cost avenue to raise complaints about delays, unfair treatment or the improper use of powers, without having to resort to lengthy appeals or litigation. Enhanced powers are necessary to reach those outside the net, but they must be applied consistently and within their intent, so that the honest taxpayers already in the net do not bear the cost of reaching those outside it.
+
+A Tax Ombudsman would bring transparency and accountability to the process and reassure taxpayers that stronger enforcement will be matched by fair treatment. As the system becomes stricter, an ombudsman is needed more than ever before.
+
+The approach outlined above depends on the tax administration holding more information about taxpayers than ever before. Returns capture details of assets and liabilities, bank balances are reported through banking channels, and property ownership and transfers are drawn from the land registry etc. This is highly sensitive information, and the Government must ensure that it is protected with the same seriousness with which it is collected. Strong data privacy measures are needed, including strict controls on who can access taxpayer information and for what purpose, secure systems, clear audit trails of access, and meaningful consequences for any unauthorised use or disclosure.
+
+Taxpayers must be able to trust that the information they provide will be used only for tax purposes and kept secure. That trust is what will allow them to rely on the system. Without it, the very data that is meant to widen the net may instead drive people further away from it.
+
+The Government’s new Medium-Term Revenue Strategy, which aims to close compliance gaps in VAT, income tax and other areas, provides the framework. What matters now is whether it is implemented consistently.
+
+Tax morale, meaning a citizen’s willingness to pay, is shaped by what people see. When people see that those with visible wealth are paying their share, compliance rises. When they see the opposite, even honest taxpayers begin to question why they should stay in the system.
+
+That is why the World Bank’s message goes beyond economic advice. A progressive, simple tax system focused on capacity to pay is fairer. It is also more resilient, because it rests on a broad base rather than on the patience of a narrow one.
+
+Sri Lanka has done the hard part of raising revenue in a crisis. The next phase is harder in a different way. It requires data, administrative discipline and political will to reach those who have stayed outside the net.
+
+Budget 2027 is an opportunity to signal that change, from taxing what people consume to taxing what they can afford. If we get this right, the reward will be more than revenue. It will be a tax system that citizens see as fair and are therefore more willing to support.
+
+(This article draws on the recent interview given by World Bank Senior Economist Jakob Engel, World Bank’s Sri Lanka Enterprise Survey 2025 (country profile) published in April 2026 and on the Ministry of Finance’s Final Budget Position Report 2025. The views and opinions expressed in this article are those of the author in her personal capacity)

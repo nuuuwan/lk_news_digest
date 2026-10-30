@@ -1,0 +1,13 @@
+DFCC Bank and HNB Life sign up to simplify premium payments, speed up reconciliation
+
+DFCC Bank PLC and HNB Life PLC have signed a Memorandum of Understanding to make insurance premium payments more convenient for HNB Life policyholders and enable faster identification and reconciliation of collections.
+
+The solution combines a dedicated HNB Life biller module, available through DFCC Bank’s branch network and digital channels, with direct system integration that provides HNB Life with real-time payment notifications.
+
+HNB Life policyholders can pay their premiums at any DFCC Bank branch island wide or through the Bank’s digital channels, including DFCC iConnect, the DFCC ONE app and DFCC ONE Online. The combination of physical and digital channels gives customers greater flexibility to choose the payment method most convenient to them.
+
+Direct integration between HNB Life’s systems and DFCC Bank’s core banking system enables HNB Life to receive payment information in real time. This allows payments to be identified and reconciled more quickly while improving visibility across the collection process.
+
+Shamindra Marcelline, Director and Deputy Chief Executive Officer of DFCC Bank said, “Good transaction banking makes complex processes simpler for everyone involved. Through this partnership, HNB Life policyholders gain more convenient ways to pay, while HNB Life gains immediate visibility of collections for faster identification and reconciliation. It is a practical solution that improves both the customer experience and operational efficiency.”
+
+Lasitha Wimalaratne, Executive Director and Chief Executive Officer of HNB Life PLC said, “This integration gives customers greater choice while helping our teams process payment information more quickly and accurately. It will enable us to deliver a more connected and responsive experience.”
