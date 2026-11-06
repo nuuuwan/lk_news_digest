@@ -1,0 +1,15 @@
+DIMO Healthcare installs SL’s first Deep Resolve AI-equipped MRI Scanner
+
+DIMO Healthcare has successfully completed the installation of the Siemens Healthineers MAGNETOM Sola 1.5T MRI system at Hemas Hospital Thalawathugoda, marking the installation of Sri Lanka’s first MRI system equipped with Deep Resolve AI technology from Siemens Healthineers.
+
+The installation is backed by DIMO Healthcare’s dedicated service support, ensuring maximum operational efficiency.
+
+Deep Resolve is an AI-powered image reconstruction technology that uses deep learning to reduce noise and enhance image quality and resolution. It can reduce scan times by up to 73 percent and offer double the resolution of conventional scanning techniques.By supporting shorter scan times and reducing the potential for motion-related image degradation, Deep Resolve AI makes a significant improvement in the overall patient experience during an MRI scan.
+
+Wijith Pushpawela, Executive Director of DIMO said, “The installation of the country’s first MRI system with Deep Resolve technology marks a significant milestone in the expansion of Sri Lanka’s diagnostic imaging capabilities. Our role extends beyond supplying technology. From installation and commissioning to application training and ongoing technical support, we work closely with healthcare providers to ensure advanced medical systems are effectively integrated into clinical practice.”
+
+Dr. Lakith Peiris, Managing Director of Hemas Hospitals & Laboratory Chain, said, “At Hemas Hospital Thalawathugoda, we continue to invest in technology that improves our capacity to deliver accurate and timely diagnostic care. This cutting-edge MRI system brings better care to our patients and provides ourhealthcare professionals withaccess to advanced diagnostic tools. We are excited about the value this technology will bring to patient care and are happy to have worked with DIMO Healthcare to implement it in our hospital.”
+
+The MAGNETOM Sola incorporates BioMatrix Technology, which automatically adjusts to each patient’s individual anatomy and physiology. Its clinical applications include neurological, cardiac, vascular, abdominal, pelvic, breast, musculoskeletal, and oncological imaging. The UltraFlex coils supplied with the system are soft, flexible, high-channel coils that provide high-resolution imaging and improved patient comfort. Together with BioMatrix, they help the system adapt to each patient’s requirements for a comfortable and stress-free experience.
+
+The system supports a wide range of advanced imaging applications, including brain and spine examinations, cardiac MRI, vascular imaging, MRCP, prostate and breast imaging, and whole-body examinations. Dedicated metal artifact reduction sequences also support examinations of patients with MR-conditional implants and orthopedic hardware.

@@ -1,0 +1,33 @@
+Crypto firm Binance covers 90% of losses after $6.3bn hack
+
+BBC - Binance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.
+
+The remaining 10% may take longer to source in the required amounts, the company added.
+
+Binance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.
+
+"Binance will absorb the financial impact of these stolen funds, not our users," the company said in a statement on Saturday.
+
+The Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the hack.
+
+Two analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.
+
+Binance said it had replenished the stolen assets using various funds and its own corporate treasury.
+
+All holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.
+
+The company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.
+
+The hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.
+
+Binance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered "additional points of breach".
+
+Richard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a "self-destruct mechanism".
+
+On Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.
+
+The investigation is ongoing, it added. The US Secret Service said on Friday it is "working around the clock" with private sector partners "to identify, freeze, trace, and recover funds" stolen from Binance.
+
+Binance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.
+
+Crypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers.

@@ -1,0 +1,19 @@
+SLT-MOBITEL Enterprise unveils ‘SASE 361’ to advance secure digital transformation
+
+Heralding an important milestone in SLT-MOBITEL’s transformation from a traditional telecommunications provider to a leading technology and digital services provider, SLT-MOBITEL Enterprise recently unveiled SASE 361, a next-generation Secure Access Service Edge (SASE) service powered by Versa Networks.
+
+The launch of SASE 361, held at Cinnamon Life, Colombo, convened enterprise leaders, technology experts, customers, and partners keen to explore the future of cloud-native networking and cybersecurity.
+
+Attendees witnessed how SASE 361 is set to reinvent the future of enterprise IT, enabling organizations to embrace a more secure, agile, and digitally connected future.
+
+The service endorses SLT-MOBITEL’s role as Sri Lanka’s trusted digital enabler, pairing global expertise with local delivery to help enterprises advance their digital transformation securely, efficiently, and with confidence.
+
+The unveiling of SASE 361 establishes a strategic leap in supporting businesses to thrive in a rapidly evolving digital environment, aligning with the country’s vision for innovation, competitiveness, and sustainable growth.
+
+Secure Access Service Edge (SASE) is a cloud-native framework unifying networking and security into a single service, helping organizations simplify infrastructure, protect data, and provide secure access for users, devices, and locations. Instead of relying on traditional, centralized data center security, SASE delivers connectivity and protection at the network edge, closer to where work happens.
+
+The SASE 361 service is built on the concept of three core pillars of Network, Security, and Access, six integrated security services (NGFW, SWG, CASB, ZTNA, DLP, ATP), and one unified platform, delivering a simplified yet comprehensive approach to secure digital transformation. Seamlessly integrating networking and security into a unified, cloud-native platform, SASE 361 empowers enterprises to embrace agility, resilience, and confidence in the digital era.
+
+The service offers secure connectivity, cloud-delivered security, and simplified network management, redefining enterprise networking and security in Sri Lanka. With real-time visibility, advanced threat protection, and streamlined operations, SASE 361 enables businesses to protect critical data, enhance performance for distributed workforces, and reduce complexity, consolidating multiple functions into one platform.
+
+The strategic partnership with Versa Networks, a global leader in SASE, and Connex Information Technologies, the value-added local distribution partner, further strengthens SLT-MOBITEL Enterprise’s ability to deliver world-class solutions backed through trusted local expertise. Together, these collaborations help Sri Lankan enterprises gain access to proven global technology tailored to local needs.

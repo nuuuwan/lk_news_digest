@@ -1,0 +1,35 @@
+North Korea denies being behind record $6.3bn Binance hack
+
+BBC - North Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance, calling the allegations "absurd rhetoric".
+
+Kim Yo-jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on Tuesday that the accusations are another "sinister attempt" by the US to damage Pyongyang's public image.
+
+The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history.
+
+This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy.
+
+Blockchain analysts and the FBI have said the attack was led by state-backed hacking group TraderTraitor.
+
+The FBI has called on industry partners to help block transactions involving cryptocurrency accounts linked to the group.
+
+"The US has made a trite provocation of linking it with the Democratic People's Republic of Korea again," Kim Yo-jong, the director of North Korea's General Affairs Department, said in a statement.
+
+"It is a grave political provocation against the DPRK that the US misleads the international public opinion as if all the cyber crimes in different parts of the world are our deeds," she said.
+
+But Pyongyang has been blamed for a number of major cyber attacks in recent years - accusations that it has denied.
+
+The TraderTraitor unit, which is also known as the Lazarus Group, was blamed for a then-record $1.5bn hack of crypto exchange Bybit in 2025.
+
+Pyongyang has systematically built its cyber operations, recruiting promising students from universities and sending them to hacker units overseen by North Korea's intelligence agency, research groups like the S Rajaratnam School of International Studies think tank have said.
+
+Kim Yo-jong said "it is the consistent policy stand of the DPRK government to resolutely oppose all sorts of malicious acts in cyberspace".
+
+The BBC has contacted Binance for comment. Since the hack, the crypto giant has largely focused its public statements on the technical nature of the breach and its response to protect users.
+
+The company said initial checks indicated that an engineer's laptop had been compromised, enabling an attacker to make unauthorised withdrawals.
+
+Trading in major cryptocurrencies on Binance has since resumed after the exchange worked with issuers to freeze assets impacted by the hack.
+
+Binance said on Sunday that its customers pulled out more than $3.6bn of assets from its exchange as it reopened after suspending all transactions in the wake of the hack.
+
+The company has repeatedly said it would cover all of the losses linked to the attack and that it has so far covered around 95% of the assets stolen in the breach

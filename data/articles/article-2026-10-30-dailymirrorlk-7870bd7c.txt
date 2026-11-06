@@ -1,0 +1,29 @@
+Crypto worth billions frozen after suspected Binance hack
+
+BBC - Cryptocurrency giant Binance said on Thursday that it has frozen digital assets worth around $3bn (£2.24bn) to prevent them from being stolen while it investigates a security issue.
+
+The company said as part of a series of alerts online that all deposits and withdrawals are temporarily suspended while its teams conduct security checks and that the firm will "cover all losses".
+
+"It does look like a hack on Binance," said Binance's former boss Changpeng Zhao, who remains a majority shareholder of the firm.
+
+Two other major crypto platforms, Tether and Circle, said they have also frozen a total of about $2.4bn of assets in response to the potential Binance hack.
+
+Binance said the amount of funds frozen may continue to increase as its teams work closely with law enforcement and other partners to trace and seize additional assets.
+
+"We are working around the clock and will share a full post-mortem once the investigation is complete. Please rely only on official Binance channels for updates," the firm said, adding that users' funds are safe.
+
+Binance is the world's largest crypto exchange by daily trading volumes.
+
+Bitcoin dropped by around 5% following the alerts. The price of other major cryptocurrencies including Ethereum and Solana also fell sharply.
+
+Circle chief executive Jeremy Allaire said his firm is "closely tracking reports of a potential exploit involving Binance" and that his company has frozen more than $800m in assets linked to the incident.
+
+Circle is the issuer and co-creator of the USDC, one of the world's largest US dollar-backed cryptocurrencies.
+
+Tether CEO Paolo Ardoino said his firm has frozen around $1.6bn "related to a potential Binance exchange hack."
+
+"Protecting the industry and our partners is our main priority," said Ardoino, whose company issues a cryptocurrency known as USDT.
+
+Several crypto industry observers had flagged concerns about a potential hack on Binance hours before the exchange confirmed the attack.
+
+In 2025, hackers stole $1.5bn in crypto from the Dubai-based cryptocurrency exchange Bybit. The record-breaking incident has been attributed to hackers linked with North Korea.

@@ -1,0 +1,11 @@
+North Korean hackers suspected in $6.3 billion Binance heist
+
+North Korea may have orchestrated the historic $6.3 billion crypto heist from Binance, the world’s largest cryptocurrency exchange, Reuters reported.
+
+According to blockchain analytics firm TRM Labs, the attackers transferred most of the stolen funds within about 20 minutes, similar to previous operations attributed to North Korean hackers.
+
+Meanwhile, Binance has already identified half of the stolen money and, in conjunction with partners, effectively frozen the rest. Moreover, Yi He, the exchange’s co-founder, said Binance would cover all losses, so no users would risk their money.
+
+However, the incident revived old fears about the risks of centralized cryptocurrency exchanges and triggered a sell-off in cryptocurrency markets. For instance, Bitcoin fell more than 3% to a six-week low of $76,368, while Ether fell by a similar percentage to $2,178.
+
+Investigators believe a compromised laptop belonging to a Binance engineer was the entry point, allowing the attackers to access internal systems and initiate unauthorized withdrawals.

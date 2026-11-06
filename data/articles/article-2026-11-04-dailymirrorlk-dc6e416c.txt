@@ -1,0 +1,19 @@
+French blood banks hit alongside cyberattack on European supermarkets
+
+Reuters - The refrigerators at three regional blood banks in France were hit by a cyberattack overnight between Sunday and Monday, at the same ​time hackers struck supermarkets from Sweden to Belgium.
+
+"Several regional facilities ​of the French Blood Establishment (EFS) were affected by a cybersecurity ⁠incident that impacted certain cold storage room monitoring and control systems," ​the health ministry said in a statement.
+
+The incident had no impact on ​blood supplies, EFS spokesperson Charley Dubois said.
+
+"We have staff round the clock since blood can be needed at any time. They were warned about the problems by alerts ​and moved the blood to other refrigerators that were not connected," ​she said.
+
+Around the same time, hackers tampered with refrigerators at stores in eight European countries, ‌forcing ⁠retailers to discard large quantities of food, in an attack that echoed an incident affecting dozens of supermarkets in France three weeks earlier.
+
+The situation was under control on Wednesday, the health ministry said, adding that remote ​access to the ​affected refrigerators had ⁠been disabled.
+
+Investigations are under way into how the attack was carried out, what equipment may have been affected ​and when systems can safely return to service.
+
+The attack ​followed ⁠a similar incident in France last month when police said hackers seized control of cooling units at hundreds of supermarkets, causing fires and food losses.
+
+The incidents ⁠have ​raised concerns in the European Union about unsuspected ​vulnerabilities in connected infrastructure amid growing security tensions since Russia's 2022 invasion of Ukraine.

@@ -1,0 +1,47 @@
+Experienced graduates,  yes — but never at the cost of rigour
+
+A reply to Nuwan Jayawardena’s guest column “The expert shortage we are building” (1 October 2026)
+
+When Nuwan Jayawardena asked me, as an academic, what I made of his views in “The expert shortage we are building”, published on 1 October (- https://www.ft.lk/columns/The-expert-shortage-we-are-building/4-798011), I did not need long to answer. I agree with him. He writes as a CFA charterholder and a practitioner who hires; I write after twenty years in the lecture hall, including my years as Head of the Department of Finance at USJ. We have arrived at the same place through different doors.
+
+His central sentence deserves to be pinned on the noticeboard of every faculty in the country: universities must stop producing internship-ready graduates and start producing experienced ones. Yes. Firms that once spent years shaping graduates are no longer willing to, and AI is hastening that retreat. The cost of building judgment has been handed back to us. We can accept it or watch the senior pipeline he describes run dry.
+
+But let me say plainly where my own conviction lies, because anyone who has sat in my classroom knows I have one. Academic programs are at a crossroads, and the way forward is not lighter theory but stronger theory, taught differently. The graduate the market now needs is more technical than ever and, at the same time, more firmly grounded than ever. Nuwan says it himself: a graduate without foundations does not become AI-leveraged. Access to knowledge is cheap. Understanding is not.
+
+No curriculum succeeds if it is designed for the student we used to have rather than the one sitting in front of us. Today’s Gen Z undergraduates are not prepared to learn passively, and I do not blame them. They have grown up with a device in hand, and long, uninterrupted concentration does not come easily. A two-hour lecture delivered to them is, quite simply, lost on many of them.
+
+Employers often tell these young people lack emotional intelligence. I see it differently. They are not short of feeling; they are lost in too much information. Every answer is a search away, yet nobody has shown them which answers matter, or where their own future lies. They are less self-sufficient than earlier generations, not for want of ability, but because they have rarely had to find the path alone. What they need from us is guidance, and plenty of it.
+
+That is precisely why Nuwan’s prescription persuades me. Real problems, mentors and defending one’s work under questioning are not only what employers want. They are exactly what this generation needs to find its footing.
+
+As an academic in Finance my proposal rests on three pillars, each developed across all four years:
+
+Pillar 1 — Know Finance: financial knowledge and conceptual foundations.
+
+Pillar 2 — Analyse, Build and Validate: financial analytics, technology and problem-solving.
+
+Pillar 3 — Demonstrate Professional Judgment: industry practice, decision-making and professional accountability.
+
+Bloom’s Revised Taxonomy — remember, understand, apply, analyse, evaluate, create — is the ladder that connects them. I am firm on one design choice: we do not assign one pillar to one rung, with theory at the bottom and practice at the top. That is the old model, where the university teaches and the employer finishes the job. All three pillars climb together, so judgment is practiced from the first year rather than discovered in the last.
+
+At the top of the first pillar, a student critically assesses competing theories and brings them to bear on a problem she has never seen. At the top of the second, she designs an analytical solution, tests its assumptions and challenges AI outputs rather than accepting them. At the top of the third, she delivers an original solution to a real finance problem and defends it before people qualified to question her. That is the defensible judgment Nuwan rightly calls the most valuable capability of all.
+
+Higher-order thinking is not saved for the final year. A first-year student can weigh two simple savings options; a final-year student evaluates an investment decision clouded by uncertain forecasts, model risk and regulation. The thinking is the same kind. Its complexity and its stakes rise.
+
+Take a valuation project on a real listed company. Students apply what they know about financial statements, cash flows, discount rates and risk. They build a discounted cash flow model, run sensitivity analysis, compare it with market evidence and test any AI-generated assumptions. Then they recommend a valuation range, explain its uncertainty to an industry panel and defend it, individually, under questioning.
+
+I do not mark them on whether the number is “right”. I mark them on whether they can explain it, test it and stand behind it. This is what Nuwan calls examining the person, not the artefact. When the artefact can be produced in seconds, it is the only assessment that still tells me what a graduate can really do.
+
+Here I must be candid, as my students would expect of me. Nuwan proposes that 60 to 70 per cent of the final two years be spent on paid, real work. I share the aim, and his point that a paid student is properly supervised is well made. My caution concerns proportion, and I offer it for all of us to think about.
+
+Things are changing radically, but that is no reason to set academic rigour aside; it is the very reason to hold on to it. The advanced theory of the final years is what allows a graduate to question a model’s assumptions. If too much of that time leaves the university, placement risks becoming a substitute for teaching rather than its culmination. A strong program should change with the times, yet its rigour should stand firm through every change. Integration, not displacement, serves both our aims.
+
+The three pillars give Nuwan’s ideas a natural home. His discovery phase fits first-year observation of industry. His problem briefs become the material of the second and third years. His paid, supervised work and defended outputs crown the fourth. I also share his reading of the quieter obstacles: industry supervision must count towards promotion as research does, placement brokerage should be professionally staffed, and practice-track appointments would add capacity without stretching existing staff.
+
+Where will the next expert come from? From the universities, as Nuwan says, but only if we change what a degree is. Not a timetable of content followed by the hope that industry will finish the job, but a deliberate journey in which students learn finance, use technology to test it, and learn to make and defend professional decisions, with a guiding hand beside them all the way.
+
+To firms: bring us your problems, data and panels from the first year, not only placement slots in the last. To professional bodies: help us standardise what counts. To fellow academics: the three pillars are not an extra burden; they describe what good teaching was always meant to achieve. And to our students: we will guide you, but we will not lower the bar.
+
+The teaching hospital, as Nuwan reminds us, has always known that judgment cannot be learned from a book. It has also always known that judgment cannot be built without one. Our degrees must now stand on both truths at once.
+
+(The author is a Senior Lecturer and former Head of the Department of Finance, Faculty of Management Studies and Commerce, University of Sri Jayewardenepura. The views expressed are personal and AI tools were used in the drafting of this article)
