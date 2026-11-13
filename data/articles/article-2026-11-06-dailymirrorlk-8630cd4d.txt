@@ -1,0 +1,59 @@
+Updated:129mm of rain in a few hours: what it really means for Colombo
+
+Nov 6 (Daily Mirror) - Colombo received 129mm of rainfall within a few hours on Friday evening (November 6), according to the Department of Meteorology. Several roads flooded, and traffic across the capital slowed to a crawl during the evening rush hour. The 129mm is a reading from the Met Department's Colombo station, so not every part of the city would have received the same amount; some areas will have had more rain and others less.
+
+The figure is easy to read out on the news and hard to picture. Put simply, 129mm of rain means 129 litres of water landed on every square metre of the city. That is six and a half 20-litre water cans emptied onto a patch the size of a small bathroom floor.
+
+The Disaster Management Centre (DMC) has released rainfall figures for the period ending at 6 am today. Thimbirigasyaya recorded the highest rainfall in Colombo, 146.6mm, which was also the highest reading in the DMC’s report for the whole country. Mattakkuliya followed with 125.5mm. Piliyandala recorded 68mm in the same period.
+
+That means every square metre in Thimbirigasyaya received 146.6 litres of water, more than seven 20-litre water cans. A 100 m² house roof there took 14,660 litres, about 7,900 litres more than the same roof in Piliyandala. The figures confirm that the rain did not fall evenly across Colombo.
+
+Mattakkuliya recorded the second-highest rainfall of 125.5 mm, followed by Bopagama with 117.6 mm.
+
+One millimetre of rain is one litre of water on one square metre of ground. Rainfall is measured as depth: how high the water would stand on flat ground if none of it drained away or soaked in.
+
+That gives you a rule you can use any time the Met Department issues a figure:
+
+On Friday, 129mm would have stood 12.9cm deep on any flat surface that could not drain, about the height of a tea mug.
+
+The city figure assumes the 129mm fell evenly across Colombo's 37.31 sq km. It did not: the reading comes from one station, and some areas will have had more rain and others less. Treat it as a sense of scale.
+
+Yes. Colombo averages 345.8mm of rain for the whole of November (1991 to 2020 average). Friday evening delivered 37% of that in a few hours, and about 5% of the city's average yearly rainfall of 2,397mm.
+
+Speed matters more than the total. If the 129mm fell over three hours, that is an average of 43mm an hour, and the heaviest bursts would have been stronger.
+
+Most of Colombo is covered by roofs, roads and paving. On open soil, part of the rain soaks in. On concrete and tar, nearly all of it runs straight to the drains. A drain can only carry so much water a minute, so when rain arrives faster than the drains can move it, the extra spreads across the road.
+
+One 100-square-metre roof sheds close to 13,000 litres in an evening like Friday's. Add every roof on a lane, plus the lane itself, and the drain at the bottom of the road is dealing with a swimming pool's worth of water in a few hours.
+
+The Lanka Rain Water Harvesting Forum's calculator estimates a roof's harvest with this formula: runoff coefficient × roof area (m²) × rainfall (mm) ÷ 1,000 = cubic metres of water. The runoff coefficient is the share of rain that reaches the gutter, and it changes with the roof type. Taking 80% as a typical figure, a 100 square metre roof would have collected about 10,300 litres on Friday.
+
+The same calculator puts basic needs at 25 litres per person a day: 4 litres for drinking, 1 for cooking and 20 for sanitation. A family of four uses 100 litres a day on that basis, so one evening's rain from one roof would cover them for about 103 days.
+
+You do not need to store all of it. A single 1,000-litre tank fills from the first 13mm or so of a storm like this. That is ten days of basic water for a family of four, and 1,000 litres kept off the road outside.
+
+Work out your own number. Measure your roof (length × width in metres) and multiply by the rainfall figure in the news. That is how many litres your home sends to the drain.
+
+Hold the water back. A gutter feeding a tank, a barrel or a soakage pit keeps water off the road at the peak of the storm.
+
+Clear your stretch of drain. Polythene, leaves and building sand reduce how much water a roadside drain can carry.
+
+Leave some ground open. A strip of grass or gravel lets part of the rain soak in where it falls.
+
+Use the free calculator. The Lanka Rain Water Harvesting Forum calculator works out the yield, tank size and cost for your district, roof type and roof area.
+
+The Department of Meteorology has advised the public to take precautions during thundershowers, especially against lightning and temporary strong winds.
+
+How many litres is 129mm of rain? 129mm of rain is 129 litres per square metre. On a 100 square metre roof, that is 12,900 litres.
+
+How do I convert rainfall in mm to litres? Multiply the rainfall in millimetres by the area in square metres. The answer is in litres.
+
+How much rain did Colombo get on November 6, 2026? The Department of Meteorology recorded 129mm in Colombo within a few hours on the evening of Friday, November 6.
+
+What is Colombo's average rainfall in November? About 346mm for the month, based on the 1991 to 2020 average.
+
+What size rainwater tank does a Sri Lankan house need? It depends on the family size, roof area, and the number of dry days to cover. The Lanka Rain Water Harvesting Forum's free calculator works this out by district.
+
+Note: The 80% roof runoff figure is an assumed typical value. An Olympic pool is taken as 2.5 million litres and a perch as 25.29 m².
+
+Rainwater harvesting at home in Sri Lanka: Tank size, costs and safety

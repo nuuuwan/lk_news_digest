@@ -1,0 +1,19 @@
+Sri Lankan talent helps power SAGE as Sysco earns Gartner recognition
+
+Sysco LABS Sri Lanka team that contributed to SAGE, recognised at 2026 Gartner Eye on Innovation Awards
+
+Sysco named Runner-Up in Americas Category of 2026 Gartner Eye on Innovation Awards for Retail and Consumer Goods
+
+Sysco LABS Sri Lanka’s engineering teams have contributed to the development of the Sysco Agentic Ecosystem (SAGE), the enterprise AI platform for which Sysco Corporation was named Runner-Up in the Retail and Consumer Goods, Americas Category at the 2026 Gartner Eye on Innovation Awards.
+
+The recognition reflects Sysco’s continued pursuit of technological excellence through investment in AI and new approaches to business challenges. Sysco LABS plays a pivotal role in this work, bringing Sri Lankan engineering expertise to a collaborative effort across Sysco’s global technology organisation.
+
+Sysco is the world’s largest global foodservice distributor supplying restaurants, hotels, healthcare facilities and other businesses that prepare meals away from home.
+
+SAGE brings governed agentic AI into its operations across sales, supply chain and administrative functions. It connects AI agents, software that can perform tasks, with business data and systems, enabling them to recommend actions and carry out workflows within a common governance framework.
+
+Sysco LABS Sri Lanka Managing Director and Sysco Vice President GIC Strategy and Operations Thushera Kawdawatta said, “Being recognised by Gartner validates the exceptional dedication and ingenuity of the team behind this milestone. As Sri Lanka continues to strengthen its role as Sysco’s global AI epicentre, it is our people who are driving this paradigm shift. Through seamless collaboration across our global technology ecosystem, we are deploying world-class talent to solve complex challenges at scale, proving that we are not just embracing the future of AI but actively shaping it together.”
+
+According to Sysco, SAGE supports faster decision-making and business outcomes that include improved customer order fulfilment, operational efficiencies and revenue growth. Its applications demonstrate how advanced AI can address practical needs across a global enterprise, helping sales consultants access answers and sales resources, supporting customer service workflows and enabling employees to find information in training materials, operating procedures and policy documents.
+
+Reusable components and tools requiring minimal coding help technology teams build and deploy AI solutions more quickly. Cybersecurity and data governance are built into the platform, with centralised oversight, safeguards to remove personally identifiable information and filters for AI responses. Support for multiple AI models and cloud environments gives Sysco flexibility to introduce new capabilities while maintaining control over its data and systems.

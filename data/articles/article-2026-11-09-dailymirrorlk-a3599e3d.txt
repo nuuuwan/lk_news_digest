@@ -1,0 +1,39 @@
+Fraud outpacing digital payments growth in Sri Lanka, warns Novus COO
+
+Fraud up 198 percent as digital transactions grow 40 percent
+
+Banks told to share fraud data and use AI against AI-driven attacks
+
+Fraud linked to digital payments in Sri Lanka grew almost five times faster than the transactions themselves last year, as scam syndicates now using artificial intelligence (AI) take advantage of banks that still manage fraud in isolation, according to a senior payments technology executive.
+
+Delivering the keynote address on cyber security and fraud prevention at the Sri Lanka FinTech Festival 2026 in Colombo, Novus Technologies Chief Operating Officer Thorsten Hellwig noted that digital transactions in the country grew by 40 percent last year. That was double the 20 percent growth in payments across the Asia Pacific region, while the number of merchants was increasing by 10 percent a year.
+
+However, citing central bank data, he pointed out that fraud in Sri Lanka had risen by 198 percent, nearly five times the growth in digital transactions. According to the figures he presented, Malaysia recorded fraud growth of around 400 percent and Singapore 150 to 160 percent.
+
+“So the damage grows even faster than the payments,” Hellwig told the audience.
+
+He added that the Maldives, which topped the regional comparison, should be treated as an outlier since its figure was based on a small sample.
+
+He put fraud losses in Singapore at close to S$ 1 billion, in line with Singapore Police Force data showing scam losses of S$ 913.1 million in 2025, down from a record S$ 1.1 billion in 2024. Losses in Malaysia and the Philippines were of a similar size, he noted. Globally, scam losses are estimated at US$ 442 billion as per the Global Anti-Scam Alliance. Hellwig estimated the Asia Pacific region’s share at US$ 100 billion, or nearly 23 percent. He also pointed out that banks take 247 days on average to investigate and resolve a breach, at a cost of US$ 6.3 million each, while threats increased by 25 percent in 2025.
+
+Turning to Sri Lanka, Hellwig said the country was facing the same warning signs seen in Singapore, Kuala Lumpur and Manila. Sri Lanka CERT received more than 12,650 cyber and scam complaints in 2025. Meanwhile, over 1,000 foreign nationals were arrested at scam centres between January and May this year, more than twice the 430 arrests recorded in the whole of 2024, according to the Sri Lanka CERT and Police data he presented.
+
+He also referred to the nearly US$ 2.5 million government payment meant for a debt repayment to Australia, which was diverted through a phishing email and later found by a parliamentary committee to be a cyber fraud. In another case, a licensed bank’s balance grew fourfold over a four-day holiday, and it was a spot check, not a system, that picked it up.According to Hellwig, 80 to 90 percent of frauds begin with phishing outside the institution.“Sri Lanka is in the same storm as other countries. It is exposed to the same sophisticated types of AI-enabled, deepfake-driven ransomware attacks,” he warned. He explained that individual attackers have given way to syndicates using the same AI tools as the industry, and that more than half of all fraud is now AI-generated. A phishing message written by an AI bot is four times more likely to be clicked on than one written by a person, he added.
+
+A 2024 academic study found that fully AI-written phishing emails had a click-through rate of 54 percent, against 12 percent for generic phishing emails.
+
+Hellwig described the position banks are in as an “asymmetric, unequal, unfair” defence. He explained that AI-driven attackers can work out a bank’s fraud rules, stay just below them and scale up an attack at the push of a button. Since banks still work in silos and do not share information, attackers can find out which institutions have left doors open.
+
+He called on banks and fintechs to work together against scams. He described the central layer Sri Lanka is looking at as the most important part of its defences, and also the most underrepresented at present.
+
+Every transaction should carry a real-time risk score along with an explanation, Hellwig stressed. He also called for graph network technology to detect mule account networks, and for banks to share device intelligence instead of assuming that a customer’s device data is in order.
+
+“So the path is no longer detection, it is interception in real time,” he noted.
+
+He identified deepfake onboarding and card testing by bots as the most common forms of attack at present, adding that global card fraud is projected to reach US$ 40 billion by 2027.
+
+Novus set up its local arm, NovusTech Transact Lanka, in Colombo in 2016 and serves eight financial institutions here. It is testing its AI models on a digital twin of payment systems across the region using synthetic data. In one onboarding test, 32 of the 60 applications were injection attempts traced to a single device. The system also picked up staff changing approval levels at times that did not fit normal business processes. In a card testing scenario, cards from different bank identification numbers (BINs) were tested more than a thousand times before being blocked.
+
+Hellwig claimed that banks using AI-based defences have improved real-time detection by 20 percent and cut false positives by 95 percent. He added that AI-assisted investigations can reduce both the time taken and the US$ 6.3 million average cost of a breach. He cautioned, though, that AI agents used for defence also need to be properly governed.
+
+“There is no other means than to defend AI attacks with AI,” Hellwig concluded. (NF)

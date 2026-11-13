@@ -1,0 +1,55 @@
+Sri Lankan University Rankings: The free fall (Part 1)
+
+Same income as Indonesia and Vietnam, a fraction of their academic standing – and the gap widened again this year
+
+On 4 November, Quacquarelli Symonds (QS), the London-based higher education analytics firm, released its Asia University Rankings for 2027. For Sri Lanka, the results made uncomfortable reading. The University of Colombo, still the country’s best-ranked university, dropped 46 places to 364th in Asia. The University of Peradeniya fell to 389th and the University of Sri Jayewardenepura to 398th. Each of the three recorded its lowest placing in four years. Of the 12 Sri Lankan universities ranked, eight went down, two went up and two stayed where they were.
+
+Two years ago, the University of Colombo was 275th in Asia. It has now lost 89 places in two editions. In the global QS World University Rankings, it slipped from the 951–1,000 band in 2025 to the 1,001–1,200 band, where it has stayed for two consecutive years.
+
+I wrote on this subject in these pages in March 2025, under the title “Are Sri Lankan universities not ashamed of their poor global rankings?” That article argued that our universities sit well below where a country with our income and literacy levels should be. Twenty months later, the question is no longer whether we are behind. It is how fast we are falling further behind, and why so few people in positions of responsibility seem to mind.
+
+This article updates the numbers and looks closely at the full QS Asia 2027 dataset – some 1,722 universities from 26 countries and territories – to see what it tells us about Sri Lanka compared with its natural peers: India, Bangladesh, Pakistan, Indonesia, Malaysia, Vietnam, Thailand and the Philippines.
+
+University rankings are sometimes dismissed as a vanity exercise for vice-chancellors. That would be a mistake. For a business audience, rankings matter in at least four practical ways.
+
+First, they shape the market value of a Sri Lankan degree. A graduate applying for a postgraduate place in Canada, a job in Dubai or a role with a multinational in Singapore is judged partly on where the degree came from. Recruiters and admissions officers abroad cannot assess a university they have never heard of; rankings are their short cut.
+
+Second, they influence where our brightest school-leavers go. Families with means increasingly send their children to India, Malaysia, Australia or the UK. Every such student is foreign exchange leaving the country, and often a future professional who does not return.
+
+Third, they affect investment. Foreign companies choosing a location for a technology centre or a back office look for a deep pool of well-trained graduates and for universities they can partner with on research. A weak university brand is a weak national talent brand.
+
+Fourth, higher education is itself an export industry. Malaysia has publicly set a target of 250,000 international students by 2030. Sri Lanka, with a strategic location, low costs and a largely English-literate professional class, barely competes.
+
+In short, rankings are a proxy for how the rest of the world values the human capital we produce. That is a business issue, not just an academic one.
+
+Before going further, a caveat. Rankings are imperfect. Half of the QS Asia score comes from reputation surveys of academics and employers, which favour large, well-known and English-speaking institutions. The weightings are a matter of judgement, and a university that serves its national mission well can still rank modestly. QS has also expanded its tables so quickly that year-to-year rank changes need careful reading.
+
+But these objections cut both ways. Every country in this comparison is measured with the same yardstick, under the same rules, using the same surveys. When countries with similar or lower incomes consistently outperform us on that common yardstick, the problem cannot be explained away as a flaw in the methodology. And whatever academics think of rankings, students, parents, employers and foreign universities use them.
+
+The most damning way to look at Sri Lanka’s position is against countries with similar or lower incomes. According to the International Monetary Fund’s World Economic Outlook (April 2026), Sri Lanka’s GDP per capita in 2025 was about $ 5,000. That is almost exactly the level of Indonesia ($ 5,082) and Vietnam
+
+($ 4,829). It is nearly double that of India ($ 2,675) and Bangladesh ($ 2,636) and three times that of Pakistan ($ 1,696).
+
+If university standing simply followed national income, Sri Lanka would sit alongside Indonesia and Vietnam, and well ahead of India, Bangladesh and Pakistan. It does neither. Table I, which updates the first table of my 2025 article, sets out the global picture.
+
+The pattern is stark. Every country in the table, rich or poor, has a flagship university ranked in the top 600 in the world. Sri Lanka’s best is outside the top 1,000. Pakistan, with one-third of our per capita income, has 18 universities in the global list, and its best, Quaid-i-Azam University, is at 381st. Bangladesh has 13, led by the University of Dhaka at 600th. India has 52, and IIT Delhi is at 118th. Indonesia, at our income level, has 20 ranked universities with Universitas Indonesia at 191st.
+
+To be fair, not every neighbour is rising. Pakistan’s and Bangladesh’s flagships have slipped in the global table over the last two years, as have those of the Philippines and Vietnam. And Sri Lanka did add one university, Moratuwa, to the global list. But slipping from 315th to 381st, as Quaid-i-Azam did, is a very different problem from being stuck beyond 1,000.
+
+Figure 1 makes the same point using the Asia rankings. Plot each country’s best university against its GDP per capita, and Sri Lanka stands out on its own. Every other country of comparable or lower income, except Nepal, has a university in Asia’s top 160. Ours is at 364.
+
+It would be convenient to blame the decline on QS adding hundreds of new universities to its tables. The Asia list has indeed grown rapidly – from roughly 1,000 institutions in the 2025 edition to 1,529 in 2026 and 1,722 this year. A bigger field means more competitors, and more ways to be overtaken.
+
+However, QS itself has rejected that explanation for Sri Lanka’s latest fall. According to QS data shared with the Daily Mirror, only two newcomers ranked above Colombo or Sri Jayewardenepura this year, accounting for about two places of each university’s decline. The main reason is that regional rivals improved while Sri Lankan scores stood still. A typical university in the table improved its overall score by about 1.7 points; Colombo’s slipped from 39.4 to 39.0 and Sri Jayewardenepura’s from 37.8 to 37.5. In a race, standing still is the same as going backwards.
+
+It is also notable that Sri Lanka had no new entrant at all in 2027. Of the 195 universities that entered the Asia rankings for the first time this year, India contributed 34, Indonesia 22, Vietnam eight, Pakistan seven and Bangladesh six. Sri Lanka contributed none. Our neighbours are widening the base of their systems; we are not.
+
+Table II, which replaces the second table of my previous article, shows how each of the 12 Sri Lankan universities fared this year.
+
+There are bright spots. The University of Moratuwa climbed 37 places to 517th and the University of Kelaniya rose from the 731–740 band to 687th. Moratuwa’s strength in research output per academic – it ranks 335th in Asia on papers per faculty, the best of any Sri Lankan university – suggests what focused, outward-looking institutions can achieve. But the three largest and oldest universities, which carry the national brand, are all moving the wrong way.
+
+The longer view is even more sobering. In the 2019 QS Asia rankings, the University of Peradeniya was 174th and Colombo 188th, albeit in a much smaller field. Both are now well below 350th. In 2022, five Sri Lankan universities were in Asia’s top 200 for employer reputation. Today only Colombo remains, at 192nd.
+
+In the second part of this article, I will look inside the QS data to see exactly where Sri Lankan universities lose their marks, what our peers did differently, and what policymakers, university leaders and the business community can do to reverse the fall.
+
+(The author is a policy researcher cum academic. AI tools including Claude.ai, Perplexity AI and Grok.com have been used in the compilation of the article. The author has validated the facts and takes full responsibility. The ideas expressed are personal. The author can be reached at [email protected].)

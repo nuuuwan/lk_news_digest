@@ -1,0 +1,23 @@
+Hayleys Solar introduces SL’s 24/7 Renewable Energy Operations Centre
+
+Hayleys Solar has introduced Sri Lanka’s first dedicated 24/7 Renewable Energy Operations Centre (ROC), enabling continuous monitoring and performance management of renewable energy assets through a centralised digital platform.
+
+Designed and technologically backed by Fentons Information Technology (FIT), the ICT arm of Hayleys Fentons, the ROC brings together renewable energy expertise and advanced digital technology to enhance operational efficiency across residential, commercial and industrial (C&I), and utility-scale solar, wind and battery energy storage projects.
+
+A key technological strength of the ROC is its ability to integrate multiple inverter brands and renewable energy projects into a single, centralised dashboard, eliminating the need to monitor individual systems separately. With thousands of solar panels and inverters currently in operation, the platform provides real-time visibility into energy generation, inverter performance, device connectivity, weather conditions and overall plant performance.
+
+Through its intelligent alarm management system, the ROC can instantly detect and highlight operational abnormalities, including low energy generation, power outages, inverter faults and communication disconnections. These issues trigger immediate on-screen pop-up alerts, enabling operational teams to identify affected sites and prioritise corrective action.
+
+The platform further minimises the need for manual intervention through automated monitoring and fault identification. An automated SMS alert mechanism will notify the engineer responsible for the affected location, enabling prompt action. Where physical intervention is required, the nearest available engineer can be assigned to inspect and resolve the issue, supporting faster response times and reduced downtime.
+
+Additionally, the ROC enables on-demand generation of customised reports and performance dashboards, providing daily, monthly and annual energy generation insights, expected-versus-actual performance analysis and comparisons across multiple plants. These capabilities support data-driven decision-making and proactive asset management.
+
+Commenting on the initiative, Hasith Prematillake, Managing Director, Hayleys Fentons Limited said, “As a diversified organisation, Hayleys Fentons brings together deep expertise across multiple disciplines. The ROC demonstrates how we are combining the strengths of our Energy and ICT businesses to deliver more connected, responsive and efficient solutions, creating greater value and an enhanced experience for our customers.”
+
+Roshane Perera, Deputy Managing Director – Energy, Hayleys Fentons Limited, stated, “Renewable energy assets operate continuously, and effective monitoring must do the same. Through the ROC, we are strengthening our ability to identify issues instantly, minimise downtime and optimise asset performance through real-time intelligence and faster operational response.”
+
+Yoosoof Ihthisham, General Manager – FIT, added, “The ROC represents a significant step towards intelligent renewable energy management. By integrating diverse technologies into one platform and enabling automated alerts, advanced analytics and on-demand reporting, we are transforming complex operational data into actionable insights.”
+
+Looking ahead, the second phase of the ROC will extend its capabilities beyond Hayleys Solar’s existing customer portfolio, offering third-party renewable energy asset owners and operators access to its centralised monitoring and performance management services. This expansion aims to make advanced, technology-driven operational support more widely accessible across Sri Lanka’s renewable energy sector.
+
+By combining round-the-clock monitoring, intelligent automation and proactive technical support, the ROC reinforces Hayleys Fentons’ commitment to advancing the reliability, efficiency and long-term performance of renewable energy infrastructure.

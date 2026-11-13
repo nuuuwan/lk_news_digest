@@ -1,0 +1,35 @@
+Solutions to youth problems: The case of IT qualifications
+
+Creating more free or subsidised seats in IT degree or certificate programs appears the obvious solution. But what if those programs are substandard or obsolete?
+
+Serbia and Nepal have governments formed by youth. The governments in power in Sri Lanka and Bangladesh owe their fortunes to youth-led urban uprisings. The blue wave that washed out Republican candidates in the US was powered by youth. Some of Sri Lanka’s most senior politicians have said that no progress can be achieved without greater participation of youth.
+
+I was at a recent Youth Forum in Colombo that highlighted the problems of the youth and presented the solutions they had come up with. I was there on a weekday morning because I agree with the need to give youth a greater voice in governance. I strongly believe we need to bring young people into the political and policy mainstream. That belief has been operationalised in various ways, most recently through a TV program and associated social media stream, where every week I discuss with a young person a policy problem that has been left unresolved by my generation.
+
+But the young person is not there simply because of his/her age. They have been invited because they are able to make evidence-based, informed contributions or have experience of the ground situation. The discussion is, in part, a pressure-testing of their ideas and the evidence that supports their conclusions. It is in this context that I looked at an example of a solution released at the Forum.
+
+The problem of lack of economic dignity was to be addressed partially by increasing the number of youth with IT qualifications. This indicates ignorance of current job-market conditions in the IT and IT enabled services (ITES) sector. Leaders of the various bodies representing employers in this sector are aware of the problem (they cannot be unaware because it is they who have stopped hiring entry-level employees and shut down the internships). But they have not gone on record as their counterparts in India have done:
+
+“Recent college graduates in India could struggle to land technology jobs as companies automate entry-level coding and software testing work with artificial intelligence, the top executive at the country's largest industry body for technology companies told Nikkei Asia.
+
+Rajesh Nambiar, president of the National Association of Software and Services Companies, said the hurdle could last until India's software exporters adjust to the new business reality. That would involve opening up new opportunities in cybersecurity and AI consulting as well as implementation and maintenance, among others, in order to offset reduced workloads in key revenue streams such as technology infrastructure management.
+
+As revenue models become based on the actual outcome rather than the number of people deployed on a project, the goalposts will shift for fresh graduates, said Nambiar, a former chairman and managing director for India at information technology services company Cognisant. That suggests a need to refresh the computer studies curriculum, otherwise India could find itself with thousands of engineering graduates with mismatched abilities.”
+
+The “solution” of more IT graduates was somewhat understandable in 2019, when the results of the last National IT BPM Workforce Survey were released by the ICT Agency. Even then, those who could look beyond their noses could see that the BPO/BPM industry which according to the BOI employed the majority of the 175,000 persons in the IT and ITES sector was endangered. Now the conventional software firms are also curtailing hiring.
+
+It is inexplicable that this solution continues to be promoted in 2026 when AI and its effects on employment have risen in salience. Even if one does not keep abreast of international developments, the announcement of the phased closure of HSBC Electronic Data Processing Lanka Ltd., HSBC’s global service centre located at Havelock City, should have rung a bell.
+
+What is needed is not the ramping up the production of IT graduates, but urgent reforms in what today’s students are taught. Industry must work with educationists to execute this pivot.
+
+It is extraordinarily important to communicate the concerns of the young to decision makers, the media, and through multiple channels to the general public. For this, the organisers of the Forum deserve our thanks.
+
+For effective communication, systematic qualitative research may be enough. Stories are what people remember and are persuaded by, not numbers. But media attention is more likely for the findings of quantitative research given as percentages. For example, a news story stated: “The survey found that 80% of respondents identify primarily as Sri Lankan, and 73.7% feel a strong national belonging. However, 49.1% stated they would leave Sri Lanka if given the opportunity.”
+
+The problem with good survey research is cost. Eliciting responses from representative (randomly drawn) samples across the country is expensive. Multi-method research is good, but properly conducted truly random sample surveys cannot be dispensed with. Findings drawn from convenience samples do little more than pollute the conversation.
+
+Once the problems are identified, solutions must be formulated. This is not easy, even for people who have spent most of their lives in a particular sector. International experience must be studied to avoid reinventing the wheel and to understand direct and collateral effects. The solutions that emerge must be pressure-tested by allowing experts and practitioners with different perspectives to comment on them. Otherwise the outcomes will be little different from the empty, and in many cases harmful, promises contained in election manifestos.
+
+The enthusiasm and energy of the youth are essential to social change. Youth drive movements. But they are not especially suited to formulate solutions, even to their own problems. For that, the primary qualifications are expertise and experience. Youth should be involved, to the extent that they have engaged in research and/or can bring insights from the field to the policy formulation process.
+
+Creating more free or subsidised seats in IT degree or certificate programs appears the obvious solution. But what if those programs are substandard or obsolete? A proper understanding of current trends and requirements in the IT and ITES sector will point to a different solution. The wrong solution will waste money and years of a young person’s life. The understanding needed to avoid that comes only from those with expertise and experience, irrespective of age.

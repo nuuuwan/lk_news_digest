@@ -1,0 +1,59 @@
+Sri Lankan University Rankings: The free fall (Part 2)
+
+Closed to the world, short of teachers and thin on research: what the data reveal, and how to reverse the slide
+
+In the first part of this article, I showed that Sri Lanka’s universities sit far below those of countries with similar or even lower incomes, and that the gap widened again in the QS Asia University Rankings 2027, released on 4 November. The University of Colombo, our best, is now 364th in Asia, down from 275th two years ago. Indonesia and Vietnam, at almost exactly our income level, have universities at 53rd and 159th. India, Bangladesh and Pakistan, with half or less of our per capita income, have theirs at 66th, 136th and 76th.
+
+This second part asks the more useful question: why? The QS dataset – 1,722 universities from 26 countries and territories – breaks each university’s score into eleven indicators, showing exactly where we lose our marks.
+
+Comparing Sri Lanka’s top three universities with the top three of each peer country tells us exactly where we fall short. Table III summarises the scores (out of 100).
+
+nPattern 1: Sri Lanka is closed to the world. This is the single biggest gap. The average score of our top three universities on international faculty is 1.6 out of 100 and on international students 3.8. Inbound and outbound student exchange are similarly close to zero. Indonesia’s flagships score close to 100 on international faculty and on both kinds of exchange; Malaysia’s score 95 or more on all four. Even Bangladesh and Pakistan, hardly magnets for foreign academics, score ten to fifteen times higher than we do on international faculty. Across all 1,722 universities in Asia, the average international faculty score is 33.3. Ours is 1.8.
+
+Pattern 2: Too many students per teacher, and getting worse. On the faculty-student ratio, every single Sri Lankan university fell in rank this year. At Colombo, according to QS, student numbers rose by about 6% while academic staff numbers fell by about 3%. That is roughly 9% more students for each lecturer in a single year. Our top three average 15.9 on this indicator, compared with 88–91 for Malaysia and Indonesia.
+
+Pattern 3: Thin research output and too few PhDs. On papers per faculty, our top three average 12.8 against 99.8 for India and 66.3 for Malaysia. On staff with a PhD, the averages are 41.5 for Sri Lanka against 100 for India and 99.7 for Malaysia. Every Sri Lankan university with data fell in rank on the PhD indicator this year, even where its own score improved slightly. Five Sri Lankan universities – Rajarata, Sabaragamuwa, South Eastern, Ruhuna and Wayamba – reported no PhD data at all, which itself costs points.
+
+Pattern 4: Reputation is our relative strength – but it is fading. Sri Lanka still does respectably on academic reputation compared with the Asian average, and Sri Lankan research that is published is reasonably well cited. Sri Jayewardenepura is 194th in Asia for citations per paper, and Peradeniya is 274th for its international research network. Academic reputation was the only indicator where Sri Lanka gained ground this year. Yet the gap with peers’ flagships remains wide: India’s and Indonesia’s top three average 98 on academic reputation, ours 41. And on employer reputation, both Colombo and Sri Jayewardenepura lost points this year while most of Asia gained.
+
+Put simply, Sri Lankan academics who do research are producing work that is cited. The problem is that there are too few of them, they are overloaded with teaching, they rarely work with foreign colleagues on campus, and they teach almost no foreign students. These are system problems, not individual failings.
+
+Table IV compares Sri Lanka’s overall presence in the 2027 Asia rankings with that of its peers. Two numbers stand out. First, Sri Lanka has no university in Asia’s top 200; Vietnam and the Philippines have two each, Bangladesh three, Pakistan five and Indonesia twelve. Second, within South Asia alone – a subregion that QS ranks separately – the University of Colombo is only 83rd. In other words, 82 universities in India, Pakistan, Bangladesh and Iran are ahead of our best.
+
+Again, honesty requires a caveat. This year was a difficult one for most of South Asia. About 71% of India’s returning universities, 66% of Pakistan’s and 59% of Bangladesh’s fell in rank, compared with 67% of Sri Lanka’s. IIT Delhi fell from 59th to 66th. The difference is the starting point: a slide from 59th to 66th still leaves IIT Delhi among Asia’s elite; ours moves us further from relevance.
+
+The picture is a little better when we look at individual researchers rather than institutions. In the AD Scientific Index, which ranks academics by their Google Scholar citations and h-index, the University of Colombo’s world position improved from 1,655 in early 2025 to 1,315 in mid-2026, and the number of its academics in the global top 10% rose from 21 to 22. Sri Lanka has capable researchers. What it lacks is a system that multiplies their impact: research time, funding, PhD students and international collaboration.
+
+Rankings are a symptom. The causes are well known to anyone who has worked with our universities.
+
+The first is money, and what happened to it after 2022. The economic crisis eroded academic salaries in real terms, cut research budgets and accelerated the departure of experienced lecturers abroad. The faculty-student and PhD numbers in the QS data are the statistical footprint of that exodus.
+
+The second is insularity, and it is largely a policy choice. State universities have few incentives to recruit foreign staff or students, and the rules make it hard even when they try. As I pointed out in 2025, visa procedures for foreign academics and students are cumbersome and unpredictable.
+
+The third is weak incentives for research. The research allowance paid to state university academics is largely automatic rather than linked to measurable output. Recruitment and promotion still give limited weight to publication impact. It should not surprise us that output per academic is low.
+
+The fourth is that nobody owns the rankings. Most leading Asian universities have dedicated offices that manage data submissions to ranking agencies, track indicators, build relationships with employers and promote the institution abroad. Few Sri Lankan universities do. The absence of PhD data for five of our ranked universities is a small but telling example: points are being lost simply because data are not submitted.
+
+The countries that have overtaken us did not do so by accident. Malaysia made internationalisation a national strategy, opened its doors to foreign branch campuses and set explicit targets for foreign students; its universities now score close to the maximum on every international indicator. Pakistan, through its Higher Education Commission set up in 2002, invested heavily in sending academics abroad for PhDs and in rewarding publications, which is why its flagships score well on research output and staff qualifications despite the country’s economic difficulties. Vietnam allowed ambitious private universities to grow; Duy Tan University, a private institution, is now Vietnam’s highest-ranked university in the QS world table. Indonesia broadened its base, and its top three universities now rank in Asia’s top 60.
+
+The common thread is deliberate policy sustained over a decade or more, not money: none of these countries was richer per head than Sri Lanka when it started. What they had was a decision, made at the top that their universities would compete internationally.
+
+None of this is beyond repair. Countries with fewer resources have moved faster. Here are six practical steps.
+
+Open the doors. Set a national target for international students and staff, as Malaysia has done, and back it with a fast-track visa for foreign academics and students. Internationalisation indicators are where Sri Lanka’s scores are closest to zero, so they offer the biggest gains for the smallest effort.
+
+Fix the staff equation. Retaining and rebuilding the academic workforce should be a priority. That means competitive pay for research-active staff, funded PhD places linked to returning service, and allowing universities to hire experienced Sri Lankan academics from the diaspora on flexible terms.
+
+Pay for performance. The University Grants Commission should link a portion of university funding to measurable improvement in research output, internationalisation and graduate outcomes. Research allowances should reward research.
+
+Bring employers inside the tent. Employer reputation is worth 20% of the QS Asia score. Chambers of commerce, export associations and large employers should formalise partnerships with universities on curricula, internships and joint research.
+
+Professionalise reputation management. Every university in the rankings should have a small, well-staffed office responsible for data quality, ranking submissions, international partnerships and global communications.
+
+Let the best rise faster. Moratuwa’s progress shows what focus can achieve. Give a handful of universities more autonomy over hiring, admissions and partnerships, in return for clear performance targets.
+
+Sri Lanka’s universities have long performed below what our income, literacy and history would predict. The 2027 rankings show that the gap is not closing; it is widening. Countries that were poorer than us a decade ago, and some that still are, now have universities that the world takes seriously. Ours are slipping further down the table each year, not because our academics are less able, but because the system around them has stood still while the rest of Asia has moved.
+
+For a country that hopes to sell services, attract investment and keep its talented young people at home that is not an academic concern. It is an economic one. The great fall can still be reversed – but only if we stop treating the rankings as somebody else’s problem.
+
+(The author is a policy researcher cum academic. Ai tools including Claude.ai, Perplexity AI and Grok.com have been used in the compilation of the article. The author has validated the facts and takes full responsibility. The ideas expressed are personal. The author can be reached at [email protected].)

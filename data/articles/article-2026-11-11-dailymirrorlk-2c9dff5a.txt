@@ -1,0 +1,19 @@
+Blue Yonder Cognitive Solutions to power future of Sri Lankan retail
+
+Hayleys Retail Holdings Ltd announced that it has selected Blue Yonder to build its grocery retail operations from the ground up with AI and connected supply chain technology. Hayleys Retail plans to open a number of stores in the near future to bring reliable service and greater convenience to consumers across Sri Lanka. The company is Blue Yonder’s first retail customer in Sri Lanka.
+
+Hayleys is Sri Lanka’s number one ranked public listed company and a multinational conglomerate, accounting for approximately 5 percent of Sri Lanka’s export income, with operations spanning 17 business sectors across five continents.
+
+Entering the large-scale supermarket sector and drawing on the Group’s strengths in manufacturing, logistics and services, the company looked beyond the applications it would need on day one to how it wanted the business to operate at scale.
+
+Hayleys Retail selected Blue Yonder for three reasons: a unified data foundation that connects merchandising, replenishment and space decisions; AI agents that monitor operations, detect anomalies and recommend actions before problems cascade; and a cloud-native platform that can grow with the business from its first stores to a national network without re-platforming.
+
+The rollout begins with Blue Yonder Merchandise Operations, giving Hayleys Retail a single source of truth for item, supplier, cost and pricing data and the operational discipline to execute consistently at the store, region and channel level.
+
+As the business scales, Blue Yonder Allocation and Replenishment will apply machine learning forecasting to keep inventory aligned with demand, including seasonal peaks. Because every capability runs on the Blue Yonder Platform, each solution Hayleys Retail adds draws on the same data and the same AI, so the business gets smarter as it grows.
+
+“Service excellence has been at the heart of every Hayleys business for 148 years, and our entry into supermarket retail is about bringing that same commitment to quality and reliability closer to everyday Sri Lankan consumers,” said Mohan Pandithage, Chairman and Chief Executive, Hayleys PLC.
+
+“Digital transformation has been a key driver of how we create greater value across the Group, empowering our teams and enabling us to serve our customers better. Building a new retail business allows us to embed that approach from day one. With Blue Yonder, our teams will have AI-driven insight to deliver a seamless, consistent shopping experience across every store. This collaboration represents an important step in building a future-ready retail business.”
+
+“Few retailers get to choose their operating model before their first store opens,” said Antonio Boccalandro, President, APAC, Blue Yonder. “Hayleys Retail is choosing one where AI is the foundation rather than an add-on—connected data and agentic AI built into core merchandising operations, and planning that learns as the business grows. That is exactly what we built our Cognitive Solutions and Blue Yonder Platform to deliver, and we’re proud to support Hayleys Retail, a member of Hayleys PLC, Sri Lanka’s largest and most diversified conglomerate as it builds a modern supermarket business and as Blue Yonder expands its presence in South Asia.”
