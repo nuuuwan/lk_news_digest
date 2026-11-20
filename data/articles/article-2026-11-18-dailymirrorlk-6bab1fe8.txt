@@ -1,0 +1,29 @@
+BBC and Ikea among nearly 200 websites hit by hackers
+
+Nearly 200 prominent websites worldwide, including those of the BBC, Ikea and Air France, were hit by malicious cyberattacks on the same day, as hackers sought to steal users’ financial information and compromise Apple devices. Separately, Apple suffered widespread system outages that same day following a faulty internal update, but clarified that the disruption was unrelated to a cyberattack.
+
+AFP, citing a report by specialist technology news outlet Cyber News (《网络新闻》) on Tuesday (17 November), said the attacks stemmed from hackers injecting compromised JavaScript code into tools hosted by digital experience platform Optimizely. Many major companies use the platform to customise users’ online experiences.
+
+The attack targeted about 178 websites, aiming to steal users’ credit card details and cryptocurrency, and to plant code on Apple devices in an attempt to compromise them further.
+
+Information security researcher Scott Helme, who first discovered the incident, wrote in a blog post on Monday (16) that the victims included some of the world’s most visited websites. Among them were video communications platform Zoom, the BBC, CNN, software company Salesforce, code-hosting platform GitLab, Ikea, HSBC in the UAE, credit reporting giant Equifax, Air France-KLM, cryptocurrency wallet maker Ledger and streaming platform Peacock.
+
+Helme noted that the attackers’ cryptocurrency wallet received about US$7,040 (S$9,070) in just nine hours on 16 November. However, he said most of the malicious code on the affected websites had been removed on Monday.
+
+Optimizely subsequently said in a statement that it had “identified and contained a security incident affecting some Optimizely Web Experimentation customers”.
+
+The company added on social media that the attack vector had been blocked, the injected code removed and affected customers contacted directly.
+
+Apple internal update triggers major outage, disrupting retail and iCloud services
+
+Separately, Bloomberg reported that a faulty internal update at Apple on Tuesday caused widespread system outages, disrupting employee tools, retail operations and consumer services. The company was working to restore services.
+
+Apple made clear that the outage was not caused by a cyberattack.
+
+Citing people familiar with the matter, the report said the outage brought down several internal services, including employee portal AppleWeb, internal login system AppleConnect and the virtual private network (VPN) used by remote workers. Employees also had trouble downloading internal software builds, checking company calendars and booking meeting rooms. Even the internal website used to track outages was unavailable.
+
+Many employees were unable to log in to systems requiring Apple credentials for hours, bringing their work to a complete halt. The incident also affected Apple stores worldwide, disrupting sales, repairs and customer service.
+
+According to Apple’s online status page, the problems also extended to consumer, school and business services. Users were unable to access iCloud services or sign up for AppleCare coverage directly on their devices.
+
+Apple said in a statement: “Many of our systems are back up and running after an internal update caused some outages this morning, we’re working to get the remaining systems online as soon as possible.”

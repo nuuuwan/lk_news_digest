@@ -1,0 +1,33 @@
+ComBank launches Payable TAP in South Asia’s 1st deployment of Mastercard Cloud Commerce
+
+Helps businesses accept contactless card payments with greater ease and flexibility
+
+Reaffirming its position as Sri Lanka’s leader in technology and digital banking innovation, Commercial Bank of Ceylon has announced the launch of Payable TAP in partnership with Payable (Pvt.) Ltd and Mastercard, marking South Asia’s very first deployment of Mastercard Cloud Commerce technology.
+
+Unveiled at Mastercard’s Access Unlocked Summit in Sri Lanka in the presence of senior government representatives, the solution enables any NFC-enabled Android smartphone to function as a secure, fully compliant contactless payment terminal, eliminating the need for dedicated point-of-sale hardware.
+
+A live contactless transaction demonstrated at the summit highlighted the solution’s readiness for daily use, enabling micro and small merchants to accept contactless payments via physical or virtual cards.
+
+Powered by Mastercard Cloud Commerce, Payable TAP represents a significant evolution in Software Point of Sale technology, shifting core payment processing, authentication and security functions from the device to the cloud. This architecture enhances scalability, enables real-time fraud monitoring and ensures continuous updates without disruption to the merchants.
+
+Payable TAP allows the merchants to accept physical credit and debit cards as well as digital wallet payments, using the Tap and Pay technology, with a transaction limit of up to Rs.100,000 per tap. The platform also supports QR payments.
+
+Designed for accessibility, Payable TAP features a trilingual interface available in Sinhala, Tamil, and English and issues instant digital receipts via SMS or email. The businesses can activate multiple smartphones under a single account, making it an ideal solution for delivery operations and multi-point retail environments.
+
+Payable TAP is compliant with PCI MPoC (Mobile Payments on Commercial Off-The-Shelf devices) standards and employs EMV chip-level encryption comparable to traditional POS terminals. The card data is never stored on the merchant’s device, with all sensitive processing handled securely through Mastercard’s cloud infrastructure.
+
+The launch reinforces Commercial Bank’s continued leadership in digital payments innovation while extending its long-standing commitment to Sri Lanka’s SME sector in the payments domain. By removing the cost and complexity associated with traditional POS terminals, Payable TAP opens the door for micro and small merchants, from market vendors and food truck operators to delivery riders and seasonal traders, to participate fully in the digital economy.
+
+“This is about redefining access to payment infrastructure at scale,” Commercial Bank Managing Director and CEO Sanath Manatunge said.
+
+“When acceptance moves from hardware to software and from devices to the cloud, the barriers that once limited participation in the digital economy effectively disappear. What we are enabling through this collaboration is not just acceptance but a more resilient and future-ready payments ecosystem that can adapt rapidly to the changing customer behaviours and business models.”
+
+Payable Co-Founder and CEO Yohan Wijesiriwardane said, “Financial inclusion means making sure every merchant in Sri Lanka, from the market trader and delivery rider to the small shop owner, has the same access to digital payments as any large retailer. Payable TAP gets us there. No hardware to buy, no complicated setup. If you have an NFC-enabled Android smartphone, you can start accepting card payments today at a cost that actually works for your business. This launch with Commercial Bank of Ceylon and Mastercard is more than a product announcement. It is a commitment. We are targeting 100,000 new merchants in the digital economy over the next four years and this partnership is one of the most critical pillars in making that happen.”
+
+Payable is Sri Lanka’s leading fintech and digital payments provider.
+
+“Mastercard’s Tap on Phone capabilities have helped democratise card acceptance across more than 110 markets worldwide. With Cloud Commerce, we are taking that vision a step further by moving critical payment functionality to the cloud, enabling greater flexibility, scalability and accessibility,” said Mastercard Country Manager Sri Lanka Mahesha Amarasuriya.
+
+“This launch marks an important milestone for Sri Lanka’s digital payments ecosystem. Together with Commercial Bank and Payable, we are helping reduce barriers to acceptance and making secure, affordable digital payment capabilities accessible to micro and small merchants. This collaboration reflects the power of innovation in advancing financial inclusion, empowering entrepreneurs and accelerating the country’s journey toward a more connected and digitally enabled economy.”
+
+The merchants can be onboarded through Payable in a simple four-step process, after which they can download the application, log in and begin accepting payments immediately. At the point of sale, the customers simply tap their contactless card or device on the merchant’s smartphone, with transactions processed in real time via Mastercard Cloud Commerce.

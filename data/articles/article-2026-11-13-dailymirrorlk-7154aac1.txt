@@ -1,0 +1,49 @@
+What we know about the global Microsoft outage
+
+BBC - A major global Microsoft outage has caused problems, or in some cases disabled entire services, including emails and artificial intelligence products.
+
+Reports of problems with the email provider Outlook peaked globally at nearly 140,000 around 18:00 GMT on Thursday, according to monitoring website Downdetector.
+
+Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.
+
+Here's what we know about the services affected and what went wrong.
+
+Microsoft 365 Services, including Teams, Outlook and Microsoft's artificial intelligence software Copilot, have been affected by "connectivity problems".
+
+While customers are reporting varying levels of access - many have not been able to send or receive emails, view certain files or details on their calendar apps.
+
+Some users have been able to use Teams as normal and are using messaging and online meeting functions as usual.
+
+The full scale of the outage has not been confirmed, but monitoring website Downdetector had 140,000 people from 74 countries report issues with Outlook on Thursday evening.
+
+More than 430 million people use Microsoft 365 apps according to Microsoft's website.
+
+The software is also used by companies worldwide and is expected to have a knock-on effect to other services.
+
+Tech giants OpenAI and Anthropic have both reported problems as a result of the outage.
+
+ChatGPT-maker OpenAI said it was investigating an issue affecting its connections to Microsoft's services, which has caused some tools to not work as expected.
+
+Government agencies and services, including the Singaporean government and Australia's spy agency, have also said they have been affected.
+
+Several GP practices across the UK have warned of potential problems, with some instructing patient to make urgent queries over the phone instead of by email or web form.
+
+Microsoft has ruled out a cyber-attack and attributed the ongoing outage to "elevated load" on its infrastructure.
+
+The term refers to when servers are handling a much higher volume of stress than they usually do.
+
+In the case of the Microsoft outage, a large number of servers became "unexpectedly unavailable", the company said, which sent added traffic to remaining servers, straining these.
+
+On Friday morning, Microsoft said it had observed "marginal success" in its efforts to treat the incident.
+
+The company said in its latest update that is it continuing to monitor activity across regions to evaluate server status and determine what actions it can take to improve capacity.
+
+In an earlier statement, the tech giant had said that its attempted fixes were "not taking as expected".
+
+Australian cyber-security expert Troy Hunt told the BBC the outage could have far-reaching consequences.
+
+"Microsoft is a massive part of the internet backbone and reminds us how critical email still is.
+
+"Not only does this outage affect many people's ability to work but also things like the ability to communicate about appointments, purchase things that need verification, create or access accounts and services," he said.
+
+Paul Spain from New Zealand-based advisory firm Gorilla Technology said that with e-mails and services offline, companies have practically "lost a business day", which is "frustrating" users".

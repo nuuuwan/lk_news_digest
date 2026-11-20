@@ -1,0 +1,83 @@
+Greater tax powers need greater taxpayer safeguards
+
+Budget 2027 has made a welcome start in fixing the fine print of tax administration. But as the Commissioner General is equipped with stronger enforcement tools, taxpayers need an equally strong safeguard when the system gets it wrong. An independent Tax Ombudsman should be the next step, not an afterthought. Fair taxes require fair process. And fair process requires somewhere for the taxpayer to turn
+
+Budget 2027 makes welcome changes to the fine print of tax administration. But as enforcement powers expand, the absence of an independent Tax Ombudsman remains a significant gap
+
+When a Budget is read, the headlines naturally go to the big numbers: a higher tax-free threshold, wider tax slabs, a levy abolished or a tariff cut. These measures grab attention because people feel them directly in their pay packets and shopping baskets.
+
+Yet some of the more consequential proposals in Budget 2027 are tucked away in the annexures, expressed in the technical language of section numbers and procedure. They may not trend on social media, but they shape the day-to-day relationship between the taxpayer and the tax administration.
+
+One passage in the Budget Speech is particularly important. Under “Strengthening Tax Administration and Facilitating Taxpayer Compliance”, the Government acknowledges that stringent procedural requirements can result in taxpayers being denied legitimate refunds or input tax credits because of technical or procedural non-compliance. It proposes to remove ambiguities, accommodate evolving business practices and create what it describes as a “fair, transparent, and efficient tax administration system”.
+
+That is an important acknowledgement. Tax administration should protect Government revenue, but it should also protect taxpayers’ legitimate entitlements.
+
+For years, tax practitioners have encountered the same problem. A business may have incurred VAT on a genuine transaction and hold the necessary supporting documentation, yet lose its input tax credit because a statutory timeline was interpreted narrowly. The transaction is real and the tax has been incurred, but a procedural failure can result in the credit being lost.
+
+That sits uneasily with the fundamental design of VAT as a tax on value addition. When legitimate input credits are denied purely on technical grounds, VAT can begin to operate more like a cascading tax, increasing the effective tax cost through the supply chain.
+
+Budget 2027 responds with several targeted amendments. Input tax will be claimable within a uniform 12-month period for local purchases and 24 months for imports, irrespective of the date on which the VAT return is submitted. Importantly, this separates the substantive entitlement to claim from the timing of the return.
+
+The Budget also addresses a legacy issue from the pandemic. Input tax claims previously disallowed because VAT returns were delayed during the COVID-19 period may be claimed by eligible taxpayers, provided the outstanding returns were filed by 31 July 2026.
+
+This is a welcome correction. Businesses that operated through exceptional pandemic-related disruptions should not continue to bear a tax cost merely because procedural requirements could not be met on time.
+
+Another proposed amendment illustrates how basic some tax administration problems can be.
+
+The Government intends to correct discrepancies between the Sinhala and English texts of the VAT provisions governing input tax claims. A difference between two statutory texts is more than a drafting inconvenience. It creates uncertainty over taxpayers’ rights and obligations, leaves room for competing interpretations and ultimately increases the cost of compliance and dispute resolution.
+
+Other longstanding areas of uncertainty are also being addressed. The treatment of credit and debit notes will be aligned with the timing of input tax claims, including adjustments in circumstances where tax invoices have not been issued.
+
+The VAT treatment of Non-Foreign Exchange (NFE) transactions, non-tax invoices and the consequential effects of exemptions will also be clarified. Each amendment may look minor in isolation. Collectively, however, they remove grey areas that have generated queries, assessments and appeals.
+
+The Inland Revenue Act will similarly receive a series of clarifications.
+
+Section 85(1B) will be amended to clarify that the 14% withholding tax on service fees and insurance premiums applies to payments made to non-residents without a permanent establishment in Sri Lanka. This should address uncertainty surrounding payments to non-residents that are already within the Sri Lankan tax net through a permanent establishment. The applicable rate would, of course, remain subject to any relief available under a relevant Double Taxation Agreement.
+
+Section 73 will also be amended so that income from remote and digital services, including online advertising and cloud services, is sourced by reference to the place of payment.
+
+Section 75(5) will be updated by replacing the reference to the “prevention of fiscal evasion” with the “prevention of tax evasion and avoidance”. The amendment aligns the terminology with the OECD and UN Model Double Taxation Conventions and reflects the broader international focus on addressing both tax evasion and abusive tax avoidance.
+
+Confidentiality safeguards will also be tightened so that information received from foreign tax authorities is disclosed only to authorised persons and, where required, with the prior consent of the relevant foreign tax authority. Such safeguards are essential if Sri Lanka is to remain a trusted partner in international tax information exchange.
+
+Not all of the administrative changes are about taxpayer relief.
+
+New anti-avoidance rules are proposed to address tax avoidance through company amalgamations and mergers, while seeking to ensure that genuine amalgamations are not unduly affected. That proviso matters. Anti-avoidance rules are legitimate and necessary tools for protecting the revenue base. But if drafted too broadly, they can also capture commercially sound restructurings. The concept of a “genuine” amalgamation therefore requires clarity. The legislation should spell out both the circumstances in which the anti-avoidance rule will apply and the resulting tax consequences of an amalgamation.
+
+Ultimately, the success of this proposal will depend not only on its objective, but on the precision of the drafting and the consistency with which it is administered.
+
+Other practical measures are also welcome. The Commissioner General of Inland Revenue will accept a certificate from an approved accountant, or such other authorised person as may be specified, to verify a taxpayer's compliance with the existing statutory restrictions on cash transactions. This brings professionals more directly into the compliance process.
+
+If approved accountants or other authorised persons are expected to provide such certification, however, the law should clearly define the scope of their verification obligations, responsibility and liability. Professional certification should not become an open-ended assumption of responsibility where the boundaries of what the certifier is required to verify are unclear.
+
+Provisions will also be introduced to prevent the double taxation of donations passed between NGOs, subject to the submission of proof confirming that the tax was paid by the original recipient NGO. This is another sensible correction.
+
+Taken together, these may appear to be technical amendments. But they share an important objective: greater certainty about what the law requires and how it will be administered.
+
+Budget 2027 deserves credit for addressing administrative problems that rarely attract political attention. Clearer legislation, more workable procedures and the correction of technical anomalies can materially improve the taxpayer experience.
+
+But clearer laws do not eliminate disputes. Nor do they eliminate administrative discretion. Assessments will still be raised. Refunds will still be delayed. Administrative powers may occasionally be applied inconsistently or disproportionately.
+
+That matters even more today because the powers available to the Commissioner General of Inland Revenue have expanded. The previous amendment to the Inland Revenue Act introduced criminal sanctions for specified compliance failures, strengthening the enforcement tools available to the tax administration.
+
+Stronger enforcement may well be necessary to improve compliance. But greater powers should be accompanied by greater accountability and equally robust safeguards for taxpayers.
+
+Challenging an administrative decision through the formal objection and appeal process is not equally accessible to all taxpayers, given the cost and time involved. For individual taxpayers and small and medium-sized enterprises in particular, the burden can be significant. A delayed refund is not merely an administrative inconvenience; it can become a cash-flow problem and, at times, a threat to survival. For many, prolonged appeals may simply be beyond practical reach.
+
+The question, therefore, is not whether the revenue authority should have the powers necessary to administer and enforce the tax law. It should. The question is: when those powers are misapplied, exercised inconsistently or used disproportionately, where can the ordinary taxpayer turn?
+
+An independent Tax Ombudsman would provide an accessible and impartial avenue for taxpayers to raise administrative grievances without immediately entering the formal appeals or court process.
+
+Its role would not be to undermine the Commissioner General, interfere with legitimate tax collection or replace the statutory appeal mechanism. Rather, it would address the space between taxpayer service and formal litigation such as unreasonable delays, procedural failures, inconsistent treatment, difficulties in obtaining refunds, failures to respond, and instances where administrative powers appear to have been exercised unfairly or disproportionately.
+
+The Budget Speech itself makes the case. It speaks of safeguarding “the taxpayers’ legitimate entitlements” and establishing a “fair, transparent, and efficient tax administration system”. Entitlements written into law mean little unless there is a practical, affordable way to enforce them.
+
+If enforcement powers are strengthened on one side, the institutional mechanisms protecting taxpayers must evolve on the other. This is why the absence of a Tax Ombudsman is clearly missed opportunity in Budget 2027.
+
+Voluntary compliance does not come from enforcement alone. It grows when taxpayers believe the system is predictable, consistent and fair.
+
+Every legitimate credit denied, every refund unnecessarily delayed and every uncertainty left unresolved weakens that confidence. Every ambiguity removed, every procedure made more workable and every genuine entitlement protected strengthens it.
+
+Budget 2027 has made a welcome start in fixing the fine print of tax administration. But as the Commissioner General is equipped with stronger enforcement tools, taxpayers need an equally strong safeguard when the system gets it wrong. An independent Tax Ombudsman should be the next step, not an afterthought. Fair taxes require fair process. And fair process requires somewhere for the taxpayer to turn.
+
+(The views expressed in this article are those of the author in her personal capacity)

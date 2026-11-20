@@ -1,0 +1,171 @@
+From monsoon to management: Colombo’s heavy weather and building a flood-resilient Sri Lanka – Part I
+
+The problem therefore requires a change of philosophy. Sri Lanka must move from flood control to integrated flood-risk management. The distinction is significant. Flood control seeks to keep water out or move it away. Flood-risk management accepts that extreme rainfall will occur and seeks to ensure that the landscape, infrastructure, institutions and population can absorb its consequences without catastrophic damage
+
+Colombo’s recent inundation is not adequately explained by exceptionally heavy rainfall alone. It is the consequence of an increasingly dangerous convergence of meteorological extremes, urban development, degraded natural drainage, infrastructure limitations, institutional fragmentation and human behaviour.
+
+The immediate trigger was an extraordinary burst of rainfall on 6 November. The underlying vulnerability, however, has been accumulating for decades.
+
+On 7 November, Colombo Municipal Council (CMC) officials reported approximately 129 mm of rain in one hour, against a drainage system design capacity of approximately 30 mm per hour.
+
+The Meteorological Department separately attributed the event to intense thunderstorms associated with the Intertropical Convergence Zone (ITCZ) and second inter-monsoon conditions. It also identified obstructed drains as an aggravating factor.
+
+This distinction is fundamental. Meteorology supplied the extraordinary volume and intensity of water. Urban development reduced the terrain’s ability to absorb and retain it. Inadequate drainage and maintenance prevented its timely removal. Institutional and social shortcomings increased the consequences.
+
+It was a perfect storm – except it was worse than imperfect for hundreds of thousands of inundated householders, stranded motorists, sundry soggy pedestrians et al.
+
+The policy implications are manifold. Sri Lanka cannot prevent extreme rainfall; nor can it engineer its way to complete immunity from flooding. It can, however, substantially reduce flood frequency in vulnerable locations, limit flood depths and duration, protect lives and livelihoods, and reduce the economic cost of disasters.
+
+The recommended approach is a national program of integrated flood-risk management, combining engineering, ecological restoration, land-use reform, institutional accountability, meteorological intelligence and community preparedness.
+
+Firstly, there are the immediate atmospheric conditions. This early November event occurred during Sri Lanka’s second inter-monsoon season, which normally unfurls over the island in October–November.
+
+The country’s rainfall calendar is not governed by one continuous monsoon. It comprises four principal seasons:
+
+The first inter-monsoon (March-April) has localised thunderstorms and convection as its principal characters. This is followed by the south-west monsoon, with heavy rainfall in western and southwestern areas.
+
+The second inter-monsoon is what you and I are wading through at present. That is followed by the north-east monsoon (December-February), with rainfall particularly in the northern and eastern regions. It often affects the central areas too, of late, as does the south-west monsoon before it.
+
+Firstly, the Intertropical Convergence Zone (ITCZ), which is a broad belt of low pressure where winds from the Northern and Southern Hemispheres converge. This convergence encourages warm, moist air to rise. As it rises, it cools and condenses, producing clouds and thunderstorms.
+
+During the second inter-monsoon, the ITCZ migrates across Sri Lanka. Its presence, combined with favourable atmospheric instability, can produce exceptionally intense rainfall.
+
+Secondly, convective thunderstorms, where unlike prolonged monsoonal rainfall, convective storms can discharge enormous quantities of water over relatively small geographical areas and short periods.
+
+This is particularly dangerous in Colombo. A drainage system might cope with 100 mm of rain distributed over 24 hours, but fail catastrophically when a comparable proportion falls in under one hour. The 6 November event demonstrated precisely this catastrophic vulnerability.
+
+Thirdly, atmospheric oscillations and oceanic influences, in addition to which two additional phenomena deserve attention. The Madden–Julian Oscillation (MJO), a large-scale eastward-moving atmospheric disturbance with a cycle of approximately 30-60 days, which influences tropical cloud formation and rainfall. And the El Niño–Southern Oscillation (ENSO) and the Indian Ocean Dipole (IOD) that influence rainfall variability over longer periods.
+
+Research published in the Journal of Climate in 2023 identifies particularly strong MJO-related influences on Sri Lankan rainfall during the second inter-monsoon and southwest monsoon seasons. Research also identifies associations between MJO phases and extreme precipitation events.
+
+These phenomena help explain why rainfall can become unusually intense during particular periods. However, without a detailed meteorological attribution study, it would be premature to identify a particular MJO, ENSO or IOD configuration as the cause of the 6 November storm.
+
+Climate change is an important part of the larger picture, but we should distinguish between two propositions: a) that climate change is increasing the risks associated with extreme rainfall; and b) that climate change caused this particular rainfall event. The first is scientifically well-founded. The second requires event-specific attribution research.
+
+A warmer atmosphere can hold approximately 7% more water vapour for every 1°C increase in temperature, under the relevant thermodynamic approximation. This can increase the potential intensity of rainfall when atmospheric conditions produce precipitation.
+
+Other relevant factors include: changes in monsoon circulation; variations in the frequency and intensity of thunderstorms; changes in the distribution of rainfall between seasons; rising sea levels, which can impede the discharge of inland stormwater; and greater exposure of urban settlements to extreme weather.
+
+A recent World Bank assessment identified Greater Colombo as particularly vulnerable because of its concentration of people, economic assets and infrastructure. It also documented the expansion of flood-exposed built-up areas.
+
+The policy conclusion is that Sri Lanka should design infrastructure for future rainfall conditions, rather than relying exclusively on historical rainfall averages.
+
+There is an interesting cultural and philosophical dimension to Sri Lanka’s relationship with rain.
+
+The Pali expression “devo vassatu kalena, sassasampatti hotu” is best translated: ‘May rain fall in due season; may the harvest be plentiful.’
+
+This traditional Buddhist blessing expresses a relationship between rainfall, agricultural prosperity, social wellbeing and the natural order.
+
+It is particularly meaningful in a country whose civilisation developed around agriculture and sophisticated water management.
+
+But there is an important distinction between rain in due season and destructive rainfall.
+
+The blessing is not an endorsement of unlimited precipitation. Its underlying aspiration is for rainfall that is timely, sufficient and conducive to life.
+
+Sri Lanka’s ancient hydraulic civilisation provides a particularly instructive counterpoint to contemporary urban flooding.
+
+The tank-and-reservoir system developed over centuries was based on capturing, retaining, regulating and distributing water.
+
+The cascade systems of the Dry Zone connected small tanks, larger reservoirs, streams and agricultural land into interconnected hydrological networks.
+
+The principle was not simply to dispose of excess water. It was to retain water where it could be used, while allowing controlled movement through the landscape.
+
+The ancient principle commonly expressed as ‘wewai dagabai gamai pansalai’ captures the relationship between the water tank, temple, village and community.
+
+There is a lesson here for modern urban planning. Colombo’s wetlands, marshes, canals and retention areas are not vacant land awaiting development. They are part of a living water-management system.
+
+There is a contradiction between Sri Lanka’s historical reverence for water and some contemporary practices such as filling wetlands to create commercial and residential property, building on natural drainage paths, dumping household and commercial waste into canals, treating marshes as wasteland, and regarding flood protection as the responsibility of Government rather than a shared civic obligation.
+
+It would be simplistic to blame these practices on a decline in cultural values alone. They also reflect economic incentives, land scarcity, planning failures, poverty and inadequate enforcement.
+
+Nevertheless, the cultural dimension matters. A sustainable flood policy requires a change in the way society understands wetlands and waterways: from obstacles to development into essential public infrastructure. And a closer inquiry into why Sri Lanka has suffered repeated flooding.
+
+Flooding is not a new phenomenon in Sri Lanka. It is a recurring feature of the country’s geography, climate and settlement patterns.
+
+The important question is why a country with such a long history of water management continues to experience devastating floods.
+
+The historical record illustrates the persistence and geographical breadth of the problem:
+
+severe cyclone and subsequent flooding, particularly in the eastern and north-central regions (1978)
+
+significant flooding (1989), exceptional rainfall inundated Colombo: approximately 494 mm was recorded within 24 hours (1992)
+
+severe flooding and landslides, with extensive loss of life (2003)
+
+Colombo experienced approximately 440 mm of rainfall in 16 hours, causing major urban inundation (2010)
+
+major floods and landslides, with 224 reported deaths (2017), extensive flooding and landslides (2018)
+
+The record reveals two important things: first, flooding is a national problem, not merely a Colombo problem; second, the nature of the risk varies substantially according to location.
+
+Firstly, riverine flooding occurs when rivers overflow their banks following prolonged or exceptionally heavy rainfall in their catchments. Major vulnerable river systems include Kelani Ganga, Kalu Ganga, Gin Ganga, Nilwala Ganga, Mahaweli Ganga and Attanagalu Oya.
+
+The Kelani basin is particularly important because of its proximity to Colombo and its exposure to rainfall in the central highlands. Heavy rainfall upstream can produce flooding downstream, even when Colombo itself has experienced relatively little rain.
+
+Secondly, urban flash flooding: this is the most relevant category for the recent Colombo event. Rain falls faster than the drainage network can absorb and discharge it. Water accumulates on roads, in low-lying residential areas and around commercial buildings. The principal problem is often a combination of inadequate drainage capacity, insufficient storage and obstructions.
+
+Thirdly, reservoir-related flooding. Reservoirs are essential to Sri Lanka’s irrigation and electricity systems. However, high inflows, reservoir operating constraints and releases can contribute to downstream flooding. This requires coordinated water management, particularly where several reservoirs and hydropower facilities affect the same river basin.
+
+Fourthly, coastal and estuarine flooding. High tides, storm surges, sea-level rise and sediment accumulation near river mouths can impede the discharge of inland water. This is especially relevant to Colombo, where drainage outlets ultimately depend on the hydraulic conditions of the Kelani River and the Indian Ocean.
+
+Fifthly, landslides and secondary disasters. Flooding and landslides frequently occur together. Heavy rainfall in the central highlands can cause slope failures, damage roads, interrupt communications and isolate communities. The 2016 and 2017 disasters demonstrated how one meteorological episode can produce multiple interconnected emergencies.
+
+Why is Colombo so particularly vulnerable? The city occupies a low-lying coastal basin. Its historical landscape included extensive marshes, paddy fields, wetlands, lakes and interconnected waterways.
+
+These features performed an essential hydrological function. They absorbed rainfall, temporarily stored excess water and allowed its gradual discharge into rivers and the sea. Urbanisation has progressively compromised this system.
+
+One of the most consequential developments has been the reduction of natural flood-retention areas. Wetlands function as natural reservoirs. They slow runoff, retain water and release it gradually. The World Bank has highlighted that Colombo’s wetlands can store several million cubic metres of water during periods of intensive rainfall.
+
+Its assessment of the city’s wetland system also demonstrated that drainage tunnels and pumping stations alone cannot adequately protect Colombo if its natural retention areas are lost.
+
+A 2025 University of Moratuwa study examining Colombo’s land-use changes between 1999 and 2022 found that urban expansion and the reduction of green spaces and natural retention areas increased surface runoff and flood vulnerability.
+
+Then there is all of this unplanned urban development whereby buildings, roads, car parks and paved surfaces prevent rainwater from infiltrating the soil. Consequently, rainfall that would previously have been absorbed by vegetation and marshland becomes surface runoff.
+
+The cumulative consequences are substantial. More water enters drainage channels, water reaches canals more quickly, peak flows become higher, existing drains become overloaded, flooding occurs even in locations that previously experienced little inundation.
+
+The World Bank’s assessment of Greater Colombo records a significant expansion of flood-exposed built-up areas.
+
+A key factor is inadequate drainage infrastructure. The reported disparity between the recent rainfall intensity and the drainage system’s design capacity is particularly revealing…
+
+Reported rainfall intensity versus drainage design capacity is instructive. Reported rainfall on 6 November was 129 mm/hour. Reported drainage design capacity is 30 mm/hour. Therefore the approximate ratio of reported rainfall intensity to reported drainage design capacity was x4.3.
+
+The problem is not simply that Colombo needs larger drains. It needs a drainage system designed as an integrated network – with adequate storage, unobstructed canals, functioning gates, appropriate pumping facilities and sufficient discharge capacity.
+
+Several recurring problems have been identified in technical studies: waste accumulation in canals and drains; unauthorised construction obstructing waterways; commercial development within wetland reservations; inadequate maintenance of drainage channels; insufficient storage capacity; restricted outfalls and backwater effects.
+
+A particularly important technical consideration is that Colombo’s drainage network is connected to the Kelani River and the sea. High river levels or tides can restrict the discharge of stormwater. In certain circumstances, a drainage outlet that normally carries water away may become ineffective.
+
+A study of Colombo's flood-adaptation options identifies inadequate outfall capacity, insufficient storage and reduced canal conveyance as three central problems.
+
+Institutional fragmentation is perhaps the most important governance issue. For example, the Land Development Corporation is responsible for major drainage channels, while the Municipal Council has responsibility for much of the local drainage network.
+
+Nor is Colombo’s drainage system managed by one institution: different responsibilities are distributed among the Colombo Municipal Council, Sri Lanka Land Development Corporation, Urban Development Authority, Road Development Authority, Irrigation Department and other local authorities and public agencies.
+
+The World Bank has specifically identified the division of responsibilities between these institutions.  The danger is that a problem at one point in the system can undermine the performance of the entire network. A municipality may clear its drains, for example, but if a downstream canal is obstructed, the benefit may be limited.
+
+Flood vulnerability is also a consequence of the way land, development and public resources are governed. Several issues deserve attention.
+
+Firstly, there is unequal enforcement. Unauthorised structures can obstruct canals and waterways. But enforcement must apply consistently to residential encroachments, commercial developments and politically connected property interests. It would be unfair and ineffective to place the entire responsibility on low-income communities living in flood-prone locations.
+
+Secondly, there are development incentives whereby land reclamation and construction can generate immediate private economic returns while transferring the cost of increased flood risk to the wider public. This is a classic case of externalised environmental costs.
+
+A third is political short-termism: drainage maintenance, wetland conservation and flood-resilience investments rarely produce the immediate political visibility of roads, buildings and other construction projects. The result can be an imbalance between investment in development and investment in the systems that make development sustainable.
+
+A fourth is institutional discontinuity: flood mitigation is a long-term undertaking. Changes in political leadership, administrative priorities and public sector budgets can interrupt projects that require continuity over decades.
+
+A fifth is inadequate accountability: after major floods, investigations, emergency meetings and declarations of new programs are common. The more important test is whether the findings lead to measurable improvements in infrastructure, enforcement and maintenance.
+
+The creation of a special Colombo flood-response task force was announced by the Presidential Secretariat on 7 November 2026. This is a potentially useful immediate response, but its effectiveness will depend on whether it develops into a properly resourced, accountable institutional arrangement.
+
+Sri Lanka has treated flooding as an emergency rather than a permanent development challenge. Our resilient island nation has repeatedly demonstrated that it can mobilise resources after a flood. The harder task is to prevent the underlying conditions from recurring.
+
+There is already considerable technical knowledge available. The Metro Colombo Urban Development Project, initiated in 2012, included improvements to drainage, canals, retention areas and urban infrastructure. The Sri Lanka Land Development Corporation also undertook substantial hydrological and hydraulic modelling.
+
+These initiatives established important foundations. But the recurrence of serious flooding suggests that engineering interventions have not been sufficient to eliminate systemic vulnerabilities.
+
+The problem therefore requires a change of philosophy. Sri Lanka must move from flood control to integrated flood-risk management. The distinction is significant. Flood control seeks to keep water out or move it away.
+
+Flood-risk management accepts that extreme rainfall will occur and seeks to ensure that the landscape, infrastructure, institutions and population can absorb its consequences without catastrophic damage. This is the foundation of the policy framework being proposed in this article.
+
+(The author is the Editor-at-large of LMD and is a senior journalist with a Post-graduate Diploma in Politics and Governance)

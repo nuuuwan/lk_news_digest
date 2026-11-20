@@ -1,0 +1,45 @@
+Massive Microsoft outage disrupts businesses, schools and governments around the world
+
+CNN - A massive Microsoft outage has left people around the world without access to Outlook email, Teams meeting tools and other staples of modern office life.
+
+In the United States, fed-up workers at some companies went home early on Thursday. In Australia, businesses couldn’t print invoices and some schools couldn’t hold online classes on Friday.
+
+And there was no quick fix. As of 3:30 a.m. GMT on Friday, the outage was still widespread, affecting untold millions of people.
+
+Microsoft is posting updates on X and on its “service health status” page.
+
+“We’re seeing positive results with our efforts to restart affected infrastructure and recover server availability in an isolated manner,” Microsoft said in an update at 1:59 a.m. GMT.
+
+But in another post at 3:13 a.m. GMT, the company said, “We’ve monitored the status of the changes applied to improve serviceability and confirmed they’re not taking as expected.”
+
+“We’re identifying alternate workstreams that can be applied to increase capacity in the face of sustained traffic management imbalances,” the company added, leaving users on X befuddled.
+
+o: If your Outlook email account isn’t receiving or sending email, that’s why.
+
+The disruption has been going on for many hours, causing a wide range of reactions.
+
+Some US office workers celebrated the email blackout and joked that they could start the weekend early. Others barely missed a beat, connecting with colleagues via Slack, phone and even the old-fashioned in-person way.
+
+But the outage, which began around noon on the US East Coast, caused serious headaches, especially when it dragged on for more than an hour or two.
+
+Microsoft 365 services that interact with Exchange Online and email services were all impacted. That includes Outlook, SharePoint, Teams, 365 and Copilot AI.
+
+So small businesses scrambled for Microsoft alternatives to communicate. Local governments alerted constituents to call instead of email.
+
+In Australia, Friday began with a realization that the Microsoft cloud was unresponsive. The outage took out live feeds from courts, and schools texted parents to phone in any absences until email systems were restored.
+
+Australia’s national broadcaster, ABC, reported people missing job interviews because they couldn’t connect to virtual meetings, and even some supply issues with distribution centers stocking supermarkets due to the outage.
+
+At first, Microsoft said the connection issues were happening “in the Americas,” but over time it became clear the troubles were global.
+
+Downdetector showed a peak of 130,000 reports about Outlook outages, but that figure understated the scope of the problem, since most people do not report their experiences.
+
+According to Downdetector, the number of reports slowed as the business day ended in the US.
+
+Around that time, Microsoft indicated that some servers were back up and running, but email access was still sporadic for many users.
+
+“Our actions taken thus far have not provided the anticipated relief,” the company said in a post at 10:09 p.m. GMT.
+
+Microsoft tried to reassure customers that it was taking all possible steps to restore access.
+
+But a subsequent update said that “the servers we returned to service can become unresponsive again once they receive traffic” — in other words, Outlook was down again.

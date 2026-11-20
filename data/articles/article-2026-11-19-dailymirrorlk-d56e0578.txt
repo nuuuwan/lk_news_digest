@@ -1,0 +1,17 @@
+DFCC Bank-Asia Securities pioneer automated receipts for investor payments
+
+Exchange of memorandum of understanding between DFCC Bank Director and Chief Executive Officer Thimal Perera and Asia Securities Chairman Dumith Fernando
+
+Novel solution enables real-time payment processing for Asia Securities’ stockbroking clients
+
+In a first for Sri Lanka’s stockbroking industry, DFCC Bank and Asia Securities have introduced a solution that enables the payments made to Asia Securities by its clients to be identified and reconciled automatically in real time.
+
+This solution benefits the clients of Asia Securities by eliminating manual payment verification delays and enabling fast, reliable transactions.
+
+By connecting DFCC Bank’s collection infrastructure directly with Asia Securities’ systems via a secure application programming interface, the integration assigns a unique virtual account to each client. The incoming payments are then automatically matched and routed to Asia Securities in real time.
+
+DFCC Bank CEO Thimal Perera said, “Efficient capital markets require the movement and reconciliation of funds to be as seamless as the trade itself. By connecting DFCC Bank’s collection infrastructure directly with Asia Securities’ operating platform, we are giving Asia Securities faster visibility of collections, reducing verification delays for investors and creating a foundation for greater speed, scale and confidence across the investment ecosystem.”
+
+Asia Securities Chairman Dumith Fernando said, “As Sri Lanka’s largest stockbroker, we are proud to be the first to launch automated, real-time payment receipts in the industry. Innovation is a core pillar of Asia Securities and this integration reflects our focus on elevating the trading experience for our clients through new value additions. It also underscores our commitment to driving the digital transformation of Sri Lanka’s capital markets towards global standards. We thank DFCC Bank for partnering with us to establish a new operational benchmark.”
+
+The integration supports real-time payment notifications across major deposit and fund-transfer channels, including cash deposits, inward fund transfers, CEFTS, SLIPS and RTGS transactions. Cheque deposits are also captured for automated reconciliation, subject to standard clearing timelines.

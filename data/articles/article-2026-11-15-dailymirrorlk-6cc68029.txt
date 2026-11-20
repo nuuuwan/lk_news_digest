@@ -1,0 +1,23 @@
+Italy hits Meta with $887M fine for accessing android photos without consent
+
+Nov 15 (BBC) - Italian regulators have fined social media giant Meta €805m (£670m; $887m) for accessing Android users' photos without their specific consent.
+
+Italy's Data Protection Authority said Meta did not properly inform about 20 million smartphone users that it had access to their photos and videos via a feature of the Facebook app.
+
+It has given Meta 60 days to disable the feature by default and seek users' consent separately.
+
+The fine is among the largest an Italian authority has ever imposed on a tech giant.
+
+The charge is related to a feature which suggests photos and videos from a user's phone gallery as ideas for posts.
+
+Facebook requested access to users' photo galleries through a single app-wide authorisation. According to the Italian regulator, a preceding notice did not make clear that this would also allow Facebook to generate suggestions based on photos in their gallery.
+
+The regulator said it took into account "the high number of people affected" and the fact it is "still ongoing for those who have not updated the app and for those who have already given their consent to the system".
+
+Meta told the BBC: "We strongly disagree with the [regulator's] assessment of the facts, its application of the law, and the disproportionate level of the fine.
+
+"This is a straightforward feature which helps people post photos and videos to Facebook. People must give permission on their device before it can operate, and they can change this permission at any time via their settings."
+
+Last month, Meta, which is also behind Instagram and WhatsApp, was hit with its largest fine ever for its business practices.
+
+A US judge in New Mexico ordered the company to pay $25bn (£18.6bn) after it found that found it had spent years lying to the public about how it handled Facebook user data.

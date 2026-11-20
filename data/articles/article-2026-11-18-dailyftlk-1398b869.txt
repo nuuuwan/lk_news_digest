@@ -1,0 +1,17 @@
+WSO2 rebrands as Choreo Labs
+
+WSO2, the open source company whose software processes an estimated 60 trillion transactions a year and manages 2.5 billion identities, has announced it has a new name, Choreo Labs.
+
+The Company said enterprises are moving AI agents out of pilots and into production, and need to govern every one of those agents across the APIs, systems, and identities it touches, effectively choreographing each agent’s journey. As that happens, the company’s platform has moved beyond connecting enterprise systems to sitting at the centre in empowering enterprises to meet this demand for AI governance. The new name reflects that evolving role.
+
+Founded in 2005, WSO2 took its name in the web services era. Today, its API management, integration, and identity products run in production for more than 950 customers in 90-plus countries, including banks, governments, hospitals, and telcos. The world’s leading analyst firms have recognised the company for its comprehensive product offerings and success in meeting enterprise customers’ demands. Over those two decades, enterprise software has moved from web services to cloud, APIs, and now AI agents that act on their own, and the company has moved with it.
+
+Through each of those shifts, the company’s mission has stayed the same: connecting systems and controlling what moves between them. AI agents raise the stakes.
+
+Choreo Labs CEO Harry Ault said: “For over 2 decades, our mission has been to make sure enterprise systems talk to each other safely at scale. AI agents don’t change that mission. In fact, they make it far more urgent. Enterprises won’t put agents into production until they can see, govern, and trust every action those agents take. That is the problem we were built to solve, and our new name says so.”
+
+“WSO2 was the right name for the company we started in 2005,” Ault added. “We’ve grown a lot since then, and so have the problems our customers bring us. Choreo Labs reflects the company we are today, and the principles we’ve always built on.”
+
+“Choreo” comes from choreography. Inside every enterprise, agents, APIs, integrations, identities, and services each have their own part to play, and none of them ever stops moving. Choreo Labs gives organisations both the freedom for each part to move and the control to keep them in step. Choreo, the company’s platform, brings APIs, integration, identity, agents, and the internal developer platform that runs them together in one place.
+
+“Labs” reflects the company’s research and engineering culture. It has long innovated in open source and open standards, from its integration programming language to its latest agent management product. Technical staff make up more than 75% of its 850-plus employees, and the same engineers who design the platform work alongside customers to deploy it.

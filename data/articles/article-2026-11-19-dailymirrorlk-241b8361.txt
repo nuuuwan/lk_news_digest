@@ -1,0 +1,13 @@
+Are we prepared for a Digital Disaster?
+
+Several warnings have been issued over the past 30 days about failures involving Artificial Intelligence (AI), cyber-attacks and technology-dependent systems, resulting in serious disruptions to public life and enormous financial losses to businesses and individuals.
+
+Among the reported incidents were cyber-attacks in Europe targetting internet-connected freezers, allegedly causing temperatures to rise to 50°C, resulting in substantial losses to supermarkets, hotels and other businesses.
+
+The United States too, experienced its share of technological disruptions. Outward flights were grounded following a router malfunction, United Airlines was forced to suspend operations due to a system outage, and Chase Bank customers faced disruptions to online banking following another system failure. These incidents, together with the widespread Microsoft-related outage affecting more than 64 countries, demonstrate how vulnerable modern society has become to failures in interconnected technology.
+
+This raises an important question: Is Sri Lanka adequately prepared to face a similar eventuality?
+
+We are a relatively small country, yet mobile phone usage is widespread, with many people possessing more than one device. A major cyber-attack or technological breakdown could therefore bring essential services to a standstill, with consequences extending far beyond financial losses.
+
+The Government, together with the relevant institutions, must therefore take these warnings seriously. Contingency plans, reliable backup systems, cyber security safeguards and alternative arrangements for essential services must be put in place and regularly tested. We cannot afford to wait for the next disaster to discover how unprepared we are.

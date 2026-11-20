@@ -1,0 +1,25 @@
+National policy framework for data centres and cloud infrastructure taking shape
+
+BOI and the Ministry of Digital Economy convene national stakeholder consultation to discuss the investment terms, with proposed data centre capacity targets of 25 MW by 2027 and 50 MW by 2028
+
+The Board of Investment of Sri Lanka (BOI), together with the Ministry of Digital Economy (MoDE) and GovTech Sri Lanka, has taken a decisive step towards establishing a national investment strategy for data centres, convening a National Stakeholder Consultation on the National Policy Framework for Data Centre and Cloud Infrastructure Investment on 6 November, 2026.
+
+Co-chaired by BOI Chairman Duminda Hulangamuwa and Chief Advisor to the President on Digital Economy Dr. Hans Wijayasuriya, with the participation of BOI Director General Dr. Sulakshana Jayawardena, the consultation brought together close to 40 senior representatives from the institutions that will underpin the sector. These included the Ministry of Energy, the Ministry of Finance, Planning and Economic Development, the Public Utilities Commission of Sri Lanka, the Telecommunications Regulatory Commission of Sri Lanka, the National System Operator Ltd., Electricity Distribution Lanka Ltd., the National Transmission Network Service Provider Ltd., the National Water Supply and Drainage Board, the Central Environmental Authority and the Sri Lanka Sustainable Energy Authority.
+
+The session marked the final stage of consensus-building on the core investment parameters for the sector, namely electricity tariffs, land and water allocations, connectivity requirements, access to renewable energy and fiscal incentives, while also confirming the readiness of zone infrastructure and the responsibilities of each institution.
+
+The consultation follows several months of structured preparation. This included the establishment of a Steering Committee, a market-sounding Request for Information (RFI) that attracted more than 30 responses from industry, a series of technical consultations, and an expert assessment by global consultancy Roland Berger, undertaken with technical assistance from the Asian Development Bank (ADB). In parallel, the BOI has continued its direct engagement with prospective investors.
+
+Opening the proceedings, Hulangamuwa outlined the joint BOI–MoDE initiative to position Sri Lanka as a competitive destination for data centre investment. Dr. Wijayasuriya highlighted the potential of the sector both to accelerate domestic digitalisation and to open new export opportunities, while emphasising that, given the central role of electricity, the industry should be developed in a measured and sustainable manner.
+
+Participants reviewed the proposed national capacity targets of 25 MW by 2027 and 50 MW by 2028, with an indicative mix of 75% conventional compute and 25% AI compute, and an ambition to attract hyperscale data centre investments. Proposed investment terms were presented for both grid-supplied and renewable-integrated data centres, covering greenfield projects as well as expansions.
+
+Broadening the renewable energy pathway beyond co-located generation to include off-site generation through power wheeling and third-party power purchase agreements;
+
+Targeting the operational availability of open-access electricity arrangements by the end of 2027;
+
+Dr. Jayawardena presented preliminary investment locations within BOI zones, comprising both grid-supplied sites and captive-power, renewable-integrated sites. The BOI will now work with the relevant utility and regulatory agencies to document site-specific infrastructure availability and readiness before the investment locations are formally published, ensuring that investors receive accurate, decision-ready information.
+
+The Ministry of Digital Economy will revise the proposed Data Centre Investment Terms to reflect stakeholder feedback, and the BOI will convene a second stakeholder meeting in December 2026 to resolve outstanding matters and finalise the terms. Approval for a dedicated data centre electricity tariff framework is also being pursued, with the aim of completing the policy package by the end of the year.
+
+The finalised framework is expected to give local and international investors a transparent, coordinated pathway to establish data centre and cloud infrastructure in Sri Lanka, supporting the country’s digital economy ambitions and its broader drive to attract high-value foreign direct investment.

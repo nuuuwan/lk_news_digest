@@ -1,0 +1,95 @@
+Policy sets direction. Who takes responsibility for implementing?
+
+Most who know me will know that much of my working life has been spent in senior corporate management, particularly in the tourism industry, setting business strategy, developing action plans and budgets, and leading operational teams responsible for carrying them through. We were responsible for delivering results, and explaining why something had not happened, and what course corrections we made to rectify the situation.
+
+After retirement, for close upon seven years now, I have been working as a consultant to a leading development bank in Sri Lanka. This has required me to learn a different set of processes and appreciate the complexities of working with public institutions. In all honesty, it has not been easy, and some aspects still frustrate me. I do realise that the Government has responsibilities and constraints that a business does not, and it would be unreasonable to judge every public-sector decision by corporate standards. Even so, I find myself repeatedly asking what happens between agreeing on a desirable outcome and actually delivering it.
+
+Over these years, my colleague and teammate, who is a trained professional in development, and I have had many discussions about public policy, its purpose and whether it ultimately achieves what it sets out to do, particularly in the Sri Lankan context. Those exchanges have made me question some of my own assumptions, but they have also sharpened my concern about the importance attached to formulating policies, compared with the effort devoted to implementing them.
+
+So I am going to venture into unfamiliar waters and approach this subject from a management perspective. What follows is a reflection from someone whose working instincts were formed in corporate management and who is still trying to understand why an approved policy so often appears to receive more recognition than a result delivered.
+
+Whenever a persistent problem is discussed in Sri Lanka, the conversation seems eventually to arrive at the need for a national policy. Sometimes there is already one available, in which case the answer is to revise it. The document is approved and launched with fanfare, yet the original problem can remain substantially unchanged, prompting yet another policy exercise a few years later.
+
+Government needs an agreed direction that can outlast an individual minister. China’s successive five-year plans, for example, have kept industrial upgrading as a long-term priority while allowing the measures used to pursue it to change. In the United States, on the other hand, the federal clean vehicle tax credits expanded under Biden were brought to an early end under legislation signed by Trump in 2025.
+
+The lesson for Sri Lanka, I think, is to seek broad agreement on a few long-term priorities and give them enough time to work, while remaining willing to change the approach when the evidence calls for it. My concern is where policy approval sits in the journey to achieving results. I have tried to make a comparison to illustrate the stages that I think must be followed in both the corporate and public sectors.
+
+In business, a strategic plan normally leads to an action plan, tested against available resources and translated into a budget. Responsibilities are assigned and performance reviewed.
+
+Government has a more complicated task. It must reconcile competing interests (such as immigration/security giving opposing visa free options), respect legal rights and operate through multiple institutions with separate mandates. Cabinet approval does not automatically provide funding, amend legislation or give one ministry authority over another. These complications make a clear implementation plan more necessary. The sequence remains recognisable: policy direction, a delivery strategy, a budget action plan, funding and authorisations, assigned responsibility, execution and review.
+
+Sri Lanka’s renewable electricity ambitions illustrate why a policy cannot be formulated in isolation from the arrangements needed to make it work. The target of generating 70% of our electricity from renewable sources by 2030 necessarily gives solar a substantial role. But expanding solar generation also requires timely investment in storage, stronger and stable networks and the controls needed to balance supply and demand. These requirements were recognised in electricity plans, yet grid readiness has not kept pace with solar expansion (CEB, 2025; PUCSL, 2026). Restrictions on additional grid-connected rooftop solar are now being introduced to manage the resulting constraints. Such limits may be necessary for immediate system security, but they raise an obvious management question of whether the supporting investments were funded, assigned and scheduled to arrive alongside the generation being encouraged?
+
+Announcing the destination without organising the means of getting there is precisely the weakness that concerns me. If we were going to encourage solar generation on this scale, we should have planned, managed the roll out, and funded the work needed to accommodate it on the grid at the same time.
+
+Regulations are one means of giving effect to policy. They can establish legally enforceable requirements, but they are not substitutes for operating capacity. A rule requiring proper waste disposal will achieve little where collection is unreliable, inspections are absent or enforcement is selective. A policy, a regulation and a functioning public service each perform a different task.
+
+There is substantial research behind this concern. Matt Andrews, Lant Pritchett and Michael Woolcock, in their 2012 paper Escaping Capability Traps and their subsequent book Building State Capability, describe Governments adopting the outward appearance of effective institutions without acquiring their ability to perform.
+
+They call this “isomorphic mimicry”. New structures, procedures and policy frameworks can demonstrate that reform is taking place, even when the service experienced by the public scarcely changes. (Andrews, Pritchett and Woolcock, 2012; 2017)
+
+This may be a useful warning for Sri Lanka in the current context. A new framework may be necessary, but there is weak evidence of improvement. What matters is whether an approval becomes more predictable, a service more reliable or a public investment more useful.
+
+The National Export Strategy received Cabinet approval in 2018 and was launched that July. It aimed to diversify exports and increase export revenue to US$28 billion by 2022. (Export Development Board, 2018a)
+
+According to the Export Development Board’s own account, it identified actions, lead and supporting implementation partners, starting and finishing dates, tentative costs, checkpoints and milestones. It was explicitly designed to maintain continuity through political changes.
+
+On 20 May 2024, after its 2018–2022 implementation period had ended, the Daily Mirror published “NES stuck in a NEST”. The commentary argued that ministries and institutional heads remained unaware of the documents and questioned who was responsible for advancing its logistics component. These are the writer of the article’s assessments, rather than findings of an independent implementation audit. (Daily Mirror, 2024)
+
+Some implementation did occur: the Ministry’s 2024 progress report records EDB initiatives under NES priority sectors. The criticism therefore concerns incomplete and poorly coordinated delivery, rather than total inactivity. (Ministry of Industry and Entrepreneurship Development, 2024)
+
+Take for example the recent budget proposals. It is reported that out of Rs. 1,380 billion allocated for capital projects in 2026, only about Rs. 385 billion (roughly 28%) was actually spent through September (EconomyNext)
+
+In Kishore Mahbubani’s 2024 memoir, Living the Asian Century,on Singapore’s development and in subsequent interviews around its publication, he attributes the success to the formula of meritocracy, pragmatism and honesty (MPH). He also applied these principles directly to Sri Lanka in an interview published on his website in October 202. [Mahbubani, 2024; Ilangamuwa, 2024]. He stated that Sri Lanka possessed the foundational potential to be even more successful than Singapore, but failed because it deviated from the core “MPH” formula.
+
+Corruption affects which projects are chosen, who receives contracts and whose breaches are overlooked. Extending his principle to performance reporting, I would argue that institutions also need the freedom to acknowledge failure. A review cannot correct asprogram if everyone involved feels obliged to describe it as progressing satisfactorily, painting a rosy picture.
+
+At the same time, we should resist turning Singapore into a simple formula for Sri Lanka. Its experience deserves study, but meritocracy, pragmatism and honesty do not automatically settle questions about public accountability, unequal opportunity or the rights of affected communities. Citizens must be able to question a decision even when its authors consider it efficient.
+
+It is tempting to attribute the whole difficulty to bureaucracy. Excessive procedure, repeated referrals and reluctance to decide can certainly obstruct delivery. An official may be asked to carry out a commitment without sufficient funds or legal authority. A minister may support reform until it affects an influential constituency, while a transparent approval system may threaten those who benefit from discretion. In such circumstances, delay can reflect political resistance rather than administrative confusion.
+
+The World Bank’s World Development Report 2017 makes this point. Policy effectiveness depends on credible commitments, coordination and cooperation, while unequal power and vested interests can undermine them. (World Bank, 2017)
+
+Applied to our circumstances, it raises a question that receives too little attention at the launch of a policy: who is capable of carrying this through, and will that person have the authority to do so?
+
+Implementation may require negotiation across agencies, procurement knowledge and the judgement to resolve problems as they arise. Even a capable official cannot deliver indefinitely without political support or control over essential resources.
+
+A management team would be questioned about its inability to execute a business strategy and meet its agreed performance targets. The public sector needs equally serious attention to delivery capability, alongside the safeguards appropriate to public office. Its bureaucracy must be able to turn political intent into reliable administration.
+
+Even competent public servants can spend much of their time securing routine clearances or sending the same file from one office to another. Yet a decision that has been held up for months can sometimes move in days when someone with political influence intervenes. There are safeguards that public administration must retain, but there is a problem when getting ordinary work done depends on who can pick up the phone. The task is to simplify procedures that serve little purpose and give officials the authority to make routine decisions, with clear accountability for how they use it.
+
+Sri Lanka does not lack institutions intended to monitor Government work. The Treasury’s Department of Project Management and Monitoring has responsibilities for reviewing major development initiatives, reporting performance and undertaking evaluations. Cabinet also approved arrangements in December 2023 for implementing the National Evaluation Policy from 2024, including a National Evaluation Steering Committee. (Department of Project Management and Monitoring, n.d.; Cabinet of Ministers, 2023)
+
+The Auditor General and parliamentary committees provide further scrutiny. The relevant question is what happens after a weakness has been identified.
+
+The IMF’s 2023 Governance Diagnostic uncovers an interesting finding. It noted requirements to identify remedial actions following Auditor General findings, but found no indication that the practices examined consistently included checking that those actions had occurred. (IMF, 2023). There are many examples.
+
+Last year’s island-wide power-outage prompted inquiries, committees and reports. Recently there was another outage and investigations are again under way. The cause appears to be the same- unreliable sources of generation, an unstable grid with inadequate controls for safety. But the public is entitled to know what corrective measures were recommended after the earlier incident, which were implemented, and whether they worked as intended. Commissioning another inquiry cannot substitute for accounting for the findings of the previous one. It illustrates the distinction between reporting a problem and resolving it. A meeting can receive an explanation for a delay, record concern and request another report without changing the conditions causing the delay. Follow-up has value only when it produces a decision, assigns responsibility and establishes whether the correction was made.
+
+Taking another tourism example, Sri Lanka is now aiming to attract more high-spending tourists to increase yield. From a management perspective, my immediate question is what must happen to achieve this. Which visitor segments are we targeting, what experiences will persuade them to come, is the quality of the product and service in place, and can they justify the prices we hope to charge? These decisions must lead to specific work programs for product development, human resource training and marketing and promotions, with budgets, named responsibilities and deadlines. Progress would then be measured through changes in visitor spending, the earnings retained by local businesses and the quality of the visitor experience.
+
+Publishing a policy, conducting workshops or launching a promotional campaign may contribute to that effort, but none, by itself, demonstrates that we have achieved higher yield. Someone must remain answerable for whether the intended result actually follows.
+
+An implementation plan should therefore settle responsibility and resources early. It needs realistic costs, clarity about what depends on whom, and a way to resolve obstacles beyond the lead agency’s authority. This means involving the agencies, businesses and communities whose cooperation is needed while the plan is still being drawn up. They can identify practical difficulties and help establish what each can realistically contribute. That engagement should continue during implementation, with reviews examining whether the intended service or benefit is reaching people, alongside expenditure and schedules.
+
+Officials should also need room to exercise judgement within clear rules. If a reasonable decision that fails attracts punishment while indefinite delay carries little consequence, ‘passing the file’ becomes an understandable response. Accountability should distinguish misconduct and neglect from an unsuccessful decision taken competently and in good faith.
+
+One practical response would be to require a clear delivery arrangement for every major policy. Where implementation crosses several ministries, a named programs director should lead a small dedicated team, with staff seconded for a defined period and their normal duties reassigned.  This is important for continuity, without having ad-hoc ministry officials participating at different meetings.
+
+The team should have a clear action plan, with budgets and deliverables, delegated authority, deadlines and measurable outcomes. Funding must cover implementation and continuing operations. Holding someone responsible without giving them the authority and resources to act is hardly a credible management arrangement.
+
+A small inter-ministerial steering committee, backed by an accountable political sponsor, should resolve obstacles beyond the team’s authority. Scheduled reviews must produce decisions, with corrective actions assigned to named individuals and completion dates. Progress should be measured against benefits delivered to the public, with independent verification where appropriate.
+
+Every policy need not have a separate unit. Existing arrangements may suffice within one ministry, provided someone is clearly accountable. Dedicated teams should serve major priorities, with a defined handover to the institutions responsible for continuing operations. Otherwise, we risk creating another administrative layer that itself needs managing.
+
+There is also the question of whether the policy itself is sound.
+
+Evidence-informed policymaking means examining the problem, comparing possible responses and using research, practical experience and evaluation to guide decisions (OECD, 2020). In tourism, the evidence available to do this varies considerably.
+
+We may know how many visitors arrive in the country, yet not know  about what they spend in a particular destination, what are their primary needs or why they stay for shorter periods. Without that information, it is easy to prescribe more promotion when the real problem may be poor access or too little of the correct type of visitors. Sometimes the first step in making policy is to have good data and finding out what it really tells us.
+
+Coming from corporate life, I would regard much of this as ordinary management discipline: establish why an intervention should work, test the assumptions and check the results. A capable team can execute a poorly conceived policy and still waste public money. Equally, excellent research cannot compensate for the absence of authority, funding or responsibility for delivery. We need both, with the willingness to change course when the results fail to support the original assumptions.
+
+My reservation is about how enthusiastic we are to give credit for a policy. Formulating it is an achievement in its own right, but its value becomes clearer when we see what it changes for the people it is meant to serve.
+
+Before commissioning a new policy, it would be useful to take stock of the previous one: what was put into practice, what difference it made, and where further work is needed. In my corporate years, such reviews often told us as much about what to keep as what to change. I think the same habit would serve the Government well. It would allow each new policy to build on what has already been learnt.
