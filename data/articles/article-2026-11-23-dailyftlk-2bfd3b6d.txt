@@ -1,0 +1,185 @@
+Electricity tariffs in Sri Lanka: Are consumers paying fair price?
+
+Why Sri Lanka needs a simpler, fairer and more transparent electricity tariff that protects vulnerable consumers, encourages productive electricity use and ensures the financial sustainability of the power sector
+
+Electricity is no longer merely a household necessity. It is a fundamental requirement for economic development, industrial competitiveness and improved living standards. As the world increasingly moves towards electric transportation, cooking and other technologies, access to affordable electricity has become more important than ever.
+
+Despite achieving almost universal electricity access, Sri Lanka has relatively low per-capita electricity consumption compared with several countries in the region. According to World Bank data for 2024, Sri Lanka’s annual electricity consumption was approximately 695 units per person, compared with 1,223 units in India, 3,080 units in Thailand and 5,418 units in Malaysia.
+
+This raises an important question: Are Sri Lankans consuming less electricity because they do not need it, or because they cannot afford it?
+
+Although income levels, industrial development and economic activities influence electricity consumption, affordability is undoubtedly an important consideration. For many Sri Lankan families, the monthly electricity bill can represent a substantial financial burden, limiting their ability to enjoy the benefits of modern electrical appliances and technologies.
+
+Unfortunately, Sri Lanka’s complicated electricity tariff structure, with its multiple consumption blocks, steep increases in charges and cross-subsidies, can discourage electricity consumption rather than promote improved living standards.
+
+Electricity should be treated as an essential driver of economic development, not as a luxury to be discouraged through excessive pricing.
+
+One of the main weaknesses of Sri Lanka’s domestic electricity tariff is its progressive block-rate structure, under which electricity becomes increasingly expensive as monthly consumption increases.
+
+Consider the domestic tariff effective from 11 May, 2026. A household consuming 180 units during a standard 30-day billing period pays Rs. 6,420, including the fixed charge. However, consuming just one additional unit increases the bill to Rs. 8,450.
+
+In other words, a single additional unit of electricity increases the monthly bill by Rs. 2,030.
+
+This occurs because crossing the 180-unit threshold changes not only the rate for additional electricity but also the charges applicable to the first 180 units and the monthly fixed charge.
+
+A household consuming 350 units pays Rs. 25,350, equivalent to an average of Rs. 72.43 per unit. This is approximately twice the recent estimated national average cost of supplying electricity, which has varied around Rs. 30-37 per unit.
+
+Although the national average cost does not necessarily represent the precise cost of supplying each consumer, such substantial differences raise legitimate questions about whether the existing tariff structure fairly reflects supply costs.
+
+A large family, a household caring for elderly people or one with greater electricity requirements may easily fall into a higher consumption category without necessarily having a higher income.
+
+Meanwhile, a wealthy household equipped with rooftop solar may purchase relatively little electricity from the grid and consequently qualify for a lower tariff category. Similarly, a luxury holiday bungalow occupied for only a few days each month may benefit from a low-consumption tariff despite the owner’s financial capacity.
+
+These examples demonstrate that electricity consumption is not a reliable measure of household income.
+
+Furthermore, high electricity charges can discourage families from using appliances that improve comfort, health and living standards. They may also discourage the transition from fossil-fuel-based cooking and transportation towards electricity.
+
+Sri Lanka should encourage efficient and productive electricity consumption as part of national development rather than penalise consumers merely for using more electricity.
+
+Cross-subsidisation is another important concern. Under this arrangement, certain consumer categories pay higher tariffs to help compensate for lower tariffs charged to others.
+
+Although the intention is often to protect low-income households or support important industries, the benefits are not necessarily received by those who genuinely need financial assistance.
+
+The scale of this issue is significant. In June 2022, the Public Utilities Commission of Sri Lanka (PUCSL) reported that approximately 3.14 million domestic consumers, representing around 50% of domestic electricity connections at that time, consumed fewer than 60 units per month.
+
+While many of these consumers genuinely required assistance, low electricity consumption alone could not establish their financial circumstances. The present distribution of consumers should be reassessed using updated data.
+
+When tariffs are set below the actual cost of supplying a consumer category, the resulting revenue shortfall must ultimately be recovered through higher charges on other consumers, Government funding or losses incurred by the electricity utilities.
+
+Such arrangements can place an unfair burden on consumers who pay substantially more than the cost attributable to their electricity supply.
+
+The fundamental problem is the assumption that low electricity consumption necessarily indicates poverty, while high consumption indicates wealth.
+
+Social welfare and industrial development are legitimate national objectives. However, financing these objectives should primarily be the responsibility of the Government rather than an obligation imposed indirectly on other electricity consumers.
+
+Singapore provides a useful example. Eligible households receive Government-funded U-Save rebates credited directly to their utility accounts, based on defined eligibility criteria.
+
+Sri Lanka could adopt a similar arrangement through the existing Aswesuma welfare framework, supported by appropriate verification of household income and circumstances. Eligible households could receive a Government-funded monthly electricity allowance, either through direct payments or credits to their electricity bills.
+
+Likewise, if certain industries deserve assistance because of their contribution to employment, exports or national development, such support should be provided through transparent and targeted Government incentives rather than hidden cross-subsidies.
+
+Sri Lanka already provides Government funding within its tariff arrangements. For example, the May 2026 tariff determination recognised a Government subsidy of Rs. 15 billion to protect selected consumer categories from tariff increases. However, eligibility was based principally on tariff categories and consumption thresholds rather than individual financial circumstances.
+
+The objective should therefore be to replace broad, consumption-based subsidies progressively with better-targeted Government assistance, ensuring that those who genuinely need support receive it without unnecessarily burdening other consumers or the utilities.
+
+Sri Lanka should progressively replace its complicated consumption-block structure with a simpler tariff based on the efficient cost of supplying electricity.
+
+Under an average-cost-based approach, consumers could pay a transparent energy charge reflecting the cost of electricity supply, together with a reasonable fixed or capacity charge to recover the cost of maintaining the network and providing a reliable connection.
+
+Tariffs should primarily reflect factors that genuinely influence supply costs, including voltage level, contracted capacity, network requirements and time of consumption.
+
+For example, supplying electricity to an industrial consumer at 11 kV or 33 kV involves different distribution costs from supplying a household at 230 V. Similarly, maintaining a high-capacity connection imposes infrastructure costs even when relatively little electricity is consumed.
+
+These differences should be reflected transparently in electricity tariffs rather than through excessive reliance on the purpose of consumption or arbitrary consumption thresholds.
+
+Malaysia provides a useful regional example through its revised tariff structure, which places greater emphasis on supply voltage and identifiable cost components.
+
+A simplified tariff would allow consumers to understand what they are paying for while enabling utilities to recover the reasonable cost of the services they provide.
+
+However, the transition should be gradual, with appropriate protection for vulnerable consumers and measures to avoid sudden increases in electricity bills.
+
+Another important concern is the heavy dependence on forecast revenue requirements when determining electricity tariffs.
+
+Electricity generation costs are highly sensitive to rainfall, reservoir storage, hydropower availability, fuel prices, exchange rates, electricity demand and generating-plant availability.
+
+These factors can change considerably within a short period, making accurate forecasting difficult.
+
+An examination of recent PUCSL tariff determinations indicates that the average allowable cost of supplying electricity to consumers was approximately Rs. 32.63 per unit in 2024 and Rs. 29.55 per unit in 2025, while estimates for the middle of 2026 were higher, at around Rs. 37 per unit. These are overall supply-cost estimates or regulatory benchmarks, including generation, transmission, distribution and other approved costs, rather than generation costs alone.
+
+Importantly, these figures demonstrate how electricity supply costs can vary considerably between periods.
+
+Regulatory records also show significant differences between forecast and actual expenditure. For example, actual generation-energy expenditure during the first quarter of 2025 was approximately Rs. 9 billion below the amount initially forecast by PUCSL.
+
+These variations highlight the importance of giving greater weight to verified actual expenditure rather than relying predominantly on uncertain future projections.
+
+A more transparent approach would be to use verified actual costs from the preceding comparable period as the principal reference, supplemented by seasonal comparisons and clearly justified adjustments for expected changes.
+
+The regulator should publish quarterly statements showing actual generation costs, purchased-power expenses, transmission and distribution costs, electricity sales and revenue, together with explanations of differences between earlier forecasts and actual expenditure.
+
+Malaysia’s Automatic Fuel Adjustment mechanism offers a useful example. It allows monthly adjustments to reflect variations in fuel-related generation costs, resulting in additional charges or rebates depending on prevailing conditions.
+
+Sri Lanka could adopt a similar transparent adjustment mechanism while maintaining appropriate financial safeguards for the utilities.
+
+Forecasting cannot be eliminated entirely, particularly in a power system heavily influenced by hydropower and fuel-price variations. However, forecasting differences should be openly reconciled, and consumers should receive the benefits when actual costs are lower.
+
+Importantly, inefficient operations, unnecessary expenditure and avoidable losses should not automatically be passed on to consumers merely because utilities have incurred those costs.
+
+Tariff determination should be based on efficiently incurred and justifiable expenditure, supported by independent regulatory scrutiny.
+
+Rooftop solar has become an important national energy resource, attracting private investment, reducing dependence on conventional generation and contributing to energy security.
+
+However, its continued development should not compromise the financial sustainability of electricity utilities, which must maintain the electricity network and ensure reliable supply even when solar generation is unavailable.
+
+Countries such as Malaysia, Australia and the United Kingdom allow consumers to use their own solar electricity and export surplus generation to the grid. Consumers receive payments or credits for exported electricity while continuing to contribute towards the cost of maintaining the electricity network.
+
+California has introduced a system under which export payments reflect the value of electricity to the power system, encouraging battery storage and electricity supply during higher-value periods.
+
+Sri Lanka should adopt a similarly balanced approach rather than restricting new rooftop solar consumers exclusively to the Net Plus arrangement.
+
+Consumers should have the option to use their own generation, store surplus energy in batteries and export excess electricity at a reasonable price reflecting the value of that electricity to the power system.
+
+At the same time, a fair connection or capacity charge could ensure that solar consumers contribute towards maintaining the grid without transferring an unreasonable financial burden to other consumers.
+
+As smart-metering infrastructure improves, higher payments could be offered for electricity exported during peak-demand periods, encouraging battery investment and reducing dependence on expensive conventional generation.
+
+Such arrangements must also respect technical limitations, including voltage control, network capacity and grid stability.
+
+The guiding principle should be simple: Consumers should pay fairly for using the electricity network, while utilities should pay fairly for the electricity consumers supply.
+
+This would encourage rooftop solar investment while protecting both electricity utilities and non-solar consumers.
+
+The cost of supplying electricity varies considerably throughout the day. During periods of abundant solar generation and relatively low demand, electricity can be less expensive, whereas during the evening peak, more costly thermal generation may be required.
+
+Electricity tariffs should recognise these differences and encourage consumers to shift flexible electricity consumption towards lower-cost periods.
+
+Malaysia has improved its Time-of-Use (TOU) tariff arrangements by offering lower rates during off-peak periods, while India has introduced Time-of-Day pricing provisions to encourage electricity consumption during solar-generation hours.
+
+More advanced arrangements are available in Singapore and the United Kingdom, where participating consumers can choose electricity pricing that varies every half-hour.
+
+Sri Lanka already offers optional TOU tariffs for domestic, commercial and industrial consumers. Therefore, the immediate priority should be to improve these existing arrangements rather than to introduce sophisticated real-time pricing prematurely.
+
+Current TOU periods should be reviewed against actual generation costs, particularly to recognise the benefits of abundant daytime solar electricity.
+
+Attractive tariffs during lower-cost periods could encourage electric-vehicle charging, water pumping, battery storage and other flexible electricity uses, helping to reduce evening peak demand.
+
+As smart-metering infrastructure expands, more advanced dynamic tariffs could be introduced voluntarily, initially for high-consumption households, commercial establishments and consumers equipped with solar and battery systems.
+
+However, reliable metering, transparent pricing, advance information and protection against excessive price volatility would be essential. Consumers who prefer predictable electricity bills should retain the option of conventional tariffs.
+
+This gradual approach would improve the utilisation of existing generating capacity, accommodate greater renewable energy penetration and potentially postpone unnecessary investment in additional generation and network infrastructure.
+
+International experience demonstrates that electricity tariffs can be modernised without compromising consumer protection or the financial sustainability of utilities.
+
+However, Sri Lanka cannot simply replicate systems adopted by countries with more advanced electricity markets. Reforms must reflect the country’s economic circumstances, institutional arrangements and existing infrastructure.
+
+The immediate priority should be an independently reviewed cost-of-service study to determine the efficient cost of supplying electricity at different voltage levels and to different consumer categories.
+
+This should be accompanied by regular publication of actual electricity supply costs, transparent tariff calculations and clear reconciliation of forecasting differences.
+
+The complicated consumption-block structure and hidden cross-subsidies should then be progressively removed, while direct Government-funded assistance is established for eligible low-income households and strategically important industries.
+
+Simpler tariffs based on supply voltage, capacity and electricity consumption should be introduced gradually, with appropriate safeguards against sudden increases in household bills.
+
+In parallel, rooftop solar consumers should receive fair choices for self-consumption, storage and export, while improved TOU tariffs should encourage electricity use during lower-cost periods.
+
+More advanced dynamic pricing arrangements can follow as smart-metering and other supporting infrastructure become available.
+
+Throughout this transition, independent regulation will remain essential to protect consumers, ensure reliable electricity supply and prevent inefficient or unjustified costs from being passed on to the public.
+
+Conclusion: Electricity should be an engine of development, not a luxury
+
+Sri Lanka needs an electricity tariff structure that is fair, transparent, affordable and supportive of national economic development.
+
+The objective should not merely be to recover utility revenue, but to provide reliable electricity at reasonable prices while ensuring the long-term financial sustainability of the power sector.
+
+Electricity consumption should not be discouraged through punitive block tariffs, nor should consumers be expected to finance social welfare and industrial policies through hidden cross-subsidies.
+
+Low-income households and deserving industries should receive transparent, Government-funded assistance. Tariff calculations should give greater importance to verified actual costs, with justified adjustments and proper reconciliation. Rooftop solar investment and flexible electricity consumption should be encouraged through fair and practical arrangements.
+
+These reforms should be introduced progressively, protecting vulnerable consumers and avoiding sudden financial difficulties for electricity utilities.
+
+The guiding principle should be straightforward: Electricity utilities should recover the efficient cost of the services they provide; the Government should finance the subsidies it wishes to grant; and consumers should be free to use electricity productively without being unfairly penalised.
+
+A fair electricity tariff is not necessarily the cheapest. It is one that consumers can understand, utilities can sustain and the country can rely upon to improve living standards and accelerate economic development.
+
+(The author is a former Chief Operating Officer of Electricity Distribution Lanka Ltd.)

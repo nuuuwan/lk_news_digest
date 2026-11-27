@@ -1,0 +1,45 @@
+What’s in a name? Why NMRA must hold the line on unlabelled filgrastim
+
+The NMRA’s decision will reach far beyond one consignment. If a missing product name can be patched with stickers in a warehouse, every supplier learns that labelling is negotiable once the stock has landed. If the regulator holds the line, suppliers learn to get it right before they ship. Sri Lanka is also building a local pharmaceutical industry that aims to export, and that ambition rests on the credibility of its regulator. Overseas buyers and inspectors judge a country’s medicines by how its regulator behaves under pressure
+
+Umpire Ross Emerson tested the character of Arjuna Ranatunga’s captaincy in 1999. In 2026, quarantined consignment of temperature-sensitive (2–8 °C) injectable biological medicine is testing the character of Sri Lanka’s regulatory authority.
+
+In a cold store in Sri Lanka, a large Government-tender consignment of filgrastim pre-filled syringes sits in quarantine. Filgrastim helps protect patients on chemotherapy from dangerous, sometimes fatal, infections by shortening severe neutropenia (a dangerously low white blood cell count).
+
+The outer cartons of this consignment are fully labelled but the syringes inside are not. Each syringe carries its strength, batch number, manufacturing date and expiry date, but not the name of the medicine or the name of its maker. Now this might not seem worth all the fuss to the average consumer. I know I’ve bought groceries plenty of times not knowing the brand or maker as long as I knew the expiry date and ingredients. But this is not a supermarket; these aren’t groceries; and the accountability of manufacturers when it comes to biological medicines is little more essential than when it comes to your jam and butter.
+
+The supplier has asked to fix this by labelling the syringes here, in Sri Lanka, under the eye of regulatory officers. The National Medicines Regulatory Authority (‘NMRA’) has rightly refused to decide in haste. It is understood that NMRA’s Medicines Evaluation Committee has asked for the views of the Attorney General’s Department and the World Health Organisation on the request.
+
+Historically I have been very candid and very critical of the NMRA, its actions and its rationale for those actions. But this time, its caution and adherence to protocol deserves support and appreciation.
+
+Both global and domestic standards require these to be labelled on both the outer box and the inner container. Clear identification on every syringe is also basic to pharmacovigilance; it lets adverse reactions be reported and traced quickly, and lets the medicine’s use and quality be monitored: the WHO’s good manufacturing practice (‘GMP’) principles require every finished medicine to be labelled with its name; Article 55 of the European Union’s Directive 2001/83/EC requires the name even on the smallest immediate container, where nothing else will fit; and the NMRA’s own registration of this product makes it mandatory on the primary pack.
+
+The reason is practical, not bureaucratic. A carton protects the syringes in a warehouse. In a ward, it is opened, and the syringes go into trays, fridges and nurses’ hands. From that moment, the syringe must speak for itself. A nurse preparing an injection at 2 AM reads the syringe, not the box it came in. A syringe that says only ‘300 mcg’ and a batch code could be mistaken for any injection of a similar strength. Medication mix-ups like this are exactly what labelling rules exist to prevent.
+
+The supplier says the batch number and expiry date keep the product traceable. True, but traceability is not identification. A batch code tells you, after the fact, what went wrong. A name stops it going wrong in the first place.
+
+The proposed fix carries more risk than the fault it is meant to cure. Labelling a sterile biological medicine is not clerical work. It is a manufacturing step. The WHO’s GMP principles treat labelling as part of production, and anyone who does it as a manufacturer. That work belongs in a licensed site, with validated procedures, trained staff, full batch records and temperature control. An importer’s warehouse is none of these.
+
+The practical risks are serious. The first is the cold chain. Filgrastim is a protein that must stay between 2°C and 8°C, and handling tens of thousands of syringes outside a controlled packaging line invites temperature excursions that may leave no visible trace. Every syringe taken out and put back also risks a cracked barrel, a loosened cap, or a compromised seal.
+
+Then there are the labels themselves. The consignment spans five batches. Hand-applying loose labels across five batches is a classic recipe for the wrong batch number on the wrong syringe, which is why GMP prefers roll-fed labels to loose cut ones. A licensed site would also reconcile every label issued, used and destroyed. Recreating that discipline in a temporary set-up is hard, and any gap undermines confidence in every syringe. Supervision cannot substitute for a qualified facility. An inspector can watch a process. An inspector cannot validate it.
+
+Although interim precautions have been put in place, while the NMRA deliberates the way forward, no one should dismiss the possibility of a shortage. Patients on chemotherapy need filgrastim, and every week of delay matters. The Medical Supplies Division (‘MSD’) has arranged an urgent air-freighted quantity, and hospitals have been authorised to buy locally. But a shortage is an argument for speed, not for lower standards. There are faster, safer routes than a DIY warehouse labelling line.
+
+First, test independently. Samples from every batch should be tested by a qualified laboratory before a single syringe reaches a patient. Second, labelling should be done at a licensed site, or replace the stock. If the syringes are sound, the manufacturer should relabel them at its own licensed facility; if not, they should be exported back and replaced. Third, bridge the gap in the meantime with emergency procurement of correctly labelled, registered stock (now, here is the right occasion to bring medicine down using emergency regulations).
+
+Finally, close the procurement gap. The manufacturer says the Government-specific artwork was approved by the procurement side before production. If so, tender artwork must in future be checked against the NMRA-registered labelling before anything is made. The NMRA has already told the State Pharmaceuticals Corporation (‘SPC’) that sticker labels are not acceptable in line with its own labelling guideline, GL-006, which allows over-stickers only for the name in national languages and the price, subject to NMRA pre-approval. That rule should be in every tender.
+
+The NMRA’s decision will reach far beyond one consignment. If a missing product name can be patched with stickers in a warehouse, every supplier learns that labelling is negotiable once the stock has landed. If the regulator holds the line, suppliers learn to get it right before they ship.
+
+Sri Lanka is also building a local pharmaceutical industry that aims to export, and that ambition rests on the credibility of its regulator. Overseas buyers and inspectors judge a country’s medicines by how its regulator behaves under
+
+The Medicines Evaluation Committee has taken the right first step by seeking legal and WHO advice before acting. It should now insist on independent testing, labelling or re-labelling only at a licensed facility, and approved labels in every future tender.
+
+The same way Ranatunga stood up for Muralitharan in Adelaide all those years ago, patients will laude a regulator that stands up for them, and doesn’t expect them to trust a syringe that cannot say what it is.
+
+WHO good manufacturing practices for pharmaceutical products: main principles, TRS 986 Annex 2: clause 15.11 (minimum label content), clause 14.20 (loose labels and mix-ups), glossary (“production” and “manufacturer”)
+
+Directive 2001/83/EC, Article 55: particulars required on immediate and small immediate packaging
+
+NMRA Guideline GL-006, Labelling of medicines (effective 15 October 2019): printed labels and limits on over-stickers

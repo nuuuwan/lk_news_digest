@@ -1,0 +1,27 @@
+Sungrow sees Galle battery plant as template for Sri Lanka’s grid storage build-out
+
+Sungrow says its 10 MW/40 MWh Galle plant offers a practical approach to grid flexibility as Sri Lanka prepares to add 560 MW of battery capacity in 2027
+
+The company believes its PowerHarbor and PowerKeeper Lite systems can help homes and businesses store the surplus daytime solar that is now being curtailed
+
+Chinese solar inverter and storage major Sungrow sees its 10 MW/40 MWh battery plant in Galle as a practical approach to strengthening Sri Lanka’s grid flexibility, as the country prepares to add 560 MW of new battery capacity next year to absorb its fast-growing solar output, the company told Mirror Business.
+
+Developed by WKV Hydro Technics on Sungrow’s PowerTitan 2.0 platform, the battery energy storage system (BESS) entered commercial operation on September 10 and can discharge its full 10 MW output for four hours. The company noted in written responses that the project “marks an important milestone in Sri Lanka’s development of grid-scale energy storage.”
+
+Sungrow explained that battery systems can rapidly adjust their charging and discharging power in response to grid requirements, which allows them to support frequency regulation when electricity supply and demand fall out of balance. They can also absorb surplus renewable energy when generation is abundant and release it when demand climbs, improving overall energy utilisation.
+
+The company believes the October 17 island-wide blackout, which a preliminary National System Operator (NSO) report traced to the Norochcholai power plant, further highlighted the importance of power system resilience and flexibility. However, it was careful to point out that nationwide outages can involve multiple interconnected factors and cannot be prevented by a single storage project alone.
+
+“As more storage capacity is deployed and integrated with grid planning, dispatch systems, and other power resources, energy storage can play an increasingly important role in improving grid stability and enabling renewable energy growth,” Sungrow added.
+
+Budget 2027, presented last week, targets 560 MW of new battery capacity in 2027, the equivalent of 56 Galle-sized plants, before scaling up to 1,245 MW by 2029 to help lift renewables to 69 percent of power generation from about 61 percent in 2025. The NSO’s tender for 150 MW/600 MWh of storage at existing solar plants, which is 15 times Galle’s storage capacity, is also under way, with WindForce PLC and Vidullanka PLC among the successful bidders.
+
+Meanwhile, installed solar capacity reached 3,053 MW by October, exceeding the night-time peak demand of about 3,000 MW, as per the Sustainable Energy Authority (SEA). With little storage available to shift that output into the evening, the grid has been forced to curtail daytime generation. In August, NSO Chairman Dr. Pradeep Perera said commercial and industrial sites with solar installations above 200 kW were being asked to disconnect on Sundays, when demand falls while solar output keeps flowing.
+
+“In a solar-rich market like Sri Lanka, where rooftop PV installations continue to grow, storage can help consumers make better use of solar energy while gaining greater control over their energy supply,” Sungrow pointed out.
+
+The company’s recently launched PowerHarbor, an all-in-one residential system, stores surplus daytime solar for use at night or during periods of higher demand, raising self-consumption and reducing reliance on the grid. With the appropriate backup configuration, it can also keep homes powered through outages. For small commercial and industrial users, PowerKeeper Lite allows businesses to bank surplus solar and manage energy use according to their operational needs, helping them optimise electricity costs.
+
+Households investing in such systems will also benefit from the Budget’s Rs.3.5 billion subsidy for rooftop solar with battery storage, which offers Rs.25,000 per kW up to a cap of Rs.250,000 per household, enough to support at least 14,000 homes at the maximum subsidy. The Ports and Airports Development Levy (PAL) on solar storage batteries will also be removed from January 1, 2027, lowering the upfront cost of storage.
+
+Looking ahead, Sungrow sees promising long-term opportunities in Sri Lanka and across South Asia. “While Sri Lanka is a relatively compact market, its strategic value should not be measured by market size alone,” the company stressed, adding that the need for flexible storage and smarter energy management on both the grid and consumer sides would grow as renewable capacity expands.

@@ -1,0 +1,133 @@
+Less goods, not just more money: Why tighter credit alone could make our inflation worse
+
+The Central Bank has raised interest rates and locked away more of the banks’ deposits. The diagnosis behind these moves is that too much money is chasing too few goods. But our inflation is coming mainly from fuel, transport and food. Treat a supply problem as a money problem, and we risk shutting down the very businesses that produce what we buy
+
+The Central Bank’s Financial Stability Review 2026 was an alarm. Credit is growing far faster than deposits, and much of it is flowing into consumption rather than production. A Central Bank must act early rather than clean up later. It has now acted.
+
+On 20 November, the Central Bank raised its Overnight Policy Rate by 25 basis points to 9%, its second increase this year after a 100 basis point rise in May. It also raised the Statutory Reserve Ratio from 2% to 3%, effective from 9 December. The Governor expects inflation, already 8.5% in November, to reach about 9% by December.
+
+I welcome a Central Bank that acts rather than waits. But in medicine, the treatment is only as good as the diagnosis. Give a patient the wrong medicine and the illness can get worse. That is my concern today.
+
+The two measures work in different ways, but they aim at the same thing: less money in circulation and slower credit.
+
+A higher policy rate makes borrowing more expensive across the economy. Banks will pass it on to lending rates immediately, including the existing loans, and in time to deposit rates.
+
+A higher Statutory Reserve Ratio forces banks to keep one more rupee in every hundred of their rupee deposits at the Central Bank, earning nothing. That money can no longer be lent.
+
+The Central Bank’s reasoning rests on two points. First, credit to the private sector is still growing fast. Second, its purchases of foreign currency to rebuild reserves have released a large amount of rupee liquidity into the money market, which could keep that credit growing. Both points are fair.
+
+We all learned the textbook definition: inflation is too much money chasing too few goods. We tend to remember only the first half. But the definition has two halves, and either one can drive prices up. Prices rise when money grows faster than goods. They also rise when goods become scarce or more expensive to produce, even if money does not grow at all.
+
+Transport prices are up 17.6% in a year. Restaurants and hotels are up 13.4%. Food is up 8.8%, driven by big onions, fresh fish, eggs, bread, wheat flour, chicken, milk powder and coconuts. Yet core inflation, which strips out food, energy and transport, is only 5.6%.
+
+In other words, most of our inflation is not coming from money. It is coming from fuel, freight and food.
+
+The Central Bank itself says as much. It points to the Middle East conflict and high global energy prices, the rising cost of food, and the second-round effects of earlier energy price increases. These are supply shocks. They begin outside our banking system, and no amount of tightening inside it will produce a liter of fuel or a kilo of onions.
+
+The trend over the year tells the same story. Until March, headline and core inflation moved together, at around 2%. In April, as the energy shock hit, prices of non-food items jumped and headline inflation leapt ahead. It has stayed well above core inflation ever since. If too much money were the main cause, core inflation would be rising just as fast.
+
+I do not dismiss the demand side. The Central Bank’s own Financial Stability Review sets out the numbers, and they are stark.
+
+Bank credit grew 23.6% year-on-year in the second quarter, while retail deposits grew only 6.7%. The Credit-to-Deposit Ratio reached 74%. Pawning advances surged 49.2%. Consumption loans now make up 19.5% of bank lending, against about 11% for SMEs and 8.7% for agriculture.
+
+So we have both problems at once: a supply shock pushing prices up, and a consumer credit boom adding fuel to the fire. The question is not whether the Central Bank should act. It is whether the tools it has chosen hit the right target.
+
+On the same day the Central Bank raised rates and reserves, the Governor told reporters that the Central Bank has no target for credit growth. Credit growing at more than 20% was, in his words, “a very good provision of credit to the economy”. He rejected suggestions that people should delay taking loans: at current rates, he said, “one should definitely take a loan”, provided it is backed by a genuine need and the capacity to repay. As a banker I understand the point. Credit backed by repayment capacity is the lifeblood of an economy. But the message to the market is mixed. The Central Bank is locking away deposits to slow lending, while telling the public that borrowing is a good idea. Banks will hear the first message through their costs. Borrowers will hear the second through the headlines.
+
+More importantly, repayment capacity tells us whether a loan will be repaid. It does not tell us what the loan is for. A pawning loan against a gold chain is easy to repay, because the bank holds the gold. A vehicle loan backed by a fixed salary scores well. A manufacturer’s working capital loan, with cash flows that depend on orders and energy costs, often scores worse. If repayment capacity is the only test, credit will keep flowing to consumption and away from production. That is exactly what the Financial Stability Review shows.
+
+A Central Bank with no view on the direction of credit is leaving that choice to the collateral.
+
+The Governor says the Central Bank watches how borrowing affects aggregate demand, particularly for imports. That is the right lens. But a loan that finances an imported car and a loan that finances a local onion farmer have very different effects on imports and on prices. The lens is right. It needs to look at where the credit goes, not only how much of it there is.
+
+From 9 December, every bank must lock away an additional 1% of its rupee deposits at the Central Bank. Banks are profit driven hence will find the money, but the way they find it matters.
+
+They will run down their buffers first. Banks still hold large liquid buffers, mostly in Government securities. Selling or not renewing Treasury bills will meet the requirement, but it will push up the Government’s borrowing costs.
+
+They will compete harder for deposits. With a Credit-to-Deposit Ratio of 74% and deposits growing slowly, banks will raise deposit rates to attract funds.
+
+They will raise lending rates. Idle reserves earn nothing, and dearer deposits cost more. Both costs will be passed to borrowers.
+
+They will slow new lending. Credit officers will become more cautious, and the businesses with the weakest collateral will be the first to be turned away.
+
+Here lies the danger. The burden of this tightening will not fall evenly.
+
+Most SME loans are linked to the lending rate and reprice immediately. Many consumer and vehicle loans carry fixed rates and do not. Gold-backed pawning loans are short-term, fully secured and remain highly profitable for banks. So the borrowers the Central Bank most wants to slow down, consumers buying cars and pawning gold, will feel the least. The borrowers it should most want to protect, the manufacturers, farmers and small traders who produce goods, will feel the most.
+
+We already know how fragile this sector is. The Department of Census and Statistics found that 204,100 micro, small and medium enterprises had closed permanently by the end of 2022, with another 59,100 closed temporarily. The SME sector has never fully recovered from that blow, and it now faces higher rates again.
+
+If the tightening falls hardest on producers, the consequences will follow one another:
+
+SMEs cut output or close. Higher interest costs, on top of high energy and transport costs, squeeze margins that were already thin.
+
+Supply falls further. Fewer local producers mean fewer goods, more imports and higher prices. The supply shock deepens.
+
+Household incomes fall. SMEs are among our largest employers. When they close, jobs and family incomes go with them.
+
+Deposits fall further. Families with lower incomes save less and borrow more to get by. The Credit-to-Deposit Ratio worsens, not improves.
+
+The Central Bank tightens again. Facing higher inflation and weaker deposits, it raises rates once more, and the circle begins again.
+
+This is the trap of fighting a supply shock with demand tools alone. Tighten too hard, and we reduce the supply of goods faster than we reduce the demand for them.
+
+Meanwhile, the pressures from outside have not eased. The US Federal Reserve is raising rates, the rupee lost 6.8% against the dollar between January and October, and gross official reserves stood at about $ 7.1 billion at the end of October. The IMF program ends in March 2027. Every one of these makes the margin for error smaller.
+
+The 2027 Budget allocates about Rs. 68 billion for interest subsidies and refinancing to support    Rs. 174 billion of concessionary lending to micro, small and medium enterprises. That is welcome. But a subsidy designed at one level of interest rates loses value with every increase. The Government should review these schemes now, so that they still reach the businesses they were meant for.
+
+The Central Bank is right to act. But it should use sharper tools, and the Government must deal with the supply side, which monetary policy cannot reach.
+
+Target consumer credit, not all credit. A ceiling on consumer borrowing, with education and health exempt, slows the credit boom without starving producers. Tighter loan-to-value limits on pawning and vehicle loans should continue.
+
+Reward banks that lend to producers. The Central Bank could reduce the reserve requirement for banks whose SME, agriculture and export lending exceeds a set share of their loan book. China’s central bank has used targeted reserve requirement cuts in just this way, to steer credit towards small businesses and farmers.
+
+Protect SME borrowers from sudden repricing. Encourage banks to offer SME loans with longer rate-reset periods, so that every policy move does not hit their cash flow overnight.
+
+Keep exporters first in the queue. Export credit should be exempt from any ceiling and supported by credit insurance and partial guarantees.
+
+Energy first. Fuel and transport are the largest single source of today’s inflation. Accelerate rooftop and utility solar, and review how fuel taxes and pricing formulas pass global shocks on to consumers.
+
+Grow more of what we eat. Big onions, eggs, fish, chicken, milk and coconuts are driving food inflation. Working capital, seeds, feed and fertiliser for local producers will do more to bring these prices down than any interest rate.
+
+Let essential goods flow. Restricting imports of essential consumer goods and raw materials cuts supply and raises prices. Restrictions belong on vehicles and luxuries, not on food and inputs.
+
+Cut the cost of doing business. Logistics, port charges and electricity tariffs for producers and exporters all feed into prices. Time-bound relief for the sectors that earn foreign exchange protects both prices and the rupee.
+
+Cut State waste, not State investment. Every rupee the State does not borrow is a rupee the banks can lend to producers.
+
+Three further measures should be prepared now, ready to be triggered without delay: restricting bank financing of vehicle imports, a phased withdrawal of the Rs. 5,000 note, and long-term certificates of deposit to draw idle money back into the banks. They matter even more now that deposits are scarce.
+
+There is a further complication that has received little attention. While the Central Bank is trying to slow the flow of money, the Treasury is preparing to release a great deal of it.
+
+The 2027 Budget allocates about Rs. 2 trillion to public investment, 5.1% of GDP. This year’s capital budget has gone largely unspent: by September, only about Rs. 385 billion of the Rs. 1,380 billion allocated had been used, roughly 28%. The Government says most of it will be spent in the final months of the year. Of the Rs. 1.75 trillion deficit planned for 2027, about Rs. 1.64 trillion is to be borrowed at home.
+
+Whether this spending adds to inflation depends on three things.
+
+How it is financed. Spending paid for by taxes largely moves money around. Spending financed by borrowing from the banks adds to the money in circulation and competes with private borrowers for the same scarce deposits. Spending financed by the Central Bank is money printing, the road that led us to 2022.
+
+When it is spent. If the unspent capital budget is released in a rush at the end of the year, the Treasury will be pumping rupees into the economy in the very weeks the Central Bank is absorbing them through a higher reserve requirement. One foot will be on the accelerator and the other on the brake.
+
+What it is spent on. Large projects need imported machinery, fuel and steel, adding to import demand and pressure on the rupee. In the short term, that adds to inflation. But investment in energy, rail, logistics and irrigation lowers the cost of producing and moving goods. Over two or three years, the right projects are the most powerful cure for supply-driven inflation.
+
+Underspending continues. Little extra inflation, but growth falls short of target and the supply-side investments never arrive.
+
+Full spending, financed at home. More money in circulation, higher interest rates as the State competes with business for funds, SMEs crowded out, more imports and a weaker rupee.
+
+Full spending, while oil prices stay high and the US Federal Reserve keeps raising rates. The Central Bank is forced to tighten again, and pressure grows to finance the State with Central Bank money.
+
+Spending focused on energy, transport and food supply. Some pressure in the short term, but lower costs and lower inflation within two to three years. This is the outcome we should be planning for.
+
+I have found no published assessment that brings the Treasury’s investment plans and the Central Bank’s tightening into a single picture. The Central Bank publishes its inflation projections. The Treasury publishes its fiscal position. But what happens to prices, interest rates and the rupee if both succeed at the same time?
+
+The Treasury plans to spend Rs. 2 trillion. The Central Bank is trying to slow the flow of money. There is no visible joint plan for what happens when both succeed.
+
+The Central Bank’s Economic Research Department should now model the supply side as closely as it models money and credit. What happens to output if SME borrowing costs rise by two percentage points? How many businesses close, and how many jobs are lost? How much does that reduce deposits? If a measure designed to cut inflation reduces production, it may end up raising the very prices it was meant to control.
+
+These assessments must reach the Monetary Policy Board before decisions are made, not after. And the Central Bank and the Treasury must act together. Monetary policy can slow demand. Only fiscal and sectoral policy can restore supply.
+
+Stewardship means taking over something that is not yours and leaving it in better shape than you found it. Our banking system is stronger today than it has been for years. The task now is to cool the credit boom without breaking the businesses that keep this economy producing, employing and exporting.
+
+We cannot fight a fuel price shock by shutting down the businesses that make what we eat and sell.
+
+Raising rates and reserves treats one half of the problem. If we ignore the other half, we may find ourselves with less money, fewer goods, and prices that are still rising.
+
+(The author is a former senior banker, Regional Director of CIMA for the Middle East, South Asia and North Africa, Head of PPP (2017), and has served on two national Education Reform Commissions)

@@ -1,0 +1,29 @@
+CIA system breached in latest cyberattack targeting US intelligence agencies
+
+yahoo news - The CIA was hacked in the latest cyberattack targeting United States intelligence agencies, according to multiple reports.
+
+An unclassified CIA system was breached and the attack did not involve any highly sensitive information, a source told The Associated Press. The issue has since been resolved.
+
+The New York Times reported earlier Tuesday that the CIA and Office of the Director of National Intelligence recently discovered a cybersecurity breach that exposed some unclassified information. The hacks affected a network that looks for intelligence insights in public, unclassified material.
+
+It was not immediately clear what unclassified material was accessed or who was behind the attacks.
+
+Asked about the report, the ODNI said there had been "no disruptions to critical capabilities or classified systems." The CIA did not immediately comment.
+
+The breaches are the latest in a series of tech outages and cybersecurity incidents plaguing US agencies, including a breach at the US Department of Agriculture and a temporary outage affecting an internal classified communications network used by the National Security Agency.
+
+The FBI has been targeted in two separate breaches in recent months, while the Pentagon and the Department of Homeland Security have also been caught up in recent cyber incidents.
+
+President Donald Trump acknowledged the second breach at the FBI on Saturday, telling Fox News: "We just heard about it, and I will say it's not good. I don't like that. But maybe we'll learn things that we would have never learned otherwise."
+
+The hack targeted a nationwide database that allows federal, state and local law enforcement agencies to share criminal justice information.
+
+It came two months after hacking group ShinyHunters claimed to have stolen personal information about FBI employees and job applicants from the bureau's recruitment website.
+
+The breaches at high-profile US agencies follow a string of technology disruptions that affected Microsoft, JPMorgan Chase, the FAA and airlines.
+
+The failures have highlighted weaknesses in key infrastructure networks, financial institutions and everyday digital services relied upon by millions.
+
+Trump officials have insisted that the widespread disruptions do not appear to be a coordinated cyber strike.
+
+Director of National Intelligence Jay Clayton tried to reassure Americans Sunday in TV interviews, saying that the breakdowns mostly result from urgent system updates meant to counter cybercriminals who are increasingly leveraging advanced AI tools to launch attacks of unparalleled size and frequency.

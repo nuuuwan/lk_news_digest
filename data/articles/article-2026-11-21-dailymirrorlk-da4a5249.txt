@@ -1,0 +1,27 @@
+The FBI was hacked again, this time the breach targeted its crime database
+
+CNN- The FBI is investigating an apparent breach of its nationwide criminal information database that serves as a lifeline between federal, state and local law enforcement, two people briefed on the investigation said.
+
+The intrusion of the National Crime Information Center by apparent hackers is the second such breach in recent months.
+
+The NCIC database is used by law enforcement nationwide to share information on warrants and background checks.
+
+The discovery of the latest intrusion in recent days comes as the Trump administration has sought to assuage public concern about the nation’s cybersecurity amid a series of high profile outages affecting banks, the National Security Agency and the FAA’s air traffic control system.
+
+The FBI didn’t immediately respond to a request for comment.
+
+On Thursday, after bureau officials learned of the latest cybersecurity incident, FBI Director Kash Patel appeared on Fox News to tout the FBI’s cybersecurity work.
+
+Patel used the appearance to discuss an operation completed months ago aimed at urging companies to update their systems and prevent hackers from getting to their sensitive data.
+
+Patel referred to Operation Winter Shield as if it was still in the works, and touted the current administration for making updates to key systems to protect the nation’s critical infrastructure.
+
+“Other administrations could have made these updates, but they didn’t,” he said. “We are staying ahead of the curve and making up for lost time.”
+
+The NCIC database is one of the most critical information-sharing systems in law enforcement, a former FBI official who led investigations into cybercriminal groups told CNN. “Every day, officers across the country rely on NCIC to identify wanted fugitives, check for outstanding warrants, and access information that can directly impact officer and public safety. My concern isn’t simply whether hackers gained access to sensitive information, although that is an issue, but whether they could compromise the accuracy of the information that officers rely on.”
+
+A Canadian cybersecurity researcher and author has been arrested and faces charges related to the ShinyHunters breach.
+
+After the ShinyHunters breach, some FBI employees felt left in the dark about whether they were affected by the data theft and underwhelmed by the security resources being offered to victims, CNN previously reported.
+
+In an earlier breach in 2023, hackers breached a computer system the FBI’s New York field office used in child sexual exploitation investigations, including a system used to store images related to the Jeffrey Epstein probe, CNN previously reported.
